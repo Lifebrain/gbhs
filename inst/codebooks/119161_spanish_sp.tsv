@@ -1,0 +1,1198 @@
+"language"	"suffix"	"form_id"	"element_no"	"img_url"	"img_text"	"question"	"question_descr"	"question_codebook"	"question_mandatory"	"answer_order"	"answer_option"	"answer_codebook"	"answer_preselected"	"answer_correct"	"question_order"	"max_selected"	"question_preselected"	"question_rangemarks"
+"spanish"	"sp"	119161	"1"	"https://www.lifebrain.uio.no/26.05.20-lifebrain-banner-1771x417.jpg"	"Lifebrain logo"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"spanish"	"sp"	119161	"4"	NA	NA	NA	"Por favor, marque la casilla.
+"	"Consent_Form_sp"	TRUE	"1"	"Tengo más de 18 años y doy mi consentimiento para utilizar estos datos con fines de investigación"	"Consent_Yes_sp"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"9"	NA	NA	NA	"Seleccione una respuesta.
+
+
+"	"Q01_Think_Brain_Frequency_sp"	FALSE	"1"	"Frecuentemente"	"Frequently"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"9"	NA	NA	NA	"Seleccione una respuesta.
+
+
+"	"Q01_Think_Brain_Frequency_sp"	FALSE	"2"	"A veces"	"Occasionally"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"9"	NA	NA	NA	"Seleccione una respuesta.
+
+
+"	"Q01_Think_Brain_Frequency_sp"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"9"	NA	NA	NA	"Seleccione una respuesta.
+
+
+"	"Q01_Think_Brain_Frequency_sp"	FALSE	"4"	"Nunca"	"Never"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Salud física"	NA	"Q02_PhyHealthInfl_sp"	FALSE	"1"	"Influencia muy fuerte"	"VeryStrong"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Salud física"	NA	"Q02_PhyHealthInfl_sp"	FALSE	"2"	"Influencia fuerte"	"Strong"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Salud física"	NA	"Q02_PhyHealthInfl_sp"	FALSE	"3"	"Influencia moderada"	"Moderate"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Salud física"	NA	"Q02_PhyHealthInfl_sp"	FALSE	"4"	"Poca influencia"	"Weak"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Salud física"	NA	"Q02_PhyHealthInfl_sp"	FALSE	"5"	"Sin influencia"	"NoInfluence"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Dieta"	NA	"Q02_DietInfl_sp"	FALSE	"1"	"Influencia muy fuerte"	"VeryStrong"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Dieta"	NA	"Q02_DietInfl_sp"	FALSE	"2"	"Influencia fuerte"	"Strong"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Dieta"	NA	"Q02_DietInfl_sp"	FALSE	"3"	"Influencia moderada"	"Moderate"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Dieta"	NA	"Q02_DietInfl_sp"	FALSE	"4"	"Poca influencia"	"Weak"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Dieta"	NA	"Q02_DietInfl_sp"	FALSE	"5"	"Sin influencia"	"NoInfluence"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Ambiente / entorno (p. ej. contaminación, ruido)"	NA	"Q02_PhyEnvironmentInfl_sp"	FALSE	"1"	"Influencia muy fuerte"	"VeryStrong"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Ambiente / entorno (p. ej. contaminación, ruido)"	NA	"Q02_PhyEnvironmentInfl_sp"	FALSE	"2"	"Influencia fuerte"	"Strong"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Ambiente / entorno (p. ej. contaminación, ruido)"	NA	"Q02_PhyEnvironmentInfl_sp"	FALSE	"3"	"Influencia moderada"	"Moderate"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Ambiente / entorno (p. ej. contaminación, ruido)"	NA	"Q02_PhyEnvironmentInfl_sp"	FALSE	"4"	"Poca influencia"	"Weak"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Ambiente / entorno (p. ej. contaminación, ruido)"	NA	"Q02_PhyEnvironmentInfl_sp"	FALSE	"5"	"Sin influencia"	"NoInfluence"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Entorno social (p. ej. familia, red social)"	NA	"Q02_SocEnvironmentInfl_sp"	FALSE	"1"	"Influencia muy fuerte"	"VeryStrong"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Entorno social (p. ej. familia, red social)"	NA	"Q02_SocEnvironmentInfl_sp"	FALSE	"2"	"Influencia fuerte"	"Strong"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Entorno social (p. ej. familia, red social)"	NA	"Q02_SocEnvironmentInfl_sp"	FALSE	"3"	"Influencia moderada"	"Moderate"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Entorno social (p. ej. familia, red social)"	NA	"Q02_SocEnvironmentInfl_sp"	FALSE	"4"	"Poca influencia"	"Weak"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Entorno social (p. ej. familia, red social)"	NA	"Q02_SocEnvironmentInfl_sp"	FALSE	"5"	"Sin influencia"	"NoInfluence"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Educación"	NA	"Q02_EducationInfl_sp"	FALSE	"1"	"Influencia muy fuerte"	"VeryStrong"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Educación"	NA	"Q02_EducationInfl_sp"	FALSE	"2"	"Influencia fuerte"	"Strong"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Educación"	NA	"Q02_EducationInfl_sp"	FALSE	"3"	"Influencia moderada"	"Moderate"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Educación"	NA	"Q02_EducationInfl_sp"	FALSE	"4"	"Poca influencia"	"Weak"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Educación"	NA	"Q02_EducationInfl_sp"	FALSE	"5"	"Sin influencia"	"NoInfluence"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Profesión"	NA	"Q02_ProfessionInfl_sp"	FALSE	"1"	"Influencia muy fuerte"	"VeryStrong"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Profesión"	NA	"Q02_ProfessionInfl_sp"	FALSE	"2"	"Influencia fuerte"	"Strong"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Profesión"	NA	"Q02_ProfessionInfl_sp"	FALSE	"3"	"Influencia moderada"	"Moderate"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Profesión"	NA	"Q02_ProfessionInfl_sp"	FALSE	"4"	"Poca influencia"	"Weak"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Profesión"	NA	"Q02_ProfessionInfl_sp"	FALSE	"5"	"Sin influencia"	"NoInfluence"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Ingresos familiares"	NA	"Q02_IncomeInfl_sp"	FALSE	"1"	"Influencia muy fuerte"	"VeryStrong"	FALSE	FALSE	7	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Ingresos familiares"	NA	"Q02_IncomeInfl_sp"	FALSE	"2"	"Influencia fuerte"	"Strong"	FALSE	FALSE	7	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Ingresos familiares"	NA	"Q02_IncomeInfl_sp"	FALSE	"3"	"Influencia moderada"	"Moderate"	FALSE	FALSE	7	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Ingresos familiares"	NA	"Q02_IncomeInfl_sp"	FALSE	"4"	"Poca influencia"	"Weak"	FALSE	FALSE	7	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Ingresos familiares"	NA	"Q02_IncomeInfl_sp"	FALSE	"5"	"Sin influencia"	"NoInfluence"	FALSE	FALSE	7	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Genética e historia médica familiar"	NA	"Q02_GeneticsInfl_sp"	FALSE	"1"	"Influencia muy fuerte"	"VeryStrong"	FALSE	FALSE	8	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Genética e historia médica familiar"	NA	"Q02_GeneticsInfl_sp"	FALSE	"2"	"Influencia fuerte"	"Strong"	FALSE	FALSE	8	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Genética e historia médica familiar"	NA	"Q02_GeneticsInfl_sp"	FALSE	"3"	"Influencia moderada"	"Moderate"	FALSE	FALSE	8	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Genética e historia médica familiar"	NA	"Q02_GeneticsInfl_sp"	FALSE	"4"	"Poca influencia"	"Weak"	FALSE	FALSE	8	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Genética e historia médica familiar"	NA	"Q02_GeneticsInfl_sp"	FALSE	"5"	"Sin influencia"	"NoInfluence"	FALSE	FALSE	8	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Consumo de sustancias (p. ej, alcohol, tabaco, drogas)"	NA	"Q02_SubstanceInfl_sp"	FALSE	"1"	"Influencia muy fuerte"	"VeryStrong"	FALSE	FALSE	9	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Consumo de sustancias (p. ej, alcohol, tabaco, drogas)"	NA	"Q02_SubstanceInfl_sp"	FALSE	"2"	"Influencia fuerte"	"Strong"	FALSE	FALSE	9	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Consumo de sustancias (p. ej, alcohol, tabaco, drogas)"	NA	"Q02_SubstanceInfl_sp"	FALSE	"3"	"Influencia moderada"	"Moderate"	FALSE	FALSE	9	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Consumo de sustancias (p. ej, alcohol, tabaco, drogas)"	NA	"Q02_SubstanceInfl_sp"	FALSE	"4"	"Poca influencia"	"Weak"	FALSE	FALSE	9	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Consumo de sustancias (p. ej, alcohol, tabaco, drogas)"	NA	"Q02_SubstanceInfl_sp"	FALSE	"5"	"Sin influencia"	"NoInfluence"	FALSE	FALSE	9	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Hábitos de sueño"	NA	"Q02_LifeGoalsInfl_sp"	FALSE	"1"	"Influencia muy fuerte"	"VeryStrong"	FALSE	FALSE	10	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Hábitos de sueño"	NA	"Q02_LifeGoalsInfl_sp"	FALSE	"2"	"Influencia fuerte"	"Strong"	FALSE	FALSE	10	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Hábitos de sueño"	NA	"Q02_LifeGoalsInfl_sp"	FALSE	"3"	"Influencia moderada"	"Moderate"	FALSE	FALSE	10	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Hábitos de sueño"	NA	"Q02_LifeGoalsInfl_sp"	FALSE	"4"	"Poca influencia"	"Weak"	FALSE	FALSE	10	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Hábitos de sueño"	NA	"Q02_LifeGoalsInfl_sp"	FALSE	"5"	"Sin influencia"	"NoInfluence"	FALSE	FALSE	10	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Tener metas que den sentido a la vida"	NA	"Q02_SleepHabitsInfl_sp"	FALSE	"1"	"Influencia muy fuerte"	"VeryStrong"	FALSE	FALSE	11	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Tener metas que den sentido a la vida"	NA	"Q02_SleepHabitsInfl_sp"	FALSE	"2"	"Influencia fuerte"	"Strong"	FALSE	FALSE	11	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Tener metas que den sentido a la vida"	NA	"Q02_SleepHabitsInfl_sp"	FALSE	"3"	"Influencia moderada"	"Moderate"	FALSE	FALSE	11	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Tener metas que den sentido a la vida"	NA	"Q02_SleepHabitsInfl_sp"	FALSE	"4"	"Poca influencia"	"Weak"	FALSE	FALSE	11	NA	NA	NA
+"spanish"	"sp"	119161	"12"	NA	NA	"Tener metas que den sentido a la vida"	NA	"Q02_SleepHabitsInfl_sp"	FALSE	"5"	"Sin influencia"	"NoInfluence"	FALSE	FALSE	11	NA	NA	NA
+"spanish"	"sp"	119161	"15"	NA	NA	"En el vientre materno (antes de nacer)"	NA	"Q03_Womb_sp"	FALSE	"1"	"Muy importante"	"VeryImportant"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"15"	NA	NA	"En el vientre materno (antes de nacer)"	NA	"Q03_Womb_sp"	FALSE	"2"	"Importante"	"Important"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"15"	NA	NA	"En el vientre materno (antes de nacer)"	NA	"Q03_Womb_sp"	FALSE	"3"	"Moderadamente importante"	"ModImportant"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"15"	NA	NA	"En el vientre materno (antes de nacer)"	NA	"Q03_Womb_sp"	FALSE	"4"	"Sin importancia"	"NotImportant"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"15"	NA	NA	"Infancia (del nacimiento hasta los 12 años)"	NA	"Q03_Child_sp"	FALSE	"1"	"Muy importante"	"VeryImportant"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"15"	NA	NA	"Infancia (del nacimiento hasta los 12 años)"	NA	"Q03_Child_sp"	FALSE	"2"	"Importante"	"Important"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"15"	NA	NA	"Infancia (del nacimiento hasta los 12 años)"	NA	"Q03_Child_sp"	FALSE	"3"	"Moderadamente importante"	"ModImportant"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"15"	NA	NA	"Infancia (del nacimiento hasta los 12 años)"	NA	"Q03_Child_sp"	FALSE	"4"	"Sin importancia"	"NotImportant"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"15"	NA	NA	"Adolescencia (de 13 a 18 años)"	NA	"Q03_Adolescence_sp"	FALSE	"1"	"Muy importante"	"VeryImportant"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"15"	NA	NA	"Adolescencia (de 13 a 18 años)"	NA	"Q03_Adolescence_sp"	FALSE	"2"	"Importante"	"Important"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"15"	NA	NA	"Adolescencia (de 13 a 18 años)"	NA	"Q03_Adolescence_sp"	FALSE	"3"	"Moderadamente importante"	"ModImportant"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"15"	NA	NA	"Adolescencia (de 13 a 18 años)"	NA	"Q03_Adolescence_sp"	FALSE	"4"	"Sin importancia"	"NotImportant"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"15"	NA	NA	"Edad adulta (19-45)"	NA	"Q03_YoungAdult_en"	FALSE	"1"	"Muy importante"	"VeryImportant"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"15"	NA	NA	"Edad adulta (19-45)"	NA	"Q03_YoungAdult_en"	FALSE	"2"	"Importante"	"Important"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"15"	NA	NA	"Edad adulta (19-45)"	NA	"Q03_YoungAdult_en"	FALSE	"3"	"Moderadamente importante"	"ModImportant"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"15"	NA	NA	"Edad adulta (19-45)"	NA	"Q03_YoungAdult_en"	FALSE	"4"	"Sin importancia"	"NotImportant"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"15"	NA	NA	"Mediana edad (45-65)"	NA	"Q03_MiddleAge_sp"	FALSE	"1"	"Muy importante"	"VeryImportant"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"15"	NA	NA	"Mediana edad (45-65)"	NA	"Q03_MiddleAge_sp"	FALSE	"2"	"Importante"	"Important"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"15"	NA	NA	"Mediana edad (45-65)"	NA	"Q03_MiddleAge_sp"	FALSE	"3"	"Moderadamente importante"	"ModImportant"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"15"	NA	NA	"Mediana edad (45-65)"	NA	"Q03_MiddleAge_sp"	FALSE	"4"	"Sin importancia"	"NotImportant"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"15"	NA	NA	"Edad avanzada (más de 65 años)"	NA	"Q03_OlderAge_sp"	FALSE	"1"	"Muy importante"	"VeryImportant"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"15"	NA	NA	"Edad avanzada (más de 65 años)"	NA	"Q03_OlderAge_sp"	FALSE	"2"	"Importante"	"Important"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"15"	NA	NA	"Edad avanzada (más de 65 años)"	NA	"Q03_OlderAge_sp"	FALSE	"3"	"Moderadamente importante"	"ModImportant"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"15"	NA	NA	"Edad avanzada (más de 65 años)"	NA	"Q03_OlderAge_sp"	FALSE	"4"	"Sin importancia"	"NotImportant"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"18"	NA	NA	NA	NA	NA	FALSE	"1"	"Diabetes"	"Diabetes"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"18"	NA	NA	NA	NA	NA	FALSE	"2"	"Enfermedad de Alzheimer y otras demencias"	"Alzheimer"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"18"	NA	NA	NA	NA	NA	FALSE	"3"	"Artritis"	"Arthritis"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"18"	NA	NA	NA	NA	NA	FALSE	"4"	"Trastorno Bipolar"	"Bipolar"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"18"	NA	NA	NA	NA	NA	FALSE	"5"	"Cáncer"	"Cancer"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"18"	NA	NA	NA	NA	NA	FALSE	"6"	"Esquizofrenia"	"Schizophrenia"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"18"	NA	NA	NA	NA	NA	FALSE	"7"	"Enfermedad de Parkinson"	"Parkinson"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"18"	NA	NA	NA	NA	NA	FALSE	"8"	"Hipertensión (presión arterial alta)"	"Hypertension"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"18"	NA	NA	NA	NA	NA	FALSE	"9"	"Adicciones (p.ej. drogas, alcohol)"	"Addiction"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"18"	NA	NA	NA	NA	NA	FALSE	"10"	"Ictus"	"Stroke"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"18"	NA	NA	NA	NA	NA	FALSE	"11"	"Depresión"	"Depression"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"18"	NA	NA	NA	NA	NA	FALSE	"12"	"Migraña"	"Migraine"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"18"	NA	NA	NA	NA	NA	FALSE	"13"	"Ansiedad"	"Anxiety"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Seguir una dieta saludable"	NA	"Q05_HealthyDietGen_sp"	FALSE	"1"	"Frecuentemente"	"Frequently"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Seguir una dieta saludable"	NA	"Q05_HealthyDietGen_sp"	FALSE	"2"	"A veces"	"Occasionally"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Seguir una dieta saludable"	NA	"Q05_HealthyDietGen_sp"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Seguir una dieta saludable"	NA	"Q05_HealthyDietGen_sp"	FALSE	"4"	"Nunca"	"Never"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Practicar ejercicio físico"	NA	"Q05_ExcerciseGen_sp"	FALSE	"1"	"Frecuentemente"	"Frequently"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Practicar ejercicio físico"	NA	"Q05_ExcerciseGen_sp"	FALSE	"2"	"A veces"	"Occasionally"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Practicar ejercicio físico"	NA	"Q05_ExcerciseGen_sp"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Practicar ejercicio físico"	NA	"Q05_ExcerciseGen_sp"	FALSE	"4"	"Nunca"	"Never"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Dormir suficiente"	NA	"Q05_SleepGen_sp"	FALSE	"1"	"Frecuentemente"	"Frequently"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Dormir suficiente"	NA	"Q05_SleepGen_sp"	FALSE	"2"	"A veces"	"Occasionally"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Dormir suficiente"	NA	"Q05_SleepGen_sp"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Dormir suficiente"	NA	"Q05_SleepGen_sp"	FALSE	"4"	"Nunca"	"Never"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Practicar actividades de relajación"	NA	"Q05_RelaxGen_sp"	FALSE	"1"	"Frecuentemente"	"Frequently"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Practicar actividades de relajación"	NA	"Q05_RelaxGen_sp"	FALSE	"2"	"A veces"	"Occasionally"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Practicar actividades de relajación"	NA	"Q05_RelaxGen_sp"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Practicar actividades de relajación"	NA	"Q05_RelaxGen_sp"	FALSE	"4"	"Nunca"	"Never"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Beber alcohol"	NA	"Q05_AlcoholGen_sp"	FALSE	"1"	"Frecuentemente"	"Frequently"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Beber alcohol"	NA	"Q05_AlcoholGen_sp"	FALSE	"2"	"A veces"	"Occasionally"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Beber alcohol"	NA	"Q05_AlcoholGen_sp"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Beber alcohol"	NA	"Q05_AlcoholGen_sp"	FALSE	"4"	"Nunca"	"Never"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Fumar"	NA	"Q05_SmokeGen_sp"	FALSE	"1"	"Frecuentemente"	"Frequently"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Fumar"	NA	"Q05_SmokeGen_sp"	FALSE	"2"	"A veces"	"Occasionally"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Fumar"	NA	"Q05_SmokeGen_sp"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Fumar"	NA	"Q05_SmokeGen_sp"	FALSE	"4"	"Nunca"	"Never"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Estimular mi intelecto (p. ej. crucigramas, aprender cosas nuevas)"	NA	"Q05_IntellectGen_sp"	FALSE	"1"	"Frecuentemente"	"Frequently"	FALSE	FALSE	7	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Estimular mi intelecto (p. ej. crucigramas, aprender cosas nuevas)"	NA	"Q05_IntellectGen_sp"	FALSE	"2"	"A veces"	"Occasionally"	FALSE	FALSE	7	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Estimular mi intelecto (p. ej. crucigramas, aprender cosas nuevas)"	NA	"Q05_IntellectGen_sp"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	7	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Estimular mi intelecto (p. ej. crucigramas, aprender cosas nuevas)"	NA	"Q05_IntellectGen_sp"	FALSE	"4"	"Nunca"	"Never"	FALSE	FALSE	7	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Mantener un equilibrio entre vida profesional y familiar"	NA	"Q05_WorkLifeBalanceGen_sp"	FALSE	"1"	"Frecuentemente"	"Frequently"	FALSE	FALSE	8	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Mantener un equilibrio entre vida profesional y familiar"	NA	"Q05_WorkLifeBalanceGen_sp"	FALSE	"2"	"A veces"	"Occasionally"	FALSE	FALSE	8	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Mantener un equilibrio entre vida profesional y familiar"	NA	"Q05_WorkLifeBalanceGen_sp"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	8	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Mantener un equilibrio entre vida profesional y familiar"	NA	"Q05_WorkLifeBalanceGen_sp"	FALSE	"4"	"Nunca"	"Never"	FALSE	FALSE	8	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Llevar casco cuando voy en bicicleta, patinete o esquío"	NA	"Q05_ProtectionGen_sp"	FALSE	"1"	"Frecuentemente"	"Frequently"	FALSE	FALSE	9	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Llevar casco cuando voy en bicicleta, patinete o esquío"	NA	"Q05_ProtectionGen_sp"	FALSE	"2"	"A veces"	"Occasionally"	FALSE	FALSE	9	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Llevar casco cuando voy en bicicleta, patinete o esquío"	NA	"Q05_ProtectionGen_sp"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	9	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Llevar casco cuando voy en bicicleta, patinete o esquío"	NA	"Q05_ProtectionGen_sp"	FALSE	"4"	"Nunca"	"Never"	FALSE	FALSE	9	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Tomar suplementos alimenticios como  omega 3/ vitamina D"	NA	"Q05_SupplementsGen_sp"	FALSE	"1"	"Frecuentemente"	"Frequently"	FALSE	FALSE	10	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Tomar suplementos alimenticios como  omega 3/ vitamina D"	NA	"Q05_SupplementsGen_sp"	FALSE	"2"	"A veces"	"Occasionally"	FALSE	FALSE	10	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Tomar suplementos alimenticios como  omega 3/ vitamina D"	NA	"Q05_SupplementsGen_sp"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	10	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Tomar suplementos alimenticios como  omega 3/ vitamina D"	NA	"Q05_SupplementsGen_sp"	FALSE	"4"	"Nunca"	"Never"	FALSE	FALSE	10	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Socializar con gente (p. ej. amigos)"	NA	"Q05_SocialiseGen_sp"	FALSE	"1"	"Frecuentemente"	"Frequently"	FALSE	FALSE	11	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Socializar con gente (p. ej. amigos)"	NA	"Q05_SocialiseGen_sp"	FALSE	"2"	"A veces"	"Occasionally"	FALSE	FALSE	11	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Socializar con gente (p. ej. amigos)"	NA	"Q05_SocialiseGen_sp"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	11	NA	NA	NA
+"spanish"	"sp"	119161	"21"	NA	NA	"Socializar con gente (p. ej. amigos)"	NA	"Q05_SocialiseGen_sp"	FALSE	"4"	"Nunca"	"Never"	FALSE	FALSE	11	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Seguir una dieta saludable"	NA	"Q06_HealthyDietPurp_sp"	FALSE	"1"	"Frecuentemente"	"Frequently"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Seguir una dieta saludable"	NA	"Q06_HealthyDietPurp_sp"	FALSE	"2"	"A veces"	"Occasionally"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Seguir una dieta saludable"	NA	"Q06_HealthyDietPurp_sp"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Seguir una dieta saludable"	NA	"Q06_HealthyDietPurp_sp"	FALSE	"4"	"Nunca"	"Never"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Practicar ejercicio físico"	NA	"Q06_ExcercisePurp_sp"	FALSE	"1"	"Frecuentemente"	"Frequently"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Practicar ejercicio físico"	NA	"Q06_ExcercisePurp_sp"	FALSE	"2"	"A veces"	"Occasionally"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Practicar ejercicio físico"	NA	"Q06_ExcercisePurp_sp"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Practicar ejercicio físico"	NA	"Q06_ExcercisePurp_sp"	FALSE	"4"	"Nunca"	"Never"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Dormir suficiente"	NA	"Q06_SleepPurp_sp"	FALSE	"1"	"Frecuentemente"	"Frequently"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Dormir suficiente"	NA	"Q06_SleepPurp_sp"	FALSE	"2"	"A veces"	"Occasionally"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Dormir suficiente"	NA	"Q06_SleepPurp_sp"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Dormir suficiente"	NA	"Q06_SleepPurp_sp"	FALSE	"4"	"Nunca"	"Never"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Practicar actividades de relajación"	NA	"Q06_RelaxPurp_sp"	FALSE	"1"	"Frecuentemente"	"Frequently"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Practicar actividades de relajación"	NA	"Q06_RelaxPurp_sp"	FALSE	"2"	"A veces"	"Occasionally"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Practicar actividades de relajación"	NA	"Q06_RelaxPurp_sp"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Practicar actividades de relajación"	NA	"Q06_RelaxPurp_sp"	FALSE	"4"	"Nunca"	"Never"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Mantener un equilibrio entre vida profesional y familiar"	NA	"Q06_WorkLifeBalancePurp_sp"	FALSE	"1"	"Frecuentemente"	"Frequently"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Mantener un equilibrio entre vida profesional y familiar"	NA	"Q06_WorkLifeBalancePurp_sp"	FALSE	"2"	"A veces"	"Occasionally"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Mantener un equilibrio entre vida profesional y familiar"	NA	"Q06_WorkLifeBalancePurp_sp"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Mantener un equilibrio entre vida profesional y familiar"	NA	"Q06_WorkLifeBalancePurp_sp"	FALSE	"4"	"Nunca"	"Never"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Llevar casco cuando voy en bicicleta, patinete o esquío"	NA	"Q06_ProtectionPurp_sp"	FALSE	"1"	"Frecuentemente"	"Frequently"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Llevar casco cuando voy en bicicleta, patinete o esquío"	NA	"Q06_ProtectionPurp_sp"	FALSE	"2"	"A veces"	"Occasionally"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Llevar casco cuando voy en bicicleta, patinete o esquío"	NA	"Q06_ProtectionPurp_sp"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Llevar casco cuando voy en bicicleta, patinete o esquío"	NA	"Q06_ProtectionPurp_sp"	FALSE	"4"	"Nunca"	"Never"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Tomar suplementos alimenticios como  omega 3/ vitamina D"	NA	"Q06_SupplementsPurp_sp"	FALSE	"1"	"Frecuentemente"	"Frequently"	FALSE	FALSE	7	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Tomar suplementos alimenticios como  omega 3/ vitamina D"	NA	"Q06_SupplementsPurp_sp"	FALSE	"2"	"A veces"	"Occasionally"	FALSE	FALSE	7	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Tomar suplementos alimenticios como  omega 3/ vitamina D"	NA	"Q06_SupplementsPurp_sp"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	7	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Tomar suplementos alimenticios como  omega 3/ vitamina D"	NA	"Q06_SupplementsPurp_sp"	FALSE	"4"	"Nunca"	"Never"	FALSE	FALSE	7	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Socializar con gente (p. ej. amigos)"	NA	"Q06_SocialisePurp_sp"	FALSE	"1"	"Frecuentemente"	"Frequently"	FALSE	FALSE	8	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Socializar con gente (p. ej. amigos)"	NA	"Q06_SocialisePurp_sp"	FALSE	"2"	"A veces"	"Occasionally"	FALSE	FALSE	8	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Socializar con gente (p. ej. amigos)"	NA	"Q06_SocialisePurp_sp"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	8	NA	NA	NA
+"spanish"	"sp"	119161	"24"	NA	NA	"Socializar con gente (p. ej. amigos)"	NA	"Q06_SocialisePurp_sp"	FALSE	"4"	"Nunca"	"Never"	FALSE	FALSE	8	NA	NA	NA
+"spanish"	"sp"	119161	"25"	NA	NA	NA	"Por favor especifique cualquier otra cosa que haga por su salud cerebral:  
+
+
+"	"Q06_BrainHealth_Purpose_Spec_sp"	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"spanish"	"sp"	119161	"28"	NA	NA	NA	NA	NA	TRUE	"1"	"Asequible a nivel económico"	"Cheap"	FALSE	FALSE	NA	3	NA	NA
+"spanish"	"sp"	119161	"28"	NA	NA	NA	NA	NA	TRUE	"2"	"Rápida de realizar"	"Quick"	FALSE	FALSE	NA	3	NA	NA
+"spanish"	"sp"	119161	"28"	NA	NA	NA	NA	NA	TRUE	"3"	"Precisa"	"Accurate"	FALSE	FALSE	NA	3	NA	NA
+"spanish"	"sp"	119161	"28"	NA	NA	NA	NA	NA	TRUE	"4"	"Indolora"	"NoPain"	FALSE	FALSE	NA	3	NA	NA
+"spanish"	"sp"	119161	"28"	NA	NA	NA	NA	NA	TRUE	"5"	"Subvencionada por la seguridad social (médico de cabecera)"	"SocialSecurity"	FALSE	FALSE	NA	3	NA	NA
+"spanish"	"sp"	119161	"28"	NA	NA	NA	NA	NA	TRUE	"6"	"Que se ofrezca por internet y yo tenga acceso directo a los resultados"	"OnlineCriteria"	FALSE	FALSE	NA	3	NA	NA
+"spanish"	"sp"	119161	"28"	NA	NA	NA	NA	NA	TRUE	"7"	"Otros (por favor especifique):"	"OtherCriteria"	FALSE	FALSE	NA	3	NA	NA
+"spanish"	"sp"	119161	"30"	NA	NA	NA	NA	"Q07_Test_Criteria_Spec_sp"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"spanish"	"sp"	119161	"33"	NA	NA	NA	"Seleccione una respuesta.
+"	"Q08_Take_Test_sp"	TRUE	"1"	"Sí, por supuesto"	"Definitely"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"33"	NA	NA	NA	"Seleccione una respuesta.
+"	"Q08_Take_Test_sp"	TRUE	"2"	"Sí, probablemente"	"Probably"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"33"	NA	NA	NA	"Seleccione una respuesta.
+"	"Q08_Take_Test_sp"	TRUE	"3"	"No, probablemente no"	"ProbablyNot"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"33"	NA	NA	NA	"Seleccione una respuesta.
+"	"Q08_Take_Test_sp"	TRUE	"4"	"No, en absoluto"	"DefinitelyNot"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"36"	NA	NA	NA	NA	NA	TRUE	"1"	"Para tener información de mi salud cognitiva y mental"	"Information"	FALSE	FALSE	NA	2	NA	NA
+"spanish"	"sp"	119161	"36"	NA	NA	NA	NA	NA	TRUE	"2"	"Para conocer el riesgo de desarrollar una enfermedad del cerebro"	"LearnRisk"	FALSE	FALSE	NA	2	NA	NA
+"spanish"	"sp"	119161	"36"	NA	NA	NA	NA	NA	TRUE	"3"	"Para poder actuar en caso de que esté en riesgo; por ejemplo, cambiar mis estilos de vida, buscar consejo o empezar un tratamiento"	"Respond"	FALSE	FALSE	NA	2	NA	NA
+"spanish"	"sp"	119161	"36"	NA	NA	NA	NA	NA	TRUE	"4"	"Para prepararme para el futuro (p. ej. informar a mi familia sobre el riesgo)"	"Prepare"	FALSE	FALSE	NA	2	NA	NA
+"spanish"	"sp"	119161	"36"	NA	NA	NA	NA	NA	TRUE	"5"	"Otras razones (por favor especifique):"	"OtherMotivation"	FALSE	FALSE	NA	2	NA	NA
+"spanish"	"sp"	119161	"38"	NA	NA	NA	NA	"Q09a_Test_Reason_Spec_sp"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"spanish"	"sp"	119161	"41"	NA	NA	NA	"Seleccione una respuesta.
+
+
+"	"Q09b_Test_Nonpreventable_sp"	TRUE	"1"	"Sí, por supuesto"	"DefYes"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"41"	NA	NA	NA	"Seleccione una respuesta.
+
+
+"	"Q09b_Test_Nonpreventable_sp"	TRUE	"2"	"Sí, probablemente"	"ProbablyYes"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"41"	NA	NA	NA	"Seleccione una respuesta.
+
+
+"	"Q09b_Test_Nonpreventable_sp"	TRUE	"3"	"No, probablemente no"	"ProbablyNot"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"41"	NA	NA	NA	"Seleccione una respuesta.
+
+
+"	"Q09b_Test_Nonpreventable_sp"	TRUE	"4"	"No, en absoluto"	"DefNot"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"44"	NA	NA	NA	NA	NA	TRUE	"1"	"No quiero preocuparme por una cosa que puede que no vaya a ocurrir"	"Worry"	FALSE	FALSE	NA	2	NA	NA
+"spanish"	"sp"	119161	"44"	NA	NA	NA	NA	NA	TRUE	"2"	"No quiero saber el riesgo de tener una enfermedad que no se pueda prevenir o tratar"	"DoNotWantToKnow"	FALSE	FALSE	NA	2	NA	NA
+"spanish"	"sp"	119161	"44"	NA	NA	NA	NA	NA	TRUE	"3"	"Me asustaría el resultado"	"Frightened"	FALSE	FALSE	NA	2	NA	NA
+"spanish"	"sp"	119161	"44"	NA	NA	NA	NA	NA	TRUE	"4"	"Tampoco hay nada que pueda hacer por mi salud cerebral"	"Helpless"	FALSE	FALSE	NA	2	NA	NA
+"spanish"	"sp"	119161	"44"	NA	NA	NA	NA	NA	TRUE	"5"	"Otras razones (por favor especifique):"	"OtherReason"	FALSE	FALSE	NA	2	NA	NA
+"spanish"	"sp"	119161	"46"	NA	NA	NA	NA	"Q09c_OtherReason_Spec_sp"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"spanish"	"sp"	119161	"49"	NA	NA	"Buscaría ayuda profesional (p. ej. de mi médico de cabecera)"	NA	"Q10_ProfessHelp_sp"	FALSE	"1"	"Sí, seguro"	"DefYes"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"49"	NA	NA	"Buscaría ayuda profesional (p. ej. de mi médico de cabecera)"	NA	"Q10_ProfessHelp_sp"	FALSE	"2"	"Bastante probable"	"Likely"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"49"	NA	NA	"Buscaría ayuda profesional (p. ej. de mi médico de cabecera)"	NA	"Q10_ProfessHelp_sp"	FALSE	"3"	"Poco probable"	"Unlikely"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"49"	NA	NA	"Buscaría ayuda profesional (p. ej. de mi médico de cabecera)"	NA	"Q10_ProfessHelp_sp"	FALSE	"4"	"No"	"Defnot"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"49"	NA	NA	"Pediría consejo a mi familia y amigos"	NA	"Q10_FamilyFriends_sp"	FALSE	"1"	"Sí, seguro"	"DefYes"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"49"	NA	NA	"Pediría consejo a mi familia y amigos"	NA	"Q10_FamilyFriends_sp"	FALSE	"2"	"Bastante probable"	"Likely"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"49"	NA	NA	"Pediría consejo a mi familia y amigos"	NA	"Q10_FamilyFriends_sp"	FALSE	"3"	"Poco probable"	"Unlikely"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"49"	NA	NA	"Pediría consejo a mi familia y amigos"	NA	"Q10_FamilyFriends_sp"	FALSE	"4"	"No"	"Defnot"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"49"	NA	NA	"Buscaría información en internet / en la biblioteca"	NA	"Q10_Library_sp"	FALSE	"1"	"Sí, seguro"	"DefYes"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"49"	NA	NA	"Buscaría información en internet / en la biblioteca"	NA	"Q10_Library_sp"	FALSE	"2"	"Bastante probable"	"Likely"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"49"	NA	NA	"Buscaría información en internet / en la biblioteca"	NA	"Q10_Library_sp"	FALSE	"3"	"Poco probable"	"Unlikely"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"49"	NA	NA	"Buscaría información en internet / en la biblioteca"	NA	"Q10_Library_sp"	FALSE	"4"	"No"	"Defnot"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"49"	NA	NA	"Cambiaría mi estilo de vida si fuera necesario"	NA	"Q10_LifestyleChange_sp"	FALSE	"1"	"Sí, seguro"	"DefYes"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"49"	NA	NA	"Cambiaría mi estilo de vida si fuera necesario"	NA	"Q10_LifestyleChange_sp"	FALSE	"2"	"Bastante probable"	"Likely"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"49"	NA	NA	"Cambiaría mi estilo de vida si fuera necesario"	NA	"Q10_LifestyleChange_sp"	FALSE	"3"	"Poco probable"	"Unlikely"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"49"	NA	NA	"Cambiaría mi estilo de vida si fuera necesario"	NA	"Q10_LifestyleChange_sp"	FALSE	"4"	"No"	"Defnot"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"49"	NA	NA	"Planificaría bien el futuro"	NA	"Q10_Plan_sp"	FALSE	"1"	"Sí, seguro"	"DefYes"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"49"	NA	NA	"Planificaría bien el futuro"	NA	"Q10_Plan_sp"	FALSE	"2"	"Bastante probable"	"Likely"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"49"	NA	NA	"Planificaría bien el futuro"	NA	"Q10_Plan_sp"	FALSE	"3"	"Poco probable"	"Unlikely"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"49"	NA	NA	"Planificaría bien el futuro"	NA	"Q10_Plan_sp"	FALSE	"4"	"No"	"Defnot"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"51"	NA	NA	NA	"
+
+
+
+
+"	"Q10_TestReactionSpec_sp"	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Comer más sano"	NA	"Q11_EatHealthy_sp"	FALSE	"1"	"Muy probable"	"VeryLikely"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Comer más sano"	NA	"Q11_EatHealthy_sp"	FALSE	"2"	"Bastante probable"	"Likely"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Comer más sano"	NA	"Q11_EatHealthy_sp"	FALSE	"3"	"Ya lo hago"	"AlreadyDo"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Comer más sano"	NA	"Q11_EatHealthy_sp"	FALSE	"4"	"Bastante improbable"	"Unlikely"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Comer más sano"	NA	"Q11_EatHealthy_sp"	FALSE	"5"	"Muy improbable"	"NotAtAll"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Hacer más actividad física"	NA	"Q11_ExcerciseMore_sp"	FALSE	"1"	"Muy probable"	"VeryLikely"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Hacer más actividad física"	NA	"Q11_ExcerciseMore_sp"	FALSE	"2"	"Bastante probable"	"Likely"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Hacer más actividad física"	NA	"Q11_ExcerciseMore_sp"	FALSE	"3"	"Ya lo hago"	"AlreadyDo"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Hacer más actividad física"	NA	"Q11_ExcerciseMore_sp"	FALSE	"4"	"Bastante improbable"	"Unlikely"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Hacer más actividad física"	NA	"Q11_ExcerciseMore_sp"	FALSE	"5"	"Muy improbable"	"NotAtAll"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Mejorar hábitos de sueño"	NA	"Q11_ImprSleepingHabits_sp"	FALSE	"1"	"Muy probable"	"VeryLikely"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Mejorar hábitos de sueño"	NA	"Q11_ImprSleepingHabits_sp"	FALSE	"2"	"Bastante probable"	"Likely"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Mejorar hábitos de sueño"	NA	"Q11_ImprSleepingHabits_sp"	FALSE	"3"	"Ya lo hago"	"AlreadyDo"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Mejorar hábitos de sueño"	NA	"Q11_ImprSleepingHabits_sp"	FALSE	"4"	"Bastante improbable"	"Unlikely"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Mejorar hábitos de sueño"	NA	"Q11_ImprSleepingHabits_sp"	FALSE	"5"	"Muy improbable"	"NotAtAll"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Practicar más actividades de relajación"	NA	"Q11_MoreRelax_sp"	FALSE	"1"	"Muy probable"	"VeryLikely"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Practicar más actividades de relajación"	NA	"Q11_MoreRelax_sp"	FALSE	"2"	"Bastante probable"	"Likely"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Practicar más actividades de relajación"	NA	"Q11_MoreRelax_sp"	FALSE	"3"	"Ya lo hago"	"AlreadyDo"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Practicar más actividades de relajación"	NA	"Q11_MoreRelax_sp"	FALSE	"4"	"Bastante improbable"	"Unlikely"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Practicar más actividades de relajación"	NA	"Q11_MoreRelax_sp"	FALSE	"5"	"Muy improbable"	"NotAtAll"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Estimular más mi cerebro (p. ej. aprender un nuevo idioma)"	NA	"Q11_BrainStimuli_sp"	FALSE	"1"	"Muy probable"	"VeryLikely"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Estimular más mi cerebro (p. ej. aprender un nuevo idioma)"	NA	"Q11_BrainStimuli_sp"	FALSE	"2"	"Bastante probable"	"Likely"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Estimular más mi cerebro (p. ej. aprender un nuevo idioma)"	NA	"Q11_BrainStimuli_sp"	FALSE	"3"	"Ya lo hago"	"AlreadyDo"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Estimular más mi cerebro (p. ej. aprender un nuevo idioma)"	NA	"Q11_BrainStimuli_sp"	FALSE	"4"	"Bastante improbable"	"Unlikely"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Estimular más mi cerebro (p. ej. aprender un nuevo idioma)"	NA	"Q11_BrainStimuli_sp"	FALSE	"5"	"Muy improbable"	"NotAtAll"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Evitar el alcohol"	NA	"Q11_NoAlcohol_sp"	FALSE	"1"	"Muy probable"	"VeryLikely"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Evitar el alcohol"	NA	"Q11_NoAlcohol_sp"	FALSE	"2"	"Bastante probable"	"Likely"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Evitar el alcohol"	NA	"Q11_NoAlcohol_sp"	FALSE	"3"	"Ya lo hago"	"AlreadyDo"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Evitar el alcohol"	NA	"Q11_NoAlcohol_sp"	FALSE	"4"	"Bastante improbable"	"Unlikely"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Evitar el alcohol"	NA	"Q11_NoAlcohol_sp"	FALSE	"5"	"Muy improbable"	"NotAtAll"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Evitar fumar"	NA	"Q11_NoSmoking_sp"	FALSE	"1"	"Muy probable"	"VeryLikely"	FALSE	FALSE	7	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Evitar fumar"	NA	"Q11_NoSmoking_sp"	FALSE	"2"	"Bastante probable"	"Likely"	FALSE	FALSE	7	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Evitar fumar"	NA	"Q11_NoSmoking_sp"	FALSE	"3"	"Ya lo hago"	"AlreadyDo"	FALSE	FALSE	7	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Evitar fumar"	NA	"Q11_NoSmoking_sp"	FALSE	"4"	"Bastante improbable"	"Unlikely"	FALSE	FALSE	7	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Evitar fumar"	NA	"Q11_NoSmoking_sp"	FALSE	"5"	"Muy improbable"	"NotAtAll"	FALSE	FALSE	7	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Socializar más"	NA	"Q11_MoreSocial_sp"	FALSE	"1"	"Muy probable"	"VeryLikely"	FALSE	FALSE	8	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Socializar más"	NA	"Q11_MoreSocial_sp"	FALSE	"2"	"Bastante probable"	"Likely"	FALSE	FALSE	8	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Socializar más"	NA	"Q11_MoreSocial_sp"	FALSE	"3"	"Ya lo hago"	"AlreadyDo"	FALSE	FALSE	8	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Socializar más"	NA	"Q11_MoreSocial_sp"	FALSE	"4"	"Bastante improbable"	"Unlikely"	FALSE	FALSE	8	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Socializar más"	NA	"Q11_MoreSocial_sp"	FALSE	"5"	"Muy improbable"	"NotAtAll"	FALSE	FALSE	8	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Realizar más actividades culturales"	NA	"Q11_MoreCulture_sp"	FALSE	"1"	"Muy probable"	"VeryLikely"	FALSE	FALSE	9	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Realizar más actividades culturales"	NA	"Q11_MoreCulture_sp"	FALSE	"2"	"Bastante probable"	"Likely"	FALSE	FALSE	9	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Realizar más actividades culturales"	NA	"Q11_MoreCulture_sp"	FALSE	"3"	"Ya lo hago"	"AlreadyDo"	FALSE	FALSE	9	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Realizar más actividades culturales"	NA	"Q11_MoreCulture_sp"	FALSE	"4"	"Bastante improbable"	"Unlikely"	FALSE	FALSE	9	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Realizar más actividades culturales"	NA	"Q11_MoreCulture_sp"	FALSE	"5"	"Muy improbable"	"NotAtAll"	FALSE	FALSE	9	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Otros (por favor especifique):"	NA	"Q11_OtherChanges_sp"	FALSE	"1"	"Muy probable"	"VeryLikely"	FALSE	FALSE	10	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Otros (por favor especifique):"	NA	"Q11_OtherChanges_sp"	FALSE	"2"	"Bastante probable"	"Likely"	FALSE	FALSE	10	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Otros (por favor especifique):"	NA	"Q11_OtherChanges_sp"	FALSE	"3"	"Ya lo hago"	"AlreadyDo"	FALSE	FALSE	10	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Otros (por favor especifique):"	NA	"Q11_OtherChanges_sp"	FALSE	"4"	"Bastante improbable"	"Unlikely"	FALSE	FALSE	10	NA	NA	NA
+"spanish"	"sp"	119161	"54"	NA	NA	"Otros (por favor especifique):"	NA	"Q11_OtherChanges_sp"	FALSE	"5"	"Muy improbable"	"NotAtAll"	FALSE	FALSE	10	NA	NA	NA
+"spanish"	"sp"	119161	"56"	NA	NA	NA	NA	"Q11_OtherChanges_Spec_sp"	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"spanish"	"sp"	119161	"59"	NA	NA	NA	NA	NA	TRUE	"1"	"Si notara problemas en mi salud cerebral (p. ej. si mi memoria hubiera empeorado)"	"WorseMemory"	FALSE	FALSE	NA	3	NA	NA
+"spanish"	"sp"	119161	"59"	NA	NA	NA	NA	NA	TRUE	"2"	"Si ya me hubieran diagnosticado de un trastorno cerebral"	"Diagnose"	FALSE	FALSE	NA	3	NA	NA
+"spanish"	"sp"	119161	"59"	NA	NA	NA	NA	NA	TRUE	"3"	"Si los cambios en los estilos de vida fueran divertidos/entretenidos"	"Fun"	FALSE	FALSE	NA	3	NA	NA
+"spanish"	"sp"	119161	"59"	NA	NA	NA	NA	NA	TRUE	"4"	"Si los cambios en los estilos de vida fueran asequibles económicamente"	"Affordable"	FALSE	FALSE	NA	3	NA	NA
+"spanish"	"sp"	119161	"59"	NA	NA	NA	NA	NA	TRUE	"5"	"Si alguno de mis familiares o amigos hubiera desarrollado una enfermedad del cerebro"	"Family"	FALSE	FALSE	NA	3	NA	NA
+"spanish"	"sp"	119161	"59"	NA	NA	NA	NA	NA	TRUE	"6"	"Si se me ofreciera consejo personalizado de lo que tengo que hacer (p. ej de mi médico)"	"PersonalAdvice"	FALSE	FALSE	NA	3	NA	NA
+"spanish"	"sp"	119161	"59"	NA	NA	NA	NA	NA	TRUE	"7"	"Si tuviera la ayuda de amigos/familiares"	"FamilySupport"	FALSE	FALSE	NA	3	NA	NA
+"spanish"	"sp"	119161	"59"	NA	NA	NA	NA	NA	TRUE	"8"	"Si se supiera que los cambios de estilos de vida son beneficiosos"	"ImpactKnown"	FALSE	FALSE	NA	3	NA	NA
+"spanish"	"sp"	119161	"59"	NA	NA	NA	NA	NA	TRUE	"9"	"Nada me motivaría a cambiar"	"NoMotivation"	FALSE	FALSE	NA	3	NA	NA
+"spanish"	"sp"	119161	"59"	NA	NA	NA	NA	NA	TRUE	"10"	"Otros (por favor especifique):"	"OtherMotivationChange"	FALSE	FALSE	NA	3	NA	NA
+"spanish"	"sp"	119161	"61"	NA	NA	NA	NA	"Q12_OtherChangeMotivation_Spec"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"spanish"	"sp"	119161	"64"	NA	NA	NA	NA	NA	TRUE	"1"	"Falta de tiempo"	"NoTime"	FALSE	FALSE	NA	3	NA	NA
+"spanish"	"sp"	119161	"64"	NA	NA	NA	NA	NA	TRUE	"2"	"Falta de motivación"	"NoMotivation"	FALSE	FALSE	NA	3	NA	NA
+"spanish"	"sp"	119161	"64"	NA	NA	NA	NA	NA	TRUE	"3"	"Falta de información acerca de lo que debería hacer"	"NoInfo"	FALSE	FALSE	NA	3	NA	NA
+"spanish"	"sp"	119161	"64"	NA	NA	NA	NA	NA	TRUE	"4"	"Si tuviera que dejar actividades que me gustan"	"GiveupHobby"	FALSE	FALSE	NA	3	NA	NA
+"spanish"	"sp"	119161	"64"	NA	NA	NA	NA	NA	TRUE	"5"	"Si tuviera que empezar alguna actividad que no me apetece"	"StartNoFun"	FALSE	FALSE	NA	3	NA	NA
+"spanish"	"sp"	119161	"64"	NA	NA	NA	NA	NA	TRUE	"6"	"Si tuviera que modificar mis hábitos de estilos de vida por mí mismo/a"	"Alone"	FALSE	FALSE	NA	3	NA	NA
+"spanish"	"sp"	119161	"64"	NA	NA	NA	NA	NA	TRUE	"7"	"Si realizar los cambios resultara caro (p. ej. cuota en un gimnasio)"	"Expensive"	FALSE	FALSE	NA	3	NA	NA
+"spanish"	"sp"	119161	"64"	NA	NA	NA	NA	NA	TRUE	"8"	"Si no puedo estar seguro/a que los cambios son beneficiosos"	"NotHelp"	FALSE	FALSE	NA	3	NA	NA
+"spanish"	"sp"	119161	"64"	NA	NA	NA	NA	NA	TRUE	"9"	"No siento necesidad de hacer/cambiar nada"	"NoNeed"	FALSE	FALSE	NA	3	NA	NA
+"spanish"	"sp"	119161	"64"	NA	NA	NA	NA	NA	TRUE	"10"	"Otros (por favor especifique):"	"OtherMotivationNoChange"	FALSE	FALSE	NA	3	NA	NA
+"spanish"	"sp"	119161	"66"	NA	NA	NA	NA	"Q13_SpecifyNoMotivation_Spec_sp"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"spanish"	"sp"	119161	"69"	NA	NA	NA	NA	NA	FALSE	"1"	"Consejo de mi médico de cabecera o de especialistas, p. ej. nutricionista o entrenador personal"	"GP"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"69"	NA	NA	NA	NA	NA	FALSE	"2"	"Apoyo de mi familia y/o amigos"	"SupportFamily"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"69"	NA	NA	NA	NA	NA	FALSE	"3"	"Apoyo grupal, p. ej. grupo de caminata"	"GroupSupport"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"69"	NA	NA	NA	NA	NA	FALSE	"4"	"Una aplicación en mi móvil para ayudarme con la estimulación intelectual y entrenamiento físico"	"MobileApp"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"69"	NA	NA	NA	NA	NA	FALSE	"5"	"Seguimiento regular para revisar cuál es el efecto de los cambios de estilos de vida"	"Checkup"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"69"	NA	NA	NA	NA	NA	FALSE	"6"	"Otro tipo de ayuda (por favor especifique):"	"OtherAssistance"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"71"	NA	NA	NA	NA	"Q14_OtherAssistance_Spec_sp"	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"spanish"	"sp"	119161	"74"	NA	NA	"Informar sobre la salud cerebral"	NA	"Q15_InformAuth_sp"	FALSE	"1"	"Sí"	"Yes"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"74"	NA	NA	"Informar sobre la salud cerebral"	NA	"Q15_InformAuth_sp"	FALSE	"2"	"No"	"No"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"74"	NA	NA	"Informar sobre la salud cerebral"	NA	"Q15_InformAuth_sp"	FALSE	"3"	"No lo sé"	"Unknown"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"74"	NA	NA	"Incrementar tasas en productos no saludables para el cerebro"	NA	"Q15_TaxAuth_sp"	FALSE	"1"	"Sí"	"Yes"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"74"	NA	NA	"Incrementar tasas en productos no saludables para el cerebro"	NA	"Q15_TaxAuth_sp"	FALSE	"2"	"No"	"No"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"74"	NA	NA	"Incrementar tasas en productos no saludables para el cerebro"	NA	"Q15_TaxAuth_sp"	FALSE	"3"	"No lo sé"	"Unknown"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"74"	NA	NA	"Subvencionar alimentos y actividades beneficiosas para el cerebro"	NA	"Q15_SubsAuth_sp"	FALSE	"1"	"Sí"	"Yes"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"74"	NA	NA	"Subvencionar alimentos y actividades beneficiosas para el cerebro"	NA	"Q15_SubsAuth_sp"	FALSE	"2"	"No"	"No"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"74"	NA	NA	"Subvencionar alimentos y actividades beneficiosas para el cerebro"	NA	"Q15_SubsAuth_sp"	FALSE	"3"	"No lo sé"	"Unknown"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"74"	NA	NA	"Ofrecer pruebas de salud cerebral gratuitas a los ciudadanos"	NA	"Q15_FreetestAuth_sp"	FALSE	"1"	"Sí"	"Yes"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"74"	NA	NA	"Ofrecer pruebas de salud cerebral gratuitas a los ciudadanos"	NA	"Q15_FreetestAuth_sp"	FALSE	"2"	"No"	"No"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"74"	NA	NA	"Ofrecer pruebas de salud cerebral gratuitas a los ciudadanos"	NA	"Q15_FreetestAuth_sp"	FALSE	"3"	"No lo sé"	"Unknown"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"74"	NA	NA	"Introducir actividades de relajación y deportes en las escuelas y lugares de trabajo"	NA	"Q15_RelaxAuth_sp"	FALSE	"1"	"Sí"	"Yes"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"74"	NA	NA	"Introducir actividades de relajación y deportes en las escuelas y lugares de trabajo"	NA	"Q15_RelaxAuth_sp"	FALSE	"2"	"No"	"No"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"74"	NA	NA	"Introducir actividades de relajación y deportes en las escuelas y lugares de trabajo"	NA	"Q15_RelaxAuth_sp"	FALSE	"3"	"No lo sé"	"Unknown"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"74"	NA	NA	"Evitar que las compañías de seguro accedan a los resultados en las pruebas de salud cerebral"	NA	"Q15_InsAuth_sp"	FALSE	"1"	"Sí"	"Yes"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"74"	NA	NA	"Evitar que las compañías de seguro accedan a los resultados en las pruebas de salud cerebral"	NA	"Q15_InsAuth_sp"	FALSE	"2"	"No"	"No"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"74"	NA	NA	"Evitar que las compañías de seguro accedan a los resultados en las pruebas de salud cerebral"	NA	"Q15_InsAuth_sp"	FALSE	"3"	"No lo sé"	"Unknown"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"77"	NA	NA	"Mi médico de cabecera"	NA	"Q16_GP_sp"	FALSE	"1"	"En gran medida"	"GreatExtent"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"77"	NA	NA	"Mi médico de cabecera"	NA	"Q16_GP_sp"	FALSE	"2"	"Moderadamente"	"Neutral"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"77"	NA	NA	"Mi médico de cabecera"	NA	"Q16_GP_sp"	FALSE	"3"	"En ninguna medida"	"NotatAll"	FALSE	FALSE	1	NA	NA	NA
+"spanish"	"sp"	119161	"77"	NA	NA	"Un especialista en salud cerebral"	NA	"Q16_BrainHealthSpec_sp"	FALSE	"1"	"En gran medida"	"GreatExtent"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"77"	NA	NA	"Un especialista en salud cerebral"	NA	"Q16_BrainHealthSpec_sp"	FALSE	"2"	"Moderadamente"	"Neutral"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"77"	NA	NA	"Un especialista en salud cerebral"	NA	"Q16_BrainHealthSpec_sp"	FALSE	"3"	"En ninguna medida"	"NotatAll"	FALSE	FALSE	2	NA	NA	NA
+"spanish"	"sp"	119161	"77"	NA	NA	"Fórums médicos en internet"	NA	"Q16_OnlineForum_sp"	FALSE	"1"	"En gran medida"	"GreatExtent"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"77"	NA	NA	"Fórums médicos en internet"	NA	"Q16_OnlineForum_sp"	FALSE	"2"	"Moderadamente"	"Neutral"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"77"	NA	NA	"Fórums médicos en internet"	NA	"Q16_OnlineForum_sp"	FALSE	"3"	"En ninguna medida"	"NotatAll"	FALSE	FALSE	3	NA	NA	NA
+"spanish"	"sp"	119161	"77"	NA	NA	"Páginas web oficiales de las autoridades sanitarias"	NA	"Q16_HealthAuthWebsites_sp"	FALSE	"1"	"En gran medida"	"GreatExtent"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"77"	NA	NA	"Páginas web oficiales de las autoridades sanitarias"	NA	"Q16_HealthAuthWebsites_sp"	FALSE	"2"	"Moderadamente"	"Neutral"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"77"	NA	NA	"Páginas web oficiales de las autoridades sanitarias"	NA	"Q16_HealthAuthWebsites_sp"	FALSE	"3"	"En ninguna medida"	"NotatAll"	FALSE	FALSE	4	NA	NA	NA
+"spanish"	"sp"	119161	"77"	NA	NA	"Periódicos, revistas"	NA	"Q16_Newspaper_sp"	FALSE	"1"	"En gran medida"	"GreatExtent"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"77"	NA	NA	"Periódicos, revistas"	NA	"Q16_Newspaper_sp"	FALSE	"2"	"Moderadamente"	"Neutral"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"77"	NA	NA	"Periódicos, revistas"	NA	"Q16_Newspaper_sp"	FALSE	"3"	"En ninguna medida"	"NotatAll"	FALSE	FALSE	5	NA	NA	NA
+"spanish"	"sp"	119161	"77"	NA	NA	"Redes sociales (Facebook, Twitter, Instagram)"	NA	"Q16_SocialMedia_sp"	FALSE	"1"	"En gran medida"	"GreatExtent"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"77"	NA	NA	"Redes sociales (Facebook, Twitter, Instagram)"	NA	"Q16_SocialMedia_sp"	FALSE	"2"	"Moderadamente"	"Neutral"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"77"	NA	NA	"Redes sociales (Facebook, Twitter, Instagram)"	NA	"Q16_SocialMedia_sp"	FALSE	"3"	"En ninguna medida"	"NotatAll"	FALSE	FALSE	6	NA	NA	NA
+"spanish"	"sp"	119161	"77"	NA	NA	"TV/radio (incluyendo podcasts)"	NA	"Q16_TVRadio_sp"	FALSE	"1"	"En gran medida"	"GreatExtent"	FALSE	FALSE	7	NA	NA	NA
+"spanish"	"sp"	119161	"77"	NA	NA	"TV/radio (incluyendo podcasts)"	NA	"Q16_TVRadio_sp"	FALSE	"2"	"Moderadamente"	"Neutral"	FALSE	FALSE	7	NA	NA	NA
+"spanish"	"sp"	119161	"77"	NA	NA	"TV/radio (incluyendo podcasts)"	NA	"Q16_TVRadio_sp"	FALSE	"3"	"En ninguna medida"	"NotatAll"	FALSE	FALSE	7	NA	NA	NA
+"spanish"	"sp"	119161	"77"	NA	NA	"Investigadores públicos"	NA	"Q16_PublicResearch_sp"	FALSE	"1"	"En gran medida"	"GreatExtent"	FALSE	FALSE	8	NA	NA	NA
+"spanish"	"sp"	119161	"77"	NA	NA	"Investigadores públicos"	NA	"Q16_PublicResearch_sp"	FALSE	"2"	"Moderadamente"	"Neutral"	FALSE	FALSE	8	NA	NA	NA
+"spanish"	"sp"	119161	"77"	NA	NA	"Investigadores públicos"	NA	"Q16_PublicResearch_sp"	FALSE	"3"	"En ninguna medida"	"NotatAll"	FALSE	FALSE	8	NA	NA	NA
+"spanish"	"sp"	119161	"77"	NA	NA	"Revistas científicas"	NA	"Q16_ScientificJournals_sp"	FALSE	"1"	"En gran medida"	"GreatExtent"	FALSE	FALSE	9	NA	NA	NA
+"spanish"	"sp"	119161	"77"	NA	NA	"Revistas científicas"	NA	"Q16_ScientificJournals_sp"	FALSE	"2"	"Moderadamente"	"Neutral"	FALSE	FALSE	9	NA	NA	NA
+"spanish"	"sp"	119161	"77"	NA	NA	"Revistas científicas"	NA	"Q16_ScientificJournals_sp"	FALSE	"3"	"En ninguna medida"	"NotatAll"	FALSE	FALSE	9	NA	NA	NA
+"spanish"	"sp"	119161	"80"	NA	NA	"17. ¿Participa actualmente o ha participado alguna vez en un estudio de investigación acerca del cerebro?"	NA	"Q17_BrainResearch_Part_sp"	TRUE	"1"	"Sí"	"Yes"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"80"	NA	NA	"17. ¿Participa actualmente o ha participado alguna vez en un estudio de investigación acerca del cerebro?"	NA	"Q17_BrainResearch_Part_sp"	TRUE	"2"	"No"	"No"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"82"	NA	NA	"18. ¿Qué edad tiene?"	NA	"Q18_Age_sp"	TRUE	"1"	"18-25"	"18-25"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"82"	NA	NA	"18. ¿Qué edad tiene?"	NA	"Q18_Age_sp"	TRUE	"2"	"26-40"	"26-40"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"82"	NA	NA	"18. ¿Qué edad tiene?"	NA	"Q18_Age_sp"	TRUE	"3"	"41-60"	"41-60"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"82"	NA	NA	"18. ¿Qué edad tiene?"	NA	"Q18_Age_sp"	TRUE	"4"	"61-70"	"61-70"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"82"	NA	NA	"18. ¿Qué edad tiene?"	NA	"Q18_Age_sp"	TRUE	"5"	"71-80"	"71-80"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"82"	NA	NA	"18. ¿Qué edad tiene?"	NA	"Q18_Age_sp"	TRUE	"6"	"Más de 80"	"80plus"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"1"	"Afganistán"	"Afghanistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"2"	"Albania"	"Albania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"3"	"Alemania"	"Germany"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"4"	"Algeria"	"Algeria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"5"	"Andorra"	"Andorra"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"6"	"Angola"	"Angola"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"7"	"Antigua y Barbuda"	"Antigua"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"8"	"Arabia Saudita"	"SaudiArabia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"9"	"Argentina"	"Argentina"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"10"	"Armenia"	"Armenia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"11"	"Australia"	"Australia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"12"	"Austria"	"Austria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"13"	"Azerbaiyán"	"Azerbaijan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"14"	"Bahamas"	"Bahamas"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"15"	"Baréin"	"Bahrain"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"16"	"Barbados"	"Barbados"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"17"	"Belice"	"Belize"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"18"	"Bélgica"	"Belgium"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"19"	"Benín"	"Benin"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"20"	"Bielorrusia"	"Belarus"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"21"	"Birmania"	"Myanmar"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"22"	"Bolivia"	"Bolivia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"23"	"Bosnia-Herzegovina"	"Bosnia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"24"	"Botsuana"	"Botswana"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"25"	"Brasil"	"Brasil"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"26"	"Brunéi"	"Brunei"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"27"	"Bulgaria"	"Bulgaria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"28"	"Burkina Faso"	"BurkinaFaso"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"29"	"Burundi"	"Burundi"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"30"	"Bután"	"Bhutan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"31"	"Cabo Verde"	"CapeVerde"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"32"	"Camboya"	"Cambodia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"33"	"Camerún"	"Cameroon"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"34"	"Canadá"	"Canada"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"35"	"Catar"	"Qatar"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"36"	"Chad"	"Chad"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"37"	"Chile"	"Chile"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"38"	"Chipre"	"Cyprus"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"39"	"China"	"China"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"40"	"Colombia"	"Colombia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"41"	"Comoras"	"Comoros"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"42"	"Corea del Norte"	"NorthKorea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"43"	"Corea del Sur"	"SouthKorea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"44"	"Costa Rica"	"CostaRica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"45"	"Costa de Marfil"	"Cotedivoire"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"46"	"Croacia"	"Croatia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"47"	"Cuba"	"Cuba"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"48"	"Dinamarca"	"Denmark"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"49"	"Ecuador"	"Ecuador"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"50"	"Egipto"	"Egypt"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"51"	"El Salvador"	"ElSalvador"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"52"	"Emiratos Árabes Unidos"	"ArabEmirates"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"53"	"Eslovaquia"	"Slovakia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"54"	"Eslovenia"	"Slovenia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"55"	"España"	"Spain"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"56"	"Estados Unidos"	"USA"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"57"	"Eritrea"	"Eritrea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"58"	"Estonia"	"Estonia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"59"	"Etiopía"	"Ethiopia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"60"	"Filipinas"	"Philippines"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"61"	"Finlandia"	"Finland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"62"	"Fiyi"	"Fiji"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"63"	"Francia"	"France"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"64"	"Gabón"	"Gabon"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"65"	"Gambia"	"Gambia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"66"	"Georgia"	"Georgia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"67"	"Ghana"	"Ghana"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"68"	"Granada"	"Grenada"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"69"	"Grecia"	"Greece"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"70"	"Guetamala"	"Guetamala"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"71"	"Guinea"	"Guinea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"72"	"Guinea Ecuatorial"	"EGuinea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"73"	"Guinea-Bisáu"	"GuineaB"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"74"	"Guyana"	"Guyana"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"75"	"Haití"	"Haiti"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"76"	"Honduras"	"Honduras"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"77"	"Hungría"	"Hungary"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"78"	"India"	"India"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"79"	"Indonesia"	"Indonesia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"80"	"Islandia"	"Iceland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"81"	"Irlanda"	"Ireland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"82"	"Irán"	"Iran"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"83"	"Irak"	"Iraq"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"84"	"Islas Marshall"	"MarshallIslands"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"85"	"Islas Salomón"	"SolomonIsland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"86"	"Israel"	"Israel"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"87"	"Italia"	"Italy"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"88"	"Jamaica"	"Jamaica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"89"	"Japón"	"Japan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"90"	"Jordania"	"Jordan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"91"	"Kazajistán"	"Kazahstan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"92"	"Kenia"	"Kenya"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"93"	"Kirguistán"	"Kyrgyzstan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"94"	"Kiribati"	"Kiribati"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"95"	"Kosovo"	"Kosovo"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"96"	"Kuwait"	"Kuwait"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"97"	"Laos"	"Laos"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"98"	"Letonia"	"Latvia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"99"	"Lesoto"	"Lesotho"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"100"	"Liberia"	"Liberia_en"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"101"	"Libia"	"Libya"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"102"	"Líbano"	"Lebanon"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"103"	"Liechtenstein"	"Liechtenstein"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"104"	"Lituania"	"Lithuania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"105"	"Luxemburgo"	"Luxembourg"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"106"	"Macedonia"	"Macedonia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"107"	"Madagascar"	"Madagascar"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"108"	"Malaui"	"Malawi"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"109"	"Malasia"	"Malaysia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"110"	"Maldivas"	"Maldives"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"111"	"Malí"	"Mali"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"112"	"Malta"	"Malta"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"113"	"Marruecos"	"Morocco"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"114"	"Mauritania"	"Mauritania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"115"	"Mauricio"	"Mauritius"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"116"	"México"	"Mexico"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"117"	"Micronesia"	"Micronesia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"118"	"Moldavia"	"Moldova"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"119"	"Mongolia"	"Mongolia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"120"	"Montenegro"	"Montenegro"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"121"	"Mónaco"	"Monaco"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"122"	"Mozambique"	"Mozambique"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"123"	"Namibia"	"Namibia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"124"	"Nauru"	"Nauru"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"125"	"Nepal"	"Nepal"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"126"	"Nigeria"	"Nigeria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"127"	"Nicaragua"	"Nicaragua"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"128"	"Northern Ireland"	"NorthernIreland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"129"	"Noruega"	"Norway"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"130"	"Nueva Zelanda"	"NewZealand"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"131"	"Oman"	"Oman"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"132"	"Países Bajos"	"Netherlands"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"133"	"Pakistán"	"Pakistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"134"	"Palau"	"Palau"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"135"	"Panamá"	"Panama"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"136"	"Papúa Nueva Guinea"	"Papua"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"137"	"Paraguay"	"Paraguay"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"138"	"Perú"	"Peru"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"139"	"Polonia"	"Poland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"140"	"Portugal"	"Portugal"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"141"	"Reino Unido"	"UK"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"142"	"República Centroafricana"	"CentralAfrica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"143"	"República Checa"	"Czech"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"144"	"República Democrática del Congo"	"Congo"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"145"	"República Dominicana"	"Dominica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"146"	"República de Sudafrica"	"SouthAfrica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"147"	"Rumania"	"Romania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"148"	"Rusia"	"Russia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"149"	"Ruaanda"	"Rwanda"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"150"	"Samoa"	"Samoa"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"151"	"San Marino"	"SanMarino"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"152"	"Sao Tomé y Príncipe"	"SaoTome"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"153"	"Senegal"	"Senegal"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"154"	"Serbia"	"Serbia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"155"	"Seychelles"	"Seychelles"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"156"	"Sierra Leona"	"SierraLeone"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"157"	"Singapur"	"Singapore"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"158"	"Somalia"	"Somalia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"159"	"Sri Lanka"	"SriLanka"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"160"	"Sudán"	"Sudan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"161"	"Surinam"	"Suriname"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"162"	"Suecia"	"Sweden"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"163"	"Suiza"	"Switzerland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"164"	"Siria"	"Syria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"165"	"Taivan"	"Taiwan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"166"	"Tayikistán"	"Tajikistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"167"	"Timor Oriental"	"EastTimor"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"168"	"Turquía"	"Turkey"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"169"	"Tanzania"	"Tanzania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"170"	"Tailandia"	"Thailand"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"171"	"Togo"	"Togo"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"172"	"Tonga"	"Tonga"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"173"	"Trinidad yTobago"	"Trinidad"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"174"	"Túnez"	"Tunisia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"175"	"Turkmenistán"	"Turkmenistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"176"	"Tuvalu"	"Tuvalu"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"177"	"Ucraine"	"Ukraine"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"178"	"Uganda"	"Uganda"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"179"	"Uruguay"	"Uruguay"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"180"	"Uzbekistán"	"Uzbekistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"181"	"Vanuatu"	"Vanuatu"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"182"	"Vatican"	"Vatican"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"183"	"Venezuela"	"Venezuela"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"184"	"Vietnam"	"Vietnam"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"185"	"Yemen"	"Yemen"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"186"	"Yibuti"	"Djibouti"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"187"	"Zaire"	"Zaire"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"188"	"Zambia"	"Zambia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"84"	NA	NA	"19. ¿Cuál es su país de residencia?"	"Desplace el cursor hacia abajo y seleccione.
+
+
+"	"Q19_Residence_sp"	TRUE	"189"	"Zimbabue"	"Zimbabwe"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"86"	NA	NA	"20. ¿Es su género?"	NA	"Q20_Sex_sp"	TRUE	"1"	"Femenino"	"Female"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"86"	NA	NA	"20. ¿Es su género?"	NA	"Q20_Sex_sp"	TRUE	"2"	"Masculino"	"Male"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"86"	NA	NA	"20. ¿Es su género?"	NA	"Q20_Sex_sp"	TRUE	"3"	"Otro"	"Other"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"86"	NA	NA	"20. ¿Es su género?"	NA	"Q20_Sex_sp"	TRUE	"4"	"Prefiero no contestar"	"Unknown"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"88"	NA	NA	"21. ¿Cuál es el nivel de estudios más alto que ha completado?"	NA	"Q21_Education_Coded_sp"	TRUE	"1"	"Educación primaria"	"PrimarySchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"88"	NA	NA	"21. ¿Cuál es el nivel de estudios más alto que ha completado?"	NA	"Q21_Education_Coded_sp"	TRUE	"2"	"Educación especial"	"SpecialSchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"88"	NA	NA	"21. ¿Cuál es el nivel de estudios más alto que ha completado?"	NA	"Q21_Education_Coded_sp"	TRUE	"3"	"Educación secundaria"	"HighSchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"88"	NA	NA	"21. ¿Cuál es el nivel de estudios más alto que ha completado?"	NA	"Q21_Education_Coded_sp"	TRUE	"4"	"Formación profesional"	"VocationSchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"88"	NA	NA	"21. ¿Cuál es el nivel de estudios más alto que ha completado?"	NA	"Q21_Education_Coded_sp"	TRUE	"5"	"Título universitario"	"GradSchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"90"	NA	NA	"22. ¿Cuál de los siguientes describe mejor su estado civil actual?"	NA	"Q22_Relationship_Status_sp"	TRUE	"1"	"Soltero/a"	"Single"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"90"	NA	NA	"22. ¿Cuál de los siguientes describe mejor su estado civil actual?"	NA	"Q22_Relationship_Status_sp"	TRUE	"2"	"En una relación estable, no casado/a"	"Unmarried"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"90"	NA	NA	"22. ¿Cuál de los siguientes describe mejor su estado civil actual?"	NA	"Q22_Relationship_Status_sp"	TRUE	"3"	"Casado/a"	"DomesticPartner"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"90"	NA	NA	"22. ¿Cuál de los siguientes describe mejor su estado civil actual?"	NA	"Q22_Relationship_Status_sp"	TRUE	"4"	"Divorciado/a / Separado/a"	"Divorced"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"90"	NA	NA	"22. ¿Cuál de los siguientes describe mejor su estado civil actual?"	NA	"Q22_Relationship_Status_sp"	TRUE	"5"	"Viudo/a"	"Widowed"	FALSE	FALSE	1	NA	FALSE	FALSE
+"spanish"	"sp"	119161	"92"	NA	NA	"23. Actualmente, ¿está usted?"	NA	NA	TRUE	"1"	"Empleado/a o autónomo"	"Employed"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"92"	NA	NA	"23. Actualmente, ¿está usted?"	NA	NA	TRUE	"2"	"Desempleado/a"	"Unemployed"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"92"	NA	NA	"23. Actualmente, ¿está usted?"	NA	NA	TRUE	"3"	"Haciendo tareas del hogar (cuidado de la casa y la familia)"	"Stay-at-home"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"92"	NA	NA	"23. Actualmente, ¿está usted?"	NA	NA	TRUE	"4"	"Estudiando"	"Student"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"92"	NA	NA	"23. Actualmente, ¿está usted?"	NA	NA	TRUE	"5"	"Jubilado/a"	"Pensioned"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"92"	NA	NA	"23. Actualmente, ¿está usted?"	NA	NA	TRUE	"6"	"Con discapacidad para trabajar"	"Disabled"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"92"	NA	NA	"23. Actualmente, ¿está usted?"	NA	NA	TRUE	"7"	"Realizando voluntariado o trabajo no remunerado"	"Volunteer-work"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"94"	NA	NA	"24. ¿Dispone de una educación o profesión relacionada con el ámbito de la salud?"	NA	"Q24_Exp_HealthCare_sp"	TRUE	"1"	"Sí"	"Yes"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"94"	NA	NA	"24. ¿Dispone de una educación o profesión relacionada con el ámbito de la salud?"	NA	"Q24_Exp_HealthCare_sp"	TRUE	"2"	"No"	"No"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"96"	NA	NA	"25. ¿Cómo describiría su habilidad para pensar, recordar, aprender?"	NA	"Q25_Cognitive_Health_sp"	TRUE	"1"	"Excelente"	"Excellent"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"96"	NA	NA	"25. ¿Cómo describiría su habilidad para pensar, recordar, aprender?"	NA	"Q25_Cognitive_Health_sp"	TRUE	"2"	"Por encima de la media"	"AboveAverage"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"96"	NA	NA	"25. ¿Cómo describiría su habilidad para pensar, recordar, aprender?"	NA	"Q25_Cognitive_Health_sp"	TRUE	"3"	"En la media"	"Average"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"96"	NA	NA	"25. ¿Cómo describiría su habilidad para pensar, recordar, aprender?"	NA	"Q25_Cognitive_Health_sp"	TRUE	"4"	"Por debajo de la media"	"BelowAverage"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"96"	NA	NA	"25. ¿Cómo describiría su habilidad para pensar, recordar, aprender?"	NA	"Q25_Cognitive_Health_sp"	TRUE	"5"	"Muy mala"	"Poor"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"98"	NA	NA	"26. ¿Cómo describiría su habilidad para mantener en equilibrio su estado de ánimo y bienestar emocional?"	NA	"Q26_Emotional_Health_sp"	TRUE	"1"	"Excelente"	"Excellent"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"98"	NA	NA	"26. ¿Cómo describiría su habilidad para mantener en equilibrio su estado de ánimo y bienestar emocional?"	NA	"Q26_Emotional_Health_sp"	TRUE	"2"	"Por encima de la media"	"AboveAverage"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"98"	NA	NA	"26. ¿Cómo describiría su habilidad para mantener en equilibrio su estado de ánimo y bienestar emocional?"	NA	"Q26_Emotional_Health_sp"	TRUE	"3"	"En la media"	"Average"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"98"	NA	NA	"26. ¿Cómo describiría su habilidad para mantener en equilibrio su estado de ánimo y bienestar emocional?"	NA	"Q26_Emotional_Health_sp"	TRUE	"4"	"Por debajo de la media"	"BelowAverage"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"98"	NA	NA	"26. ¿Cómo describiría su habilidad para mantener en equilibrio su estado de ánimo y bienestar emocional?"	NA	"Q26_Emotional_Health_sp"	TRUE	"5"	"Muy mala"	"Poor"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"100"	NA	NA	"27. ¿Tiene alguna enfermedad de larga duración, discapacidad o problema de salud?"	NA	"Q27_Illness_sp"	TRUE	"1"	"Sí"	"Yes"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"100"	NA	NA	"27. ¿Tiene alguna enfermedad de larga duración, discapacidad o problema de salud?"	NA	"Q27_Illness_sp"	TRUE	"2"	"No"	"No"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"102"	NA	NA	"28. ¿Ha cuidado algún miembro de su familia con una enfermedad del cerebro?"	"
+
+
+
+
+"	"Q28_BrainDisease_Care_sp"	TRUE	"1"	"Sí"	"Yes"	FALSE	FALSE	NA	NA	NA	NA
+"spanish"	"sp"	119161	"102"	NA	NA	"28. ¿Ha cuidado algún miembro de su familia con una enfermedad del cerebro?"	"
+
+
+
+
+"	"Q28_BrainDisease_Care_sp"	TRUE	"2"	"No"	"No"	FALSE	FALSE	NA	NA	NA	NA

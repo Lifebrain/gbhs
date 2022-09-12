@@ -1,0 +1,146 @@
+---
+output: pdf_document
+---
+
+```{r, include=FALSE}
+l <- length(unique(data$key))
+base_fig_height <- 3
+if(l > base_fig_height)
+  base_fig_height <- l/2
+```
+
+# Question `r q`
+
+## Overall
+```{r, fig.height=base_fig_height}
+ggbar(data) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1, vjust = 1)) +
+  plot_annotation(
+       title = title,
+       caption = str_wrap(glue("{descr} "), params$chr_width)) 
+```
+
+
+## Gender
+```{r , fig.height=base_fig_height+1}
+ggbar(data, sex) +
+  plot_annotation(
+    title = title,
+    subtitle = "by gender",
+    caption = str_wrap(glue("{descr}  The number of male and female respondents differ between subplots due to missing answers."), params$chr_width)
+  )  &
+  theme(axis.text.x = element_text(angle = 45, hjust = 1, vjust = 1)) 
+```
+
+## Age groups
+```{r , fig.height=base_fig_height+2}
+ggbar(data, age) +
+  plot_annotation(
+    title = title,
+    subtitle = "by age groups",
+    caption = str_wrap(glue("{descr} "), params$chr_width)
+  )  &
+  theme( axis.text.y = element_text(size = 6),
+         axis.text.x = element_text(angle = 45, hjust = 1, vjust = 1)) 
+```
+
+## Education
+
+```{r , fig.height=base_fig_height+2}
+ggbar(data, education) +
+  plot_annotation(
+    title = title,
+    subtitle = "by education level",
+    caption = str_wrap(glue("{descr} Percentages are added to clarify how large a porportion of the {thousand(data$N)} respondents associated the diseases with the brain."), params$chr_width)
+  ) &
+  theme( axis.text.y = element_text(size = 6),
+         axis.text.x = element_text(angle = 45, hjust = 1, vjust = 1)) 
+
+```
+
+
+## Country
+
+```{r , fig.height=base_fig_height, eval = include_country}
+ggbar(data, region) +
+  plot_annotation(
+    title = title,
+    subtitle = "by country of residence",
+    caption = str_wrap(glue("{descr} "), params$chr_width)
+  ) &
+  theme( axis.text.y = element_text(size = 6),
+         axis.text.x = element_text(angle = 45, hjust = 1, vjust = 1)) 
+
+```
+
+## Health care experience/education
+
+```{r , fig.height=base_fig_height+2}
+ggbar(data, Q24_Exp_HealthCare) +
+  plot_annotation(
+    title = title,
+    subtitle = "by reported education or work experience in health care”",
+    caption = str_wrap(glue("{descr} "), params$chr_width)
+  )  &
+  theme(axis.text.x = element_text(angle = 45, hjust = 1, vjust = 1)) 
+```
+
+## Cognitive health
+
+```{r , fig.height=base_fig_height+2}
+ggbar(data, Q25_Cognitive_Health) +
+  plot_annotation(
+    title = title,
+    subtitle = "by self-rated cognitive health",
+    caption = str_wrap(glue("{descr} "), params$chr_width)
+  ) &
+  theme(axis.text.y = element_text(size = 6),
+        axis.text.x = element_text(angle = 45, hjust = 1, vjust = 1)) 
+```
+
+## Mental health
+
+```{r , fig.height=base_fig_height+2}
+ggbar(data, Q26_Emotional_Health) +
+  plot_annotation(
+    title = title,
+    subtitle = "by self-rated mental health",
+    caption = str_wrap(glue("{descr} "), params$chr_width)
+  ) &
+  theme( axis.text.x = element_text(angle = 45, hjust = 1, vjust = 1)) 
+```
+
+## Illness
+```{r , fig.height=base_fig_height+2}
+ggbar(data, Q27_Illness) +
+  plot_annotation(
+    title = title,
+    subtitle = "by experience of long-standing illness, disability or health problem",
+    caption = str_wrap(glue("{descr} Here divided whether they had experience with long-standing illness, disability, or health problem. "), params$chr_width)
+  ) &
+  theme( axis.text.x = element_text(angle = 45, hjust = 1, vjust = 1)) 
+```
+
+## Brain disease care
+
+```{r , fig.height=base_fig_height+2}
+ggbar(data, Q28_BrainDisease_Care) +
+  plot_annotation(
+    title = "Ratings of factors influencing brain health",
+    subtitle = "by experience of taking care of family member with brain disease",
+    caption = str_wrap(glue("{descr} Here divided whether they had experience with looking after a member of family with brain disease. "), params$chr_width)
+  ) &
+  theme( axis.text.x = element_text(angle = 45, hjust = 1, vjust = 1)) 
+```
+
+## Research participation
+
+```{r , fig.height=base_fig_height+2}
+ggbar(data, Q17_BrainResearch_Part) +
+  plot_annotation(
+    title = "Ratings of factors influencing brain health",
+    subtitle = "By experience of brain research participation",
+    caption = str_wrap(glue("{descr} Here divided whether they have participated in brain research projects. "), params$chr_width)
+  ) &
+  theme( axis.text.x = element_text(angle = 45, hjust = 1, vjust = 1)) 
+```

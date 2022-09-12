@@ -1,0 +1,809 @@
+"language"	"suffix"	"form_id"	"element_no"	"img_url"	"img_text"	"question"	"question_descr"	"question_codebook"	"question_mandatory"	"answer_order"	"answer_option"	"answer_codebook"	"answer_preselected"	"answer_correct"	"question_order"	"max_selected"	"question_preselected"	"question_rangemarks"
+"hungarian"	"hu"	116413	"1"	"https://www.lifebrain.uio.no/26.05.20-lifebrain-banner-1771x417.jpg"	"Lifebrain logo"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"4"	NA	NA	NA	"Kérjük, jelölje be, ha egyetért:
+"	"Consent_Form_hu"	TRUE	"1"	"Elmúltam 18 éves és hozzájárulásomat adom a válaszaim felhasználásához"	"Consent_Yes_hu"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"9"	NA	NA	NA	"Jelöljön meg egy választ.
+"	"Q01_Think_Brain_Frequency_hu"	FALSE	"1"	"Gyakran"	"Frequently"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"9"	NA	NA	NA	"Jelöljön meg egy választ.
+"	"Q01_Think_Brain_Frequency_hu"	FALSE	"2"	"Időnként"	"Occasionally"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"9"	NA	NA	NA	"Jelöljön meg egy választ.
+"	"Q01_Think_Brain_Frequency_hu"	FALSE	"3"	"Ritkán"	"Rarely"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"9"	NA	NA	NA	"Jelöljön meg egy választ.
+"	"Q01_Think_Brain_Frequency_hu"	FALSE	"4"	"Soha"	"Never"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Testi egészség"	NA	"Q02_PhyHealthInfl_hu"	FALSE	"1"	"Nagyon erősen"	"VeryStrong"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Testi egészség"	NA	"Q02_PhyHealthInfl_hu"	FALSE	"2"	"Erősen"	"Strong"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Testi egészség"	NA	"Q02_PhyHealthInfl_hu"	FALSE	"3"	"Mérsékelten"	"Moderate"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Testi egészség"	NA	"Q02_PhyHealthInfl_hu"	FALSE	"4"	"Gyengén"	"Weak"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Testi egészség"	NA	"Q02_PhyHealthInfl_hu"	FALSE	"5"	"Egyáltalán nem"	"NoInfluence"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Étkezési szokások"	NA	"Q02_DietInfl_hu"	FALSE	"1"	"Nagyon erősen"	"VeryStrong"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Étkezési szokások"	NA	"Q02_DietInfl_hu"	FALSE	"2"	"Erősen"	"Strong"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Étkezési szokások"	NA	"Q02_DietInfl_hu"	FALSE	"3"	"Mérsékelten"	"Moderate"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Étkezési szokások"	NA	"Q02_DietInfl_hu"	FALSE	"4"	"Gyengén"	"Weak"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Étkezési szokások"	NA	"Q02_DietInfl_hu"	FALSE	"5"	"Egyáltalán nem"	"NoInfluence"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Fizikai környezet (pl. légszennyezés, zaj)"	NA	"Q02_PhyEnvironmentInfl_hu"	FALSE	"1"	"Nagyon erősen"	"VeryStrong"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Fizikai környezet (pl. légszennyezés, zaj)"	NA	"Q02_PhyEnvironmentInfl_hu"	FALSE	"2"	"Erősen"	"Strong"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Fizikai környezet (pl. légszennyezés, zaj)"	NA	"Q02_PhyEnvironmentInfl_hu"	FALSE	"3"	"Mérsékelten"	"Moderate"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Fizikai környezet (pl. légszennyezés, zaj)"	NA	"Q02_PhyEnvironmentInfl_hu"	FALSE	"4"	"Gyengén"	"Weak"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Fizikai környezet (pl. légszennyezés, zaj)"	NA	"Q02_PhyEnvironmentInfl_hu"	FALSE	"5"	"Egyáltalán nem"	"NoInfluence"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Társadalmi környezet (pl. család, társadalmi háló)"	NA	"Q02_SocEnvironmentInfl_hu"	FALSE	"1"	"Nagyon erősen"	"VeryStrong"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Társadalmi környezet (pl. család, társadalmi háló)"	NA	"Q02_SocEnvironmentInfl_hu"	FALSE	"2"	"Erősen"	"Strong"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Társadalmi környezet (pl. család, társadalmi háló)"	NA	"Q02_SocEnvironmentInfl_hu"	FALSE	"3"	"Mérsékelten"	"Moderate"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Társadalmi környezet (pl. család, társadalmi háló)"	NA	"Q02_SocEnvironmentInfl_hu"	FALSE	"4"	"Gyengén"	"Weak"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Társadalmi környezet (pl. család, társadalmi háló)"	NA	"Q02_SocEnvironmentInfl_hu"	FALSE	"5"	"Egyáltalán nem"	"NoInfluence"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Képzettség"	NA	"Q02_EducationInfl_hu"	FALSE	"1"	"Nagyon erősen"	"VeryStrong"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Képzettség"	NA	"Q02_EducationInfl_hu"	FALSE	"2"	"Erősen"	"Strong"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Képzettség"	NA	"Q02_EducationInfl_hu"	FALSE	"3"	"Mérsékelten"	"Moderate"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Képzettség"	NA	"Q02_EducationInfl_hu"	FALSE	"4"	"Gyengén"	"Weak"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Képzettség"	NA	"Q02_EducationInfl_hu"	FALSE	"5"	"Egyáltalán nem"	"NoInfluence"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Szakma"	NA	"Q02_ProfessionInfl_hu"	FALSE	"1"	"Nagyon erősen"	"VeryStrong"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Szakma"	NA	"Q02_ProfessionInfl_hu"	FALSE	"2"	"Erősen"	"Strong"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Szakma"	NA	"Q02_ProfessionInfl_hu"	FALSE	"3"	"Mérsékelten"	"Moderate"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Szakma"	NA	"Q02_ProfessionInfl_hu"	FALSE	"4"	"Gyengén"	"Weak"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Szakma"	NA	"Q02_ProfessionInfl_hu"	FALSE	"5"	"Egyáltalán nem"	"NoInfluence"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Család anyagi helyzete"	NA	"Q02_IncomeInfl_hu"	FALSE	"1"	"Nagyon erősen"	"VeryStrong"	FALSE	FALSE	7	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Család anyagi helyzete"	NA	"Q02_IncomeInfl_hu"	FALSE	"2"	"Erősen"	"Strong"	FALSE	FALSE	7	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Család anyagi helyzete"	NA	"Q02_IncomeInfl_hu"	FALSE	"3"	"Mérsékelten"	"Moderate"	FALSE	FALSE	7	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Család anyagi helyzete"	NA	"Q02_IncomeInfl_hu"	FALSE	"4"	"Gyengén"	"Weak"	FALSE	FALSE	7	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Család anyagi helyzete"	NA	"Q02_IncomeInfl_hu"	FALSE	"5"	"Egyáltalán nem"	"NoInfluence"	FALSE	FALSE	7	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Genetikai tényezők és a család kórtörténete"	NA	"Q02_GeneticsInfl_hu"	FALSE	"1"	"Nagyon erősen"	"VeryStrong"	FALSE	FALSE	8	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Genetikai tényezők és a család kórtörténete"	NA	"Q02_GeneticsInfl_hu"	FALSE	"2"	"Erősen"	"Strong"	FALSE	FALSE	8	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Genetikai tényezők és a család kórtörténete"	NA	"Q02_GeneticsInfl_hu"	FALSE	"3"	"Mérsékelten"	"Moderate"	FALSE	FALSE	8	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Genetikai tényezők és a család kórtörténete"	NA	"Q02_GeneticsInfl_hu"	FALSE	"4"	"Gyengén"	"Weak"	FALSE	FALSE	8	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Genetikai tényezők és a család kórtörténete"	NA	"Q02_GeneticsInfl_hu"	FALSE	"5"	"Egyáltalán nem"	"NoInfluence"	FALSE	FALSE	8	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Szenvedélybetegségek (alkohol, dohányzás, kábítószerfogyasztás)"	NA	"Q02_SubstanceInfl_hu"	FALSE	"1"	"Nagyon erősen"	"VeryStrong"	FALSE	FALSE	9	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Szenvedélybetegségek (alkohol, dohányzás, kábítószerfogyasztás)"	NA	"Q02_SubstanceInfl_hu"	FALSE	"2"	"Erősen"	"Strong"	FALSE	FALSE	9	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Szenvedélybetegségek (alkohol, dohányzás, kábítószerfogyasztás)"	NA	"Q02_SubstanceInfl_hu"	FALSE	"3"	"Mérsékelten"	"Moderate"	FALSE	FALSE	9	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Szenvedélybetegségek (alkohol, dohányzás, kábítószerfogyasztás)"	NA	"Q02_SubstanceInfl_hu"	FALSE	"4"	"Gyengén"	"Weak"	FALSE	FALSE	9	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Szenvedélybetegségek (alkohol, dohányzás, kábítószerfogyasztás)"	NA	"Q02_SubstanceInfl_hu"	FALSE	"5"	"Egyáltalán nem"	"NoInfluence"	FALSE	FALSE	9	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Alvási szokások"	NA	"Q02_SleepHabitsInfl_hu"	FALSE	"1"	"Nagyon erősen"	"VeryStrong"	FALSE	FALSE	10	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Alvási szokások"	NA	"Q02_SleepHabitsInfl_hu"	FALSE	"2"	"Erősen"	"Strong"	FALSE	FALSE	10	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Alvási szokások"	NA	"Q02_SleepHabitsInfl_hu"	FALSE	"3"	"Mérsékelten"	"Moderate"	FALSE	FALSE	10	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Alvási szokások"	NA	"Q02_SleepHabitsInfl_hu"	FALSE	"4"	"Gyengén"	"Weak"	FALSE	FALSE	10	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Alvási szokások"	NA	"Q02_SleepHabitsInfl_hu"	FALSE	"5"	"Egyáltalán nem"	"NoInfluence"	FALSE	FALSE	10	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Célok, melyek értelmet adnak az életnek"	NA	"Q02_LifeGoalsInfl_hu"	FALSE	"1"	"Nagyon erősen"	"VeryStrong"	FALSE	FALSE	11	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Célok, melyek értelmet adnak az életnek"	NA	"Q02_LifeGoalsInfl_hu"	FALSE	"2"	"Erősen"	"Strong"	FALSE	FALSE	11	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Célok, melyek értelmet adnak az életnek"	NA	"Q02_LifeGoalsInfl_hu"	FALSE	"3"	"Mérsékelten"	"Moderate"	FALSE	FALSE	11	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Célok, melyek értelmet adnak az életnek"	NA	"Q02_LifeGoalsInfl_hu"	FALSE	"4"	"Gyengén"	"Weak"	FALSE	FALSE	11	NA	NA	NA
+"hungarian"	"hu"	116413	"12"	NA	NA	"Célok, melyek értelmet adnak az életnek"	NA	"Q02_LifeGoalsInfl_hu"	FALSE	"5"	"Egyáltalán nem"	"NoInfluence"	FALSE	FALSE	11	NA	NA	NA
+"hungarian"	"hu"	116413	"15"	NA	NA	"Az anyaméhben (születés előtt)"	NA	"Q03_Womb_hu"	FALSE	"1"	"Nagyon fontos"	"VeryImportant"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"15"	NA	NA	"Az anyaméhben (születés előtt)"	NA	"Q03_Womb_hu"	FALSE	"2"	"Fontos"	"Important"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"15"	NA	NA	"Az anyaméhben (születés előtt)"	NA	"Q03_Womb_hu"	FALSE	"3"	"Mérsékelten fontos"	"ModImportant"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"15"	NA	NA	"Az anyaméhben (születés előtt)"	NA	"Q03_Womb_hu"	FALSE	"4"	"Nem fontos"	"NotImportant"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"15"	NA	NA	"Gyerekkor (születéstől 12 éves korig)"	NA	"Q03_Child_hu"	FALSE	"1"	"Nagyon fontos"	"VeryImportant"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"15"	NA	NA	"Gyerekkor (születéstől 12 éves korig)"	NA	"Q03_Child_hu"	FALSE	"2"	"Fontos"	"Important"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"15"	NA	NA	"Gyerekkor (születéstől 12 éves korig)"	NA	"Q03_Child_hu"	FALSE	"3"	"Mérsékelten fontos"	"ModImportant"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"15"	NA	NA	"Gyerekkor (születéstől 12 éves korig)"	NA	"Q03_Child_hu"	FALSE	"4"	"Nem fontos"	"NotImportant"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"15"	NA	NA	"Kamaszkor (13-18 éves korig)"	NA	"Q03_Adolescence_hu"	FALSE	"1"	"Nagyon fontos"	"VeryImportant"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"15"	NA	NA	"Kamaszkor (13-18 éves korig)"	NA	"Q03_Adolescence_hu"	FALSE	"2"	"Fontos"	"Important"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"15"	NA	NA	"Kamaszkor (13-18 éves korig)"	NA	"Q03_Adolescence_hu"	FALSE	"3"	"Mérsékelten fontos"	"ModImportant"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"15"	NA	NA	"Kamaszkor (13-18 éves korig)"	NA	"Q03_Adolescence_hu"	FALSE	"4"	"Nem fontos"	"NotImportant"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"15"	NA	NA	"Fiatal felnőttkor (19-45 év)"	NA	"Q03_YoungAdult_hu"	FALSE	"1"	"Nagyon fontos"	"VeryImportant"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"15"	NA	NA	"Fiatal felnőttkor (19-45 év)"	NA	"Q03_YoungAdult_hu"	FALSE	"2"	"Fontos"	"Important"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"15"	NA	NA	"Fiatal felnőttkor (19-45 év)"	NA	"Q03_YoungAdult_hu"	FALSE	"3"	"Mérsékelten fontos"	"ModImportant"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"15"	NA	NA	"Fiatal felnőttkor (19-45 év)"	NA	"Q03_YoungAdult_hu"	FALSE	"4"	"Nem fontos"	"NotImportant"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"15"	NA	NA	"Felnőttkor (46-65 év)"	NA	"Q03_MiddleAge_hu"	FALSE	"1"	"Nagyon fontos"	"VeryImportant"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"15"	NA	NA	"Felnőttkor (46-65 év)"	NA	"Q03_MiddleAge_hu"	FALSE	"2"	"Fontos"	"Important"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"15"	NA	NA	"Felnőttkor (46-65 év)"	NA	"Q03_MiddleAge_hu"	FALSE	"3"	"Mérsékelten fontos"	"ModImportant"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"15"	NA	NA	"Felnőttkor (46-65 év)"	NA	"Q03_MiddleAge_hu"	FALSE	"4"	"Nem fontos"	"NotImportant"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"15"	NA	NA	"Időskor (65 év felett)"	NA	"Q03_OlderAge_hu"	FALSE	"1"	"Nagyon fontos"	"VeryImportant"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"15"	NA	NA	"Időskor (65 év felett)"	NA	"Q03_OlderAge_hu"	FALSE	"2"	"Fontos"	"Important"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"15"	NA	NA	"Időskor (65 év felett)"	NA	"Q03_OlderAge_hu"	FALSE	"3"	"Mérsékelten fontos"	"ModImportant"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"15"	NA	NA	"Időskor (65 év felett)"	NA	"Q03_OlderAge_hu"	FALSE	"4"	"Nem fontos"	"NotImportant"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"18"	NA	NA	NA	NA	NA	FALSE	"1"	"Cukorbetegség"	"Diabetes"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"18"	NA	NA	NA	NA	NA	FALSE	"2"	"Alzheimer kór és egyéb demencia"	"Alzheimer"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"18"	NA	NA	NA	NA	NA	FALSE	"3"	"Ízületi betegségek"	"Arthritis"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"18"	NA	NA	NA	NA	NA	FALSE	"4"	"Bipoláris zavar"	"Bipolar"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"18"	NA	NA	NA	NA	NA	FALSE	"5"	"Rákos megbetegedés"	"Cancer"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"18"	NA	NA	NA	NA	NA	FALSE	"6"	"Skizofrénia"	"Schizophrenia"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"18"	NA	NA	NA	NA	NA	FALSE	"7"	"Parkinson kór"	"Parkinson"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"18"	NA	NA	NA	NA	NA	FALSE	"8"	"Magas vérnyomás"	"Hypertension"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"18"	NA	NA	NA	NA	NA	FALSE	"9"	"Szenvedélybetegségek (pl. alkohol, kábítószerek fogyasztása)"	"Addiction"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"18"	NA	NA	NA	NA	NA	FALSE	"10"	"Szélütés (stroke)"	"Stroke"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"18"	NA	NA	NA	NA	NA	FALSE	"11"	"Depresszió"	"Depression"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"18"	NA	NA	NA	NA	NA	FALSE	"12"	"Migrén"	"Migraine"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"18"	NA	NA	NA	NA	NA	FALSE	"13"	"Szorongás"	"Anxiety"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Egészséges táplálkozás"	NA	"Q05_HealthyDietGen_hu"	FALSE	"1"	"Gyakran"	"Frequently"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Egészséges táplálkozás"	NA	"Q05_HealthyDietGen_hu"	FALSE	"2"	"Időnként"	"Occasionally"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Egészséges táplálkozás"	NA	"Q05_HealthyDietGen_hu"	FALSE	"3"	"Ritkán"	"Rarely"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Egészséges táplálkozás"	NA	"Q05_HealthyDietGen_hu"	FALSE	"4"	"Soha"	"Never"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Testmozgás"	NA	"Q05_ExcerciseGen_hu"	FALSE	"1"	"Gyakran"	"Frequently"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Testmozgás"	NA	"Q05_ExcerciseGen_hu"	FALSE	"2"	"Időnként"	"Occasionally"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Testmozgás"	NA	"Q05_ExcerciseGen_hu"	FALSE	"3"	"Ritkán"	"Rarely"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Testmozgás"	NA	"Q05_ExcerciseGen_hu"	FALSE	"4"	"Soha"	"Never"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Elegendő alvás"	NA	"Q05_SleepGen_hu"	FALSE	"1"	"Gyakran"	"Frequently"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Elegendő alvás"	NA	"Q05_SleepGen_hu"	FALSE	"2"	"Időnként"	"Occasionally"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Elegendő alvás"	NA	"Q05_SleepGen_hu"	FALSE	"3"	"Ritkán"	"Rarely"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Elegendő alvás"	NA	"Q05_SleepGen_hu"	FALSE	"4"	"Soha"	"Never"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Pihentető tevékenységek"	NA	"Q05_RelaxGen_hu"	FALSE	"1"	"Gyakran"	"Frequently"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Pihentető tevékenységek"	NA	"Q05_RelaxGen_hu"	FALSE	"2"	"Időnként"	"Occasionally"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Pihentető tevékenységek"	NA	"Q05_RelaxGen_hu"	FALSE	"3"	"Ritkán"	"Rarely"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Pihentető tevékenységek"	NA	"Q05_RelaxGen_hu"	FALSE	"4"	"Soha"	"Never"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Alkoholfogyasztás"	NA	"Q05_AlcoholGen_hu"	FALSE	"1"	"Gyakran"	"Frequently"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Alkoholfogyasztás"	NA	"Q05_AlcoholGen_hu"	FALSE	"2"	"Időnként"	"Occasionally"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Alkoholfogyasztás"	NA	"Q05_AlcoholGen_hu"	FALSE	"3"	"Ritkán"	"Rarely"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Alkoholfogyasztás"	NA	"Q05_AlcoholGen_hu"	FALSE	"4"	"Soha"	"Never"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Dohányzás"	NA	"Q05_SmokeGen_hu"	FALSE	"1"	"Gyakran"	"Frequently"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Dohányzás"	NA	"Q05_SmokeGen_hu"	FALSE	"2"	"Időnként"	"Occasionally"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Dohányzás"	NA	"Q05_SmokeGen_hu"	FALSE	"3"	"Ritkán"	"Rarely"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Dohányzás"	NA	"Q05_SmokeGen_hu"	FALSE	"4"	"Soha"	"Never"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Intellektus serkentése (pl. keresztrejtvényfejtés, valami új tanulása)"	NA	"Q05_IntellectGen_hu"	FALSE	"1"	"Gyakran"	"Frequently"	FALSE	FALSE	7	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Intellektus serkentése (pl. keresztrejtvényfejtés, valami új tanulása)"	NA	"Q05_IntellectGen_hu"	FALSE	"2"	"Időnként"	"Occasionally"	FALSE	FALSE	7	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Intellektus serkentése (pl. keresztrejtvényfejtés, valami új tanulása)"	NA	"Q05_IntellectGen_hu"	FALSE	"3"	"Ritkán"	"Rarely"	FALSE	FALSE	7	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Intellektus serkentése (pl. keresztrejtvényfejtés, valami új tanulása)"	NA	"Q05_IntellectGen_hu"	FALSE	"4"	"Soha"	"Never"	FALSE	FALSE	7	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Munka és magánélet egyensúlyának megteremtése"	NA	"Q05_WorkLifeBalanceGen_hu"	FALSE	"1"	"Gyakran"	"Frequently"	FALSE	FALSE	8	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Munka és magánélet egyensúlyának megteremtése"	NA	"Q05_WorkLifeBalanceGen_hu"	FALSE	"2"	"Időnként"	"Occasionally"	FALSE	FALSE	8	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Munka és magánélet egyensúlyának megteremtése"	NA	"Q05_WorkLifeBalanceGen_hu"	FALSE	"3"	"Ritkán"	"Rarely"	FALSE	FALSE	8	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Munka és magánélet egyensúlyának megteremtése"	NA	"Q05_WorkLifeBalanceGen_hu"	FALSE	"4"	"Soha"	"Never"	FALSE	FALSE	8	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Védősisak viselése (pl. biciklizéskor, síeléskor, gördeszkázás során)"	NA	"Q05_ProtectionGen_hu"	FALSE	"1"	"Gyakran"	"Frequently"	FALSE	FALSE	9	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Védősisak viselése (pl. biciklizéskor, síeléskor, gördeszkázás során)"	NA	"Q05_ProtectionGen_hu"	FALSE	"2"	"Időnként"	"Occasionally"	FALSE	FALSE	9	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Védősisak viselése (pl. biciklizéskor, síeléskor, gördeszkázás során)"	NA	"Q05_ProtectionGen_hu"	FALSE	"3"	"Ritkán"	"Rarely"	FALSE	FALSE	9	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Védősisak viselése (pl. biciklizéskor, síeléskor, gördeszkázás során)"	NA	"Q05_ProtectionGen_hu"	FALSE	"4"	"Soha"	"Never"	FALSE	FALSE	9	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Táplálékkiegészítők fogyasztása (pl. Omega 3/D vitamin)"	NA	"Q05_SupplementsGen_hu"	FALSE	"1"	"Gyakran"	"Frequently"	FALSE	FALSE	10	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Táplálékkiegészítők fogyasztása (pl. Omega 3/D vitamin)"	NA	"Q05_SupplementsGen_hu"	FALSE	"2"	"Időnként"	"Occasionally"	FALSE	FALSE	10	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Táplálékkiegészítők fogyasztása (pl. Omega 3/D vitamin)"	NA	"Q05_SupplementsGen_hu"	FALSE	"3"	"Ritkán"	"Rarely"	FALSE	FALSE	10	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Táplálékkiegészítők fogyasztása (pl. Omega 3/D vitamin)"	NA	"Q05_SupplementsGen_hu"	FALSE	"4"	"Soha"	"Never"	FALSE	FALSE	10	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Társasági élet"	NA	"Q05_SocialiseGen_hu"	FALSE	"1"	"Gyakran"	"Frequently"	FALSE	FALSE	11	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Társasági élet"	NA	"Q05_SocialiseGen_hu"	FALSE	"2"	"Időnként"	"Occasionally"	FALSE	FALSE	11	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Társasági élet"	NA	"Q05_SocialiseGen_hu"	FALSE	"3"	"Ritkán"	"Rarely"	FALSE	FALSE	11	NA	NA	NA
+"hungarian"	"hu"	116413	"21"	NA	NA	"Társasági élet"	NA	"Q05_SocialiseGen_hu"	FALSE	"4"	"Soha"	"Never"	FALSE	FALSE	11	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Egészséges táplálkozás"	NA	"Q06_HealthyDietPurp_hu"	FALSE	"1"	"Gyakran"	"Frequently"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Egészséges táplálkozás"	NA	"Q06_HealthyDietPurp_hu"	FALSE	"2"	"Időnként"	"Occasionally"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Egészséges táplálkozás"	NA	"Q06_HealthyDietPurp_hu"	FALSE	"3"	"Ritkán"	"Rarely"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Egészséges táplálkozás"	NA	"Q06_HealthyDietPurp_hu"	FALSE	"4"	"Soha"	"Never"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Testmozgás"	NA	"Q06_ExcercisePurp_hu"	FALSE	"1"	"Gyakran"	"Frequently"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Testmozgás"	NA	"Q06_ExcercisePurp_hu"	FALSE	"2"	"Időnként"	"Occasionally"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Testmozgás"	NA	"Q06_ExcercisePurp_hu"	FALSE	"3"	"Ritkán"	"Rarely"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Testmozgás"	NA	"Q06_ExcercisePurp_hu"	FALSE	"4"	"Soha"	"Never"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Elegendő alvás"	NA	"Q06_SleepPurp_hu"	FALSE	"1"	"Gyakran"	"Frequently"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Elegendő alvás"	NA	"Q06_SleepPurp_hu"	FALSE	"2"	"Időnként"	"Occasionally"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Elegendő alvás"	NA	"Q06_SleepPurp_hu"	FALSE	"3"	"Ritkán"	"Rarely"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Elegendő alvás"	NA	"Q06_SleepPurp_hu"	FALSE	"4"	"Soha"	"Never"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Pihentető tevékenységek"	NA	"Q06_RelaxPurp_hu"	FALSE	"1"	"Gyakran"	"Frequently"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Pihentető tevékenységek"	NA	"Q06_RelaxPurp_hu"	FALSE	"2"	"Időnként"	"Occasionally"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Pihentető tevékenységek"	NA	"Q06_RelaxPurp_hu"	FALSE	"3"	"Ritkán"	"Rarely"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Pihentető tevékenységek"	NA	"Q06_RelaxPurp_hu"	FALSE	"4"	"Soha"	"Never"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Munka és magánélet egyensúlyának megteremtése"	NA	"Q06_WorkLifeBalancePurp_hu"	FALSE	"1"	"Gyakran"	"Frequently"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Munka és magánélet egyensúlyának megteremtése"	NA	"Q06_WorkLifeBalancePurp_hu"	FALSE	"2"	"Időnként"	"Occasionally"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Munka és magánélet egyensúlyának megteremtése"	NA	"Q06_WorkLifeBalancePurp_hu"	FALSE	"3"	"Ritkán"	"Rarely"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Munka és magánélet egyensúlyának megteremtése"	NA	"Q06_WorkLifeBalancePurp_hu"	FALSE	"4"	"Soha"	"Never"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Védősisak viselése (pl. biciklizéskor, síeléskor, gördeszkázás során)"	NA	"Q06_ProtectionPurp_hu"	FALSE	"1"	"Gyakran"	"Frequently"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Védősisak viselése (pl. biciklizéskor, síeléskor, gördeszkázás során)"	NA	"Q06_ProtectionPurp_hu"	FALSE	"2"	"Időnként"	"Occasionally"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Védősisak viselése (pl. biciklizéskor, síeléskor, gördeszkázás során)"	NA	"Q06_ProtectionPurp_hu"	FALSE	"3"	"Ritkán"	"Rarely"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Védősisak viselése (pl. biciklizéskor, síeléskor, gördeszkázás során)"	NA	"Q06_ProtectionPurp_hu"	FALSE	"4"	"Soha"	"Never"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Táplálékkiegészítők fogyasztása (pl. Omega 3/D vitamin)"	NA	"Q06_SupplementsPurp_hu"	FALSE	"1"	"Gyakran"	"Frequently"	FALSE	FALSE	7	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Táplálékkiegészítők fogyasztása (pl. Omega 3/D vitamin)"	NA	"Q06_SupplementsPurp_hu"	FALSE	"2"	"Időnként"	"Occasionally"	FALSE	FALSE	7	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Táplálékkiegészítők fogyasztása (pl. Omega 3/D vitamin)"	NA	"Q06_SupplementsPurp_hu"	FALSE	"3"	"Ritkán"	"Rarely"	FALSE	FALSE	7	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Táplálékkiegészítők fogyasztása (pl. Omega 3/D vitamin)"	NA	"Q06_SupplementsPurp_hu"	FALSE	"4"	"Soha"	"Never"	FALSE	FALSE	7	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Társasági élet"	NA	"Q06_SocialisePurp_hu"	FALSE	"1"	"Gyakran"	"Frequently"	FALSE	FALSE	8	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Társasági élet"	NA	"Q06_SocialisePurp_hu"	FALSE	"2"	"Időnként"	"Occasionally"	FALSE	FALSE	8	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Társasági élet"	NA	"Q06_SocialisePurp_hu"	FALSE	"3"	"Ritkán"	"Rarely"	FALSE	FALSE	8	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Társasági élet"	NA	"Q06_SocialisePurp_hu"	FALSE	"4"	"Soha"	"Never"	FALSE	FALSE	8	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Egyéb tevékenység: kérjük pontosítsa alább"	NA	"Q06_OtherPurp_hu"	FALSE	"1"	"Gyakran"	"Frequently"	FALSE	FALSE	9	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Egyéb tevékenység: kérjük pontosítsa alább"	NA	"Q06_OtherPurp_hu"	FALSE	"2"	"Időnként"	"Occasionally"	FALSE	FALSE	9	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Egyéb tevékenység: kérjük pontosítsa alább"	NA	"Q06_OtherPurp_hu"	FALSE	"3"	"Ritkán"	"Rarely"	FALSE	FALSE	9	NA	NA	NA
+"hungarian"	"hu"	116413	"24"	NA	NA	"Egyéb tevékenység: kérjük pontosítsa alább"	NA	"Q06_OtherPurp_hu"	FALSE	"4"	"Soha"	"Never"	FALSE	FALSE	9	NA	NA	NA
+"hungarian"	"hu"	116413	"26"	NA	NA	NA	NA	"Q06_BrainHealth_Purpose_Spec_hu"	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"29"	NA	NA	NA	NA	NA	TRUE	"1"	"Megfizethető"	"Cheap"	FALSE	FALSE	NA	3	NA	NA
+"hungarian"	"hu"	116413	"29"	NA	NA	NA	NA	NA	TRUE	"2"	"Gyorsan elvégezhető"	"Quick"	FALSE	FALSE	NA	3	NA	NA
+"hungarian"	"hu"	116413	"29"	NA	NA	NA	NA	NA	TRUE	"3"	"Pontos"	"Accurate"	FALSE	FALSE	NA	3	NA	NA
+"hungarian"	"hu"	116413	"29"	NA	NA	NA	NA	NA	TRUE	"4"	"Fájdalommentes"	"NoPain"	FALSE	FALSE	NA	3	NA	NA
+"hungarian"	"hu"	116413	"29"	NA	NA	NA	NA	NA	TRUE	"5"	"Állami egészégügyi rendszeren belül elérhető (pl. háziorvosnál)"	"SocialSecurity"	FALSE	FALSE	NA	3	NA	NA
+"hungarian"	"hu"	116413	"29"	NA	NA	NA	NA	NA	TRUE	"6"	"Online közvetlenül elérhető teszteredményeket adjon"	"OnlineCriteria"	FALSE	FALSE	NA	3	NA	NA
+"hungarian"	"hu"	116413	"29"	NA	NA	NA	NA	NA	TRUE	"7"	"Egyéb: kérjük pontosítsa alább"	"OtherCriteria"	FALSE	FALSE	NA	3	NA	NA
+"hungarian"	"hu"	116413	"31"	NA	NA	NA	NA	"Q07_Test_Criteria_Spec_hu"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"34"	NA	NA	NA	"Kérjük, egy választ jelöljön meg.
+"	"Q08_Take_Test_hu"	TRUE	"1"	"Mindenképpen igen"	"Definitely"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"34"	NA	NA	NA	"Kérjük, egy választ jelöljön meg.
+"	"Q08_Take_Test_hu"	TRUE	"2"	"Talán igen"	"Probably"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"34"	NA	NA	NA	"Kérjük, egy választ jelöljön meg.
+"	"Q08_Take_Test_hu"	TRUE	"3"	"Valószínűleg nem"	"ProbablyNot"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"34"	NA	NA	NA	"Kérjük, egy választ jelöljön meg.
+"	"Q08_Take_Test_hu"	TRUE	"4"	"Egyértelműen nem"	"DefinitelyNot"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"37"	NA	NA	NA	NA	NA	TRUE	"1"	"Információt szerezzek a kognitív és mentális egészségemről"	"Information"	FALSE	FALSE	NA	2	NA	NA
+"hungarian"	"hu"	116413	"37"	NA	NA	NA	NA	NA	TRUE	"2"	"Megtudjam, hogy ki vagyok-e téve agyi betegség kockázatának"	"LearnRisk"	FALSE	FALSE	NA	2	NA	NA
+"hungarian"	"hu"	116413	"37"	NA	NA	NA	NA	NA	TRUE	"3"	"Tehessek valamit, ha agyi betegség kockázatának vagyok kitéve (pl. életmódváltás, tanácsadás, kezelés)"	"Respond"	FALSE	FALSE	NA	2	NA	NA
+"hungarian"	"hu"	116413	"37"	NA	NA	NA	NA	NA	TRUE	"4"	"Felkészüljek a jövőre (pl. informáljam a családomat a kockázatról)"	"Prepare"	FALSE	FALSE	NA	2	NA	NA
+"hungarian"	"hu"	116413	"37"	NA	NA	NA	NA	NA	TRUE	"5"	"Egyéb motiváció: kérjük pontosítsa alább"	"OtherMotivation"	FALSE	FALSE	NA	2	NA	NA
+"hungarian"	"hu"	116413	"39"	NA	NA	NA	NA	"Q09a_Test_Reason_Spec_hu"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"42"	NA	NA	NA	"Select one answer.
+
+
+"	"Q09b_Test_Nonpreventable_hu"	TRUE	"1"	"Mindenképpen igen"	"DefYes"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"42"	NA	NA	NA	"Select one answer.
+
+
+"	"Q09b_Test_Nonpreventable_hu"	TRUE	"2"	"Talán igen"	"ProbablyYes"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"42"	NA	NA	NA	"Select one answer.
+
+
+"	"Q09b_Test_Nonpreventable_hu"	TRUE	"3"	"Valószínűleg nem"	"Probablynot"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"42"	NA	NA	NA	"Select one answer.
+
+
+"	"Q09b_Test_Nonpreventable_hu"	TRUE	"4"	"Egyértelműen nem"	"DefNot"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"45"	NA	NA	NA	NA	NA	TRUE	"1"	"Nem szeretnék aggódni valami olyan dolog miatt, ami nem biztos hogy bekövetkezik"	"Worry"	FALSE	FALSE	NA	2	NA	NA
+"hungarian"	"hu"	116413	"45"	NA	NA	NA	NA	NA	TRUE	"2"	"Nem szeretnék tudni egy olyan betegségről, ami nem kezelhető vagy gyógyítható"	"DoNotWantoKnow"	FALSE	FALSE	NA	2	NA	NA
+"hungarian"	"hu"	116413	"45"	NA	NA	NA	NA	NA	TRUE	"3"	"Félnék az eredménytől"	"Frightened"	FALSE	FALSE	NA	2	NA	NA
+"hungarian"	"hu"	116413	"45"	NA	NA	NA	NA	NA	TRUE	"4"	"Nem tehetek semmit az agyam egészségéért"	"Helpless"	FALSE	FALSE	NA	2	NA	NA
+"hungarian"	"hu"	116413	"45"	NA	NA	NA	NA	NA	TRUE	"5"	"Egyéb ok: kérjük pontosítsa alább"	"OtherReason"	FALSE	FALSE	NA	2	NA	NA
+"hungarian"	"hu"	116413	"47"	NA	NA	NA	NA	"Q09c_OtherReason_Spec_hu"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"50"	NA	NA	"Szakmai segítséget kérnék (pl. orvos)"	NA	"Q10_ProfessHelp_hu"	FALSE	"1"	"Nagyon valószínű"	"DefYes"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"50"	NA	NA	"Szakmai segítséget kérnék (pl. orvos)"	NA	"Q10_ProfessHelp_hu"	FALSE	"2"	"Elképzelhető"	"Likely"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"50"	NA	NA	"Szakmai segítséget kérnék (pl. orvos)"	NA	"Q10_ProfessHelp_hu"	FALSE	"3"	"Nem valószínű"	"Unlikely"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"50"	NA	NA	"Szakmai segítséget kérnék (pl. orvos)"	NA	"Q10_ProfessHelp_hu"	FALSE	"4"	"Egyáltalán nem valószínű"	"Defnot"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"50"	NA	NA	"A családomtól és barátaimtól kérnék segítséget"	NA	"Q10_FamilyFriends_hu"	FALSE	"1"	"Nagyon valószínű"	"DefYes"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"50"	NA	NA	"A családomtól és barátaimtól kérnék segítséget"	NA	"Q10_FamilyFriends_hu"	FALSE	"2"	"Elképzelhető"	"Likely"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"50"	NA	NA	"A családomtól és barátaimtól kérnék segítséget"	NA	"Q10_FamilyFriends_hu"	FALSE	"3"	"Nem valószínű"	"Unlikely"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"50"	NA	NA	"A családomtól és barátaimtól kérnék segítséget"	NA	"Q10_FamilyFriends_hu"	FALSE	"4"	"Egyáltalán nem valószínű"	"Defnot"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"50"	NA	NA	"Az interneten vagy könyvtárban informálódnék"	NA	"Q10_Library_hu"	FALSE	"1"	"Nagyon valószínű"	"DefYes"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"50"	NA	NA	"Az interneten vagy könyvtárban informálódnék"	NA	"Q10_Library_hu"	FALSE	"2"	"Elképzelhető"	"Likely"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"50"	NA	NA	"Az interneten vagy könyvtárban informálódnék"	NA	"Q10_Library_hu"	FALSE	"3"	"Nem valószínű"	"Unlikely"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"50"	NA	NA	"Az interneten vagy könyvtárban informálódnék"	NA	"Q10_Library_hu"	FALSE	"4"	"Egyáltalán nem valószínű"	"Defnot"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"50"	NA	NA	"Ha szükséges, életmódot váltanék"	NA	"Q10_LifestyleChange_hu"	FALSE	"1"	"Nagyon valószínű"	"DefYes"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"50"	NA	NA	"Ha szükséges, életmódot váltanék"	NA	"Q10_LifestyleChange_hu"	FALSE	"2"	"Elképzelhető"	"Likely"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"50"	NA	NA	"Ha szükséges, életmódot váltanék"	NA	"Q10_LifestyleChange_hu"	FALSE	"3"	"Nem valószínű"	"Unlikely"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"50"	NA	NA	"Ha szükséges, életmódot váltanék"	NA	"Q10_LifestyleChange_hu"	FALSE	"4"	"Egyáltalán nem valószínű"	"Defnot"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"50"	NA	NA	"A jövőt tervezném"	NA	"Q10_Plan_hu"	FALSE	"1"	"Nagyon valószínű"	"DefYes"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"50"	NA	NA	"A jövőt tervezném"	NA	"Q10_Plan_hu"	FALSE	"2"	"Elképzelhető"	"Likely"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"50"	NA	NA	"A jövőt tervezném"	NA	"Q10_Plan_hu"	FALSE	"3"	"Nem valószínű"	"Unlikely"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"50"	NA	NA	"A jövőt tervezném"	NA	"Q10_Plan_hu"	FALSE	"4"	"Egyáltalán nem valószínű"	"Defnot"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"52"	NA	NA	NA	"
+
+
+
+
+"	"Q10_TestReactionSpec_hu"	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Egészségesebben táplálkoznék"	NA	"Q11_EatHealthy_hu"	FALSE	"1"	"Nagyon valószínű"	"VeryLikely"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Egészségesebben táplálkoznék"	NA	"Q11_EatHealthy_hu"	FALSE	"2"	"Valószínű"	"Likely"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Egészségesebben táplálkoznék"	NA	"Q11_EatHealthy_hu"	FALSE	"3"	"Ezt már most is csinálom"	"AlreadyDo"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Egészségesebben táplálkoznék"	NA	"Q11_EatHealthy_hu"	FALSE	"4"	"Nem valószínű"	"Unlikely"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Egészségesebben táplálkoznék"	NA	"Q11_EatHealthy_hu"	FALSE	"5"	"Nagyon nem valószínű"	"NotAtAll"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Többet mozognék"	NA	"Q11_ExcerciseMore_hu"	FALSE	"1"	"Nagyon valószínű"	"VeryLikely"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Többet mozognék"	NA	"Q11_ExcerciseMore_hu"	FALSE	"2"	"Valószínű"	"Likely"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Többet mozognék"	NA	"Q11_ExcerciseMore_hu"	FALSE	"3"	"Ezt már most is csinálom"	"AlreadyDo"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Többet mozognék"	NA	"Q11_ExcerciseMore_hu"	FALSE	"4"	"Nem valószínű"	"Unlikely"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Többet mozognék"	NA	"Q11_ExcerciseMore_hu"	FALSE	"5"	"Nagyon nem valószínű"	"NotAtAll"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Jobb alvási szokásokat vezetnék be"	NA	"Q11_ImprSleepingHabits_hu"	FALSE	"1"	"Nagyon valószínű"	"VeryLikely"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Jobb alvási szokásokat vezetnék be"	NA	"Q11_ImprSleepingHabits_hu"	FALSE	"2"	"Valószínű"	"Likely"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Jobb alvási szokásokat vezetnék be"	NA	"Q11_ImprSleepingHabits_hu"	FALSE	"3"	"Ezt már most is csinálom"	"AlreadyDo"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Jobb alvási szokásokat vezetnék be"	NA	"Q11_ImprSleepingHabits_hu"	FALSE	"4"	"Nem valószínű"	"Unlikely"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Jobb alvási szokásokat vezetnék be"	NA	"Q11_ImprSleepingHabits_hu"	FALSE	"5"	"Nagyon nem valószínű"	"NotAtAll"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Több pihentető tevékenységet végeznék"	NA	"Q11_MoreRelax_hu"	FALSE	"1"	"Nagyon valószínű"	"VeryLikely"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Több pihentető tevékenységet végeznék"	NA	"Q11_MoreRelax_hu"	FALSE	"2"	"Valószínű"	"Likely"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Több pihentető tevékenységet végeznék"	NA	"Q11_MoreRelax_hu"	FALSE	"3"	"Ezt már most is csinálom"	"AlreadyDo"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Több pihentető tevékenységet végeznék"	NA	"Q11_MoreRelax_hu"	FALSE	"4"	"Nem valószínű"	"Unlikely"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Több pihentető tevékenységet végeznék"	NA	"Q11_MoreRelax_hu"	FALSE	"5"	"Nagyon nem valószínű"	"NotAtAll"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"A gondolkodásomat serkenteném (pl. új nyelv tanulása)"	NA	"Q11_BrainStimuli_hu"	FALSE	"1"	"Nagyon valószínű"	"VeryLikely"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"A gondolkodásomat serkenteném (pl. új nyelv tanulása)"	NA	"Q11_BrainStimuli_hu"	FALSE	"2"	"Valószínű"	"Likely"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"A gondolkodásomat serkenteném (pl. új nyelv tanulása)"	NA	"Q11_BrainStimuli_hu"	FALSE	"3"	"Ezt már most is csinálom"	"AlreadyDo"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"A gondolkodásomat serkenteném (pl. új nyelv tanulása)"	NA	"Q11_BrainStimuli_hu"	FALSE	"4"	"Nem valószínű"	"Unlikely"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"A gondolkodásomat serkenteném (pl. új nyelv tanulása)"	NA	"Q11_BrainStimuli_hu"	FALSE	"5"	"Nagyon nem valószínű"	"NotAtAll"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Mellőzném az alkoholfogyasztást"	NA	"Q11_NoAlcohol_hu"	FALSE	"1"	"Nagyon valószínű"	"VeryLikely"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Mellőzném az alkoholfogyasztást"	NA	"Q11_NoAlcohol_hu"	FALSE	"2"	"Valószínű"	"Likely"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Mellőzném az alkoholfogyasztást"	NA	"Q11_NoAlcohol_hu"	FALSE	"3"	"Ezt már most is csinálom"	"AlreadyDo"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Mellőzném az alkoholfogyasztást"	NA	"Q11_NoAlcohol_hu"	FALSE	"4"	"Nem valószínű"	"Unlikely"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Mellőzném az alkoholfogyasztást"	NA	"Q11_NoAlcohol_hu"	FALSE	"5"	"Nagyon nem valószínű"	"NotAtAll"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Mellőzném a dohányzást"	NA	"Q11_NoSmoking_hu"	FALSE	"1"	"Nagyon valószínű"	"VeryLikely"	FALSE	FALSE	7	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Mellőzném a dohányzást"	NA	"Q11_NoSmoking_hu"	FALSE	"2"	"Valószínű"	"Likely"	FALSE	FALSE	7	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Mellőzném a dohányzást"	NA	"Q11_NoSmoking_hu"	FALSE	"3"	"Ezt már most is csinálom"	"AlreadyDo"	FALSE	FALSE	7	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Mellőzném a dohányzást"	NA	"Q11_NoSmoking_hu"	FALSE	"4"	"Nem valószínű"	"Unlikely"	FALSE	FALSE	7	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Mellőzném a dohányzást"	NA	"Q11_NoSmoking_hu"	FALSE	"5"	"Nagyon nem valószínű"	"NotAtAll"	FALSE	FALSE	7	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Többet járnék társaságba"	NA	"Q11_MoreSocial_hu"	FALSE	"1"	"Nagyon valószínű"	"VeryLikely"	FALSE	FALSE	8	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Többet járnék társaságba"	NA	"Q11_MoreSocial_hu"	FALSE	"2"	"Valószínű"	"Likely"	FALSE	FALSE	8	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Többet járnék társaságba"	NA	"Q11_MoreSocial_hu"	FALSE	"3"	"Ezt már most is csinálom"	"AlreadyDo"	FALSE	FALSE	8	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Többet járnék társaságba"	NA	"Q11_MoreSocial_hu"	FALSE	"4"	"Nem valószínű"	"Unlikely"	FALSE	FALSE	8	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Többet járnék társaságba"	NA	"Q11_MoreSocial_hu"	FALSE	"5"	"Nagyon nem valószínű"	"NotAtAll"	FALSE	FALSE	8	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Több kulturális eseményen vennék részt"	NA	"Q11_MoreCulture_hu"	FALSE	"1"	"Nagyon valószínű"	"VeryLikely"	FALSE	FALSE	9	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Több kulturális eseményen vennék részt"	NA	"Q11_MoreCulture_hu"	FALSE	"2"	"Valószínű"	"Likely"	FALSE	FALSE	9	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Több kulturális eseményen vennék részt"	NA	"Q11_MoreCulture_hu"	FALSE	"3"	"Ezt már most is csinálom"	"AlreadyDo"	FALSE	FALSE	9	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Több kulturális eseményen vennék részt"	NA	"Q11_MoreCulture_hu"	FALSE	"4"	"Nem valószínű"	"Unlikely"	FALSE	FALSE	9	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Több kulturális eseményen vennék részt"	NA	"Q11_MoreCulture_hu"	FALSE	"5"	"Nagyon nem valószínű"	"NotAtAll"	FALSE	FALSE	9	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Egyéb: kérjük, pontosítsa alább"	NA	"Q11_OtherChanges_hu"	FALSE	"1"	"Nagyon valószínű"	"VeryLikely"	FALSE	FALSE	10	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Egyéb: kérjük, pontosítsa alább"	NA	"Q11_OtherChanges_hu"	FALSE	"2"	"Valószínű"	"Likely"	FALSE	FALSE	10	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Egyéb: kérjük, pontosítsa alább"	NA	"Q11_OtherChanges_hu"	FALSE	"3"	"Ezt már most is csinálom"	"AlreadyDo"	FALSE	FALSE	10	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Egyéb: kérjük, pontosítsa alább"	NA	"Q11_OtherChanges_hu"	FALSE	"4"	"Nem valószínű"	"Unlikely"	FALSE	FALSE	10	NA	NA	NA
+"hungarian"	"hu"	116413	"55"	NA	NA	"Egyéb: kérjük, pontosítsa alább"	NA	"Q11_OtherChanges_hu"	FALSE	"5"	"Nagyon nem valószínű"	"NotAtAll"	FALSE	FALSE	10	NA	NA	NA
+"hungarian"	"hu"	116413	"57"	NA	NA	NA	NA	"Q11_OtherChanges_Spec_hu"	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"60"	NA	NA	NA	NA	NA	TRUE	"1"	"Ha változásokat tapasztalnék az agyam működésében (pl. memóriazavar)"	"WorseMemory"	FALSE	FALSE	NA	3	NA	NA
+"hungarian"	"hu"	116413	"60"	NA	NA	NA	NA	NA	TRUE	"2"	"Ha agyi betegséggel diagnosztizálnának"	"Diagnose"	FALSE	FALSE	NA	3	NA	NA
+"hungarian"	"hu"	116413	"60"	NA	NA	NA	NA	NA	TRUE	"3"	"Ha az életmódváltás szórakoztató és élvezetes lenne"	"Fun"	FALSE	FALSE	NA	3	NA	NA
+"hungarian"	"hu"	116413	"60"	NA	NA	NA	NA	NA	TRUE	"4"	"Ha az életmódváltás megfizethető lenne"	"Affordable"	FALSE	FALSE	NA	3	NA	NA
+"hungarian"	"hu"	116413	"60"	NA	NA	NA	NA	NA	TRUE	"5"	"Ha a rokonaim vagy a barátaim agyi betegségben szenvednének"	"Family"	FALSE	FALSE	NA	3	NA	NA
+"hungarian"	"hu"	116413	"60"	NA	NA	NA	NA	NA	TRUE	"6"	"Ha személyre szabott egészségügyi tanácsot kapnék (pl. az orvosomtól)"	"PersonalAdvice"	FALSE	FALSE	NA	3	NA	NA
+"hungarian"	"hu"	116413	"60"	NA	NA	NA	NA	NA	TRUE	"7"	"Ha a barátaim, családom támogatnának ebben"	"FamilySupport"	FALSE	FALSE	NA	3	NA	NA
+"hungarian"	"hu"	116413	"60"	NA	NA	NA	NA	NA	TRUE	"8"	"Ha köztudott lenne, hogy az életmódváltás valós eredményekkel jár"	"ImpactKnown"	FALSE	FALSE	NA	3	NA	NA
+"hungarian"	"hu"	116413	"60"	NA	NA	NA	NA	NA	TRUE	"9"	"Semmi sem tudna motiválni"	"NoMotivation"	FALSE	FALSE	NA	3	NA	NA
+"hungarian"	"hu"	116413	"60"	NA	NA	NA	NA	NA	TRUE	"10"	"Egyéb: kérjük pontosítsa alább"	"OtherMotivationChange"	FALSE	FALSE	NA	3	NA	NA
+"hungarian"	"hu"	116413	"62"	NA	NA	NA	NA	"Q12_OtherChangeMotivation_Spec_hu"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"65"	NA	NA	NA	NA	NA	TRUE	"1"	"Idő hiánya"	"NoTime"	FALSE	FALSE	NA	3	NA	NA
+"hungarian"	"hu"	116413	"65"	NA	NA	NA	NA	NA	TRUE	"2"	"Motiváció hiánya"	"NoMotivation"	FALSE	FALSE	NA	3	NA	NA
+"hungarian"	"hu"	116413	"65"	NA	NA	NA	NA	NA	TRUE	"3"	"Információ hiánya"	"NoInfo"	FALSE	FALSE	NA	3	NA	NA
+"hungarian"	"hu"	116413	"65"	NA	NA	NA	NA	NA	TRUE	"4"	"Ha fel kéne adnom olyan tevékenységeket, amiket szeretek"	"GiveupHobby"	FALSE	FALSE	NA	3	NA	NA
+"hungarian"	"hu"	116413	"65"	NA	NA	NA	NA	NA	TRUE	"5"	"Ha el kellene kezdenem olyan tevékenységeket, amiket nem szeretek"	"StartNoFun"	FALSE	FALSE	NA	3	NA	NA
+"hungarian"	"hu"	116413	"65"	NA	NA	NA	NA	NA	TRUE	"6"	"Ha egyedül kéne belefognom az életmódváltásba"	"Alone"	FALSE	FALSE	NA	3	NA	NA
+"hungarian"	"hu"	116413	"65"	NA	NA	NA	NA	NA	TRUE	"7"	"Ha a változások sokba kerülnének"	"Expensive"	FALSE	FALSE	NA	3	NA	NA
+"hungarian"	"hu"	116413	"65"	NA	NA	NA	NA	NA	TRUE	"8"	"Ha nem volnék biztos benne, hogy ezek a változások segítenek"	"NotHelp"	FALSE	FALSE	NA	3	NA	NA
+"hungarian"	"hu"	116413	"65"	NA	NA	NA	NA	NA	TRUE	"9"	"Nem érzem szükségét az életmódváltásnak"	"NoNeed"	FALSE	FALSE	NA	3	NA	NA
+"hungarian"	"hu"	116413	"65"	NA	NA	NA	NA	NA	TRUE	"10"	"Egyéb: kérjük pontosítsa alább"	"OtherMotivationNoChange"	FALSE	FALSE	NA	3	NA	NA
+"hungarian"	"hu"	116413	"67"	NA	NA	NA	NA	"Q13_SpecifyNoMotivation_Spec_hu"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"70"	NA	NA	NA	NA	NA	FALSE	"1"	"Szakember tanácsára (pl. diatetikus vagy személyi edző)"	"GP"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"70"	NA	NA	NA	NA	NA	FALSE	"2"	"Családom és barátaim támogatására"	"SupportFamily"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"70"	NA	NA	NA	NA	NA	FALSE	"3"	"Csoport támogatására (pl. túracsoport)"	"GroupSupport"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"70"	NA	NA	NA	NA	NA	FALSE	"4"	"Mobil applikáció agytorna és edzések elvégzésének támogatására"	"MobileApp"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"70"	NA	NA	NA	NA	NA	FALSE	"5"	"Gyakori mérések az eredmények igazolására"	"Checkup"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"70"	NA	NA	NA	NA	NA	FALSE	"6"	"Segítség egyéb formája: kérjük, pontosítsa alább"	"OtherAssistance"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"72"	NA	NA	NA	NA	"Q14_OtherAssistance_Spec_hu"	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"75"	NA	NA	"A társadalom informálása az agy egészségéről"	NA	"Q15_InformAuth_hu"	FALSE	"1"	"Igen"	"Yes"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"75"	NA	NA	"A társadalom informálása az agy egészségéről"	NA	"Q15_InformAuth_hu"	FALSE	"2"	"Nem"	"No"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"75"	NA	NA	"A társadalom informálása az agy egészségéről"	NA	"Q15_InformAuth_hu"	FALSE	"3"	"Nem tudom"	"Unknown"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"75"	NA	NA	"Az agy egészségét veszélyeztető termékek adójának emelése"	NA	"Q15_TaxAuth_hu"	FALSE	"1"	"Igen"	"Yes"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"75"	NA	NA	"Az agy egészségét veszélyeztető termékek adójának emelése"	NA	"Q15_TaxAuth_hu"	FALSE	"2"	"Nem"	"No"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"75"	NA	NA	"Az agy egészségét veszélyeztető termékek adójának emelése"	NA	"Q15_TaxAuth_hu"	FALSE	"3"	"Nem tudom"	"Unknown"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"75"	NA	NA	"Az agy egészségét javító tevékenységek támogatása"	NA	"Q15_SubsAuth_hu"	FALSE	"1"	"Igen"	"Yes"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"75"	NA	NA	"Az agy egészségét javító tevékenységek támogatása"	NA	"Q15_SubsAuth_hu"	FALSE	"2"	"Nem"	"No"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"75"	NA	NA	"Az agy egészségét javító tevékenységek támogatása"	NA	"Q15_SubsAuth_hu"	FALSE	"3"	"Nem tudom"	"Unknown"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"75"	NA	NA	"Az agy egészségét mérő tesztek ingyenessé tétele"	NA	"Q15_FreetestAuth_hu"	FALSE	"1"	"Igen"	"Yes"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"75"	NA	NA	"Az agy egészségét mérő tesztek ingyenessé tétele"	NA	"Q15_FreetestAuth_hu"	FALSE	"2"	"Nem"	"No"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"75"	NA	NA	"Az agy egészségét mérő tesztek ingyenessé tétele"	NA	"Q15_FreetestAuth_hu"	FALSE	"3"	"Nem tudom"	"Unknown"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"75"	NA	NA	"Pihentető tevékenységek és sportok bevezetése az iskolában/munkahelyen"	NA	"Q15_RelaxAuth_hu"	FALSE	"1"	"Igen"	"Yes"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"75"	NA	NA	"Pihentető tevékenységek és sportok bevezetése az iskolában/munkahelyen"	NA	"Q15_RelaxAuth_hu"	FALSE	"2"	"Nem"	"No"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"75"	NA	NA	"Pihentető tevékenységek és sportok bevezetése az iskolában/munkahelyen"	NA	"Q15_RelaxAuth_hu"	FALSE	"3"	"Nem tudom"	"Unknown"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"75"	NA	NA	"Megakadályozni a biztosítócégeket abban, hogy visszaéljenek az agyi egészséget mérő tesztek eredményeivel"	NA	"Q15_InsAuth_hu"	FALSE	"1"	"Igen"	"Yes"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"75"	NA	NA	"Megakadályozni a biztosítócégeket abban, hogy visszaéljenek az agyi egészséget mérő tesztek eredményeivel"	NA	"Q15_InsAuth_hu"	FALSE	"2"	"Nem"	"No"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"75"	NA	NA	"Megakadályozni a biztosítócégeket abban, hogy visszaéljenek az agyi egészséget mérő tesztek eredményeivel"	NA	"Q15_InsAuth_hu"	FALSE	"3"	"Nem tudom"	"Unknown"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"78"	NA	NA	"Háziorvos"	NA	"Q16_GP_hu"	FALSE	"1"	"Nagymértékben"	"GreatExtent"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"78"	NA	NA	"Háziorvos"	NA	"Q16_GP_hu"	FALSE	"2"	"Részben"	"Neutral"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"78"	NA	NA	"Háziorvos"	NA	"Q16_GP_hu"	FALSE	"3"	"Egyáltalán nem"	"NotatAll"	FALSE	FALSE	1	NA	NA	NA
+"hungarian"	"hu"	116413	"78"	NA	NA	"Agy egészségére szakosodott specialista"	NA	"Q16_BrainHealthSpec_hu"	FALSE	"1"	"Nagymértékben"	"GreatExtent"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"78"	NA	NA	"Agy egészségére szakosodott specialista"	NA	"Q16_BrainHealthSpec_hu"	FALSE	"2"	"Részben"	"Neutral"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"78"	NA	NA	"Agy egészségére szakosodott specialista"	NA	"Q16_BrainHealthSpec_hu"	FALSE	"3"	"Egyáltalán nem"	"NotatAll"	FALSE	FALSE	2	NA	NA	NA
+"hungarian"	"hu"	116413	"78"	NA	NA	"Online gyógyászati fórumok"	NA	"Q16_OnlineForum_hu"	FALSE	"1"	"Nagymértékben"	"GreatExtent"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"78"	NA	NA	"Online gyógyászati fórumok"	NA	"Q16_OnlineForum_hu"	FALSE	"2"	"Részben"	"Neutral"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"78"	NA	NA	"Online gyógyászati fórumok"	NA	"Q16_OnlineForum_hu"	FALSE	"3"	"Egyáltalán nem"	"NotatAll"	FALSE	FALSE	3	NA	NA	NA
+"hungarian"	"hu"	116413	"78"	NA	NA	"Állami egészségügyi intézmények hivatalos honlapjai"	NA	"Q16_HealthAuthWebsites_hu"	FALSE	"1"	"Nagymértékben"	"GreatExtent"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"78"	NA	NA	"Állami egészségügyi intézmények hivatalos honlapjai"	NA	"Q16_HealthAuthWebsites_hu"	FALSE	"2"	"Részben"	"Neutral"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"78"	NA	NA	"Állami egészségügyi intézmények hivatalos honlapjai"	NA	"Q16_HealthAuthWebsites_hu"	FALSE	"3"	"Egyáltalán nem"	"NotatAll"	FALSE	FALSE	4	NA	NA	NA
+"hungarian"	"hu"	116413	"78"	NA	NA	"Újságok, magazinok"	NA	"Q16_Newspaper_hu"	FALSE	"1"	"Nagymértékben"	"GreatExtent"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"78"	NA	NA	"Újságok, magazinok"	NA	"Q16_Newspaper_hu"	FALSE	"2"	"Részben"	"Neutral"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"78"	NA	NA	"Újságok, magazinok"	NA	"Q16_Newspaper_hu"	FALSE	"3"	"Egyáltalán nem"	"NotatAll"	FALSE	FALSE	5	NA	NA	NA
+"hungarian"	"hu"	116413	"78"	NA	NA	"Közösségi média (pl. Facebook, Twitter, Instagram)"	NA	"Q16_SocialMedia_hu"	FALSE	"1"	"Nagymértékben"	"GreatExtent"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"78"	NA	NA	"Közösségi média (pl. Facebook, Twitter, Instagram)"	NA	"Q16_SocialMedia_hu"	FALSE	"2"	"Részben"	"Neutral"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"78"	NA	NA	"Közösségi média (pl. Facebook, Twitter, Instagram)"	NA	"Q16_SocialMedia_hu"	FALSE	"3"	"Egyáltalán nem"	"NotatAll"	FALSE	FALSE	6	NA	NA	NA
+"hungarian"	"hu"	116413	"78"	NA	NA	"TV/Rádió (beletértve a podcastokat)"	NA	"Q16_TVRadio_hu"	FALSE	"1"	"Nagymértékben"	"GreatExtent"	FALSE	FALSE	7	NA	NA	NA
+"hungarian"	"hu"	116413	"78"	NA	NA	"TV/Rádió (beletértve a podcastokat)"	NA	"Q16_TVRadio_hu"	FALSE	"2"	"Részben"	"Neutral"	FALSE	FALSE	7	NA	NA	NA
+"hungarian"	"hu"	116413	"78"	NA	NA	"TV/Rádió (beletértve a podcastokat)"	NA	"Q16_TVRadio_hu"	FALSE	"3"	"Egyáltalán nem"	"NotatAll"	FALSE	FALSE	7	NA	NA	NA
+"hungarian"	"hu"	116413	"78"	NA	NA	"Kutatók"	NA	"Q16_PublicResearch_hu"	FALSE	"1"	"Nagymértékben"	"GreatExtent"	FALSE	FALSE	8	NA	NA	NA
+"hungarian"	"hu"	116413	"78"	NA	NA	"Kutatók"	NA	"Q16_PublicResearch_hu"	FALSE	"2"	"Részben"	"Neutral"	FALSE	FALSE	8	NA	NA	NA
+"hungarian"	"hu"	116413	"78"	NA	NA	"Kutatók"	NA	"Q16_PublicResearch_hu"	FALSE	"3"	"Egyáltalán nem"	"NotatAll"	FALSE	FALSE	8	NA	NA	NA
+"hungarian"	"hu"	116413	"78"	NA	NA	"Tudományos folyóiratok"	NA	"Q16_ScientificJournals_hu"	FALSE	"1"	"Nagymértékben"	"GreatExtent"	FALSE	FALSE	9	NA	NA	NA
+"hungarian"	"hu"	116413	"78"	NA	NA	"Tudományos folyóiratok"	NA	"Q16_ScientificJournals_hu"	FALSE	"2"	"Részben"	"Neutral"	FALSE	FALSE	9	NA	NA	NA
+"hungarian"	"hu"	116413	"78"	NA	NA	"Tudományos folyóiratok"	NA	"Q16_ScientificJournals_hu"	FALSE	"3"	"Egyáltalán nem"	"NotatAll"	FALSE	FALSE	9	NA	NA	NA
+"hungarian"	"hu"	116413	"81"	NA	NA	"17. Részt vesz jelenleg/részt vett valaha agykutatási projektben?"	NA	"Q17_BrainResearch_Part_hu"	TRUE	"1"	"Igen"	"Yes"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"81"	NA	NA	"17. Részt vesz jelenleg/részt vett valaha agykutatási projektben?"	NA	"Q17_BrainResearch_Part_hu"	TRUE	"2"	"Nem"	"No"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"83"	NA	NA	"18. Az Ön életkora:"	NA	"Q18_Age_hu"	TRUE	"1"	"18-25 év"	"18-25"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"83"	NA	NA	"18. Az Ön életkora:"	NA	"Q18_Age_hu"	TRUE	"2"	"26-40 év"	"26-40"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"83"	NA	NA	"18. Az Ön életkora:"	NA	"Q18_Age_hu"	TRUE	"3"	"41-60 év"	"41-60"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"83"	NA	NA	"18. Az Ön életkora:"	NA	"Q18_Age_hu"	TRUE	"4"	"61-70 év"	"61-70"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"83"	NA	NA	"18. Az Ön életkora:"	NA	"Q18_Age_hu"	TRUE	"5"	"71-80 év"	"71-80"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"83"	NA	NA	"18. Az Ön életkora:"	NA	"Q18_Age_hu"	TRUE	"6"	"80 év felett"	"80plus"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"1"	"Afganisztán"	"Afganistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"2"	"Albánia"	"Albania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"3"	"Algéria"	"Algeria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"4"	"Amerikai Egyesült Államok"	"USA"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"5"	"Andorra"	"Andorra"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"6"	"Angola"	"Angola"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"7"	"Antigua és Barbuda"	"Antigua"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"8"	"Argentína"	"Argentina"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"9"	"Ausztrália"	"Australia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"10"	"Ausztria"	"Austria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"11"	"Azerbajdzsán"	"Azerbaijan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"12"	"Bahamák"	"Bahamas"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"13"	"Bahrain"	"Bahrain"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"14"	"Barbados"	"Barbados"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"15"	"Belarus"	"Belarus"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"16"	"Belize"	"Belize"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"17"	"Belgium"	"Belgium"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"18"	"Benin"	"Benin"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"19"	"Bhután"	"Bhutan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"20"	"Bolívia"	"Bolivia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"21"	"Bosznia Hercegovina"	"Bosnia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"22"	"Botswana"	"Botswana"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"23"	"Brazília"	"Brasil"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"24"	"Brunei"	"Brunei"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"25"	"Bulgária"	"Bulgaria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"26"	"Burkina Faso"	"BurkinaFaso"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"27"	"Burundi"	"Burundi"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"28"	"Csád"	"Chad"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"29"	"Chile"	"Chile"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"30"	"Comoros"	"Comoros"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"31"	"Costa Rica"	"CostaRica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"32"	"Ciprus"	"Cyprus"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"33"	"Csehország"	"Czech"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"34"	"Dánia"	"Denmark"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"35"	"Dél-Afrikai Köztársaság"	"SouthAfrica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"36"	"Dél-Korea"	"SouthKorea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"37"	"Djibuti"	"Djibouti"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"38"	"Dominikai Köztársaság"	"Dominica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"39"	"Ecuador"	"Ecuador"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"40"	"Egyenlítői Guinea"	"EGuinea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"41"	"Egyesült Arab Emirátusok"	"ArabEmirates"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"42"	"Egyiptom"	"Egypt"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"43"	"Elefántcsontpart"	"Cotedivoire"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"44"	"El Salvador"	"ElSalvador"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"45"	"Eritrea"	"Eritrea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"46"	"Etiópia"	"Ethiopia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"47"	"Észak-Írország"	"NorthernIreland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"48"	"Észak-Korea"	"NorthKorea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"49"	"Észtország"	"Estonia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"50"	"Fiji szigetek"	"Fiji"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"51"	"Finnország"	"Finland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"52"	"Franciaország"	"France"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"53"	"Fülöp-szigetek"	"Philippines"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"54"	"Gabon"	"Gabon"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"55"	"Gambia"	"Gambia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"56"	"Ghána"	"Ghana"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"57"	"Görögország"	"Greece"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"58"	"Grenada"	"Grenada"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"59"	"Grúzia"	"Georgia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"60"	"Guetamala"	"Guatemala"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"61"	"Guinea"	"Guinea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"62"	"Guinea-Bissau"	"GuineaB"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"63"	"Guyana"	"Guyana"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"64"	"Haiti"	"Haiti"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"65"	"Hollandia"	"Netherlands"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"66"	"Horvátország"	"Croatia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"67"	"Honduras"	"Honduras"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"68"	"India"	"India"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"69"	"Indonézia"	"Indonesia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"70"	"Irak"	"Iraq"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"71"	"Irán"	"Iran"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"72"	"Izland"	"Iceland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"73"	"Izrael"	"Israel"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"74"	"Írország"	"Ireland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"75"	"Jamaica"	"Jamaica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"76"	"Japán"	"Japan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"77"	"Jemen"	"Yemen"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"78"	"Jordánia"	"Jordan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"79"	"Kambodzsa"	"Cambodia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"80"	"Kamerun"	"Cameroon"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"81"	"Kanada"	"Canada"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"82"	"Katar"	"Qatar"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"83"	"Kazahsztán"	"Kazahstan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"84"	"Kelet -Timor"	"EastTimor"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"85"	"Kenya"	"Kenya"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"86"	"Kirgizisztán"	"Kyrgyzstan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"87"	"Kiribati"	"Kiribati"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"88"	"Kína"	"China"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"89"	"Kolumbia"	"Columbia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"90"	"Kongói Demokratikus Köztársaság"	"Congo"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"91"	"Koszovó"	"Kosovo"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"92"	"Közép-Afrikai Köztársaság"	"CentralAfrica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"93"	"Kuba"	"Cuba"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"94"	"Kuwait"	"Kuwait"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"95"	"Laosz"	"Laos"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"96"	"Lengyelország"	"Poland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"97"	"Lesotho"	"Lesotho"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"98"	"Lettország"	"Latvia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"99"	"Libanon"	"Lebanon"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"100"	"Libéria"	"Liberia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"101"	"Liechtenstein"	"Liectenstein"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"102"	"Líbia"	"Libya"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"103"	"Litvánia"	"Lithuania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"104"	"Luxemburg"	"Luxembourg"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"105"	"Macedónia"	"Macedonia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"106"	"Madagaszkár"	"Madagascar"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"107"	"Magyarország"	"Hungary"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"108"	"Malajzia"	"Malaysia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"109"	"Malawi"	"Malawi"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"110"	"Maldív-szigetek"	"Maldives"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"111"	"Mali"	"Mali"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"112"	"Málta"	"Malta"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"113"	"Marokkó"	"Morocco"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"114"	"Marshall-szigetek"	"MarshallIslands"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"115"	"Mauritánia"	"Mauritania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"116"	"Mauritius"	"Mauritius"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"117"	"Mexikó"	"Mexiko"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"118"	"Mikronézia"	"Micronesia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"119"	"Moldova"	"Moldova"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"120"	"Monaco"	"Monaco"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"121"	"Mongólia"	"Mongolia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"122"	"Montenegro"	"Montenegro"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"123"	"Mozambik"	"Mozambique"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"124"	"Myanmar"	"Myanmar"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"125"	"Nagy-Britannia"	"UK"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"126"	"Namíbia"	"Namibia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"127"	"Nauru"	"Nauru"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"128"	"Németország"	"Germany"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"129"	"Nepál"	"Nepal"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"130"	"Nigéria"	"Nigeria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"131"	"Nicaragua"	"Nicaragua"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"132"	"Norvégia"	"Norway"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"133"	"Omán"	"Oman"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"134"	"Olaszország"	"Italy"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"135"	"Oroszország"	"Russia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"136"	"Pakisztán"	"Pakistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"137"	"Palau"	"Palau"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"138"	"Panama"	"Panama"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"139"	"Pápua Új-Guinea"	"Papua"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"140"	"Paraguay"	"Paraguay"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"141"	"Peru"	"Peru"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"142"	"Portugália"	"Portugal"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"143"	"Románia"	"Romania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"144"	"Ruanda"	"Rwanda"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"145"	"Salamon-szigetek"	"SolomonIsland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"146"	"San Marino"	"SanMarino"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"147"	"Sao Tome és Principe"	"SaoTome"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"148"	"Seychelles-szigetek"	"Seychelles"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"149"	"Sierra Leone"	"SierraLeone"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"150"	"Spanyolország"	"Spain"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"151"	"Srí Lanka"	"SriLanka"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"152"	"Svédország"	"Sweden"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"153"	"Svájc"	"Switzerland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"154"	"Suriname"	"Suriname"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"155"	"Szamoa"	"Samoa"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"156"	"Szaud-Arábia"	"SaudiArabia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"157"	"Szenegál"	"Senegal"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"158"	"Szerbia"	"Serbia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"159"	"Szingapúr"	"Singapore"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"160"	"Szíria"	"Syria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"161"	"Szlovákia"	"Slovakia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"162"	"Szlovénia"	"Slovenia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"163"	"Szomália"	"Somalia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"164"	"Szudán"	"Sudan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"165"	"Törökország"	"Turkey"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"166"	"Taiwan"	"Taiwan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"167"	"Tadzsikisztán"	"Tajikistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"168"	"Tanzánia"	"Tanzania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"169"	"Thaiföld"	"Thailand"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"170"	"Togo"	"Togo"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"171"	"Tonga"	"Tonga"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"172"	"Trinidad ésTobago"	"Trinidad"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"173"	"Tunézia"	"Tunisia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"174"	"Türkmenisztán"	"Turkmenistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"175"	"Tuvalu"	"Tuvalu"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"176"	"Uganda"	"Uganda"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"177"	"Ukrajna"	"Ukraine"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"178"	"Uruguay"	"Uruguay"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"179"	"Új-Zéland"	"NewZealand"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"180"	"Üzbekisztán"	"Uzbekistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"181"	"Vanuatu"	"Vanuatu"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"182"	"Vatikán város"	"Vatican"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"183"	"Venezuela"	"Venezuela"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"184"	"Vietnám"	"Vietnam"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"185"	"Zaire"	"Zaire"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"186"	"Zambia"	"Zambia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"85"	NA	NA	"19. Jelenlegi lakóhelye:"	"Kérjük válassza ki az országot a legördülő listából:
+"	"Q19_Residence_hu"	TRUE	"187"	"Zöld-foki szigetek"	"CapeVerde"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"87"	NA	NA	"20. Az Ön neme:"	NA	"Q20_Sex_hu"	TRUE	"1"	"Nő"	"Female"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"87"	NA	NA	"20. Az Ön neme:"	NA	"Q20_Sex_hu"	TRUE	"2"	"Férfi"	"Male"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"87"	NA	NA	"20. Az Ön neme:"	NA	"Q20_Sex_hu"	TRUE	"3"	"Egyéb"	"Other"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"87"	NA	NA	"20. Az Ön neme:"	NA	"Q20_Sex_hu"	TRUE	"4"	"Nem kívánok válaszolni"	"Unknown"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"89"	NA	NA	"21. Az Ön legmagasabb iskolai végzettsége:"	NA	"Q21_Education_Coded_hu"	TRUE	"1"	"Általános iskola"	"PrimarySchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"89"	NA	NA	"21. Az Ön legmagasabb iskolai végzettsége:"	NA	"Q21_Education_Coded_hu"	TRUE	"2"	"Speciális oktatási forma"	"SpecialSchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"89"	NA	NA	"21. Az Ön legmagasabb iskolai végzettsége:"	NA	"Q21_Education_Coded_hu"	TRUE	"3"	"Gimnázium/szakközépiskola"	"HighSchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"89"	NA	NA	"21. Az Ön legmagasabb iskolai végzettsége:"	NA	"Q21_Education_Coded_hu"	TRUE	"4"	"Szakiskola"	"VocationSchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"89"	NA	NA	"21. Az Ön legmagasabb iskolai végzettsége:"	NA	"Q21_Education_Coded_hu"	TRUE	"5"	"Egyetem, főiskola"	"GradSchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"91"	NA	NA	"22. Családi állapota:"	NA	"Q22_Relationship_Status_hu"	TRUE	"1"	"Egyedülálló"	"Single"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"91"	NA	NA	"22. Családi állapota:"	NA	"Q22_Relationship_Status_hu"	TRUE	"2"	"Kapcsolatban (nem házas/nem regisztrált)"	"Unmaried"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"91"	NA	NA	"22. Családi állapota:"	NA	"Q22_Relationship_Status_hu"	TRUE	"3"	"Házas vagy regisztrált kapcsolatban"	"DomesticPartner"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"91"	NA	NA	"22. Családi állapota:"	NA	"Q22_Relationship_Status_hu"	TRUE	"4"	"Elvált"	"Divorced"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"91"	NA	NA	"22. Családi állapota:"	NA	"Q22_Relationship_Status_hu"	TRUE	"5"	"Özvegy"	"Widowed"	FALSE	FALSE	1	NA	FALSE	FALSE
+"hungarian"	"hu"	116413	"93"	NA	NA	"23. Munkavállalói státusza:"	NA	NA	TRUE	"1"	"Munkavállaló/magánvállalkozó"	"Employed"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"93"	NA	NA	"23. Munkavállalói státusza:"	NA	NA	TRUE	"2"	"Munkanélküli"	"Unemployed"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"93"	NA	NA	"23. Munkavállalói státusza:"	NA	NA	TRUE	"3"	"Háztartásbeli"	"Stay-at-home"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"93"	NA	NA	"23. Munkavállalói státusza:"	NA	NA	TRUE	"4"	"Diák"	"Student"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"93"	NA	NA	"23. Munkavállalói státusza:"	NA	NA	TRUE	"5"	"Nyugdíjas"	"Pensioned"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"93"	NA	NA	"23. Munkavállalói státusza:"	NA	NA	TRUE	"6"	"Keresőképtelen"	"Disabled"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"93"	NA	NA	"23. Munkavállalói státusza:"	NA	NA	TRUE	"7"	"Önkéntes munka/fizetés nélküli munka"	"Volunteer-work"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"95"	NA	NA	"24. Van bármilyen képzettsége vagy munkatapasztalata az egészségügyben?"	NA	"Q24_Exp_HealthCare_hu"	TRUE	"1"	"Igen"	"Yes"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"95"	NA	NA	"24. Van bármilyen képzettsége vagy munkatapasztalata az egészségügyben?"	NA	"Q24_Exp_HealthCare_hu"	TRUE	"2"	"Nem"	"No"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"97"	NA	NA	"25. Hogyan jellemezné a saját, az emlékezésre, a tanulásra, a gondolkodásra való képességét?"	NA	"Q25_Cognitive_Health_hu"	TRUE	"1"	"Kiváló"	"Excellent"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"97"	NA	NA	"25. Hogyan jellemezné a saját, az emlékezésre, a tanulásra, a gondolkodásra való képességét?"	NA	"Q25_Cognitive_Health_hu"	TRUE	"2"	"Átlagon felüli"	"AboveAverage"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"97"	NA	NA	"25. Hogyan jellemezné a saját, az emlékezésre, a tanulásra, a gondolkodásra való képességét?"	NA	"Q25_Cognitive_Health_hu"	TRUE	"3"	"Átlagos"	"Average"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"97"	NA	NA	"25. Hogyan jellemezné a saját, az emlékezésre, a tanulásra, a gondolkodásra való képességét?"	NA	"Q25_Cognitive_Health_hu"	TRUE	"4"	"Átlag alatti"	"BelowAverage"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"97"	NA	NA	"25. Hogyan jellemezné a saját, az emlékezésre, a tanulásra, a gondolkodásra való képességét?"	NA	"Q25_Cognitive_Health_hu"	TRUE	"5"	"Rossz"	"Poor"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"99"	NA	NA	"26. Hogyan jellemezné az érzelmi egyensúlyát?"	NA	"Q26_Emotional_Health_hu"	TRUE	"1"	"Kiváló"	"Excellent"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"99"	NA	NA	"26. Hogyan jellemezné az érzelmi egyensúlyát?"	NA	"Q26_Emotional_Health_hu"	TRUE	"2"	"Átlagon felüli"	"AboveAverage"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"99"	NA	NA	"26. Hogyan jellemezné az érzelmi egyensúlyát?"	NA	"Q26_Emotional_Health_hu"	TRUE	"3"	"Átlagos"	"Average"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"99"	NA	NA	"26. Hogyan jellemezné az érzelmi egyensúlyát?"	NA	"Q26_Emotional_Health_hu"	TRUE	"4"	"Átlag alatti"	"BelowAverage"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"99"	NA	NA	"26. Hogyan jellemezné az érzelmi egyensúlyát?"	NA	"Q26_Emotional_Health_hu"	TRUE	"5"	"Rossz"	"Poor"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"101"	NA	NA	"27. Van bármilyen hosszabb ideje fennálló betegsége, zavara?"	NA	"Q27_Illness_hu"	TRUE	"1"	"Igen"	"Yes"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"101"	NA	NA	"27. Van bármilyen hosszabb ideje fennálló betegsége, zavara?"	NA	"Q27_Illness_hu"	TRUE	"2"	"Nem"	"No"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"103"	NA	NA	"28. Van bármilyen tapasztalata agyi betegségben szenvedők ápolásában?"	"
+
+
+
+
+"	"Q28_BrainDisease_Care_hu"	TRUE	"1"	"Igen"	"Yes"	FALSE	FALSE	NA	NA	NA	NA
+"hungarian"	"hu"	116413	"103"	NA	NA	"28. Van bármilyen tapasztalata agyi betegségben szenvedők ápolásában?"	"
+
+
+
+
+"	"Q28_BrainDisease_Care_hu"	TRUE	"2"	"Nem"	"No"	FALSE	FALSE	NA	NA	NA	NA

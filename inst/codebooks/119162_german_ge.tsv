@@ -1,0 +1,1079 @@
+"language"	"suffix"	"form_id"	"element_no"	"img_url"	"img_text"	"question"	"question_descr"	"question_codebook"	"question_mandatory"	"answer_order"	"answer_option"	"answer_codebook"	"answer_preselected"	"answer_correct"	"question_order"	"max_selected"	"question_preselected"	"question_rangemarks"
+"german"	"ge"	119162	"1"	"https://www.lifebrain.uio.no/26.05.20-lifebrain-banner-1771x417.jpg"	"Lifebrain logo"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"german"	"ge"	119162	"4"	NA	NA	NA	"Bitte kreuzen Sie das Kästchen an.
+ 
+
+
+
+
+"	"Consent_Form_ge"	TRUE	"1"	"Ich bin über 18 Jahre alt und stimme der wissenschaftlichen Nutzung meiner Daten zu"	"Consent_Yes_ge"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"9"	NA	NA	NA	"Bitte eine Antwort ankreuzen.
+ 
+
+ 
+
+
+
+
+
+
+"	"Q01_Think_Brain_Frequency_ge"	FALSE	"1"	"Oft"	"Frequently"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"9"	NA	NA	NA	"Bitte eine Antwort ankreuzen.
+ 
+
+ 
+
+
+
+
+
+
+"	"Q01_Think_Brain_Frequency_ge"	FALSE	"2"	"Gelegentlich"	"Occasionally"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"9"	NA	NA	NA	"Bitte eine Antwort ankreuzen.
+ 
+
+ 
+
+
+
+
+
+
+"	"Q01_Think_Brain_Frequency_ge"	FALSE	"3"	"Selten"	"Rarely"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"9"	NA	NA	NA	"Bitte eine Antwort ankreuzen.
+ 
+
+ 
+
+
+
+
+
+
+"	"Q01_Think_Brain_Frequency_ge"	FALSE	"4"	"Nie"	"Never"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Körperliche Gesundheit"	NA	"Q02_PhyHealthInfl_ge"	FALSE	"1"	"Sehr starker Einfluss"	"VeryStrong"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Körperliche Gesundheit"	NA	"Q02_PhyHealthInfl_ge"	FALSE	"2"	"Starker Einfluss"	"Strong"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Körperliche Gesundheit"	NA	"Q02_PhyHealthInfl_ge"	FALSE	"3"	"Moderater Einfluss"	"Moderate"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Körperliche Gesundheit"	NA	"Q02_PhyHealthInfl_ge"	FALSE	"4"	"Schwacher Einfluss"	"Weak"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Körperliche Gesundheit"	NA	"Q02_PhyHealthInfl_ge"	FALSE	"5"	"Kein Einfluss"	"NoInfluence"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Ernährung"	NA	"Q02_DietInfl_ge"	FALSE	"1"	"Sehr starker Einfluss"	"VeryStrong"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Ernährung"	NA	"Q02_DietInfl_ge"	FALSE	"2"	"Starker Einfluss"	"Strong"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Ernährung"	NA	"Q02_DietInfl_ge"	FALSE	"3"	"Moderater Einfluss"	"Moderate"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Ernährung"	NA	"Q02_DietInfl_ge"	FALSE	"4"	"Schwacher Einfluss"	"Weak"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Ernährung"	NA	"Q02_DietInfl_ge"	FALSE	"5"	"Kein Einfluss"	"NoInfluence"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Physische Umwelt (z.B. Luftverschmutzung, Lärm)"	NA	"Q02_PhyEnvironmentInfl_ge"	FALSE	"1"	"Sehr starker Einfluss"	"VeryStrong"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Physische Umwelt (z.B. Luftverschmutzung, Lärm)"	NA	"Q02_PhyEnvironmentInfl_ge"	FALSE	"2"	"Starker Einfluss"	"Strong"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Physische Umwelt (z.B. Luftverschmutzung, Lärm)"	NA	"Q02_PhyEnvironmentInfl_ge"	FALSE	"3"	"Moderater Einfluss"	"Moderate"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Physische Umwelt (z.B. Luftverschmutzung, Lärm)"	NA	"Q02_PhyEnvironmentInfl_ge"	FALSE	"4"	"Schwacher Einfluss"	"Weak"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Physische Umwelt (z.B. Luftverschmutzung, Lärm)"	NA	"Q02_PhyEnvironmentInfl_ge"	FALSE	"5"	"Kein Einfluss"	"NoInfluence"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Soziales Umfeld (z.B. Familie, soziales Netzwerk)"	NA	"Q02_SocEnvironmentInfl_ge"	FALSE	"1"	"Sehr starker Einfluss"	"VeryStrong"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Soziales Umfeld (z.B. Familie, soziales Netzwerk)"	NA	"Q02_SocEnvironmentInfl_ge"	FALSE	"2"	"Starker Einfluss"	"Strong"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Soziales Umfeld (z.B. Familie, soziales Netzwerk)"	NA	"Q02_SocEnvironmentInfl_ge"	FALSE	"3"	"Moderater Einfluss"	"Moderate"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Soziales Umfeld (z.B. Familie, soziales Netzwerk)"	NA	"Q02_SocEnvironmentInfl_ge"	FALSE	"4"	"Schwacher Einfluss"	"Weak"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Soziales Umfeld (z.B. Familie, soziales Netzwerk)"	NA	"Q02_SocEnvironmentInfl_ge"	FALSE	"5"	"Kein Einfluss"	"NoInfluence"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Bildung"	NA	"Q02_EducationInfl_ge"	FALSE	"1"	"Sehr starker Einfluss"	"VeryStrong"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Bildung"	NA	"Q02_EducationInfl_ge"	FALSE	"2"	"Starker Einfluss"	"Strong"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Bildung"	NA	"Q02_EducationInfl_ge"	FALSE	"3"	"Moderater Einfluss"	"Moderate"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Bildung"	NA	"Q02_EducationInfl_ge"	FALSE	"4"	"Schwacher Einfluss"	"Weak"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Bildung"	NA	"Q02_EducationInfl_ge"	FALSE	"5"	"Kein Einfluss"	"NoInfluence"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Beruf"	NA	"Q02_ProfessionInfl_ge"	FALSE	"1"	"Sehr starker Einfluss"	"VeryStrong"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Beruf"	NA	"Q02_ProfessionInfl_ge"	FALSE	"2"	"Starker Einfluss"	"Strong"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Beruf"	NA	"Q02_ProfessionInfl_ge"	FALSE	"3"	"Moderater Einfluss"	"Moderate"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Beruf"	NA	"Q02_ProfessionInfl_ge"	FALSE	"4"	"Schwacher Einfluss"	"Weak"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Beruf"	NA	"Q02_ProfessionInfl_ge"	FALSE	"5"	"Kein Einfluss"	"NoInfluence"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Familieneinkommen"	NA	"Q02_IncomeInfl_ge"	FALSE	"1"	"Sehr starker Einfluss"	"VeryStrong"	FALSE	FALSE	7	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Familieneinkommen"	NA	"Q02_IncomeInfl_ge"	FALSE	"2"	"Starker Einfluss"	"Strong"	FALSE	FALSE	7	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Familieneinkommen"	NA	"Q02_IncomeInfl_ge"	FALSE	"3"	"Moderater Einfluss"	"Moderate"	FALSE	FALSE	7	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Familieneinkommen"	NA	"Q02_IncomeInfl_ge"	FALSE	"4"	"Schwacher Einfluss"	"Weak"	FALSE	FALSE	7	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Familieneinkommen"	NA	"Q02_IncomeInfl_ge"	FALSE	"5"	"Kein Einfluss"	"NoInfluence"	FALSE	FALSE	7	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Genetische Faktoren und familiäre Krankheitsgeschichte"	NA	"Q02_GeneticsInfl_ge"	FALSE	"1"	"Sehr starker Einfluss"	"VeryStrong"	FALSE	FALSE	8	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Genetische Faktoren und familiäre Krankheitsgeschichte"	NA	"Q02_GeneticsInfl_ge"	FALSE	"2"	"Starker Einfluss"	"Strong"	FALSE	FALSE	8	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Genetische Faktoren und familiäre Krankheitsgeschichte"	NA	"Q02_GeneticsInfl_ge"	FALSE	"3"	"Moderater Einfluss"	"Moderate"	FALSE	FALSE	8	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Genetische Faktoren und familiäre Krankheitsgeschichte"	NA	"Q02_GeneticsInfl_ge"	FALSE	"4"	"Schwacher Einfluss"	"Weak"	FALSE	FALSE	8	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Genetische Faktoren und familiäre Krankheitsgeschichte"	NA	"Q02_GeneticsInfl_ge"	FALSE	"5"	"Kein Einfluss"	"NoInfluence"	FALSE	FALSE	8	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Substanzgebrauch (z.B. Alkohol, Rauchen, Drogen)"	NA	"Q02_SubstanceInfl_ge"	FALSE	"1"	"Sehr starker Einfluss"	"VeryStrong"	FALSE	FALSE	9	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Substanzgebrauch (z.B. Alkohol, Rauchen, Drogen)"	NA	"Q02_SubstanceInfl_ge"	FALSE	"2"	"Starker Einfluss"	"Strong"	FALSE	FALSE	9	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Substanzgebrauch (z.B. Alkohol, Rauchen, Drogen)"	NA	"Q02_SubstanceInfl_ge"	FALSE	"3"	"Moderater Einfluss"	"Moderate"	FALSE	FALSE	9	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Substanzgebrauch (z.B. Alkohol, Rauchen, Drogen)"	NA	"Q02_SubstanceInfl_ge"	FALSE	"4"	"Schwacher Einfluss"	"Weak"	FALSE	FALSE	9	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Substanzgebrauch (z.B. Alkohol, Rauchen, Drogen)"	NA	"Q02_SubstanceInfl_ge"	FALSE	"5"	"Kein Einfluss"	"NoInfluence"	FALSE	FALSE	9	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Schlafgewohnheiten"	NA	"Q02_SleepHabitsInfl_ge"	FALSE	"1"	"Sehr starker Einfluss"	"VeryStrong"	FALSE	FALSE	10	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Schlafgewohnheiten"	NA	"Q02_SleepHabitsInfl_ge"	FALSE	"2"	"Starker Einfluss"	"Strong"	FALSE	FALSE	10	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Schlafgewohnheiten"	NA	"Q02_SleepHabitsInfl_ge"	FALSE	"3"	"Moderater Einfluss"	"Moderate"	FALSE	FALSE	10	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Schlafgewohnheiten"	NA	"Q02_SleepHabitsInfl_ge"	FALSE	"4"	"Schwacher Einfluss"	"Weak"	FALSE	FALSE	10	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Schlafgewohnheiten"	NA	"Q02_SleepHabitsInfl_ge"	FALSE	"5"	"Kein Einfluss"	"NoInfluence"	FALSE	FALSE	10	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Ziele zu haben, die dem Leben Sinn verleihen"	NA	"Q02_LifeGoalsInfl_ge"	FALSE	"1"	"Sehr starker Einfluss"	"VeryStrong"	FALSE	FALSE	11	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Ziele zu haben, die dem Leben Sinn verleihen"	NA	"Q02_LifeGoalsInfl_ge"	FALSE	"2"	"Starker Einfluss"	"Strong"	FALSE	FALSE	11	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Ziele zu haben, die dem Leben Sinn verleihen"	NA	"Q02_LifeGoalsInfl_ge"	FALSE	"3"	"Moderater Einfluss"	"Moderate"	FALSE	FALSE	11	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Ziele zu haben, die dem Leben Sinn verleihen"	NA	"Q02_LifeGoalsInfl_ge"	FALSE	"4"	"Schwacher Einfluss"	"Weak"	FALSE	FALSE	11	NA	NA	NA
+"german"	"ge"	119162	"12"	NA	NA	"Ziele zu haben, die dem Leben Sinn verleihen"	NA	"Q02_LifeGoalsInfl_ge"	FALSE	"5"	"Kein Einfluss"	"NoInfluence"	FALSE	FALSE	11	NA	NA	NA
+"german"	"ge"	119162	"15"	NA	NA	"Im Mutterleib (vor der Geburt)"	NA	"Q03_Womb_ge"	FALSE	"1"	"Sehr wichtig"	"VeryImportant"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"15"	NA	NA	"Im Mutterleib (vor der Geburt)"	NA	"Q03_Womb_ge"	FALSE	"2"	"Important Wichtig"	"Important"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"15"	NA	NA	"Im Mutterleib (vor der Geburt)"	NA	"Q03_Womb_ge"	FALSE	"3"	"Mäßig wichtig"	"ModImportant"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"15"	NA	NA	"Im Mutterleib (vor der Geburt)"	NA	"Q03_Womb_ge"	FALSE	"4"	"Unwichtig"	"NotImportant"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"15"	NA	NA	"In der Kindheit (von der Geburt bis 12 Jahre)"	NA	"Q03_Child_ge"	FALSE	"1"	"Sehr wichtig"	"VeryImportant"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"15"	NA	NA	"In der Kindheit (von der Geburt bis 12 Jahre)"	NA	"Q03_Child_ge"	FALSE	"2"	"Important Wichtig"	"Important"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"15"	NA	NA	"In der Kindheit (von der Geburt bis 12 Jahre)"	NA	"Q03_Child_ge"	FALSE	"3"	"Mäßig wichtig"	"ModImportant"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"15"	NA	NA	"In der Kindheit (von der Geburt bis 12 Jahre)"	NA	"Q03_Child_ge"	FALSE	"4"	"Unwichtig"	"NotImportant"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"15"	NA	NA	"In der Jugend (12 bis 18 Jahre)"	NA	"Q03_Adolescence_ge"	FALSE	"1"	"Sehr wichtig"	"VeryImportant"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"15"	NA	NA	"In der Jugend (12 bis 18 Jahre)"	NA	"Q03_Adolescence_ge"	FALSE	"2"	"Important Wichtig"	"Important"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"15"	NA	NA	"In der Jugend (12 bis 18 Jahre)"	NA	"Q03_Adolescence_ge"	FALSE	"3"	"Mäßig wichtig"	"ModImportant"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"15"	NA	NA	"In der Jugend (12 bis 18 Jahre)"	NA	"Q03_Adolescence_ge"	FALSE	"4"	"Unwichtig"	"NotImportant"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"15"	NA	NA	"Im jungen Erwachsenenalter (19 bis 45 Jahre)"	NA	"Q03_YoungAdult_ge"	FALSE	"1"	"Sehr wichtig"	"VeryImportant"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"15"	NA	NA	"Im jungen Erwachsenenalter (19 bis 45 Jahre)"	NA	"Q03_YoungAdult_ge"	FALSE	"2"	"Important Wichtig"	"Important"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"15"	NA	NA	"Im jungen Erwachsenenalter (19 bis 45 Jahre)"	NA	"Q03_YoungAdult_ge"	FALSE	"3"	"Mäßig wichtig"	"ModImportant"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"15"	NA	NA	"Im jungen Erwachsenenalter (19 bis 45 Jahre)"	NA	"Q03_YoungAdult_ge"	FALSE	"4"	"Unwichtig"	"NotImportant"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"15"	NA	NA	"Im mittleren Erwachsenenalter (45 bis 65 Jahre)"	NA	"Q03_MiddleAge_ge"	FALSE	"1"	"Sehr wichtig"	"VeryImportant"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"15"	NA	NA	"Im mittleren Erwachsenenalter (45 bis 65 Jahre)"	NA	"Q03_MiddleAge_ge"	FALSE	"2"	"Important Wichtig"	"Important"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"15"	NA	NA	"Im mittleren Erwachsenenalter (45 bis 65 Jahre)"	NA	"Q03_MiddleAge_ge"	FALSE	"3"	"Mäßig wichtig"	"ModImportant"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"15"	NA	NA	"Im mittleren Erwachsenenalter (45 bis 65 Jahre)"	NA	"Q03_MiddleAge_ge"	FALSE	"4"	"Unwichtig"	"NotImportant"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"15"	NA	NA	"Im höheren Lebensalter (über 65 Jahre)"	NA	"Q03_OlderAge_ge"	FALSE	"1"	"Sehr wichtig"	"VeryImportant"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"15"	NA	NA	"Im höheren Lebensalter (über 65 Jahre)"	NA	"Q03_OlderAge_ge"	FALSE	"2"	"Important Wichtig"	"Important"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"15"	NA	NA	"Im höheren Lebensalter (über 65 Jahre)"	NA	"Q03_OlderAge_ge"	FALSE	"3"	"Mäßig wichtig"	"ModImportant"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"15"	NA	NA	"Im höheren Lebensalter (über 65 Jahre)"	NA	"Q03_OlderAge_ge"	FALSE	"4"	"Unwichtig"	"NotImportant"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"18"	NA	NA	NA	NA	NA	FALSE	"1"	"Diabetes (Zuckerkrankheit)"	"Diabetes"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"18"	NA	NA	NA	NA	NA	FALSE	"2"	"Alzheimer-Erkrankung oder andere Formen der Demenz"	"Alzheimer"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"18"	NA	NA	NA	NA	NA	FALSE	"3"	"Arthrose"	"Arthritis"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"18"	NA	NA	NA	NA	NA	FALSE	"4"	"Bipolare Störung"	"Bipolar"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"18"	NA	NA	NA	NA	NA	FALSE	"5"	"Krebs"	"Cancer"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"18"	NA	NA	NA	NA	NA	FALSE	"6"	"Schizophrenie"	"Schizophrenia"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"18"	NA	NA	NA	NA	NA	FALSE	"7"	"Parkinson-Krankheit"	"Parkinson"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"18"	NA	NA	NA	NA	NA	FALSE	"8"	"Bluthochdruck"	"Hypertension"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"18"	NA	NA	NA	NA	NA	FALSE	"9"	"Suchterkrankungen (z.B. Drogen, Alkohol)"	"Addiction"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"18"	NA	NA	NA	NA	NA	FALSE	"10"	"Schlaganfall"	"Stroke"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"18"	NA	NA	NA	NA	NA	FALSE	"11"	"Depression"	"Depression"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"18"	NA	NA	NA	NA	NA	FALSE	"12"	"Migräne"	"Migraine"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"18"	NA	NA	NA	NA	NA	FALSE	"13"	"Angststörungen"	"Anxiety"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Mich gesund ernähren"	NA	"Q05_HealthyDietGen_ge"	FALSE	"1"	"Häufig"	"Frequently"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Mich gesund ernähren"	NA	"Q05_HealthyDietGen_ge"	FALSE	"2"	"Gelegentlich"	"Occasionally"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Mich gesund ernähren"	NA	"Q05_HealthyDietGen_ge"	FALSE	"3"	"Selten"	"Rarely"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Mich gesund ernähren"	NA	"Q05_HealthyDietGen_ge"	FALSE	"4"	"Nie"	"Never"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Sport machen"	NA	"Q05_ExcerciseGen_ge"	FALSE	"1"	"Häufig"	"Frequently"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Sport machen"	NA	"Q05_ExcerciseGen_ge"	FALSE	"2"	"Gelegentlich"	"Occasionally"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Sport machen"	NA	"Q05_ExcerciseGen_ge"	FALSE	"3"	"Selten"	"Rarely"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Sport machen"	NA	"Q05_ExcerciseGen_ge"	FALSE	"4"	"Nie"	"Never"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Genug schlafen"	NA	"Q05_SleepGen_ge"	FALSE	"1"	"Häufig"	"Frequently"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Genug schlafen"	NA	"Q05_SleepGen_ge"	FALSE	"2"	"Gelegentlich"	"Occasionally"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Genug schlafen"	NA	"Q05_SleepGen_ge"	FALSE	"3"	"Selten"	"Rarely"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Genug schlafen"	NA	"Q05_SleepGen_ge"	FALSE	"4"	"Nie"	"Never"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Entspannende Aktivitäten ausüben"	NA	"Q05_RelaxGen_ge"	FALSE	"1"	"Häufig"	"Frequently"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Entspannende Aktivitäten ausüben"	NA	"Q05_RelaxGen_ge"	FALSE	"2"	"Gelegentlich"	"Occasionally"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Entspannende Aktivitäten ausüben"	NA	"Q05_RelaxGen_ge"	FALSE	"3"	"Selten"	"Rarely"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Entspannende Aktivitäten ausüben"	NA	"Q05_RelaxGen_ge"	FALSE	"4"	"Nie"	"Never"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Alkohol trinken"	NA	"Q05_AlcoholGen_ge"	FALSE	"1"	"Häufig"	"Frequently"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Alkohol trinken"	NA	"Q05_AlcoholGen_ge"	FALSE	"2"	"Gelegentlich"	"Occasionally"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Alkohol trinken"	NA	"Q05_AlcoholGen_ge"	FALSE	"3"	"Selten"	"Rarely"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Alkohol trinken"	NA	"Q05_AlcoholGen_ge"	FALSE	"4"	"Nie"	"Never"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Rauchen"	NA	"Q05_SmokeGen_ge"	FALSE	"1"	"Häufig"	"Frequently"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Rauchen"	NA	"Q05_SmokeGen_ge"	FALSE	"2"	"Gelegentlich"	"Occasionally"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Rauchen"	NA	"Q05_SmokeGen_ge"	FALSE	"3"	"Selten"	"Rarely"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Rauchen"	NA	"Q05_SmokeGen_ge"	FALSE	"4"	"Nie"	"Never"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Meinen Intellekt stimulieren (z.B. Kreuzworträtsel, neue Dinge lernen)"	NA	"Q05_IntellectGen_ge"	FALSE	"1"	"Häufig"	"Frequently"	FALSE	FALSE	7	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Meinen Intellekt stimulieren (z.B. Kreuzworträtsel, neue Dinge lernen)"	NA	"Q05_IntellectGen_ge"	FALSE	"2"	"Gelegentlich"	"Occasionally"	FALSE	FALSE	7	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Meinen Intellekt stimulieren (z.B. Kreuzworträtsel, neue Dinge lernen)"	NA	"Q05_IntellectGen_ge"	FALSE	"3"	"Selten"	"Rarely"	FALSE	FALSE	7	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Meinen Intellekt stimulieren (z.B. Kreuzworträtsel, neue Dinge lernen)"	NA	"Q05_IntellectGen_ge"	FALSE	"4"	"Nie"	"Never"	FALSE	FALSE	7	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Ein Gleichgewicht zwischen Arbeit und Freizeit finden"	NA	"Q05_WorkLifeBalanceGen_ge"	FALSE	"1"	"Häufig"	"Frequently"	FALSE	FALSE	8	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Ein Gleichgewicht zwischen Arbeit und Freizeit finden"	NA	"Q05_WorkLifeBalanceGen_ge"	FALSE	"2"	"Gelegentlich"	"Occasionally"	FALSE	FALSE	8	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Ein Gleichgewicht zwischen Arbeit und Freizeit finden"	NA	"Q05_WorkLifeBalanceGen_ge"	FALSE	"3"	"Selten"	"Rarely"	FALSE	FALSE	8	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Ein Gleichgewicht zwischen Arbeit und Freizeit finden"	NA	"Q05_WorkLifeBalanceGen_ge"	FALSE	"4"	"Nie"	"Never"	FALSE	FALSE	8	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Einen Helm tragen, wenn ich Fahrrad, Ski oder Skateboard fahre"	NA	"Q05_ProtectionGen_ge"	FALSE	"1"	"Häufig"	"Frequently"	FALSE	FALSE	9	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Einen Helm tragen, wenn ich Fahrrad, Ski oder Skateboard fahre"	NA	"Q05_ProtectionGen_ge"	FALSE	"2"	"Gelegentlich"	"Occasionally"	FALSE	FALSE	9	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Einen Helm tragen, wenn ich Fahrrad, Ski oder Skateboard fahre"	NA	"Q05_ProtectionGen_ge"	FALSE	"3"	"Selten"	"Rarely"	FALSE	FALSE	9	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Einen Helm tragen, wenn ich Fahrrad, Ski oder Skateboard fahre"	NA	"Q05_ProtectionGen_ge"	FALSE	"4"	"Nie"	"Never"	FALSE	FALSE	9	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Nahrungsergänzungsmittel wie Omega 3 / Vitamin D einnehmen"	NA	"Q05_SupplementsGen_ge"	FALSE	"1"	"Häufig"	"Frequently"	FALSE	FALSE	10	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Nahrungsergänzungsmittel wie Omega 3 / Vitamin D einnehmen"	NA	"Q05_SupplementsGen_ge"	FALSE	"2"	"Gelegentlich"	"Occasionally"	FALSE	FALSE	10	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Nahrungsergänzungsmittel wie Omega 3 / Vitamin D einnehmen"	NA	"Q05_SupplementsGen_ge"	FALSE	"3"	"Selten"	"Rarely"	FALSE	FALSE	10	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Nahrungsergänzungsmittel wie Omega 3 / Vitamin D einnehmen"	NA	"Q05_SupplementsGen_ge"	FALSE	"4"	"Nie"	"Never"	FALSE	FALSE	10	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Kontakte mit Menschen (z.B. Freunden) pflegen"	NA	"Q05_SocialiseGen_ge"	FALSE	"1"	"Häufig"	"Frequently"	FALSE	FALSE	11	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Kontakte mit Menschen (z.B. Freunden) pflegen"	NA	"Q05_SocialiseGen_ge"	FALSE	"2"	"Gelegentlich"	"Occasionally"	FALSE	FALSE	11	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Kontakte mit Menschen (z.B. Freunden) pflegen"	NA	"Q05_SocialiseGen_ge"	FALSE	"3"	"Selten"	"Rarely"	FALSE	FALSE	11	NA	NA	NA
+"german"	"ge"	119162	"21"	NA	NA	"Kontakte mit Menschen (z.B. Freunden) pflegen"	NA	"Q05_SocialiseGen_ge"	FALSE	"4"	"Nie"	"Never"	FALSE	FALSE	11	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Mich gesund ernähren"	NA	"Q06_HealthyDietPurp_ge"	FALSE	"1"	"Häufig"	"Frequently"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Mich gesund ernähren"	NA	"Q06_HealthyDietPurp_ge"	FALSE	"2"	"Gelegentlich"	"Occasionally"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Mich gesund ernähren"	NA	"Q06_HealthyDietPurp_ge"	FALSE	"3"	"Selten"	"Rarely"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Mich gesund ernähren"	NA	"Q06_HealthyDietPurp_ge"	FALSE	"4"	"Nie"	"Never"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Sport machen"	NA	"Q06_ExcercisePurp_ge"	FALSE	"1"	"Häufig"	"Frequently"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Sport machen"	NA	"Q06_ExcercisePurp_ge"	FALSE	"2"	"Gelegentlich"	"Occasionally"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Sport machen"	NA	"Q06_ExcercisePurp_ge"	FALSE	"3"	"Selten"	"Rarely"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Sport machen"	NA	"Q06_ExcercisePurp_ge"	FALSE	"4"	"Nie"	"Never"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Genug schlafen"	NA	"Q06_SleepPurp_ge"	FALSE	"1"	"Häufig"	"Frequently"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Genug schlafen"	NA	"Q06_SleepPurp_ge"	FALSE	"2"	"Gelegentlich"	"Occasionally"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Genug schlafen"	NA	"Q06_SleepPurp_ge"	FALSE	"3"	"Selten"	"Rarely"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Genug schlafen"	NA	"Q06_SleepPurp_ge"	FALSE	"4"	"Nie"	"Never"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Entspannende Aktivitäten ausüben"	NA	"Q06_RelaxPurp_ge"	FALSE	"1"	"Häufig"	"Frequently"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Entspannende Aktivitäten ausüben"	NA	"Q06_RelaxPurp_ge"	FALSE	"2"	"Gelegentlich"	"Occasionally"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Entspannende Aktivitäten ausüben"	NA	"Q06_RelaxPurp_ge"	FALSE	"3"	"Selten"	"Rarely"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Entspannende Aktivitäten ausüben"	NA	"Q06_RelaxPurp_ge"	FALSE	"4"	"Nie"	"Never"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Ein Gleichgewicht zwischen Arbeit und Freizeit finden"	NA	"Q06_WorkLifeBalancePurp_ge"	FALSE	"1"	"Häufig"	"Frequently"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Ein Gleichgewicht zwischen Arbeit und Freizeit finden"	NA	"Q06_WorkLifeBalancePurp_ge"	FALSE	"2"	"Gelegentlich"	"Occasionally"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Ein Gleichgewicht zwischen Arbeit und Freizeit finden"	NA	"Q06_WorkLifeBalancePurp_ge"	FALSE	"3"	"Selten"	"Rarely"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Ein Gleichgewicht zwischen Arbeit und Freizeit finden"	NA	"Q06_WorkLifeBalancePurp_ge"	FALSE	"4"	"Nie"	"Never"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Einen Helm tragen, wenn ich Fahrrad, Ski oder Skateboard fahre"	NA	"Q06_ProtectionPurp_ge"	FALSE	"1"	"Häufig"	"Frequently"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Einen Helm tragen, wenn ich Fahrrad, Ski oder Skateboard fahre"	NA	"Q06_ProtectionPurp_ge"	FALSE	"2"	"Gelegentlich"	"Occasionally"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Einen Helm tragen, wenn ich Fahrrad, Ski oder Skateboard fahre"	NA	"Q06_ProtectionPurp_ge"	FALSE	"3"	"Selten"	"Rarely"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Einen Helm tragen, wenn ich Fahrrad, Ski oder Skateboard fahre"	NA	"Q06_ProtectionPurp_ge"	FALSE	"4"	"Nie"	"Never"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Nahrungsergänzungsmittel wie Omega 3 / Vitamin D einnehmen"	NA	"Q06_SupplementsPurp_ge"	FALSE	"1"	"Häufig"	"Frequently"	FALSE	FALSE	7	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Nahrungsergänzungsmittel wie Omega 3 / Vitamin D einnehmen"	NA	"Q06_SupplementsPurp_ge"	FALSE	"2"	"Gelegentlich"	"Occasionally"	FALSE	FALSE	7	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Nahrungsergänzungsmittel wie Omega 3 / Vitamin D einnehmen"	NA	"Q06_SupplementsPurp_ge"	FALSE	"3"	"Selten"	"Rarely"	FALSE	FALSE	7	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Nahrungsergänzungsmittel wie Omega 3 / Vitamin D einnehmen"	NA	"Q06_SupplementsPurp_ge"	FALSE	"4"	"Nie"	"Never"	FALSE	FALSE	7	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Kontakte mit Menschen (z.B. Freunden) pflegen"	NA	"Q06_SocialisePurp_ge"	FALSE	"1"	"Häufig"	"Frequently"	FALSE	FALSE	8	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Kontakte mit Menschen (z.B. Freunden) pflegen"	NA	"Q06_SocialisePurp_ge"	FALSE	"2"	"Gelegentlich"	"Occasionally"	FALSE	FALSE	8	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Kontakte mit Menschen (z.B. Freunden) pflegen"	NA	"Q06_SocialisePurp_ge"	FALSE	"3"	"Selten"	"Rarely"	FALSE	FALSE	8	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Kontakte mit Menschen (z.B. Freunden) pflegen"	NA	"Q06_SocialisePurp_ge"	FALSE	"4"	"Nie"	"Never"	FALSE	FALSE	8	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Sonstiges (Bitte angeben):"	NA	"Q06_OtherPurp_ge"	FALSE	"1"	"Häufig"	"Frequently"	FALSE	FALSE	9	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Sonstiges (Bitte angeben):"	NA	"Q06_OtherPurp_ge"	FALSE	"2"	"Gelegentlich"	"Occasionally"	FALSE	FALSE	9	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Sonstiges (Bitte angeben):"	NA	"Q06_OtherPurp_ge"	FALSE	"3"	"Selten"	"Rarely"	FALSE	FALSE	9	NA	NA	NA
+"german"	"ge"	119162	"24"	NA	NA	"Sonstiges (Bitte angeben):"	NA	"Q06_OtherPurp_ge"	FALSE	"4"	"Nie"	"Never"	FALSE	FALSE	9	NA	NA	NA
+"german"	"ge"	119162	"26"	NA	NA	NA	"
+
+
+"	"Q06_BrainHealth_Purpose_Spec_ge"	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"german"	"ge"	119162	"29"	NA	NA	NA	NA	NA	TRUE	"1"	"Erschwinglich"	"Cheap"	FALSE	FALSE	NA	3	NA	NA
+"german"	"ge"	119162	"29"	NA	NA	NA	NA	NA	TRUE	"2"	"Schnell durchführbar"	"Quick"	FALSE	FALSE	NA	3	NA	NA
+"german"	"ge"	119162	"29"	NA	NA	NA	NA	NA	TRUE	"3"	"Genau"	"Accurate"	FALSE	FALSE	NA	3	NA	NA
+"german"	"ge"	119162	"29"	NA	NA	NA	NA	NA	TRUE	"4"	"Schmerzfrei"	"NoPain"	FALSE	FALSE	NA	3	NA	NA
+"german"	"ge"	119162	"29"	NA	NA	NA	NA	NA	TRUE	"5"	"Von öffentlichen Gesundheitsdiensten (z.B. in Arztpraxen) subventioniert"	"SocialSecurity"	FALSE	FALSE	NA	3	NA	NA
+"german"	"ge"	119162	"29"	NA	NA	NA	NA	NA	TRUE	"6"	"Online mit direktem Zugang zu den Ergebnissen angeboten"	"OnlineCriteria"	FALSE	FALSE	NA	3	NA	NA
+"german"	"ge"	119162	"29"	NA	NA	NA	NA	NA	TRUE	"7"	"Sonstiges (Bitte angeben):"	"OtherCriteria"	FALSE	FALSE	NA	3	NA	NA
+"german"	"ge"	119162	"31"	NA	NA	NA	NA	"Q07_Test_Criteria_Spec_ge"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"german"	"ge"	119162	"34"	NA	NA	NA	"Bitte nur eine Antwort auswählen.
+ 
+"	"Q08_Take_Test_ge"	TRUE	"1"	"Ja, auf jeden Fall"	"Definitely"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"34"	NA	NA	NA	"Bitte nur eine Antwort auswählen.
+ 
+"	"Q08_Take_Test_ge"	TRUE	"2"	"Ja, wahrscheinlich"	"Probably"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"34"	NA	NA	NA	"Bitte nur eine Antwort auswählen.
+ 
+"	"Q08_Take_Test_ge"	TRUE	"3"	"Nein, wahrscheinlich nicht"	"ProbablyNot"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"34"	NA	NA	NA	"Bitte nur eine Antwort auswählen.
+ 
+"	"Q08_Take_Test_ge"	TRUE	"4"	"Nein, sicher nicht"	"DefinitelyNot"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"37"	NA	NA	NA	NA	NA	TRUE	"1"	"Um mich über meine kognitive und psychische Gesundheit zu informieren"	"Information"	FALSE	FALSE	NA	2	NA	NA
+"german"	"ge"	119162	"37"	NA	NA	NA	NA	NA	TRUE	"2"	"Um mein Risiko, eine Gehirnerkrankung zu entwickeln, bestimmen zu lassen."	"LearnRisk"	FALSE	FALSE	NA	2	NA	NA
+"german"	"ge"	119162	"37"	NA	NA	NA	NA	NA	TRUE	"3"	"Um handeln zu können, wenn ich gefährdet bin, z.B. meinen Lebensstil ändern, Beratung einholen oder eine Behandlung beginnen"	"Respond"	FALSE	FALSE	NA	2	NA	NA
+"german"	"ge"	119162	"37"	NA	NA	NA	NA	NA	TRUE	"4"	"Um meine Zukunft zu planen (z.B. meine Familie über das Risiko informieren)"	"Prepare"	FALSE	FALSE	NA	2	NA	NA
+"german"	"ge"	119162	"37"	NA	NA	NA	NA	NA	TRUE	"5"	"Andere Gründe (Bitte angeben):"	"OtherMotivation"	FALSE	FALSE	NA	2	NA	NA
+"german"	"ge"	119162	"39"	NA	NA	NA	NA	"Q09a_Test_Reason_Spec_ge"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"german"	"ge"	119162	"42"	NA	NA	NA	"Bitte eine Antwort ankreuzen.
+ 
+
+
+"	"Q09b_Test_Nonpreventable_ge"	TRUE	"1"	"Ja, auf jeden Fall"	"DefYes"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"42"	NA	NA	NA	"Bitte eine Antwort ankreuzen.
+ 
+
+
+"	"Q09b_Test_Nonpreventable_ge"	TRUE	"2"	"Ja, wahrscheinlich"	"ProbablyYes"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"42"	NA	NA	NA	"Bitte eine Antwort ankreuzen.
+ 
+
+
+"	"Q09b_Test_Nonpreventable_ge"	TRUE	"3"	"Nein, wahrscheinlich nicht"	"ProbablyNot"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"42"	NA	NA	NA	"Bitte eine Antwort ankreuzen.
+ 
+
+
+"	"Q09b_Test_Nonpreventable_ge"	TRUE	"4"	"Nein, sicher nicht"	"DefNot"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"45"	NA	NA	NA	NA	NA	TRUE	"1"	"Ich möchte mir nicht um etwas Sorgen machen, das vielleicht nicht passieren wird."	"Worry"	FALSE	FALSE	NA	2	NA	NA
+"german"	"ge"	119162	"45"	NA	NA	NA	NA	NA	TRUE	"2"	"Ich möchte nichts über eine Krankheit wissen, die nicht verhindert oder behandelt werden kann."	"DoNotWantToKnow"	FALSE	FALSE	NA	2	NA	NA
+"german"	"ge"	119162	"45"	NA	NA	NA	NA	NA	TRUE	"3"	"Ich hätte Angst vor dem Ergebnis."	"Frightened"	FALSE	FALSE	NA	2	NA	NA
+"german"	"ge"	119162	"45"	NA	NA	NA	NA	NA	TRUE	"4"	"Ich kann ohnehin nichts für meine Gehirngesundheit tun."	"Helpless"	FALSE	FALSE	NA	2	NA	NA
+"german"	"ge"	119162	"45"	NA	NA	NA	NA	NA	TRUE	"5"	"Andere Gründe (Bitte angeben):"	"OtherReason"	FALSE	FALSE	NA	2	NA	NA
+"german"	"ge"	119162	"47"	NA	NA	NA	NA	"Q09c_OtherReason_Spec_ge"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"german"	"ge"	119162	"50"	NA	NA	"Ich würde professionelle Hilfe suchen (z.B. bei meinem Arzt)"	NA	"Q10_ProfessHelp_ge"	FALSE	"1"	"Ja, auf jeden Fall"	"DefYes"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"50"	NA	NA	"Ich würde professionelle Hilfe suchen (z.B. bei meinem Arzt)"	NA	"Q10_ProfessHelp_ge"	FALSE	"2"	"Ziemlich wahrscheinlich"	"Likely"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"50"	NA	NA	"Ich würde professionelle Hilfe suchen (z.B. bei meinem Arzt)"	NA	"Q10_ProfessHelp_ge"	FALSE	"3"	"Ziemlich unwahrscheinlich"	"Unlikely"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"50"	NA	NA	"Ich würde professionelle Hilfe suchen (z.B. bei meinem Arzt)"	NA	"Q10_ProfessHelp_ge"	FALSE	"4"	"Sicher nicht"	"Defnot"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"50"	NA	NA	"Ich würde Rat von Familie und Freunden einholen"	NA	"Q10_FamilyFriends_ge"	FALSE	"1"	"Ja, auf jeden Fall"	"DefYes"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"50"	NA	NA	"Ich würde Rat von Familie und Freunden einholen"	NA	"Q10_FamilyFriends_ge"	FALSE	"2"	"Ziemlich wahrscheinlich"	"Likely"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"50"	NA	NA	"Ich würde Rat von Familie und Freunden einholen"	NA	"Q10_FamilyFriends_ge"	FALSE	"3"	"Ziemlich unwahrscheinlich"	"Unlikely"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"50"	NA	NA	"Ich würde Rat von Familie und Freunden einholen"	NA	"Q10_FamilyFriends_ge"	FALSE	"4"	"Sicher nicht"	"Defnot"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"50"	NA	NA	"Ich würde weitere Informationen online oder in der Bibliothek suchen"	NA	"Q10_Library_ge"	FALSE	"1"	"Ja, auf jeden Fall"	"DefYes"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"50"	NA	NA	"Ich würde weitere Informationen online oder in der Bibliothek suchen"	NA	"Q10_Library_ge"	FALSE	"2"	"Ziemlich wahrscheinlich"	"Likely"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"50"	NA	NA	"Ich würde weitere Informationen online oder in der Bibliothek suchen"	NA	"Q10_Library_ge"	FALSE	"3"	"Ziemlich unwahrscheinlich"	"Unlikely"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"50"	NA	NA	"Ich würde weitere Informationen online oder in der Bibliothek suchen"	NA	"Q10_Library_ge"	FALSE	"4"	"Sicher nicht"	"Defnot"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"50"	NA	NA	"Ich würde nötigenfalls meinen Lebensstil ändern"	NA	"Q10_LifestyleChange_ge"	FALSE	"1"	"Ja, auf jeden Fall"	"DefYes"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"50"	NA	NA	"Ich würde nötigenfalls meinen Lebensstil ändern"	NA	"Q10_LifestyleChange_ge"	FALSE	"2"	"Ziemlich wahrscheinlich"	"Likely"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"50"	NA	NA	"Ich würde nötigenfalls meinen Lebensstil ändern"	NA	"Q10_LifestyleChange_ge"	FALSE	"3"	"Ziemlich unwahrscheinlich"	"Unlikely"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"50"	NA	NA	"Ich würde nötigenfalls meinen Lebensstil ändern"	NA	"Q10_LifestyleChange_ge"	FALSE	"4"	"Sicher nicht"	"Defnot"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"50"	NA	NA	"Ich würde meine Zukunft planen"	NA	"Q10_Plan_ge"	FALSE	"1"	"Ja, auf jeden Fall"	"DefYes"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"50"	NA	NA	"Ich würde meine Zukunft planen"	NA	"Q10_Plan_ge"	FALSE	"2"	"Ziemlich wahrscheinlich"	"Likely"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"50"	NA	NA	"Ich würde meine Zukunft planen"	NA	"Q10_Plan_ge"	FALSE	"3"	"Ziemlich unwahrscheinlich"	"Unlikely"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"50"	NA	NA	"Ich würde meine Zukunft planen"	NA	"Q10_Plan_ge"	FALSE	"4"	"Sicher nicht"	"Defnot"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"52"	NA	NA	NA	"
+
+
+
+
+"	"Q10_TestReactionSpec_ge"	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Gesünder essen"	NA	"Q11_EatHealthy_ge"	FALSE	"1"	"Sehr wahrscheinlich"	"VeryLikely"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Gesünder essen"	NA	"Q11_EatHealthy_ge"	FALSE	"2"	"Einigermaßen wahrscheinlich"	"Likely"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Gesünder essen"	NA	"Q11_EatHealthy_ge"	FALSE	"3"	"Das mache ich schon"	"AlreadyDo"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Gesünder essen"	NA	"Q11_EatHealthy_ge"	FALSE	"4"	"Eher unwahrscheinlich"	"Unlikely"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Gesünder essen"	NA	"Q11_EatHealthy_ge"	FALSE	"5"	"Sehr unwahrscheinlich"	"NotAtAll"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Mehr Sport treiben"	NA	"Q11_ExcerciseMore_ge"	FALSE	"1"	"Sehr wahrscheinlich"	"VeryLikely"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Mehr Sport treiben"	NA	"Q11_ExcerciseMore_ge"	FALSE	"2"	"Einigermaßen wahrscheinlich"	"Likely"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Mehr Sport treiben"	NA	"Q11_ExcerciseMore_ge"	FALSE	"3"	"Das mache ich schon"	"AlreadyDo"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Mehr Sport treiben"	NA	"Q11_ExcerciseMore_ge"	FALSE	"4"	"Eher unwahrscheinlich"	"Unlikely"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Mehr Sport treiben"	NA	"Q11_ExcerciseMore_ge"	FALSE	"5"	"Sehr unwahrscheinlich"	"NotAtAll"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Schlafverhalten verbessern"	NA	"Q11_ImprSleepingHabits_ge"	FALSE	"1"	"Sehr wahrscheinlich"	"VeryLikely"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Schlafverhalten verbessern"	NA	"Q11_ImprSleepingHabits_ge"	FALSE	"2"	"Einigermaßen wahrscheinlich"	"Likely"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Schlafverhalten verbessern"	NA	"Q11_ImprSleepingHabits_ge"	FALSE	"3"	"Das mache ich schon"	"AlreadyDo"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Schlafverhalten verbessern"	NA	"Q11_ImprSleepingHabits_ge"	FALSE	"4"	"Eher unwahrscheinlich"	"Unlikely"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Schlafverhalten verbessern"	NA	"Q11_ImprSleepingHabits_ge"	FALSE	"5"	"Sehr unwahrscheinlich"	"NotAtAll"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Häufiger entspannende Aktivitäten ausüben"	NA	"Q11_MoreRelax_ge"	FALSE	"1"	"Sehr wahrscheinlich"	"VeryLikely"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Häufiger entspannende Aktivitäten ausüben"	NA	"Q11_MoreRelax_ge"	FALSE	"2"	"Einigermaßen wahrscheinlich"	"Likely"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Häufiger entspannende Aktivitäten ausüben"	NA	"Q11_MoreRelax_ge"	FALSE	"3"	"Das mache ich schon"	"AlreadyDo"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Häufiger entspannende Aktivitäten ausüben"	NA	"Q11_MoreRelax_ge"	FALSE	"4"	"Eher unwahrscheinlich"	"Unlikely"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Häufiger entspannende Aktivitäten ausüben"	NA	"Q11_MoreRelax_ge"	FALSE	"5"	"Sehr unwahrscheinlich"	"NotAtAll"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Mein Hirn besser aktivieren (z.B. eine neue Sprache lernen)"	NA	"Q11_BrainStimuli_ge"	FALSE	"1"	"Sehr wahrscheinlich"	"VeryLikely"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Mein Hirn besser aktivieren (z.B. eine neue Sprache lernen)"	NA	"Q11_BrainStimuli_ge"	FALSE	"2"	"Einigermaßen wahrscheinlich"	"Likely"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Mein Hirn besser aktivieren (z.B. eine neue Sprache lernen)"	NA	"Q11_BrainStimuli_ge"	FALSE	"3"	"Das mache ich schon"	"AlreadyDo"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Mein Hirn besser aktivieren (z.B. eine neue Sprache lernen)"	NA	"Q11_BrainStimuli_ge"	FALSE	"4"	"Eher unwahrscheinlich"	"Unlikely"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Mein Hirn besser aktivieren (z.B. eine neue Sprache lernen)"	NA	"Q11_BrainStimuli_ge"	FALSE	"5"	"Sehr unwahrscheinlich"	"NotAtAll"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Alkohol vermeiden"	NA	"Q11_NoAlcohol_ge"	FALSE	"1"	"Sehr wahrscheinlich"	"VeryLikely"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Alkohol vermeiden"	NA	"Q11_NoAlcohol_ge"	FALSE	"2"	"Einigermaßen wahrscheinlich"	"Likely"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Alkohol vermeiden"	NA	"Q11_NoAlcohol_ge"	FALSE	"3"	"Das mache ich schon"	"AlreadyDo"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Alkohol vermeiden"	NA	"Q11_NoAlcohol_ge"	FALSE	"4"	"Eher unwahrscheinlich"	"Unlikely"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Alkohol vermeiden"	NA	"Q11_NoAlcohol_ge"	FALSE	"5"	"Sehr unwahrscheinlich"	"NotAtAll"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Nikotin meiden"	NA	"Q11_NoSmoking_ge"	FALSE	"1"	"Sehr wahrscheinlich"	"VeryLikely"	FALSE	FALSE	7	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Nikotin meiden"	NA	"Q11_NoSmoking_ge"	FALSE	"2"	"Einigermaßen wahrscheinlich"	"Likely"	FALSE	FALSE	7	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Nikotin meiden"	NA	"Q11_NoSmoking_ge"	FALSE	"3"	"Das mache ich schon"	"AlreadyDo"	FALSE	FALSE	7	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Nikotin meiden"	NA	"Q11_NoSmoking_ge"	FALSE	"4"	"Eher unwahrscheinlich"	"Unlikely"	FALSE	FALSE	7	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Nikotin meiden"	NA	"Q11_NoSmoking_ge"	FALSE	"5"	"Sehr unwahrscheinlich"	"NotAtAll"	FALSE	FALSE	7	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Mehr Kontakte pflegen"	NA	"Q11_MoreSocial_ge"	FALSE	"1"	"Sehr wahrscheinlich"	"VeryLikely"	FALSE	FALSE	8	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Mehr Kontakte pflegen"	NA	"Q11_MoreSocial_ge"	FALSE	"2"	"Einigermaßen wahrscheinlich"	"Likely"	FALSE	FALSE	8	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Mehr Kontakte pflegen"	NA	"Q11_MoreSocial_ge"	FALSE	"3"	"Das mache ich schon"	"AlreadyDo"	FALSE	FALSE	8	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Mehr Kontakte pflegen"	NA	"Q11_MoreSocial_ge"	FALSE	"4"	"Eher unwahrscheinlich"	"Unlikely"	FALSE	FALSE	8	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Mehr Kontakte pflegen"	NA	"Q11_MoreSocial_ge"	FALSE	"5"	"Sehr unwahrscheinlich"	"NotAtAll"	FALSE	FALSE	8	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Mehr kulturelle Veranstaltungen besuchen"	NA	"Q11_MoreCulture_ge"	FALSE	"1"	"Sehr wahrscheinlich"	"VeryLikely"	FALSE	FALSE	9	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Mehr kulturelle Veranstaltungen besuchen"	NA	"Q11_MoreCulture_ge"	FALSE	"2"	"Einigermaßen wahrscheinlich"	"Likely"	FALSE	FALSE	9	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Mehr kulturelle Veranstaltungen besuchen"	NA	"Q11_MoreCulture_ge"	FALSE	"3"	"Das mache ich schon"	"AlreadyDo"	FALSE	FALSE	9	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Mehr kulturelle Veranstaltungen besuchen"	NA	"Q11_MoreCulture_ge"	FALSE	"4"	"Eher unwahrscheinlich"	"Unlikely"	FALSE	FALSE	9	NA	NA	NA
+"german"	"ge"	119162	"55"	NA	NA	"Mehr kulturelle Veranstaltungen besuchen"	NA	"Q11_MoreCulture_ge"	FALSE	"5"	"Sehr unwahrscheinlich"	"NotAtAll"	FALSE	FALSE	9	NA	NA	NA
+"german"	"ge"	119162	"57"	NA	NA	NA	NA	"Q11_OtherChanges_Spec_ge"	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"german"	"ge"	119162	"60"	NA	NA	NA	NA	NA	TRUE	"1"	"Wenn ich Probleme mit meinem Gehirn hätte (z.B. mein Gedächtnis würde sich verschlechtern)"	"WorseMemory"	FALSE	FALSE	NA	3	NA	NA
+"german"	"ge"	119162	"60"	NA	NA	NA	NA	NA	TRUE	"2"	"Wenn bei mir eine Hirnerkrankung diagnostiziert würde"	"Diagnose"	FALSE	FALSE	NA	3	NA	NA
+"german"	"ge"	119162	"60"	NA	NA	NA	NA	NA	TRUE	"3"	"Wenn diese Lebensstiländerungen Spaß machen"	"Fun"	FALSE	FALSE	NA	3	NA	NA
+"german"	"ge"	119162	"60"	NA	NA	NA	NA	NA	TRUE	"4"	"Wenn diese Lebensstiländerungen wenig kosten"	"Affordable"	FALSE	FALSE	NA	3	NA	NA
+"german"	"ge"	119162	"60"	NA	NA	NA	NA	NA	TRUE	"5"	"Wenn meine Bekannten oder Freunde eine Hirnerkrankung bekämen"	"Family"	FALSE	FALSE	NA	3	NA	NA
+"german"	"ge"	119162	"60"	NA	NA	NA	NA	NA	TRUE	"6"	"Wenn ich persönliche Tipps  erhielte, was ich tun kann (z.B. von meinem Arzt)"	"PersonalAdvice"	FALSE	FALSE	NA	3	NA	NA
+"german"	"ge"	119162	"60"	NA	NA	NA	NA	NA	TRUE	"7"	"Wenn meine Familie/Freunde mich dabei unterstützten"	"FamilySupport"	FALSE	FALSE	NA	3	NA	NA
+"german"	"ge"	119162	"60"	NA	NA	NA	NA	NA	TRUE	"8"	"Wenn bekannt wäre, dass diese Veränderungen des Lebensstils von Vorteil sind"	"ImpactKnown"	FALSE	FALSE	NA	3	NA	NA
+"german"	"ge"	119162	"60"	NA	NA	NA	NA	NA	TRUE	"9"	"Mich würde nichts motivieren"	"NoMotivation"	FALSE	FALSE	NA	3	NA	NA
+"german"	"ge"	119162	"60"	NA	NA	NA	NA	NA	TRUE	"10"	"Sonstiges (Bitte angeben):​"	"OtherMotivationChange"	FALSE	FALSE	NA	3	NA	NA
+"german"	"ge"	119162	"62"	NA	NA	NA	NA	"Q12_OtherChangeMotivation_Spec_ge"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"german"	"ge"	119162	"65"	NA	NA	NA	NA	NA	TRUE	"1"	"Zeitmangel"	"NoTime"	FALSE	FALSE	NA	3	NA	NA
+"german"	"ge"	119162	"65"	NA	NA	NA	NA	NA	TRUE	"2"	"Motivationsmangel"	"NoMotivation"	FALSE	FALSE	NA	3	NA	NA
+"german"	"ge"	119162	"65"	NA	NA	NA	NA	NA	TRUE	"3"	"Mangel an Informationen, was ich tun soll"	"NoInfo"	FALSE	FALSE	NA	3	NA	NA
+"german"	"ge"	119162	"65"	NA	NA	NA	NA	NA	TRUE	"4"	"Wenn ich Aktivitäten aufgeben müsste, die ich gern mag"	"GiveupHobby"	FALSE	FALSE	NA	3	NA	NA
+"german"	"ge"	119162	"65"	NA	NA	NA	NA	NA	TRUE	"5"	"Wenn ich Aktivitäten aufnehmen müsste, die ich nicht mag"	"StartNoFun"	FALSE	FALSE	NA	3	NA	NA
+"german"	"ge"	119162	"65"	NA	NA	NA	NA	NA	TRUE	"6"	"Wenn ich alleine Veränderungen umsetzen müsste"	"Alone"	FALSE	FALSE	NA	3	NA	NA
+"german"	"ge"	119162	"65"	NA	NA	NA	NA	NA	TRUE	"7"	"Wenn diese Aktivitäten teuer wären (z.B. Mitgliedschaft in einem Fitnesstudio)"	"Expensive"	FALSE	FALSE	NA	3	NA	NA
+"german"	"ge"	119162	"65"	NA	NA	NA	NA	NA	TRUE	"8"	"Wenn ich nicht sicher sein kann, ob die Veränderungen etwas nützen"	"NotHelp"	FALSE	FALSE	NA	3	NA	NA
+"german"	"ge"	119162	"65"	NA	NA	NA	NA	NA	TRUE	"9"	"Ich habe nicht das Bedürfnis, etwas zu ändern"	"NoNeed"	FALSE	FALSE	NA	3	NA	NA
+"german"	"ge"	119162	"65"	NA	NA	NA	NA	NA	TRUE	"10"	"Sonstiges (Bitte angeben):"	"OtherMotivationNoChange"	FALSE	FALSE	NA	3	NA	NA
+"german"	"ge"	119162	"67"	NA	NA	NA	NA	"Q13_SpecifyNoMotivation_Spec_ge"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"german"	"ge"	119162	"70"	NA	NA	NA	NA	NA	FALSE	"1"	"Ratschläge von meinem Hausarzt oder einem Spezialisten, z.B. eines Ernährungsberaters, persönlichen Trainers"	"GP"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"70"	NA	NA	NA	NA	NA	FALSE	"2"	"Unterstützung durch Familienmitglieder und/oder Freunde"	"SupportFamily"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"70"	NA	NA	NA	NA	NA	FALSE	"3"	"Unterstützung durch eine Gruppe / Verein, z.B. einer Walking-Gruppe"	"GroupSupport"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"70"	NA	NA	NA	NA	NA	FALSE	"4"	"Eine mobile Trainings-App (z.B. für Gehirn- und körperliches Training)"	"MobileApp"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"70"	NA	NA	NA	NA	NA	FALSE	"5"	"Regelmäßige Überprüfung, ob es zu positiven Veränderungen kommt."	"Checkup"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"70"	NA	NA	NA	NA	NA	FALSE	"6"	"Andere Arten der Unterstützung (Bitte angeben):"	"OtherAssistance"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"72"	NA	NA	NA	NA	"Q14_OtherAssistance_Spec_ge"	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"german"	"ge"	119162	"75"	NA	NA	"Die Öffentlichkeit über ein gesundes Gehirn informieren"	NA	"Q15_InformAuth_ge"	FALSE	"1"	"Ja"	"Yes"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"75"	NA	NA	"Die Öffentlichkeit über ein gesundes Gehirn informieren"	NA	"Q15_InformAuth_ge"	FALSE	"2"	"Nein"	"No"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"75"	NA	NA	"Die Öffentlichkeit über ein gesundes Gehirn informieren"	NA	"Q15_InformAuth_ge"	FALSE	"3"	"Weiß nicht"	"Unknown"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"75"	NA	NA	"Steuern auf Produkte erhöhen, die der Gesundheit des Gehirns schaden"	NA	"Q15_TaxAuth_ge"	FALSE	"1"	"Ja"	"Yes"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"75"	NA	NA	"Steuern auf Produkte erhöhen, die der Gesundheit des Gehirns schaden"	NA	"Q15_TaxAuth_ge"	FALSE	"2"	"Nein"	"No"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"75"	NA	NA	"Steuern auf Produkte erhöhen, die der Gesundheit des Gehirns schaden"	NA	"Q15_TaxAuth_ge"	FALSE	"3"	"Weiß nicht"	"Unknown"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"75"	NA	NA	"Lebensmittel und Aktivitäten subventionieren, die einen nachweislich positiven Effekt auf die Gesundheit des Gehirns haben"	NA	"Q15_SubsAuth_ge"	FALSE	"1"	"Ja"	"Yes"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"75"	NA	NA	"Lebensmittel und Aktivitäten subventionieren, die einen nachweislich positiven Effekt auf die Gesundheit des Gehirns haben"	NA	"Q15_SubsAuth_ge"	FALSE	"2"	"Nein"	"No"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"75"	NA	NA	"Lebensmittel und Aktivitäten subventionieren, die einen nachweislich positiven Effekt auf die Gesundheit des Gehirns haben"	NA	"Q15_SubsAuth_ge"	FALSE	"3"	"Weiß nicht"	"Unknown"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"75"	NA	NA	"Bürgern kostenlose Gehirngesundheitstests anbieten"	NA	"Q15_FreetestAuth_ge"	FALSE	"1"	"Ja"	"Yes"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"75"	NA	NA	"Bürgern kostenlose Gehirngesundheitstests anbieten"	NA	"Q15_FreetestAuth_ge"	FALSE	"2"	"Nein"	"No"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"75"	NA	NA	"Bürgern kostenlose Gehirngesundheitstests anbieten"	NA	"Q15_FreetestAuth_ge"	FALSE	"3"	"Weiß nicht"	"Unknown"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"75"	NA	NA	"Entspannende Aktivitäten und Sport in Schulen und am Arbeitsplatz einführen"	NA	"Q15_RelaxAuth_ge"	FALSE	"1"	"Ja"	"Yes"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"75"	NA	NA	"Entspannende Aktivitäten und Sport in Schulen und am Arbeitsplatz einführen"	NA	"Q15_RelaxAuth_ge"	FALSE	"2"	"Nein"	"No"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"75"	NA	NA	"Entspannende Aktivitäten und Sport in Schulen und am Arbeitsplatz einführen"	NA	"Q15_RelaxAuth_ge"	FALSE	"3"	"Weiß nicht"	"Unknown"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"75"	NA	NA	"Versicherungsgesellschaften daran hindern, dass diese auf Ergebnisse von Hirngesundheitstests zugreifen können."	NA	"Q15_InsAuth_ge"	FALSE	"1"	"Ja"	"Yes"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"75"	NA	NA	"Versicherungsgesellschaften daran hindern, dass diese auf Ergebnisse von Hirngesundheitstests zugreifen können."	NA	"Q15_InsAuth_ge"	FALSE	"2"	"Nein"	"No"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"75"	NA	NA	"Versicherungsgesellschaften daran hindern, dass diese auf Ergebnisse von Hirngesundheitstests zugreifen können."	NA	"Q15_InsAuth_ge"	FALSE	"3"	"Weiß nicht"	"Unknown"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"78"	NA	NA	"Meinem Hausarzt"	NA	"Q16_GP_ge"	FALSE	"1"	"Weitestgehend"	"GreatExtent"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"78"	NA	NA	"Meinem Hausarzt"	NA	"Q16_GP_ge"	FALSE	"2"	"Einigermaßen"	"Neutral"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"78"	NA	NA	"Meinem Hausarzt"	NA	"Q16_GP_ge"	FALSE	"3"	"Überhaupt nicht"	"NotatAll"	FALSE	FALSE	1	NA	NA	NA
+"german"	"ge"	119162	"78"	NA	NA	"Einem Spezialisten für Gehirngesundheit"	NA	"Q16_BrainHealthSpec_ge"	FALSE	"1"	"Weitestgehend"	"GreatExtent"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"78"	NA	NA	"Einem Spezialisten für Gehirngesundheit"	NA	"Q16_BrainHealthSpec_ge"	FALSE	"2"	"Einigermaßen"	"Neutral"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"78"	NA	NA	"Einem Spezialisten für Gehirngesundheit"	NA	"Q16_BrainHealthSpec_ge"	FALSE	"3"	"Überhaupt nicht"	"NotatAll"	FALSE	FALSE	2	NA	NA	NA
+"german"	"ge"	119162	"78"	NA	NA	"Medizinischen Online-Foren"	NA	"Q16_OnlineForum_ge"	FALSE	"1"	"Weitestgehend"	"GreatExtent"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"78"	NA	NA	"Medizinischen Online-Foren"	NA	"Q16_OnlineForum_ge"	FALSE	"2"	"Einigermaßen"	"Neutral"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"78"	NA	NA	"Medizinischen Online-Foren"	NA	"Q16_OnlineForum_ge"	FALSE	"3"	"Überhaupt nicht"	"NotatAll"	FALSE	FALSE	3	NA	NA	NA
+"german"	"ge"	119162	"78"	NA	NA	"Offiziellen Webseiten von Gesundheitsbehörden"	NA	"Q16_HealthAuthWebsites_ge"	FALSE	"1"	"Weitestgehend"	"GreatExtent"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"78"	NA	NA	"Offiziellen Webseiten von Gesundheitsbehörden"	NA	"Q16_HealthAuthWebsites_ge"	FALSE	"2"	"Einigermaßen"	"Neutral"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"78"	NA	NA	"Offiziellen Webseiten von Gesundheitsbehörden"	NA	"Q16_HealthAuthWebsites_ge"	FALSE	"3"	"Überhaupt nicht"	"NotatAll"	FALSE	FALSE	4	NA	NA	NA
+"german"	"ge"	119162	"78"	NA	NA	"Zeitungen, Zeitschriften"	NA	"Q16_Newspaper_ge"	FALSE	"1"	"Weitestgehend"	"GreatExtent"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"78"	NA	NA	"Zeitungen, Zeitschriften"	NA	"Q16_Newspaper_ge"	FALSE	"2"	"Einigermaßen"	"Neutral"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"78"	NA	NA	"Zeitungen, Zeitschriften"	NA	"Q16_Newspaper_ge"	FALSE	"3"	"Überhaupt nicht"	"NotatAll"	FALSE	FALSE	5	NA	NA	NA
+"german"	"ge"	119162	"78"	NA	NA	"Sozialen Medien (Facebook, Twitter, Instagram)"	NA	"Q16_SocialMedia_ge"	FALSE	"1"	"Weitestgehend"	"GreatExtent"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"78"	NA	NA	"Sozialen Medien (Facebook, Twitter, Instagram)"	NA	"Q16_SocialMedia_ge"	FALSE	"2"	"Einigermaßen"	"Neutral"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"78"	NA	NA	"Sozialen Medien (Facebook, Twitter, Instagram)"	NA	"Q16_SocialMedia_ge"	FALSE	"3"	"Überhaupt nicht"	"NotatAll"	FALSE	FALSE	6	NA	NA	NA
+"german"	"ge"	119162	"78"	NA	NA	"Fernsehen / Radio (einschließlich Podcasts)"	NA	"Q16_TVRadio_ge"	FALSE	"1"	"Weitestgehend"	"GreatExtent"	FALSE	FALSE	7	NA	NA	NA
+"german"	"ge"	119162	"78"	NA	NA	"Fernsehen / Radio (einschließlich Podcasts)"	NA	"Q16_TVRadio_ge"	FALSE	"2"	"Einigermaßen"	"Neutral"	FALSE	FALSE	7	NA	NA	NA
+"german"	"ge"	119162	"78"	NA	NA	"Fernsehen / Radio (einschließlich Podcasts)"	NA	"Q16_TVRadio_ge"	FALSE	"3"	"Überhaupt nicht"	"NotatAll"	FALSE	FALSE	7	NA	NA	NA
+"german"	"ge"	119162	"78"	NA	NA	"Wissenschaftlern"	NA	"Q16_PublicResearch_ge"	FALSE	"1"	"Weitestgehend"	"GreatExtent"	FALSE	FALSE	8	NA	NA	NA
+"german"	"ge"	119162	"78"	NA	NA	"Wissenschaftlern"	NA	"Q16_PublicResearch_ge"	FALSE	"2"	"Einigermaßen"	"Neutral"	FALSE	FALSE	8	NA	NA	NA
+"german"	"ge"	119162	"78"	NA	NA	"Wissenschaftlern"	NA	"Q16_PublicResearch_ge"	FALSE	"3"	"Überhaupt nicht"	"NotatAll"	FALSE	FALSE	8	NA	NA	NA
+"german"	"ge"	119162	"78"	NA	NA	"Fachzeitschriften"	NA	"Q16_ScientificJournals_ge"	FALSE	"1"	"Weitestgehend"	"GreatExtent"	FALSE	FALSE	9	NA	NA	NA
+"german"	"ge"	119162	"78"	NA	NA	"Fachzeitschriften"	NA	"Q16_ScientificJournals_ge"	FALSE	"2"	"Einigermaßen"	"Neutral"	FALSE	FALSE	9	NA	NA	NA
+"german"	"ge"	119162	"78"	NA	NA	"Fachzeitschriften"	NA	"Q16_ScientificJournals_ge"	FALSE	"3"	"Überhaupt nicht"	"NotatAll"	FALSE	FALSE	9	NA	NA	NA
+"german"	"ge"	119162	"81"	NA	NA	"17. Nehmen Sie gegenwärtig an Studien zur Hirnforschung teil oder haben Sie schon einmal daran teilgenommen?"	NA	"Q17_BrainResearch_Part_ge"	TRUE	"1"	"Ja"	"Yes"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"81"	NA	NA	"17. Nehmen Sie gegenwärtig an Studien zur Hirnforschung teil oder haben Sie schon einmal daran teilgenommen?"	NA	"Q17_BrainResearch_Part_ge"	TRUE	"2"	"Nein"	"No"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"83"	NA	NA	"18. Wie alt sind Sie?"	NA	"Q18_Age_ge"	TRUE	"1"	"18-25"	"18-25"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"83"	NA	NA	"18. Wie alt sind Sie?"	NA	"Q18_Age_ge"	TRUE	"2"	"26-40"	"26-40"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"83"	NA	NA	"18. Wie alt sind Sie?"	NA	"Q18_Age_ge"	TRUE	"3"	"41-60"	"41-60"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"83"	NA	NA	"18. Wie alt sind Sie?"	NA	"Q18_Age_ge"	TRUE	"4"	"61-70"	"61-70"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"83"	NA	NA	"18. Wie alt sind Sie?"	NA	"Q18_Age_ge"	TRUE	"5"	"71-80"	"71-80"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"83"	NA	NA	"18. Wie alt sind Sie?"	NA	"Q18_Age_ge"	TRUE	"6"	"Über 80"	"80plus"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"1"	"Afghanistan"	"Afghanistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"2"	"Albanien"	"Albania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"3"	"Algerien"	"Algeria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"4"	"Andorra"	"Andorra"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"5"	"Angola"	"Angola"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"6"	"Antigua und Barbuda"	"Antigua"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"7"	"Argentinien"	"Argentina"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"8"	"Armenien"	"Armenia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"9"	"Australien"	"Australia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"10"	"Aserbaidschan"	"Azerbaijan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"11"	"Ägypten"	"Egypt"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"12"	"Äquatorialguinea"	"EGuinea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"13"	"Äthiopien"	"Ethiopia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"14"	"Bahamas"	"Bahamas"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"15"	"Bahrain"	"Bahrain"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"16"	"Barbados"	"Barbados"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"17"	"Belize"	"Belize"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"18"	"Belgien"	"Belgium"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"19"	"Benin"	"Benin"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"20"	"Bhutan"	"Bhutan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"21"	"Bolivien"	"Bolivia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"22"	"Bosnien und Herzegowina"	"Bosnia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"23"	"Botswana"	"Botswana"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"24"	"Brasilien"	"Brasil"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"25"	"Brunei"	"Brunei"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"26"	"Bulgarien"	"Bulgaria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"27"	"Burkina Faso"	"BurkinaFaso"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"28"	"Burundi"	"Burundi"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"29"	"Chile"	"Chile"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"30"	"China"	"China"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"31"	"Costa Rica"	"CostaRica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"32"	"Dänemark"	"Denmark"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"33"	"Demokratische Republik Kongo"	"Congo"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"34"	"Deutschland"	"Germany"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"35"	"Dominikanische Republik"	"Dominica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"36"	"Dschibuti"	"Djibouti"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"37"	"Elfenbeinküste"	"Cotedivoire"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"38"	"Ecuador"	"Ecuador"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"39"	"El Salvador"	"ElSalvador"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"40"	"Eritrea"	"Eritrea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"41"	"Estland"	"Estonia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"42"	"Fidschi"	"Fiji"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"43"	"Finland"	"Finland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"44"	"Frankreich"	"France"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"45"	"Gabun"	"Gabon"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"46"	"Gambia"	"Gambia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"47"	"Georgia"	"Georgia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"48"	"Ghana"	"Ghana"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"49"	"Griechenland"	"Greece"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"50"	"Grenada"	"Grenada"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"51"	"Guetamala"	"Guetamala"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"52"	"Guinea"	"Guinea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"53"	"Guinea-Bissau"	"GuineaB"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"54"	"Guyana"	"Guyana"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"55"	"Haiti"	"Haiti"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"56"	"Honduras"	"Honduras"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"57"	"Island"	"Iceland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"58"	"Indien"	"India"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"59"	"Indonesien"	"Indonesia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"60"	"Irland"	"Ireland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"61"	"Israel"	"Israel"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"62"	"Italien"	"Italy"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"63"	"Iran"	"Iran"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"64"	"Iraq"	"Iraq"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"65"	"Jamaika"	"Jamaica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"66"	"Japan"	"Japan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"67"	"Jemen"	"Yemen"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"68"	"Jordan"	"Jordan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"69"	"Kamerun"	"Cameroon"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"70"	"Kanada"	"Canada"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"71"	"Kambodscha"	"Cambodia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"72"	"Kap Verde"	"CapeVerde"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"73"	"Kasachstan"	"Kazahstan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"74"	"Katar"	"Qatar"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"75"	"Kenia"	"Kenya"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"76"	"Kirgisistan"	"Kyrgyzstan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"77"	"Kiribati"	"Kiribati"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"78"	"Kolumbien"	"Colombia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"79"	"Komoren"	"Comoros"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"80"	"Kosovo"	"Kosovo"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"81"	"Königreich Großbritannien"	"UK"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"82"	"Kroatien"	"Croatia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"83"	"Kuba"	"Cuba"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"84"	"Kuwait"	"Kuwait"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"85"	"Laos"	"Laos"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"86"	"Lettland"	"Latvia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"87"	"Lesotho"	"Lesotho"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"88"	"Libanon"	"Lebanon"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"89"	"Liberia"	"Liberia_en"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"90"	"Libyen"	"Libya"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"91"	"Liechtenstein"	"Liechtenstein"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"92"	"Litauen"	"Lithuania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"93"	"Luxembourg"	"Luxembourg"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"94"	"Macedonia"	"Macedonia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"95"	"Madagaskar"	"Madagascar"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"96"	"Malawi"	"Malawi"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"97"	"Malaysia"	"Malaysia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"98"	"Malediven"	"Maldives"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"99"	"Mali"	"Mali"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"100"	"Malta"	"Malta"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"101"	"Marokko"	"Morocco"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"102"	"Marshallinseln"	"MarshallIslands"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"103"	"Mauritanien"	"Mauritania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"104"	"Mauritius"	"Mauritius"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"105"	"Mexiko"	"Mexico"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"106"	"Mikronesien"	"Micronesia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"107"	"Moldowien"	"Moldova"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"108"	"Monaco"	"Monaco"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"109"	"Mongolei"	"Mongolia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"110"	"Montenegro"	"Montenegro"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"111"	"Mosambik"	"Mozambique"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"112"	"Myanmar"	"Myanmar"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"113"	"Namibia"	"Namibia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"114"	"Nauru"	"Nauru"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"115"	"Nepal"	"Nepal"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"116"	"Neuseeland"	"NewZealand"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"117"	"Niederlande"	"Netherlands"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"118"	"Nicaragua"	"Nicaragua"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"119"	"Nigeria"	"Nigeria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"120"	"Nordirland"	"NorthernIreland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"121"	"Nordkorea"	"NorthKorea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"122"	"Norwegen"	"Norway"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"123"	"Oman"	"Oman"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"124"	"Osttimor"	"EastTimor"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"125"	"Österreich"	"Austria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"126"	"Pakistan"	"Pakistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"127"	"Palau"	"Palau"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"128"	"Panama"	"Panama"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"129"	"Papua-Neuguinea"	"Papua"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"130"	"Paraguay"	"Paraguay"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"131"	"Peru"	"Peru"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"132"	"Philippinen"	"Philippines"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"133"	"Polen"	"Poland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"134"	"Portugal"	"Portugal"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"135"	"Republik von südafrika"	"SouthAfrica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"136"	"Rumänien"	"Romania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"137"	"Russland"	"Russia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"138"	"Ruanda"	"Rwanda"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"139"	"Saire"	"Zaire"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"140"	"Salomonen"	"SolomonIsland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"141"	"Sambia"	"Zambia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"142"	"Samoa"	"Samoa"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"143"	"San Marino"	"SanMarino"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"144"	"São Tomé und Príncipe"	"SaoTome"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"145"	"Saudi-Arabien"	"SaudiArabia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"146"	"Schweden"	"Sweden"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"147"	"Schweiz"	"Switzerland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"148"	"Senegal"	"Senegal"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"149"	"Serbien"	"Serbia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"150"	"Seychellen"	"Seychelles"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"151"	"Sierra Leone"	"SierraLeone"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"152"	"Simbabwe"	NA	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"153"	"Singapur"	"Singapore"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"154"	"Slowakei"	"Slovakia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"155"	"Slowenien"	"Slovenia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"156"	"Somalia"	"Somalia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"157"	"Spanien"	"Spain"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"158"	"Sri Lanka"	"SriLanka"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"159"	"Sudan"	"Sudan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"160"	"Suriname"	"Suriname"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"161"	"Südkorea"	"SouthKorea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"162"	"Syrien"	"Syria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"163"	"Tadschikistan"	"Tajikistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"164"	"Taiwan"	"Taiwan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"165"	"Tansania"	"Tanzania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"166"	"Thailand"	"Thailand"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"167"	"Togo"	"Togo"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"168"	"Tonga"	"Tonga"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"169"	"Trinidad und Tobago"	"Trinidad"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"170"	"Tschad"	"Chad"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"171"	"Tschechien"	"Czech"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"172"	"Tunesien"	"Tunisia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"173"	"Turkmenistan"	"Turkmenistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"174"	"Tuvalu"	"Tuvalu"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"175"	"Türkei"	"Turkey"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"176"	"Uganda"	"Uganda"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"177"	"Ukraine"	"Ukraine"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"178"	"Ungarn"	"Hungary"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"179"	"Uruguay"	"Uruguay"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"180"	"Usbekistan"	"Uzbekistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"181"	"Vereinigte Arabische Emirate"	"ArabEmirates"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"182"	"Vereinigte Staaten"	"USA"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"183"	"Vanuatu"	"Vanuatu"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"184"	"Vatikan"	"Vatican"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"185"	"Venezuela"	"Venezuela"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"186"	"Vietnam"	"Vietnam"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"187"	"Weißrussland"	"Belarus"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"188"	"Zentralafrikanische Republik"	"CentralAfrica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"85"	NA	NA	"19. In welchem Land wohnen Sie?"	"Bitte nach unten scrollen und das zutreffende Land auswählen.
+ 
+"	"Q19_Residence_ge"	TRUE	"189"	"Zypern"	"Cyprus"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"87"	NA	NA	"20. Sind Sie …?:"	NA	"Q20_Sex_ge"	TRUE	"1"	"Männlich"	"Female"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"87"	NA	NA	"20. Sind Sie …?:"	NA	"Q20_Sex_ge"	TRUE	"2"	"Weiblich"	"Male"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"87"	NA	NA	"20. Sind Sie …?:"	NA	"Q20_Sex_ge"	TRUE	"3"	"Anderes"	"Other"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"87"	NA	NA	"20. Sind Sie …?:"	NA	"Q20_Sex_ge"	TRUE	"4"	"Ich möchte nicht antworten"	"Unknown"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"89"	NA	NA	"21. Was ist Ihr höchster Schulabschluss?"	"
+
+
+"	"Q21_Education_Coded_ge"	TRUE	"1"	"Grundschule"	"PrimarySchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"89"	NA	NA	"21. Was ist Ihr höchster Schulabschluss?"	"
+
+
+"	"Q21_Education_Coded_ge"	TRUE	"2"	"Sonderschule"	"SpecialSchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"89"	NA	NA	"21. Was ist Ihr höchster Schulabschluss?"	"
+
+
+"	"Q21_Education_Coded_ge"	TRUE	"3"	"Weiterführende Schule"	"HighSchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"89"	NA	NA	"21. Was ist Ihr höchster Schulabschluss?"	"
+
+
+"	"Q21_Education_Coded_ge"	TRUE	"4"	"Berufsausbildung"	"VocationSchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"89"	NA	NA	"21. Was ist Ihr höchster Schulabschluss?"	"
+
+
+"	"Q21_Education_Coded_ge"	TRUE	"5"	"Universitäts-/Hochschulabschluss"	"GradSchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"91"	NA	NA	"22. Welche der folgenden Angaben beschreibt Ihren aktuellen Familienstand / Beziehungsstatus am besten:"	"
+
+
+"	"Q22_Relationship_Status_ge"	TRUE	"1"	"Single / allein lebend"	"Single"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"91"	NA	NA	"22. Welche der folgenden Angaben beschreibt Ihren aktuellen Familienstand / Beziehungsstatus am besten:"	"
+
+
+"	"Q22_Relationship_Status_ge"	TRUE	"2"	"In stabiler Beziehung, nicht verheiratet"	"Unmarried"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"91"	NA	NA	"22. Welche der folgenden Angaben beschreibt Ihren aktuellen Familienstand / Beziehungsstatus am besten:"	"
+
+
+"	"Q22_Relationship_Status_ge"	TRUE	"3"	"Verheiratet"	"DomesticPartner"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"91"	NA	NA	"22. Welche der folgenden Angaben beschreibt Ihren aktuellen Familienstand / Beziehungsstatus am besten:"	"
+
+
+"	"Q22_Relationship_Status_ge"	TRUE	"4"	"Geschieden/getrennt"	"Divorced"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"91"	NA	NA	"22. Welche der folgenden Angaben beschreibt Ihren aktuellen Familienstand / Beziehungsstatus am besten:"	"
+
+
+"	"Q22_Relationship_Status_ge"	TRUE	"5"	"Verwitwet"	"Widowed"	FALSE	FALSE	1	NA	FALSE	FALSE
+"german"	"ge"	119162	"93"	NA	NA	"23. Sind Sie aktuell …?"	NA	NA	TRUE	"1"	"Angestellt/Selbständig"	"Employed"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"93"	NA	NA	"23. Sind Sie aktuell …?"	NA	NA	TRUE	"2"	"Arbeitslos"	"Unemployed"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"93"	NA	NA	"23. Sind Sie aktuell …?"	NA	NA	TRUE	"3"	"Hausfrau/-mann"	"Stay-at-home"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"93"	NA	NA	"23. Sind Sie aktuell …?"	NA	NA	TRUE	"4"	"Student"	"Student"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"93"	NA	NA	"23. Sind Sie aktuell …?"	NA	NA	TRUE	"5"	"Berentet"	"Pensioned"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"93"	NA	NA	"23. Sind Sie aktuell …?"	NA	NA	TRUE	"6"	"Arbeitsunfähig"	"Disabled"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"93"	NA	NA	"23. Sind Sie aktuell …?"	NA	NA	TRUE	"7"	"Unbezahlte oder ehrenamtliche Arbeit leistend"	"Volunteer-work"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"95"	NA	NA	"24. Haben Sie eine Ausbildung oder Berufserfahrung im Gesundheitswesen?"	NA	"Q24_Exp_HealthCare_ge"	TRUE	"1"	"Ja"	"Yes"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"95"	NA	NA	"24. Haben Sie eine Ausbildung oder Berufserfahrung im Gesundheitswesen?"	NA	"Q24_Exp_HealthCare_ge"	TRUE	"2"	"Nein"	"No"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"97"	NA	NA	"25. Wie würden Sie ihre Lern-, Denk- und Merkfähigkeit beschreiben?"	NA	"Q25_Cognitive_Health_ge"	TRUE	"1"	"Ausgezeichnet"	"Excellent"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"97"	NA	NA	"25. Wie würden Sie ihre Lern-, Denk- und Merkfähigkeit beschreiben?"	NA	"Q25_Cognitive_Health_ge"	TRUE	"2"	"Überdurchschnittlich"	"AboveAverage"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"97"	NA	NA	"25. Wie würden Sie ihre Lern-, Denk- und Merkfähigkeit beschreiben?"	NA	"Q25_Cognitive_Health_ge"	TRUE	"3"	"Durchschnittlich"	"Average"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"97"	NA	NA	"25. Wie würden Sie ihre Lern-, Denk- und Merkfähigkeit beschreiben?"	NA	"Q25_Cognitive_Health_ge"	TRUE	"4"	"Unterdurchschnittlich"	"BelowAverage"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"97"	NA	NA	"25. Wie würden Sie ihre Lern-, Denk- und Merkfähigkeit beschreiben?"	NA	"Q25_Cognitive_Health_ge"	TRUE	"5"	"Sehr eingeschränkt"	"Poor"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"99"	NA	NA	"26. Wie würden Sie Ihre Fähigkeit beschreiben, Ihre Stimmung und Ihr emotionales Wohlbefinden im Gleichgewicht zu halten?"	NA	"Q26_Emotional_Health_ge"	TRUE	"1"	"Ausgezeichnet"	"Excellent"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"99"	NA	NA	"26. Wie würden Sie Ihre Fähigkeit beschreiben, Ihre Stimmung und Ihr emotionales Wohlbefinden im Gleichgewicht zu halten?"	NA	"Q26_Emotional_Health_ge"	TRUE	"2"	"Überdurchschnittlich"	"AboveAverage"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"99"	NA	NA	"26. Wie würden Sie Ihre Fähigkeit beschreiben, Ihre Stimmung und Ihr emotionales Wohlbefinden im Gleichgewicht zu halten?"	NA	"Q26_Emotional_Health_ge"	TRUE	"3"	"Durchschnittlich"	"Average"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"99"	NA	NA	"26. Wie würden Sie Ihre Fähigkeit beschreiben, Ihre Stimmung und Ihr emotionales Wohlbefinden im Gleichgewicht zu halten?"	NA	"Q26_Emotional_Health_ge"	TRUE	"4"	"Unterdurchschnittlich"	"BelowAverage"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"99"	NA	NA	"26. Wie würden Sie Ihre Fähigkeit beschreiben, Ihre Stimmung und Ihr emotionales Wohlbefinden im Gleichgewicht zu halten?"	NA	"Q26_Emotional_Health_ge"	TRUE	"5"	"Sehr eingeschränkt"	"Poor"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"101"	NA	NA	"27. Haben Sie eine langjährige Krankheit, Behinderung oder gesundheitliches Problem?"	NA	"Q27_Illness_ge"	TRUE	"1"	"Ja"	"Yes"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"101"	NA	NA	"27. Haben Sie eine langjährige Krankheit, Behinderung oder gesundheitliches Problem?"	NA	"Q27_Illness_ge"	TRUE	"2"	"Nein"	"No"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"103"	NA	NA	"28. Haben Sie in Ihrem familiären Umfeld jemanden mit einer Hirnerkrankung zu versorgen/versorgt?"	"
+
+
+
+
+"	"Q28_BrainDisease_Care_ge"	TRUE	"1"	"Ja"	"Yes"	FALSE	FALSE	NA	NA	NA	NA
+"german"	"ge"	119162	"103"	NA	NA	"28. Haben Sie in Ihrem familiären Umfeld jemanden mit einer Hirnerkrankung zu versorgen/versorgt?"	"
+
+
+
+
+"	"Q28_BrainDisease_Care_ge"	TRUE	"2"	"Nein"	"No"	FALSE	FALSE	NA	NA	NA	NA

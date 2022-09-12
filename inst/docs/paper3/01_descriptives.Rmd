@@ -1,0 +1,424 @@
+---
+params: 
+  country: "all"
+  country_n: 7
+  chr_width: 135
+title: Lifebrain Global Brain Health Survey
+subtitle: "for country: `r params$country`"
+authors:
+  - name: Athanasia M. Mowinckel
+    department: Center for Lifespan Changes in Brain and Cognition, Dept. of Psychology
+    affiliation: University of Oslo
+    location: Oslo, Norway
+    email: a.m.mowinckel@psykologi.uio.no
+output: 
+  pdf_document:
+    toc: true
+    number_sections: true
+graphics: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, 
+                      warning = FALSE,
+                      message = FALSE,
+                      error = FALSE,
+                      fig.retina = 3,
+                      fig.width = 8,
+                      fig.pos = "H",
+                      out.width = "100%")
+options(knitr.kable.NA = '-')
+
+library(patchwork)
+library(knitr)
+library(kableExtra)
+library(tidyverse) 
+library(glue)
+
+source(here::here('R/utils.R'))
+source(here::here('scripts/data-utils.R'))
+source(here::here('scripts/ggplot-utils.R'))
+
+min_resp_keep = .3
+chr_width <- 100
+```
+```{r}
+message(params$country)
+```
+
+```{r data, include=FALSE}
+load(here::here("data/cleaned/merged.rda"))
+data <- type_convert(data, col_types = cols())
+
+include_country = TRUE
+if(params$country != "all"){
+  data <- filter(data, Q19_Residence == params$country) %>% 
+    mutate(
+      region = fct_lump(Q19_Residence, params$country_n, 
+                        other_level = "Other", 
+                        ties.method = "min"),
+      region = ifelse(Q19_Residence == params$country, 
+                      params$country, 
+                      as.character(region)),
+      region = fct_infreq(region),
+      region = fct_relevel(region, "Other", after = Inf)
+    )
+  # include_country = FALSE
+}else{
+  data <- data %>% 
+    mutate(
+      region = fct_lump(Q19_Residence, params$country_n, 
+                        other_level = "Other", 
+                        ties.method = "min"),
+      region = fct_infreq(region),
+      region = fct_relevel(region, "Other", after = Inf)
+    )
+  
+  
+  data_sum <- data %>%
+    group_by(region) %>%
+    tally() %>% 
+    ungroup() %>% 
+    rbind(data.frame(region = "Total", n = sum(.$n)))
+}
+
+response_rates <- data %>% 
+  gather(name, value, -submission_id) %>% 
+  group_by(submission_id) %>% 
+  summarise(nas = sum(is.na(value)),
+            n_qs = length(value),
+            pc = nas/n_qs) %>% 
+  arrange(desc(nas))
+
+# Fix demographics categories to factors
+data <- data %>% 
+  mutate(
+    sex = fct_lump(Q20_Sex, 2, 
+                   other_level = "Other / Unknown", 
+                   ties.method = "min"),
+    gender = factor(sex, levels = c("Female", "Male")),
+    education = str_replace_all(Q21_Education_Coded, "School", "\nschool"),
+    education = fct_lump(education, 3, 
+                         other_level = "Primary\nschool"),
+    age = str_replace_all(Q18_Age, "plus", "+"), 
+    age = factor(age, ordered = TRUE)
+  ) 
+
+# data_orig <- data
+
+pc_female <- data %>% 
+  group_by(Q20_Sex) %>% 
+  tally %>% 
+  mutate(pc = percent(pc(n)))
+```
+
+\newpage
+
+```{r q5-data}
+q5 <- data %>% 
+  select(-ends_with("dummy")) %>% 
+  pivot_longer(cols = starts_with("Q05"),
+               names_to = "key") %>% 
+  mutate(
+    key = case_when(
+      key == "Q05_AlcoholGen" ~ "Drink alcohol",
+      key == "Q05_ExcerciseGen" ~ "Excercise",
+      key == "Q05_HealthyDietGen" ~ "Eat a healthy diet",
+      key == "Q05_IntellectGen" ~ "Keep intellectually stimulated",
+      key == "Q05_ProtectionGen" ~ "Wear a helmet",
+      key == "Q05_RelaxGen" ~ "Practice relaxing activities" ,
+      key == "Q05_SleepGen" ~ "Sleep enough",
+      key == "Q05_SmokeGen" ~ "Smoke cigarettes",
+      key == "Q05_SocialiseGen" ~ "Socialise",
+      key == "Q05_SupplementsGen" ~ "Take nutritional supplements",
+      key == "Q05_WorkLifeBalanceGen" ~ "Keep a good work-life balance"
+    ),
+    binary = ifelse(grepl("Frequently", value), 1, 0),
+    value = freq(value),
+    continuous = as.numeric(value)
+  ) %>% 
+  filter(!is.na(value))
+
+q5_cats <- q5 %>% 
+  group_by(key, value) %>% 
+  tally() %>% 
+  arrange(desc(value)) %>% 
+  filter(value == "Frequently") %>% 
+  arrange(n)
+
+q5 <- q5 %>% 
+  mutate( 
+    key = factor(key, 
+                 levels = rev(q5_cats$key))
+  )
+
+save(q5, file = here::here("data/q5_long.rda"))
+q5 <- filter(q5, !is.na(value))
+```
+
+```{r q5-results, results = "asis"}
+child_env <- new.env()
+child_env$params <- params
+child_env$data <- q5
+child_env$q <- 5
+child_env$title   <- "How often do you engage in the following activities?"
+child_env$pattern <- "Never|Rarely"
+child_env$descr <- "Respondents were asked how often they engaged in various healthy or unhealthy activities on a 4-point scale."
+
+res <- knit_child(
+  here::here("docs/child_docs/ord_desc.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+
+```
+
+
+```{r q6-data}
+q6 <- data %>% 
+  select(-ends_with("dummy"), -ends_with("Spec")) %>% 
+  pivot_longer(cols = starts_with("Q06"),
+               names_to = "key",
+               values_drop_na = TRUE) %>% 
+  mutate(
+    key = case_when(
+      key == "Q06_OtherPurp" ~ "Other activities",
+      key == "Q06_ExcercisePurp" ~ "Excercise",
+      key == "Q06_HealthyDietPurp" ~ "Eat a healthy diet",
+      key == "Q06_ProtectionPurp" ~ "Wear a helmet",
+      key == "Q06_RelaxPurp" ~ "Practice relaxing activities" ,
+      key == "Q06_SleepPurp" ~ "Sleep enough",
+      key == "Q06_SocialisePurp" ~ "Socialise",
+      key == "Q06_SupplementsPurp" ~ "Take nutritional supplements",
+      key == "Q06_WorkLifeBalancePurp" ~ "Keep a good work-life balance"
+    ),
+    binary = ifelse(grepl("Frequently", value), 1, 0),
+    value = freq(value),
+    continuous = as.numeric(value)
+  )
+
+q6_cats <- q6 %>% 
+  group_by(key, value) %>% 
+  tally() %>% 
+  arrange(desc(value)) %>% 
+  filter(value == "Frequently") %>% 
+  arrange(n)
+
+q6 <- q6 %>% 
+  mutate( 
+    key = factor(key, 
+                 levels = rev(q6_cats$key))
+  )
+
+save(q6, file = here::here("data/q6_long.rda"))
+q6 <- filter(q6, !is.na(value))
+```
+
+```{r q6-results, results = "asis"}
+child_env <- new.env()
+child_env$params <- params
+child_env$data <- q6
+child_env$q <- 6
+child_env$title   <- "Which of the following activities do you do purposefully for your brain health?"
+child_env$pattern <- "Never|Rarely"
+child_env$descr <- "Respondents were asked how often they engaged in various healthy activities with the purposeful intent of maintaining or improving their brains' health on a 4-point scale."
+
+res <- knit_child(
+  here::here("docs/child_docs/ord_desc.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+```{r q11-data}
+q11 <- data %>% 
+  select(-ends_with("dummy"), -ends_with("Spec")) %>% 
+  pivot_longer(cols = starts_with("Q11"),
+               names_to = "key", 
+               values_drop_na = TRUE) %>% 
+  mutate(
+    key = case_when(
+      key == "Q11_EatHealthy" ~ "Eat more healthily",
+      key == "Q11_ExcerciseMore" ~ "Exercise more",
+      key == "Q11_ImprSleepingHabits" ~ "Improve sleeping habits",
+      key == "Q11_MoreRelax" ~ "Do more relaxing activities",
+      key == "Q11_BrainStimuli" ~ "Stimulate my brain more" ,
+      key == "Q11_NoAlcohol" ~ "Avoid alcohol",
+      key == "Q11_NoSmoking" ~ "Avoid smoking",
+      key == "Q11_MoreSocial" ~ "Socialise more",
+      key == "Q11_MoreCulture" ~ "Do more cultural activities",
+      key == "Q11_OtherChanges" ~ "Other changes"
+    ),
+    binary = ifelse(grepl("Likely|Very\ likely", value), 1, 0),
+        value = likelies(value),
+    continuous = as.numeric(value)
+  ) 
+
+q11_cats <- q11 %>% 
+  group_by(key, value) %>% 
+  tally() %>% 
+  arrange(desc(value)) %>% 
+  filter(value == "Very likely") %>% 
+  arrange(n)
+
+q11 <- q11 %>% 
+  mutate( 
+    key = factor(key, 
+                 levels = rev(q11_cats$key))
+  )
+
+save(q11, file = here::here("data/q11_long.rda"))
+q11 <- filter(q11, !is.na(value))
+```
+
+```{r q11-results, results = "asis"}
+child_env <- new.env()
+child_env$params <- params
+child_env$data <- q11
+child_env$q <- 11
+child_env$title   <- "How likely are you to do any of the following if you are told you could decrease your risk for developing a brain disease?"
+child_env$pattern <- "Unlikely|NotAtAll"
+child_env$descr <- "Respondents were asked to imagine their doctor told them they could reduce their risk of developing a brain disease by changing their lifestyle. They were asked to respons with how likely they would change their lifestyle in the categries presented above, and to imagine they would realistically change their behaviour."
+
+res <- knit_child(
+  here::here("docs/child_docs/ord_desc.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+
+```{r q12-data}
+q12 <- data %>% 
+  select(-ends_with("Spec")) %>% 
+  separate_rows(Q12_MotivateChange_Category, sep=";") %>% 
+  mutate(value = "yes") %>% 
+  pivot_wider(names_from = Q12_MotivateChange_Category,
+              names_prefix = "Q12_",
+              values_from = value,
+              values_fill = "no") %>% 
+  pivot_longer(starts_with ("Q12"),
+               names_sep = "_",
+               names_to = c(NA, "Q12_MotivateChange_Category"), 
+               values_to = "value") %>% 
+  filter(Q12_MotivateChange_Category != "NA") %>% 
+  mutate(
+    value = factor(value, levels = c("no", "yes")),
+    binary = ifelse(value == "yes", 1, 0),
+    continuous = binary,
+    Q12_MotivateChange_Category = case_when(
+      Q12_MotivateChange_Category == "WorseMemory" ~ "noticed problems with my brain health",
+      Q12_MotivateChange_Category == "Diagnose" ~ "diagnosed with a brain disorder ",
+      Q12_MotivateChange_Category == "Diagno" ~ "diagnosed with a brain disorder ",
+      Q12_MotivateChange_Category == "Fun" ~ "changes were fun and enjoyable",
+      Q12_MotivateChange_Category == "Affordable" ~ "changes were affordable",
+      Q12_MotivateChange_Category == "Family" ~"relatives or friends developed a brain disorder",
+      Q12_MotivateChange_Category == "PersonalAdvice" ~ "received personal advice",
+      Q12_MotivateChange_Category == "FamilySupport" ~ "support of friends/family",
+      Q12_MotivateChange_Category == "ImpactKnown" ~ "lifestyle changes are known to be beneficial",
+      Q12_MotivateChange_Category == "NoMotivation" ~ "nothing would motivate me",
+      Q12_MotivateChange_Category == "OtherMotivationChange" ~ "other motivation",
+      Q12_MotivateChange_Category == "Other motivation" ~ "other motivation"
+    ),
+    Q12_MotivateChange_Category = str_wrap(Q12_MotivateChange_Category , 10)
+  )
+
+q12_cats <- group_by(q12, Q12_MotivateChange_Category, value) %>% 
+  tally() %>% 
+  filter(value == "yes") %>% 
+  arrange(n)
+
+q12 <- q12 %>% 
+  mutate( 
+    key = factor(Q12_MotivateChange_Category, 
+                 levels = rev(q12_cats$Q12_MotivateChange_Category)),
+  )
+
+save(q12, file = here::here("data/q12_long.rda"))
+q12 <- filter(q12, !is.na(value))
+```
+
+```{r q12-results, results = "asis"}
+child_env <- new.env()
+child_env$params <- params
+child_env$data <- q12
+child_env$q <- 12
+child_env$title   <- "What would motivate you to change lifestyle to improve brain health?"
+child_env$descr <- "Respondents were asked to select up to three alternatives that were the most important in terms of motivating them to change their lifestyle to improve brain health."
+
+res <- knit_child(
+  here::here("docs/child_docs/bin_desc.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+
+
+```{r q13-data}
+q13 <- data %>% 
+  select(-ends_with("Spec")) %>% 
+  separate_rows(Q13_NoChange_Motivation, sep=";") %>% 
+  mutate(value = "yes") %>% 
+  pivot_wider(names_from = Q13_NoChange_Motivation,
+              names_prefix = "Q13_",
+              values_from = value,
+              values_fill = "no") %>% 
+  pivot_longer(starts_with ("Q13"),
+               names_sep = "_",
+               names_to = c(NA, "Q13_NoChange_Motivation"), 
+               values_to = "value") %>% 
+  filter(Q12_MotivateChange_Category != "NA") %>% 
+  mutate(
+    value = factor(value, levels = c("no", "yes")),
+    binary = ifelse(value == "yes", 1, 0),
+    Q13_NoChange_Motivation = case_when(
+      Q13_NoChange_Motivation == "NotHelp" ~ "I cannot be sure that the changes help",
+      Q13_NoChange_Motivation == "StartNoFun" ~ "I had to take up activities that I do not enjoy",
+      Q13_NoChange_Motivation == "GiveupHobby" ~ "I had to give up activities I like",
+      Q13_NoChange_Motivation == "NoTime" ~ "Lack of time",
+      Q13_NoChange_Motivation == "Alone" ~ "I had to make changes by myself/alone",
+      Q13_NoChange_Motivation == "Expensive" ~ "making changes was expensive",
+      Q13_NoChange_Motivation == "NoInfo" ~ "Lack of information about what to do ",
+      Q13_NoChange_Motivation == "NoNeed" ~ "I feel no need to do anything",
+      Q13_NoChange_Motivation == "NoMotivation" ~ "Lack of motivation",
+      Q13_NoChange_Motivation == "Other motivation" ~ "Other"
+    ),
+    Q13_NoChange_Motivation = str_wrap(Q13_NoChange_Motivation , 10)
+  )
+
+q13_cats <- group_by(q13, Q13_NoChange_Motivation, value) %>% 
+  tally() %>% 
+  filter(value == "yes") %>% 
+  arrange(n)
+
+q13 <- q13 %>% 
+  mutate( 
+    key = factor(Q13_NoChange_Motivation, 
+                 levels = rev(q13_cats$Q13_NoChange_Motivation)),
+    continuous = binary
+  )
+
+save(q13, file = here::here("data/q13_long.rda"))
+q13 <- filter(q13, !is.na(value))
+```
+
+```{r q13-results, results = "asis"}
+child_env <- new.env()
+child_env$params <- params
+child_env$data <- q13
+child_env$q <- 13
+child_env$title   <- "What would prevent you from changing your lifestyle to improve brain health?"
+child_env$descr <- "Respondents were asked to select up to three alternatives that were the most important in terms of hindering them to change their lifestyle to improve brain health."
+
+res <- knit_child(
+  here::here("docs/child_docs/bin_desc.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```

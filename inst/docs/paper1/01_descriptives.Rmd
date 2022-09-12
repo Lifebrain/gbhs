@@ -1,0 +1,339 @@
+---
+params: 
+  country: "all"
+  country_n: 7
+  chr_width: 135
+title: Lifebrain Global Brain Health Survey
+subtitle: "for country: `r params$country`"
+authors:
+  - name: Athanasia M. Mowinckel
+    department: Center for Lifespan Changes in Brain and Cognition, Dept. of Psychology
+    affiliation: University of Oslo
+    location: Oslo, Norway
+    email: a.m.mowinckel@psykologi.uio.no
+output: 
+  # rticles::arxiv_article
+  # html_document:
+  #   toc: true
+  #   toc_float:
+  #     collapsed: true
+  #     smooth_scroll: false
+  pdf_document:
+    toc: true
+    number_sections: true
+    keep_tex:  false
+    # includes:
+    #     in_header: |
+    #       \usepackage{fancyhdr}
+    #       \pagestyle{fancy}
+    #       \rhead{\includegraphics[width = .05\textwidth]{lifebrain_logo_yellow.png}}
+graphics: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, 
+                      warning = FALSE,
+                      message = FALSE,
+                      error = FALSE,
+                      fig.retina = 3,
+                      fig.width = 8,
+                      fig.pos = "H",
+                      out.width = "100%")
+options(knitr.kable.NA = '-')
+
+library(patchwork)
+library(knitr)
+library(kableExtra)
+library(tidyverse) 
+library(glue)
+
+source(here::here('R/utils.R'))
+source(here::here('scripts/data-utils.R'))
+source(here::here('scripts/ggplot-utils.R'))
+
+min_resp_keep = .3
+chr_width <- 100
+```
+
+```{r data, include=FALSE}
+load(here::here("data/cleaned/merged.rda"))
+data <- type_convert(data, col_types = cols())
+
+include_country = TRUE
+if(params$country != "all"){
+  data <- filter(data, Q19_Residence == params$country) |> 
+    mutate(
+      region = fct_lump(Q19_Residence, params$country_n, 
+                        other_level = "Other", 
+                        ties.method = "min"),
+      region = ifelse(Q19_Residence == params$country, 
+                      params$country, 
+                      as.character(region)),
+      region = fct_infreq(region),
+      region = fct_relevel(region, "Other", after = Inf)
+    )
+  # include_country = FALSE
+}else{
+  data <- data |> 
+    mutate(
+      region = fct_lump(Q19_Residence, params$country_n, 
+                        other_level = "Other", 
+                        ties.method = "min"),
+      region = fct_infreq(region),
+      region = fct_relevel(region, "Other", after = Inf)
+    )
+  
+  
+  data_sum <- data |>
+    group_by(region) |>
+    tally() |> 
+    ungroup() |> 
+    rbind(data.frame(region = "Total", n = sum(.$n)))
+}
+
+response_rates <- data |> 
+  gather(name, value, -submission_id) |> 
+  group_by(submission_id) |> 
+  summarise(nas = sum(is.na(value)),
+            n_qs = length(value),
+            pc = nas/n_qs) |> 
+  arrange(desc(nas))
+
+# Fix demographics categories to factors
+data <- data |> 
+  mutate(
+    sex = fct_lump(Q20_Sex, 2, 
+                   other_level = "Other / Unknown", 
+                   ties.method = "min"),
+    gender = factor(sex, levels = c("Female", "Male")),
+    education = str_replace_all(Q21_Education_Coded, "School", "\nschool"),
+    education = fct_lump(education, 3, 
+                         other_level = "Primary\nschool"),
+    age = str_replace_all(Q18_Age, "plus", "+"), 
+    age = factor(age, ordered = TRUE)
+  ) 
+
+# data_orig <- data
+
+pc_female <- data |> 
+  group_by(Q20_Sex) |> 
+  tally |> 
+  mutate(pc = percent(pc(n)))
+
+
+tab <- data |> 
+  select(language, ends_with("Spec")) |> 
+  pivot_longer(ends_with("Spec"),  values_drop_na = TRUE) |> 
+  group_by(name, language) |> 
+  tally() 
+
+tab |> 
+  pivot_wider(names_from = language,
+              values_from = n)
+
+tab |> 
+  ggplot(aes(x=language, y = n)) + 
+  geom_bar(stat = "identity") +
+  geom_text(aes(label = thousand(n)), 
+            size = 2, hjust = 0) +
+  facet_wrap(~name, scales = "free") +
+  coord_flip()
+```
+
+```{r}
+mutate(data, 
+       country = case_when(
+         Q19_Residence == "UK" ~ "United Kingdom",
+         Q19_Residence == "USA" ~ "United States",
+         Q19_Residence  == "Slovakia" ~ "Slovak Republic",
+         TRUE ~ Q19_Residence 
+       )
+)|> 
+  left_join(
+    gapminder::gapminder |> 
+      select(country, continent) |> 
+      distinct
+  ) |> 
+  select(country, continent) |> 
+  mutate(
+    continent = case_when(
+      !is.na(continent)       ~ as.character(continent),
+      country == "Cyprus"     ~ "Europe",
+      country == "Azerbaijan"     ~ "Europe",
+      country == "Ukraine"    ~ "Europe",
+      country == "Estonia"    ~ "Europe",
+      country == "Luxembourg"  ~ "Europe",
+      country == "Belarus"  ~ "Europe",
+      country == "Lithuania"  ~ "Europe",
+      country == "San Marino"  ~ "Europe",
+      country == "Lithuania"  ~ "Europe",
+      country == "Malta"  ~ "Europe",
+      country == "Andorra"    ~ "Europe",
+      country == "Uzbekistan"    ~ "Asia",
+      country == "Fiji"    ~ "Oceania",
+      country == "Suriname"    ~ "Americas",
+      country == "United Arab Emirates"    ~ "Asia",
+      country == "Zaire"  ~ "Africa"
+    )
+  ) |> 
+  group_by(continent, country) |> 
+  tally() |> 
+  summarise(
+    n = sum(n),
+    n_country = length(country)
+    ) |> 
+  mutate(tot_country = sum(n_country)) |> 
+  kable(booktabs = TRUE) |> 
+  kable_styling()
+```
+
+\newpage
+
+```{r q2-data}
+Q2 <- data |> 
+  select(-ends_with("dummy")) |> 
+  pivot_longer(cols = starts_with("Q02"),
+               names_to = "key") |> 
+  mutate(
+    key = case_when(
+      key == "Q02_DietInfl" ~ "Diet",
+      key == "Q02_EducationInfl" ~ "Education",
+      key == "Q02_GeneticsInfl" ~ "Genetics",
+      key == "Q02_IncomeInfl" ~ "Income",
+      key == "Q02_LifeGoalsInfl" ~ "Life goals",
+      key == "Q02_PhyEnvironmentInfl" ~ "Physical environment",
+      key == "Q02_PhyHealthInfl" ~ "Physical health",
+      key == "Q02_ProfessionInfl" ~ "Profession",
+      key == "Q02_SleepHabitsInfl" ~ "Sleeping habits",
+      key == "Q02_SocEnvironmentInfl" ~ "Social environment",
+      key == "Q02_SubstanceInfl" ~ "Substance use"
+    ),
+    value = influence(value, cleaning = FALSE),
+    binary = ifelse(grepl("trong", value), 1, 0),
+    continuous = as.numeric(value)
+  ) |> 
+  filter(!is.na(value))
+
+q2_cats <- group_by(Q2, key, value) |> 
+  tally() |> 
+  filter(value == "Very strong") |> 
+  arrange(n)
+
+Q2 <- mutate(Q2, key = factor(key, levels = rev(q2_cats$key)))
+q2_data <- Q2
+save(q2_data, file = here::here("data/q2_long.rda"))
+```
+
+```{r q2-results, results = "asis"}
+child_env <- new.env()
+child_env$params <- params
+child_env$data <- Q2
+child_env$q <- 1
+child_env$title   <- "Factors considered to influence brain health"
+child_env$pattern <- "trong"
+child_env$descr <- "Question 1 asked respondents to rate on a 5-level likert-scale how strongly different life periods influence brain health."
+
+res <- knit_child(
+  here::here("docs/child_docs/ord_desc.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+\newpage
+
+```{r q3-data}
+Q3 <- data |>
+  select(-ends_with("dummy")) |>
+  pivot_longer(cols = starts_with("Q03"),
+               names_to = "key") |>
+  mutate(
+    key = case_when(
+      key == "Q03_Womb" ~ "In the womb",
+      key == "Q03_Child" ~ "Childhood",
+      key == "Q03_Adolescence" ~ "Adolescence",
+      key == "Q03_YoungAdult" ~ "Young adulthood",
+      key == "Q03_MiddleAge" ~ "Middle age",
+      key == "Q03_OlderAge" ~ "Old age"),
+    key = factor(key, levels = c("In the womb", "Childhood", "Adolescence", "Young adulthood","Middle age", "Old age")),
+    value = importance(value, cleaning = FALSE),
+    binary = ifelse(grepl("^Important|Very", value), 1,0),
+    continuous = as.numeric(factor(value, ordered = FALSE))
+  ) |>
+  filter(!is.na(value))
+
+q3_data <- Q3
+save(q3_data, file = here::here("data/q3_long.rda"))
+```
+
+```{r q3-results, results = "asis"}
+child_env <- new.env()
+child_env$params <- params
+child_env$data <- q3_data
+child_env$q <- 2
+child_env$title   <- "Life periods to look after ones’ brain"
+child_env$pattern <- "Very|^Impo"
+child_env$descr <- "Question 2 asked respondents to rate on a 4−level scale at which life stages it is important to look after one's  brain health. In the womb (before birth); Childhood (0-12 years); Adolescence (13-18 years); Young adulthood (19−45 years); Middle age (45-65 years); Old age (over 65 years)"
+
+res <- knit_child(
+  here::here("docs/child_docs/ord_desc.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+\newpage
+
+```{r q4-data}
+Q4 <- data |>
+  select(-ends_with("dummy")) |>
+  ungroup() |> 
+  filter(Q04_Brain_Disease != "", !is.na(Q04_Brain_Disease), Q04_Brain_Disease != "NA") |> 
+  separate_rows(Q04_Brain_Disease, sep=";") |>
+  mutate(value = "associated") |>
+  pivot_wider(names_from = Q04_Brain_Disease,
+              names_prefix = "Q04_",
+              values_from = value,
+              values_fill = "not associated") |>
+  pivot_longer(starts_with ("Q04"),
+               names_sep = "_",
+               names_to = c(NA, "Q04_Brain_Disease"),
+               values_to = "value") |>
+  mutate(value = factor(value, levels = c("not associated", "associated")),
+         Q04_Brain_Disease = str_replace(Q04_Brain_Disease, "Alzheimer", "Alzheimer's"),
+         Q04_Brain_Disease = str_replace(Q04_Brain_Disease, "Parkinson", "Parkinson's")
+  )
+
+q4_cats <- group_by(Q4, Q04_Brain_Disease, value) |>
+  tally() |>
+  filter(value == "associated") |>
+  arrange(n)
+
+Q4 <- Q4 |>
+  mutate(
+    key = factor(Q04_Brain_Disease,
+                 levels = rev(q4_cats$Q04_Brain_Disease)),
+    binary = ifelse(value == "associated", 1, 0),
+    continuous = binary
+  )
+q4_data <- Q4
+save(q4_data, file = here::here("data/q4_long.rda"))
+```
+
+```{r q4-results, results = "asis"}
+child_env <- new.env()
+child_env$params <- params
+child_env$data <- Q4
+child_env$q <- 3
+child_env$title <- "Diseases/disorders associated with the brain"
+child_env$descr <- glue::glue("Respondents were given the option to tick boxes with the diseases presented above to indicate which ones they associated with the brain. They were allowed to select as many categories as they wished. The question was optional, and as such we present data from the {thousand(length(unique(Q4$submission_id)))} who responded to the question. We do not know if those who refrained from responding did so because they did not associate any of the diseases with the brain, or if they simply did not wish to respond.")
+
+res <- knit_child(
+  here::here("docs/child_docs/bin_desc.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```

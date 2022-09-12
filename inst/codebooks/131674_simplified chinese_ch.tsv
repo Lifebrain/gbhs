@@ -1,0 +1,1194 @@
+"language"	"suffix"	"form_id"	"element_no"	"img_url"	"img_text"	"question"	"question_descr"	"question_codebook"	"question_mandatory"	"answer_order"	"answer_option"	"answer_codebook"	"answer_preselected"	"answer_correct"	"question_order"	"max_selected"	"question_preselected"	"question_rangemarks"
+"simplified chinese"	"ch"	131674	"1"	"https://www.lifebrain.uio.no/26.05.20-lifebrain-banner-1771x417.jpg"	"Lifebrain logo"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"4"	NA	NA	NA	"请勾选下面的按钮。
+"	"Consent_Form_en"	TRUE	"1"	"我的年龄已超过 18 岁&#xff0c;同意将这些数据用于研究"	"Consent_Yes_en"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"9"	NA	NA	NA	"请选择一个答案。
+"	"Q01_Think_Brain_Frequency_en"	FALSE	"1"	"经常"	"Frequently"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"9"	NA	NA	NA	"请选择一个答案。
+"	"Q01_Think_Brain_Frequency_en"	FALSE	"2"	"偶尔"	"Occasionally"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"9"	NA	NA	NA	"请选择一个答案。
+"	"Q01_Think_Brain_Frequency_en"	FALSE	"3"	"很少"	"Rarely"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"9"	NA	NA	NA	"请选择一个答案。
+"	"Q01_Think_Brain_Frequency_en"	FALSE	"4"	"从来没有"	"Never"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"身体健康"	NA	"Q02_PhyHealthInfl_en"	FALSE	"1"	"影响非常大"	"VeryStrong"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"身体健康"	NA	"Q02_PhyHealthInfl_en"	FALSE	"2"	"影响很大"	"Strong"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"身体健康"	NA	"Q02_PhyHealthInfl_en"	FALSE	"3"	"中等影响"	"Moderate"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"身体健康"	NA	"Q02_PhyHealthInfl_en"	FALSE	"4"	"影响很小"	"Weak"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"身体健康"	NA	"Q02_PhyHealthInfl_en"	FALSE	"5"	"没有影响"	"NoInfluence"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"饮食"	NA	"Q02_DietInfl_en"	FALSE	"1"	"影响非常大"	"VeryStrong"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"饮食"	NA	"Q02_DietInfl_en"	FALSE	"2"	"影响很大"	"Strong"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"饮食"	NA	"Q02_DietInfl_en"	FALSE	"3"	"中等影响"	"Moderate"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"饮食"	NA	"Q02_DietInfl_en"	FALSE	"4"	"影响很小"	"Weak"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"饮食"	NA	"Q02_DietInfl_en"	FALSE	"5"	"没有影响"	"NoInfluence"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"物理环境&#xff08;如空气污染、噪音&#xff09;"	NA	"Q02_PhyEnvironmentInfl_en"	FALSE	"1"	"影响非常大"	"VeryStrong"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"物理环境&#xff08;如空气污染、噪音&#xff09;"	NA	"Q02_PhyEnvironmentInfl_en"	FALSE	"2"	"影响很大"	"Strong"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"物理环境&#xff08;如空气污染、噪音&#xff09;"	NA	"Q02_PhyEnvironmentInfl_en"	FALSE	"3"	"中等影响"	"Moderate"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"物理环境&#xff08;如空气污染、噪音&#xff09;"	NA	"Q02_PhyEnvironmentInfl_en"	FALSE	"4"	"影响很小"	"Weak"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"物理环境&#xff08;如空气污染、噪音&#xff09;"	NA	"Q02_PhyEnvironmentInfl_en"	FALSE	"5"	"没有影响"	"NoInfluence"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"社会环境&#xff08;如家庭、社交网络&#xff09;"	NA	"Q02_SocEnvironmentInfl_en"	FALSE	"1"	"影响非常大"	"VeryStrong"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"社会环境&#xff08;如家庭、社交网络&#xff09;"	NA	"Q02_SocEnvironmentInfl_en"	FALSE	"2"	"影响很大"	"Strong"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"社会环境&#xff08;如家庭、社交网络&#xff09;"	NA	"Q02_SocEnvironmentInfl_en"	FALSE	"3"	"中等影响"	"Moderate"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"社会环境&#xff08;如家庭、社交网络&#xff09;"	NA	"Q02_SocEnvironmentInfl_en"	FALSE	"4"	"影响很小"	"Weak"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"社会环境&#xff08;如家庭、社交网络&#xff09;"	NA	"Q02_SocEnvironmentInfl_en"	FALSE	"5"	"没有影响"	"NoInfluence"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"教育"	NA	"Q02_EducationInfl_en"	FALSE	"1"	"影响非常大"	"VeryStrong"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"教育"	NA	"Q02_EducationInfl_en"	FALSE	"2"	"影响很大"	"Strong"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"教育"	NA	"Q02_EducationInfl_en"	FALSE	"3"	"中等影响"	"Moderate"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"教育"	NA	"Q02_EducationInfl_en"	FALSE	"4"	"影响很小"	"Weak"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"教育"	NA	"Q02_EducationInfl_en"	FALSE	"5"	"没有影响"	"NoInfluence"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"职业"	NA	"Q02_ProfessionInfl_en"	FALSE	"1"	"影响非常大"	"VeryStrong"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"职业"	NA	"Q02_ProfessionInfl_en"	FALSE	"2"	"影响很大"	"Strong"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"职业"	NA	"Q02_ProfessionInfl_en"	FALSE	"3"	"中等影响"	"Moderate"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"职业"	NA	"Q02_ProfessionInfl_en"	FALSE	"4"	"影响很小"	"Weak"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"职业"	NA	"Q02_ProfessionInfl_en"	FALSE	"5"	"没有影响"	"NoInfluence"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"家庭收入"	NA	"Q02_IncomeInfl_en"	FALSE	"1"	"影响非常大"	"VeryStrong"	FALSE	FALSE	7	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"家庭收入"	NA	"Q02_IncomeInfl_en"	FALSE	"2"	"影响很大"	"Strong"	FALSE	FALSE	7	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"家庭收入"	NA	"Q02_IncomeInfl_en"	FALSE	"3"	"中等影响"	"Moderate"	FALSE	FALSE	7	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"家庭收入"	NA	"Q02_IncomeInfl_en"	FALSE	"4"	"影响很小"	"Weak"	FALSE	FALSE	7	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"家庭收入"	NA	"Q02_IncomeInfl_en"	FALSE	"5"	"没有影响"	"NoInfluence"	FALSE	FALSE	7	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"遗传学和家庭病史"	NA	"Q02_GeneticsInfl_en"	FALSE	"1"	"影响非常大"	"VeryStrong"	FALSE	FALSE	8	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"遗传学和家庭病史"	NA	"Q02_GeneticsInfl_en"	FALSE	"2"	"影响很大"	"Strong"	FALSE	FALSE	8	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"遗传学和家庭病史"	NA	"Q02_GeneticsInfl_en"	FALSE	"3"	"中等影响"	"Moderate"	FALSE	FALSE	8	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"遗传学和家庭病史"	NA	"Q02_GeneticsInfl_en"	FALSE	"4"	"影响很小"	"Weak"	FALSE	FALSE	8	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"遗传学和家庭病史"	NA	"Q02_GeneticsInfl_en"	FALSE	"5"	"没有影响"	"NoInfluence"	FALSE	FALSE	8	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"物质使用&#xff08;如酒精、吸烟、毒品&#xff09;"	NA	"Q02_SubstanceInfl_en"	FALSE	"1"	"影响非常大"	"VeryStrong"	FALSE	FALSE	9	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"物质使用&#xff08;如酒精、吸烟、毒品&#xff09;"	NA	"Q02_SubstanceInfl_en"	FALSE	"2"	"影响很大"	"Strong"	FALSE	FALSE	9	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"物质使用&#xff08;如酒精、吸烟、毒品&#xff09;"	NA	"Q02_SubstanceInfl_en"	FALSE	"3"	"中等影响"	"Moderate"	FALSE	FALSE	9	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"物质使用&#xff08;如酒精、吸烟、毒品&#xff09;"	NA	"Q02_SubstanceInfl_en"	FALSE	"4"	"影响很小"	"Weak"	FALSE	FALSE	9	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"物质使用&#xff08;如酒精、吸烟、毒品&#xff09;"	NA	"Q02_SubstanceInfl_en"	FALSE	"5"	"没有影响"	"NoInfluence"	FALSE	FALSE	9	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"睡眠习惯"	NA	"Q02_SleepHabitsInfl_en"	FALSE	"1"	"影响非常大"	"VeryStrong"	FALSE	FALSE	10	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"睡眠习惯"	NA	"Q02_SleepHabitsInfl_en"	FALSE	"2"	"影响很大"	"Strong"	FALSE	FALSE	10	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"睡眠习惯"	NA	"Q02_SleepHabitsInfl_en"	FALSE	"3"	"中等影响"	"Moderate"	FALSE	FALSE	10	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"睡眠习惯"	NA	"Q02_SleepHabitsInfl_en"	FALSE	"4"	"影响很小"	"Weak"	FALSE	FALSE	10	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"睡眠习惯"	NA	"Q02_SleepHabitsInfl_en"	FALSE	"5"	"没有影响"	"NoInfluence"	FALSE	FALSE	10	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"拥有使生活有意义的目标"	NA	"Q02_LifeGoalsInfl_en"	FALSE	"1"	"影响非常大"	"VeryStrong"	FALSE	FALSE	11	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"拥有使生活有意义的目标"	NA	"Q02_LifeGoalsInfl_en"	FALSE	"2"	"影响很大"	"Strong"	FALSE	FALSE	11	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"拥有使生活有意义的目标"	NA	"Q02_LifeGoalsInfl_en"	FALSE	"3"	"中等影响"	"Moderate"	FALSE	FALSE	11	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"拥有使生活有意义的目标"	NA	"Q02_LifeGoalsInfl_en"	FALSE	"4"	"影响很小"	"Weak"	FALSE	FALSE	11	NA	NA	NA
+"simplified chinese"	"ch"	131674	"12"	NA	NA	"拥有使生活有意义的目标"	NA	"Q02_LifeGoalsInfl_en"	FALSE	"5"	"没有影响"	"NoInfluence"	FALSE	FALSE	11	NA	NA	NA
+"simplified chinese"	"ch"	131674	"15"	NA	NA	"子宫内&#xff08;出生前&#xff09;"	NA	"Q03_Womb_en"	FALSE	"1"	"非常 重要"	"VeryImportant"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"15"	NA	NA	"子宫内&#xff08;出生前&#xff09;"	NA	"Q03_Womb_en"	FALSE	"2"	"重要"	"Important"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"15"	NA	NA	"子宫内&#xff08;出生前&#xff09;"	NA	"Q03_Womb_en"	FALSE	"3"	"中等 重要"	"ModImportant"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"15"	NA	NA	"子宫内&#xff08;出生前&#xff09;"	NA	"Q03_Womb_en"	FALSE	"4"	"不 重要"	"NotImportant"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"15"	NA	NA	"儿童时期&#xff08;从出生到 12 岁&#xff09;"	NA	"Q03_Child_en"	FALSE	"1"	"非常 重要"	"VeryImportant"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"15"	NA	NA	"儿童时期&#xff08;从出生到 12 岁&#xff09;"	NA	"Q03_Child_en"	FALSE	"2"	"重要"	"Important"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"15"	NA	NA	"儿童时期&#xff08;从出生到 12 岁&#xff09;"	NA	"Q03_Child_en"	FALSE	"3"	"中等 重要"	"ModImportant"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"15"	NA	NA	"儿童时期&#xff08;从出生到 12 岁&#xff09;"	NA	"Q03_Child_en"	FALSE	"4"	"不 重要"	"NotImportant"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"15"	NA	NA	"青春期&#xff08;12 至 18 岁&#xff09;"	NA	"Q03_Adolescence_en"	FALSE	"1"	"非常 重要"	"VeryImportant"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"15"	NA	NA	"青春期&#xff08;12 至 18 岁&#xff09;"	NA	"Q03_Adolescence_en"	FALSE	"2"	"重要"	"Important"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"15"	NA	NA	"青春期&#xff08;12 至 18 岁&#xff09;"	NA	"Q03_Adolescence_en"	FALSE	"3"	"中等 重要"	"ModImportant"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"15"	NA	NA	"青春期&#xff08;12 至 18 岁&#xff09;"	NA	"Q03_Adolescence_en"	FALSE	"4"	"不 重要"	"NotImportant"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"15"	NA	NA	"青壮年时期&#xff08;19-45 岁&#xff09;"	NA	"Q03_YoungAdult_en"	FALSE	"1"	"非常 重要"	"VeryImportant"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"15"	NA	NA	"青壮年时期&#xff08;19-45 岁&#xff09;"	NA	"Q03_YoungAdult_en"	FALSE	"2"	"重要"	"Important"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"15"	NA	NA	"青壮年时期&#xff08;19-45 岁&#xff09;"	NA	"Q03_YoungAdult_en"	FALSE	"3"	"中等 重要"	"ModImportant"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"15"	NA	NA	"青壮年时期&#xff08;19-45 岁&#xff09;"	NA	"Q03_YoungAdult_en"	FALSE	"4"	"不 重要"	"NotImportant"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"15"	NA	NA	"中年&#xff08;45-65 岁&#xff09;"	NA	"Q03_MiddleAge_en"	FALSE	"1"	"非常 重要"	"VeryImportant"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"15"	NA	NA	"中年&#xff08;45-65 岁&#xff09;"	NA	"Q03_MiddleAge_en"	FALSE	"2"	"重要"	"Important"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"15"	NA	NA	"中年&#xff08;45-65 岁&#xff09;"	NA	"Q03_MiddleAge_en"	FALSE	"3"	"中等 重要"	"ModImportant"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"15"	NA	NA	"中年&#xff08;45-65 岁&#xff09;"	NA	"Q03_MiddleAge_en"	FALSE	"4"	"不 重要"	"NotImportant"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"15"	NA	NA	"老年&#xff08;65 岁以上&#xff09;"	NA	"Q03_OlderAge_en"	FALSE	"1"	"非常 重要"	"VeryImportant"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"15"	NA	NA	"老年&#xff08;65 岁以上&#xff09;"	NA	"Q03_OlderAge_en"	FALSE	"2"	"重要"	"Important"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"15"	NA	NA	"老年&#xff08;65 岁以上&#xff09;"	NA	"Q03_OlderAge_en"	FALSE	"3"	"中等 重要"	"ModImportant"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"15"	NA	NA	"老年&#xff08;65 岁以上&#xff09;"	NA	"Q03_OlderAge_en"	FALSE	"4"	"不 重要"	"NotImportant"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"18"	NA	NA	NA	NA	NA	FALSE	"1"	"糖尿病"	"Diabetes"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"18"	NA	NA	NA	NA	NA	FALSE	"2"	"阿尔茨海默病和其他类型的痴呆症"	"Alzheimer"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"18"	NA	NA	NA	NA	NA	FALSE	"3"	"关节炎"	"Arthritis"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"18"	NA	NA	NA	NA	NA	FALSE	"4"	"躁郁症"	"Bipolar"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"18"	NA	NA	NA	NA	NA	FALSE	"5"	"癌症"	"Cancer"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"18"	NA	NA	NA	NA	NA	FALSE	"6"	"精神分裂症"	"Schizophrenia"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"18"	NA	NA	NA	NA	NA	FALSE	"7"	"帕金森综合症"	"Parkinson"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"18"	NA	NA	NA	NA	NA	FALSE	"8"	"高血压"	"Hypertension"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"18"	NA	NA	NA	NA	NA	FALSE	"9"	"成瘾&#xff08;如药物、酒精&#xff09;"	"Addiction"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"18"	NA	NA	NA	NA	NA	FALSE	"10"	"中风"	"Stroke"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"18"	NA	NA	NA	NA	NA	FALSE	"11"	"抑郁症"	"Depression"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"18"	NA	NA	NA	NA	NA	FALSE	"12"	"偏头痛"	"Migraine"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"18"	NA	NA	NA	NA	NA	FALSE	"13"	"焦虑症"	"Anxiety"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"健康饮食"	NA	"Q05_HealthyDietGen_en"	FALSE	"1"	"经常"	"Frequently"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"健康饮食"	NA	"Q05_HealthyDietGen_en"	FALSE	"2"	"偶尔"	"Occasionally"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"健康饮食"	NA	"Q05_HealthyDietGen_en"	FALSE	"3"	"很少"	"Rarely"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"健康饮食"	NA	"Q05_HealthyDietGen_en"	FALSE	"4"	"从来没有"	"Never"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"运动"	NA	"Q05_ExcerciseGen_en"	FALSE	"1"	"经常"	"Frequently"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"运动"	NA	"Q05_ExcerciseGen_en"	FALSE	"2"	"偶尔"	"Occasionally"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"运动"	NA	"Q05_ExcerciseGen_en"	FALSE	"3"	"很少"	"Rarely"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"运动"	NA	"Q05_ExcerciseGen_en"	FALSE	"4"	"从来没有"	"Never"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"充足睡眠"	NA	"Q05_SleepGen_en"	FALSE	"1"	"经常"	"Frequently"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"充足睡眠"	NA	"Q05_SleepGen_en"	FALSE	"2"	"偶尔"	"Occasionally"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"充足睡眠"	NA	"Q05_SleepGen_en"	FALSE	"3"	"很少"	"Rarely"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"充足睡眠"	NA	"Q05_SleepGen_en"	FALSE	"4"	"从来没有"	"Never"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"练习放松活动"	NA	"Q05_RelaxGen_en"	FALSE	"1"	"经常"	"Frequently"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"练习放松活动"	NA	"Q05_RelaxGen_en"	FALSE	"2"	"偶尔"	"Occasionally"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"练习放松活动"	NA	"Q05_RelaxGen_en"	FALSE	"3"	"很少"	"Rarely"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"练习放松活动"	NA	"Q05_RelaxGen_en"	FALSE	"4"	"从来没有"	"Never"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"喝酒"	NA	"Q05_AlcoholGen_en"	FALSE	"1"	"经常"	"Frequently"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"喝酒"	NA	"Q05_AlcoholGen_en"	FALSE	"2"	"偶尔"	"Occasionally"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"喝酒"	NA	"Q05_AlcoholGen_en"	FALSE	"3"	"很少"	"Rarely"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"喝酒"	NA	"Q05_AlcoholGen_en"	FALSE	"4"	"从来没有"	"Never"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"吸烟"	NA	"Q05_SmokeGen_en"	FALSE	"1"	"经常"	"Frequently"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"吸烟"	NA	"Q05_SmokeGen_en"	FALSE	"2"	"偶尔"	"Occasionally"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"吸烟"	NA	"Q05_SmokeGen_en"	FALSE	"3"	"很少"	"Rarely"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"吸烟"	NA	"Q05_SmokeGen_en"	FALSE	"4"	"从来没有"	"Never"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"激发智力活动&#xff08;例如填字游戏、学习新事物&#xff09;"	NA	"Q05_IntellectGen_en"	FALSE	"1"	"经常"	"Frequently"	FALSE	FALSE	7	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"激发智力活动&#xff08;例如填字游戏、学习新事物&#xff09;"	NA	"Q05_IntellectGen_en"	FALSE	"2"	"偶尔"	"Occasionally"	FALSE	FALSE	7	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"激发智力活动&#xff08;例如填字游戏、学习新事物&#xff09;"	NA	"Q05_IntellectGen_en"	FALSE	"3"	"很少"	"Rarely"	FALSE	FALSE	7	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"激发智力活动&#xff08;例如填字游戏、学习新事物&#xff09;"	NA	"Q05_IntellectGen_en"	FALSE	"4"	"从来没有"	"Never"	FALSE	FALSE	7	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"在职业和家庭生活之间取得平衡"	NA	"Q05_WorkLifeBalanceGen_en"	FALSE	"1"	"经常"	"Frequently"	FALSE	FALSE	8	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"在职业和家庭生活之间取得平衡"	NA	"Q05_WorkLifeBalanceGen_en"	FALSE	"2"	"偶尔"	"Occasionally"	FALSE	FALSE	8	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"在职业和家庭生活之间取得平衡"	NA	"Q05_WorkLifeBalanceGen_en"	FALSE	"3"	"很少"	"Rarely"	FALSE	FALSE	8	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"在职业和家庭生活之间取得平衡"	NA	"Q05_WorkLifeBalanceGen_en"	FALSE	"4"	"从来没有"	"Never"	FALSE	FALSE	8	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"骑自行车、滑冰或滑雪时佩戴头盔"	NA	"Q05_ProtectionGen_en"	FALSE	"1"	"经常"	"Frequently"	FALSE	FALSE	9	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"骑自行车、滑冰或滑雪时佩戴头盔"	NA	"Q05_ProtectionGen_en"	FALSE	"2"	"偶尔"	"Occasionally"	FALSE	FALSE	9	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"骑自行车、滑冰或滑雪时佩戴头盔"	NA	"Q05_ProtectionGen_en"	FALSE	"3"	"很少"	"Rarely"	FALSE	FALSE	9	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"骑自行车、滑冰或滑雪时佩戴头盔"	NA	"Q05_ProtectionGen_en"	FALSE	"4"	"从来没有"	"Never"	FALSE	FALSE	9	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"服用营养补充品&#xff0c;如欧米咖 3/维生素 D&#xff09;"	NA	"Q05_SupplementsGen_en"	FALSE	"1"	"经常"	"Frequently"	FALSE	FALSE	10	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"服用营养补充品&#xff0c;如欧米咖 3/维生素 D&#xff09;"	NA	"Q05_SupplementsGen_en"	FALSE	"2"	"偶尔"	"Occasionally"	FALSE	FALSE	10	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"服用营养补充品&#xff0c;如欧米咖 3/维生素 D&#xff09;"	NA	"Q05_SupplementsGen_en"	FALSE	"3"	"很少"	"Rarely"	FALSE	FALSE	10	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"服用营养补充品&#xff0c;如欧米咖 3/维生素 D&#xff09;"	NA	"Q05_SupplementsGen_en"	FALSE	"4"	"从来没有"	"Never"	FALSE	FALSE	10	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"与人&#xff08;如朋友&#xff09;交往"	NA	"Q05_SocialiseGen_en"	FALSE	"1"	"经常"	"Frequently"	FALSE	FALSE	11	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"与人&#xff08;如朋友&#xff09;交往"	NA	"Q05_SocialiseGen_en"	FALSE	"2"	"偶尔"	"Occasionally"	FALSE	FALSE	11	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"与人&#xff08;如朋友&#xff09;交往"	NA	"Q05_SocialiseGen_en"	FALSE	"3"	"很少"	"Rarely"	FALSE	FALSE	11	NA	NA	NA
+"simplified chinese"	"ch"	131674	"21"	NA	NA	"与人&#xff08;如朋友&#xff09;交往"	NA	"Q05_SocialiseGen_en"	FALSE	"4"	"从来没有"	"Never"	FALSE	FALSE	11	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"健康饮食"	NA	"Q06_HealthyDietPurp_en"	FALSE	"1"	"经常"	"Frequently"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"健康饮食"	NA	"Q06_HealthyDietPurp_en"	FALSE	"2"	"偶尔"	"Occasionally"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"健康饮食"	NA	"Q06_HealthyDietPurp_en"	FALSE	"3"	"很少"	"Rarely"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"健康饮食"	NA	"Q06_HealthyDietPurp_en"	FALSE	"4"	"从来没有"	"Never"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"运动"	NA	"Q06_ExcercisePurp_en"	FALSE	"1"	"经常"	"Frequently"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"运动"	NA	"Q06_ExcercisePurp_en"	FALSE	"2"	"偶尔"	"Occasionally"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"运动"	NA	"Q06_ExcercisePurp_en"	FALSE	"3"	"很少"	"Rarely"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"运动"	NA	"Q06_ExcercisePurp_en"	FALSE	"4"	"从来没有"	"Never"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"充足睡眠"	NA	"Q06_SleepPurp_en"	FALSE	"1"	"经常"	"Frequently"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"充足睡眠"	NA	"Q06_SleepPurp_en"	FALSE	"2"	"偶尔"	"Occasionally"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"充足睡眠"	NA	"Q06_SleepPurp_en"	FALSE	"3"	"很少"	"Rarely"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"充足睡眠"	NA	"Q06_SleepPurp_en"	FALSE	"4"	"从来没有"	"Never"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"练习放松活动"	NA	"Q06_RelaxPurp_en"	FALSE	"1"	"经常"	"Frequently"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"练习放松活动"	NA	"Q06_RelaxPurp_en"	FALSE	"2"	"偶尔"	"Occasionally"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"练习放松活动"	NA	"Q06_RelaxPurp_en"	FALSE	"3"	"很少"	"Rarely"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"练习放松活动"	NA	"Q06_RelaxPurp_en"	FALSE	"4"	"从来没有"	"Never"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"在职业和家庭生活之间取得平衡"	NA	"Q06_WorkLifeBalancePurp_en"	FALSE	"1"	"经常"	"Frequently"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"在职业和家庭生活之间取得平衡"	NA	"Q06_WorkLifeBalancePurp_en"	FALSE	"2"	"偶尔"	"Occasionally"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"在职业和家庭生活之间取得平衡"	NA	"Q06_WorkLifeBalancePurp_en"	FALSE	"3"	"很少"	"Rarely"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"在职业和家庭生活之间取得平衡"	NA	"Q06_WorkLifeBalancePurp_en"	FALSE	"4"	"从来没有"	"Never"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"骑自行车、滑冰或滑雪时佩戴头盔"	NA	"Q06_ProtectionPurp_en"	FALSE	"1"	"经常"	"Frequently"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"骑自行车、滑冰或滑雪时佩戴头盔"	NA	"Q06_ProtectionPurp_en"	FALSE	"2"	"偶尔"	"Occasionally"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"骑自行车、滑冰或滑雪时佩戴头盔"	NA	"Q06_ProtectionPurp_en"	FALSE	"3"	"很少"	"Rarely"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"骑自行车、滑冰或滑雪时佩戴头盔"	NA	"Q06_ProtectionPurp_en"	FALSE	"4"	"从来没有"	"Never"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"服用营养补充品&#xff0c;如欧米茄 3/维生素 D&#xff09;"	NA	"Q06_SupplementsPurp_en"	FALSE	"1"	"经常"	"Frequently"	FALSE	FALSE	7	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"服用营养补充品&#xff0c;如欧米茄 3/维生素 D&#xff09;"	NA	"Q06_SupplementsPurp_en"	FALSE	"2"	"偶尔"	"Occasionally"	FALSE	FALSE	7	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"服用营养补充品&#xff0c;如欧米茄 3/维生素 D&#xff09;"	NA	"Q06_SupplementsPurp_en"	FALSE	"3"	"很少"	"Rarely"	FALSE	FALSE	7	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"服用营养补充品&#xff0c;如欧米茄 3/维生素 D&#xff09;"	NA	"Q06_SupplementsPurp_en"	FALSE	"4"	"从来没有"	"Never"	FALSE	FALSE	7	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"与人&#xff08;如朋友&#xff09;交往"	NA	"Q06_SocialisePurp_en"	FALSE	"1"	"经常"	"Frequently"	FALSE	FALSE	8	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"与人&#xff08;如朋友&#xff09;交往"	NA	"Q06_SocialisePurp_en"	FALSE	"2"	"偶尔"	"Occasionally"	FALSE	FALSE	8	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"与人&#xff08;如朋友&#xff09;交往"	NA	"Q06_SocialisePurp_en"	FALSE	"3"	"很少"	"Rarely"	FALSE	FALSE	8	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"与人&#xff08;如朋友&#xff09;交往"	NA	"Q06_SocialisePurp_en"	FALSE	"4"	"从来没有"	"Never"	FALSE	FALSE	8	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"Other activities: please specify"	NA	"Q06_OtherPurp_en"	FALSE	"1"	"经常"	"Frequently"	FALSE	FALSE	9	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"Other activities: please specify"	NA	"Q06_OtherPurp_en"	FALSE	"2"	"偶尔"	"Occasionally"	FALSE	FALSE	9	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"Other activities: please specify"	NA	"Q06_OtherPurp_en"	FALSE	"3"	"很少"	"Rarely"	FALSE	FALSE	9	NA	NA	NA
+"simplified chinese"	"ch"	131674	"24"	NA	NA	"Other activities: please specify"	NA	"Q06_OtherPurp_en"	FALSE	"4"	"从来没有"	"Never"	FALSE	FALSE	9	NA	NA	NA
+"simplified chinese"	"ch"	131674	"26"	NA	NA	NA	"
+
+
+"	"Q06_BrainHealth_Purpose_Spec_en"	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"29"	NA	NA	NA	NA	NA	TRUE	"1"	"负担得起"	"Cheap"	FALSE	FALSE	NA	3	NA	NA
+"simplified chinese"	"ch"	131674	"29"	NA	NA	NA	NA	NA	TRUE	"2"	"快速"	"Quick"	FALSE	FALSE	NA	3	NA	NA
+"simplified chinese"	"ch"	131674	"29"	NA	NA	NA	NA	NA	TRUE	"3"	"准确"	"Accurate"	FALSE	FALSE	NA	3	NA	NA
+"simplified chinese"	"ch"	131674	"29"	NA	NA	NA	NA	NA	TRUE	"4"	"无痛"	"NoPain"	FALSE	FALSE	NA	3	NA	NA
+"simplified chinese"	"ch"	131674	"29"	NA	NA	NA	NA	NA	TRUE	"5"	"有社会保障补贴&#xff08;通过 全科医生&#xff09;"	"SocialSecurity"	FALSE	FALSE	NA	3	NA	NA
+"simplified chinese"	"ch"	131674	"29"	NA	NA	NA	NA	NA	TRUE	"6"	"在线提供&#xff0c;可直接访问结果"	"OnlineCriteria"	FALSE	FALSE	NA	3	NA	NA
+"simplified chinese"	"ch"	131674	"29"	NA	NA	NA	NA	NA	TRUE	"7"	"其他&#xff08;请具体说明&#xff09;&#xff1a;"	"OtherCriteria"	FALSE	FALSE	NA	3	NA	NA
+"simplified chinese"	"ch"	131674	"31"	NA	NA	NA	NA	"Q07_Test_Criteria_Spec_en"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"34"	NA	NA	NA	"请选择一个答案。 
+"	"Q08_Take_Test_en"	TRUE	"1"	"是的&#xff0c;肯定愿意"	"Definitely"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"34"	NA	NA	NA	"请选择一个答案。 
+"	"Q08_Take_Test_en"	TRUE	"2"	"是的&#xff0c;可能愿意"	"Probably"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"34"	NA	NA	NA	"请选择一个答案。 
+"	"Q08_Take_Test_en"	TRUE	"3"	"不&#xff0c;可能不希望"	"ProbablyNot"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"34"	NA	NA	NA	"请选择一个答案。 
+"	"Q08_Take_Test_en"	TRUE	"4"	"不&#xff0c;肯定不愿意"	"DefinitelyNot"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"37"	NA	NA	NA	NA	NA	TRUE	"1"	"获取有关我的认知和心理健康的信息"	"Information"	FALSE	FALSE	NA	2	NA	NA
+"simplified chinese"	"ch"	131674	"37"	NA	NA	NA	NA	NA	TRUE	"2"	"确定患脑病的风险"	"LearnRisk"	FALSE	FALSE	NA	2	NA	NA
+"simplified chinese"	"ch"	131674	"37"	NA	NA	NA	NA	NA	TRUE	"3"	"可及时应对患病风险&#xff0c;例如改变生活方式、寻求咨询或开始治疗"	"Respond"	FALSE	FALSE	NA	2	NA	NA
+"simplified chinese"	"ch"	131674	"37"	NA	NA	NA	NA	NA	TRUE	"4"	"为将来做好准备&#xff08;例如&#xff0c;告知家人我的患病风险&#xff09;"	"Prepare"	FALSE	FALSE	NA	2	NA	NA
+"simplified chinese"	"ch"	131674	"37"	NA	NA	NA	NA	NA	TRUE	"5"	"其他原因&#xff08;请具体说明&#xff09;&#xff1a;"	"OtherMotivation"	FALSE	FALSE	NA	2	NA	NA
+"simplified chinese"	"ch"	131674	"39"	NA	NA	NA	NA	"Q09a_Test_Reason_Spec_en"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"42"	NA	NA	NA	"请选择一个答案。 
+
+
+"	"Q09b_Test_Nonpreventable_en"	TRUE	"1"	"是的&#xff0c;肯定愿意"	"DefYes"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"42"	NA	NA	NA	"请选择一个答案。 
+
+
+"	"Q09b_Test_Nonpreventable_en"	TRUE	"2"	"是的&#xff0c;可能愿意"	"ProbablyYes"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"42"	NA	NA	NA	"请选择一个答案。 
+
+
+"	"Q09b_Test_Nonpreventable_en"	TRUE	"3"	"不&#xff0c;可能不希望"	"ProbablyNot"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"42"	NA	NA	NA	"请选择一个答案。 
+
+
+"	"Q09b_Test_Nonpreventable_en"	TRUE	"4"	"不&#xff0c;肯定不愿意"	"DefNot"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"45"	NA	NA	NA	NA	NA	TRUE	"1"	"不想为不可能发生的事担心"	"Worry"	FALSE	FALSE	NA	2	NA	NA
+"simplified chinese"	"ch"	131674	"45"	NA	NA	NA	NA	NA	TRUE	"2"	"不想知道一种无法预防或治疗的疾病"	"DoNotWantToKnow"	FALSE	FALSE	NA	2	NA	NA
+"simplified chinese"	"ch"	131674	"45"	NA	NA	NA	NA	NA	TRUE	"3"	"会害怕检查结果"	"Frightened"	FALSE	FALSE	NA	2	NA	NA
+"simplified chinese"	"ch"	131674	"45"	NA	NA	NA	NA	NA	TRUE	"4"	"我对脑健康完全无能为力"	"Helpless"	FALSE	FALSE	NA	2	NA	NA
+"simplified chinese"	"ch"	131674	"45"	NA	NA	NA	NA	NA	TRUE	"5"	"其他原因&#xff08;请具体说明&#xff09;&#xff1a;"	"OtherReason"	FALSE	FALSE	NA	2	NA	NA
+"simplified chinese"	"ch"	131674	"47"	NA	NA	NA	NA	"Q09c_OtherReason_Spec_en"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"50"	NA	NA	"我会寻求专业帮助&#xff08;例如我的医生&#xff09;"	NA	"Q10_ProfessHelp_en"	FALSE	"1"	"绝对会"	"DefYes"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"50"	NA	NA	"我会寻求专业帮助&#xff08;例如我的医生&#xff09;"	NA	"Q10_ProfessHelp_en"	FALSE	"2"	"很可能   会"	"Likely"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"50"	NA	NA	"我会寻求专业帮助&#xff08;例如我的医生&#xff09;"	NA	"Q10_ProfessHelp_en"	FALSE	"3"	"很可能   不会"	"Unlikely"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"50"	NA	NA	"我会寻求专业帮助&#xff08;例如我的医生&#xff09;"	NA	"Q10_ProfessHelp_en"	FALSE	"4"	"绝对   不会"	"Defnot"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"50"	NA	NA	"我会向家人和朋友寻求建议"	NA	"Q10_FamilyFriends_en"	FALSE	"1"	"绝对会"	"DefYes"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"50"	NA	NA	"我会向家人和朋友寻求建议"	NA	"Q10_FamilyFriends_en"	FALSE	"2"	"很可能   会"	"Likely"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"50"	NA	NA	"我会向家人和朋友寻求建议"	NA	"Q10_FamilyFriends_en"	FALSE	"3"	"很可能   不会"	"Unlikely"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"50"	NA	NA	"我会向家人和朋友寻求建议"	NA	"Q10_FamilyFriends_en"	FALSE	"4"	"绝对   不会"	"Defnot"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"50"	NA	NA	"我会在网上/图书馆寻找相关信息"	NA	"Q10_Library_en"	FALSE	"1"	"绝对会"	"DefYes"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"50"	NA	NA	"我会在网上/图书馆寻找相关信息"	NA	"Q10_Library_en"	FALSE	"2"	"很可能   会"	"Likely"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"50"	NA	NA	"我会在网上/图书馆寻找相关信息"	NA	"Q10_Library_en"	FALSE	"3"	"很可能   不会"	"Unlikely"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"50"	NA	NA	"我会在网上/图书馆寻找相关信息"	NA	"Q10_Library_en"	FALSE	"4"	"绝对   不会"	"Defnot"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"50"	NA	NA	"如果需要的话&#xff0c;我会改变我的生活方式"	NA	"Q10_LifestyleChange_en"	FALSE	"1"	"绝对会"	"DefYes"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"50"	NA	NA	"如果需要的话&#xff0c;我会改变我的生活方式"	NA	"Q10_LifestyleChange_en"	FALSE	"2"	"很可能   会"	"Likely"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"50"	NA	NA	"如果需要的话&#xff0c;我会改变我的生活方式"	NA	"Q10_LifestyleChange_en"	FALSE	"3"	"很可能   不会"	"Unlikely"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"50"	NA	NA	"如果需要的话&#xff0c;我会改变我的生活方式"	NA	"Q10_LifestyleChange_en"	FALSE	"4"	"绝对   不会"	"Defnot"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"50"	NA	NA	"我会为未来做计划"	NA	"Q10_Plan_en"	FALSE	"1"	"绝对会"	"DefYes"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"50"	NA	NA	"我会为未来做计划"	NA	"Q10_Plan_en"	FALSE	"2"	"很可能   会"	"Likely"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"50"	NA	NA	"我会为未来做计划"	NA	"Q10_Plan_en"	FALSE	"3"	"很可能   不会"	"Unlikely"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"50"	NA	NA	"我会为未来做计划"	NA	"Q10_Plan_en"	FALSE	"4"	"绝对   不会"	"Defnot"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"52"	NA	NA	NA	"
+
+
+
+请描述&#xff1a; 
+"	"Q10_TestReactionSpec_en"	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更健康的饮食"	NA	"Q11_EatHealthy_en"	FALSE	"1"	"很可能"	"VeryLikely"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更健康的饮食"	NA	"Q11_EatHealthy_en"	FALSE	"2"	"有点可能"	"Likely"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更健康的饮食"	NA	"Q11_EatHealthy_en"	FALSE	"3"	"我已经这样做了"	"AlreadyDo"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更健康的饮食"	NA	"Q11_EatHealthy_en"	FALSE	"4"	"有点不可能"	"Unlikely"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更健康的饮食"	NA	"Q11_EatHealthy_en"	FALSE	"5"	"非常不可能"	"NotAtAll"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更多运动"	NA	"Q11_ExcerciseMore_en"	FALSE	"1"	"很可能"	"VeryLikely"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更多运动"	NA	"Q11_ExcerciseMore_en"	FALSE	"2"	"有点可能"	"Likely"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更多运动"	NA	"Q11_ExcerciseMore_en"	FALSE	"3"	"我已经这样做了"	"AlreadyDo"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更多运动"	NA	"Q11_ExcerciseMore_en"	FALSE	"4"	"有点不可能"	"Unlikely"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更多运动"	NA	"Q11_ExcerciseMore_en"	FALSE	"5"	"非常不可能"	"NotAtAll"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"改善睡眠习惯"	NA	"Q11_ImprSleepingHabits_en"	FALSE	"1"	"很可能"	"VeryLikely"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"改善睡眠习惯"	NA	"Q11_ImprSleepingHabits_en"	FALSE	"2"	"有点可能"	"Likely"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"改善睡眠习惯"	NA	"Q11_ImprSleepingHabits_en"	FALSE	"3"	"我已经这样做了"	"AlreadyDo"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"改善睡眠习惯"	NA	"Q11_ImprSleepingHabits_en"	FALSE	"4"	"有点不可能"	"Unlikely"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"改善睡眠习惯"	NA	"Q11_ImprSleepingHabits_en"	FALSE	"5"	"非常不可能"	"NotAtAll"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更多放松活动"	NA	"Q11_MoreRelax_en"	FALSE	"1"	"很可能"	"VeryLikely"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更多放松活动"	NA	"Q11_MoreRelax_en"	FALSE	"2"	"有点可能"	"Likely"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更多放松活动"	NA	"Q11_MoreRelax_en"	FALSE	"3"	"我已经这样做了"	"AlreadyDo"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更多放松活动"	NA	"Q11_MoreRelax_en"	FALSE	"4"	"有点不可能"	"Unlikely"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更多放松活动"	NA	"Q11_MoreRelax_en"	FALSE	"5"	"非常不可能"	"NotAtAll"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更多激发脑力活动&#xff08;例如学习一门新语言&#xff09;"	NA	"Q11_BrainStimuli_en"	FALSE	"1"	"很可能"	"VeryLikely"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更多激发脑力活动&#xff08;例如学习一门新语言&#xff09;"	NA	"Q11_BrainStimuli_en"	FALSE	"2"	"有点可能"	"Likely"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更多激发脑力活动&#xff08;例如学习一门新语言&#xff09;"	NA	"Q11_BrainStimuli_en"	FALSE	"3"	"我已经这样做了"	"AlreadyDo"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更多激发脑力活动&#xff08;例如学习一门新语言&#xff09;"	NA	"Q11_BrainStimuli_en"	FALSE	"4"	"有点不可能"	"Unlikely"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更多激发脑力活动&#xff08;例如学习一门新语言&#xff09;"	NA	"Q11_BrainStimuli_en"	FALSE	"5"	"非常不可能"	"NotAtAll"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"避免饮酒"	NA	"Q11_NoAlcohol_en"	FALSE	"1"	"很可能"	"VeryLikely"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"避免饮酒"	NA	"Q11_NoAlcohol_en"	FALSE	"2"	"有点可能"	"Likely"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"避免饮酒"	NA	"Q11_NoAlcohol_en"	FALSE	"3"	"我已经这样做了"	"AlreadyDo"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"避免饮酒"	NA	"Q11_NoAlcohol_en"	FALSE	"4"	"有点不可能"	"Unlikely"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"避免饮酒"	NA	"Q11_NoAlcohol_en"	FALSE	"5"	"非常不可能"	"NotAtAll"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"避免吸烟"	NA	"Q11_NoSmoking_en"	FALSE	"1"	"很可能"	"VeryLikely"	FALSE	FALSE	7	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"避免吸烟"	NA	"Q11_NoSmoking_en"	FALSE	"2"	"有点可能"	"Likely"	FALSE	FALSE	7	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"避免吸烟"	NA	"Q11_NoSmoking_en"	FALSE	"3"	"我已经这样做了"	"AlreadyDo"	FALSE	FALSE	7	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"避免吸烟"	NA	"Q11_NoSmoking_en"	FALSE	"4"	"有点不可能"	"Unlikely"	FALSE	FALSE	7	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"避免吸烟"	NA	"Q11_NoSmoking_en"	FALSE	"5"	"非常不可能"	"NotAtAll"	FALSE	FALSE	7	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更多社交"	NA	"Q11_MoreSocial_en"	FALSE	"1"	"很可能"	"VeryLikely"	FALSE	FALSE	8	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更多社交"	NA	"Q11_MoreSocial_en"	FALSE	"2"	"有点可能"	"Likely"	FALSE	FALSE	8	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更多社交"	NA	"Q11_MoreSocial_en"	FALSE	"3"	"我已经这样做了"	"AlreadyDo"	FALSE	FALSE	8	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更多社交"	NA	"Q11_MoreSocial_en"	FALSE	"4"	"有点不可能"	"Unlikely"	FALSE	FALSE	8	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更多社交"	NA	"Q11_MoreSocial_en"	FALSE	"5"	"非常不可能"	"NotAtAll"	FALSE	FALSE	8	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更多文化活动"	NA	"Q11_MoreCulture_en"	FALSE	"1"	"很可能"	"VeryLikely"	FALSE	FALSE	9	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更多文化活动"	NA	"Q11_MoreCulture_en"	FALSE	"2"	"有点可能"	"Likely"	FALSE	FALSE	9	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更多文化活动"	NA	"Q11_MoreCulture_en"	FALSE	"3"	"我已经这样做了"	"AlreadyDo"	FALSE	FALSE	9	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更多文化活动"	NA	"Q11_MoreCulture_en"	FALSE	"4"	"有点不可能"	"Unlikely"	FALSE	FALSE	9	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"更多文化活动"	NA	"Q11_MoreCulture_en"	FALSE	"5"	"非常不可能"	"NotAtAll"	FALSE	FALSE	9	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"其他&#xff08;请具体说明&#xff09;&#xff1a;"	NA	"Q11_OtherChanges_en"	FALSE	"1"	"很可能"	"VeryLikely"	FALSE	FALSE	10	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"其他&#xff08;请具体说明&#xff09;&#xff1a;"	NA	"Q11_OtherChanges_en"	FALSE	"2"	"有点可能"	"Likely"	FALSE	FALSE	10	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"其他&#xff08;请具体说明&#xff09;&#xff1a;"	NA	"Q11_OtherChanges_en"	FALSE	"3"	"我已经这样做了"	"AlreadyDo"	FALSE	FALSE	10	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"其他&#xff08;请具体说明&#xff09;&#xff1a;"	NA	"Q11_OtherChanges_en"	FALSE	"4"	"有点不可能"	"Unlikely"	FALSE	FALSE	10	NA	NA	NA
+"simplified chinese"	"ch"	131674	"55"	NA	NA	"其他&#xff08;请具体说明&#xff09;&#xff1a;"	NA	"Q11_OtherChanges_en"	FALSE	"5"	"非常不可能"	"NotAtAll"	FALSE	FALSE	10	NA	NA	NA
+"simplified chinese"	"ch"	131674	"57"	NA	NA	NA	NA	"Q11_OtherChanges_Spec_en"	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"60"	NA	NA	NA	NA	NA	TRUE	"1"	"我注意到我的脑健康问题&#xff08;例如&#xff0c;我的记忆力下降了&#xff09;"	"WorseMemory"	FALSE	FALSE	NA	3	NA	NA
+"simplified chinese"	"ch"	131674	"60"	NA	NA	NA	NA	NA	TRUE	"2"	"我被诊断出患有脑部疾病"	"Diagnose"	FALSE	FALSE	NA	3	NA	NA
+"simplified chinese"	"ch"	131674	"60"	NA	NA	NA	NA	NA	TRUE	"3"	"如果改变生活方式是有趣且愉快的"	"Fun"	FALSE	FALSE	NA	3	NA	NA
+"simplified chinese"	"ch"	131674	"60"	NA	NA	NA	NA	NA	TRUE	"4"	"如果改变生活方式在经济上是可以承受的"	"Affordable"	FALSE	FALSE	NA	3	NA	NA
+"simplified chinese"	"ch"	131674	"60"	NA	NA	NA	NA	NA	TRUE	"5"	"如果我的亲戚或朋友患有脑部疾病"	"Family"	FALSE	FALSE	NA	3	NA	NA
+"simplified chinese"	"ch"	131674	"60"	NA	NA	NA	NA	NA	TRUE	"6"	"如果我收到了关于该怎么做的合理建议&#xff08;例如&#xff0c;来自我的医生的建议&#xff09;"	"PersonalAdvice"	FALSE	FALSE	NA	3	NA	NA
+"simplified chinese"	"ch"	131674	"60"	NA	NA	NA	NA	NA	TRUE	"7"	"如果得到朋友/家人的支持"	"FamilySupport"	FALSE	FALSE	NA	3	NA	NA
+"simplified chinese"	"ch"	131674	"60"	NA	NA	NA	NA	NA	TRUE	"8"	"如果知道生活方式的改变是有益的"	"ImpactKnown"	FALSE	FALSE	NA	3	NA	NA
+"simplified chinese"	"ch"	131674	"60"	NA	NA	NA	NA	NA	TRUE	"9"	"没有什么能够激励我做出改变"	"NoMotivation"	FALSE	FALSE	NA	3	NA	NA
+"simplified chinese"	"ch"	131674	"60"	NA	NA	NA	NA	NA	TRUE	"10"	"其他&#xff08;请具体说明&#xff09;&#xff1a;"	"OtherMotivationChange"	FALSE	FALSE	NA	3	NA	NA
+"simplified chinese"	"ch"	131674	"62"	NA	NA	NA	NA	"Q12_OtherChangeMotivation_Spec_en"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"65"	NA	NA	NA	NA	NA	TRUE	"1"	"时间不够"	"NoTime"	FALSE	FALSE	NA	3	NA	NA
+"simplified chinese"	"ch"	131674	"65"	NA	NA	NA	NA	NA	TRUE	"2"	"缺乏动力"	"NoMotivation"	FALSE	FALSE	NA	3	NA	NA
+"simplified chinese"	"ch"	131674	"65"	NA	NA	NA	NA	NA	TRUE	"3"	"缺少有关该做什么的信息"	"NoInfo"	FALSE	FALSE	NA	3	NA	NA
+"simplified chinese"	"ch"	131674	"65"	NA	NA	NA	NA	NA	TRUE	"4"	"我不得不放弃我喜欢的活动"	"GiveupHobby"	FALSE	FALSE	NA	3	NA	NA
+"simplified chinese"	"ch"	131674	"65"	NA	NA	NA	NA	NA	TRUE	"5"	"我不得不完成一些我不喜欢的活动"	"StartNoFun"	FALSE	FALSE	NA	3	NA	NA
+"simplified chinese"	"ch"	131674	"65"	NA	NA	NA	NA	NA	TRUE	"6"	"我不得不独自做出改变"	"Alone"	FALSE	FALSE	NA	3	NA	NA
+"simplified chinese"	"ch"	131674	"65"	NA	NA	NA	NA	NA	TRUE	"7"	"改变生活方式的成本很高&#xff08;例如健身房会员&#xff09;"	"Expensive"	FALSE	FALSE	NA	3	NA	NA
+"simplified chinese"	"ch"	131674	"65"	NA	NA	NA	NA	NA	TRUE	"8"	"我不确定这些改变是否有所助益"	"NotHelp"	FALSE	FALSE	NA	3	NA	NA
+"simplified chinese"	"ch"	131674	"65"	NA	NA	NA	NA	NA	TRUE	"9"	"我觉得没有必要做任何改变"	"NoNeed"	FALSE	FALSE	NA	3	NA	NA
+"simplified chinese"	"ch"	131674	"65"	NA	NA	NA	NA	NA	TRUE	"10"	"其他&#xff08;请具体说明&#xff09;&#xff1a;"	"OtherMotivationNoChange"	FALSE	FALSE	NA	3	NA	NA
+"simplified chinese"	"ch"	131674	"67"	NA	NA	NA	NA	"Q13_SpecifyNoMotivation_Spec_en"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"70"	NA	NA	NA	NA	NA	FALSE	"1"	"来自我的 全科医生或专家的建议"	"GP"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"70"	NA	NA	NA	NA	NA	FALSE	"2"	"来自家人和/或朋友的支持"	"SupportFamily"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"70"	NA	NA	NA	NA	NA	FALSE	"3"	"团体支持&#xff0c;例如远足小组"	"GroupSupport"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"70"	NA	NA	NA	NA	NA	FALSE	"4"	"可帮助进行大脑和体能训练的移动应用程序"	"MobileApp"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"70"	NA	NA	NA	NA	NA	FALSE	"5"	"定期监测评估生活方式改变的效果"	"Checkup"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"70"	NA	NA	NA	NA	NA	FALSE	"6"	"其他类型的帮助&#xff08;请具体说明&#xff09;&#xff1a;"	"OtherAssistance"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"72"	NA	NA	NA	NA	"Q14_OtherAssistance_Spec_en"	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"75"	NA	NA	"向公众介绍脑健康知识"	NA	"Q15_InformAuth_en"	FALSE	"1"	"是"	"Yes"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"75"	NA	NA	"向公众介绍脑健康知识"	NA	"Q15_InformAuth_en"	FALSE	"2"	"否"	"No"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"75"	NA	NA	"向公众介绍脑健康知识"	NA	"Q15_InformAuth_en"	FALSE	"3"	"不知道"	"Unknown"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"75"	NA	NA	"提高对脑健康有害的产品的税收"	NA	"Q15_TaxAuth_en"	FALSE	"1"	"是"	"Yes"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"75"	NA	NA	"提高对脑健康有害的产品的税收"	NA	"Q15_TaxAuth_en"	FALSE	"2"	"否"	"No"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"75"	NA	NA	"提高对脑健康有害的产品的税收"	NA	"Q15_TaxAuth_en"	FALSE	"3"	"不知道"	"Unknown"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"75"	NA	NA	"补贴对脑健康有益的食物和活动"	NA	"Q15_SubsAuth_en"	FALSE	"1"	"是"	"Yes"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"75"	NA	NA	"补贴对脑健康有益的食物和活动"	NA	"Q15_SubsAuth_en"	FALSE	"2"	"否"	"No"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"75"	NA	NA	"补贴对脑健康有益的食物和活动"	NA	"Q15_SubsAuth_en"	FALSE	"3"	"不知道"	"Unknown"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"75"	NA	NA	"向市民免费提供脑健康检查"	NA	"Q15_FreetestAuth_en"	FALSE	"1"	"是"	"Yes"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"75"	NA	NA	"向市民免费提供脑健康检查"	NA	"Q15_FreetestAuth_en"	FALSE	"2"	"否"	"No"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"75"	NA	NA	"向市民免费提供脑健康检查"	NA	"Q15_FreetestAuth_en"	FALSE	"3"	"不知道"	"Unknown"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"75"	NA	NA	"在学校和工作场所引入放松活动和体育活动"	NA	"Q15_RelaxAuth_en"	FALSE	"1"	"是"	"Yes"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"75"	NA	NA	"在学校和工作场所引入放松活动和体育活动"	NA	"Q15_RelaxAuth_en"	FALSE	"2"	"否"	"No"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"75"	NA	NA	"在学校和工作场所引入放松活动和体育活动"	NA	"Q15_RelaxAuth_en"	FALSE	"3"	"不知道"	"Unknown"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"75"	NA	NA	"防止保险公司获取脑健康检查结果"	NA	"Q15_InsAuth_en"	FALSE	"1"	"是"	"Yes"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"75"	NA	NA	"防止保险公司获取脑健康检查结果"	NA	"Q15_InsAuth_en"	FALSE	"2"	"否"	"No"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"75"	NA	NA	"防止保险公司获取脑健康检查结果"	NA	"Q15_InsAuth_en"	FALSE	"3"	"不知道"	"Unknown"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"78"	NA	NA	"我的 全科医生"	NA	"Q16_GP_en"	FALSE	"1"	"最高程度"	"GreatExtent"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"78"	NA	NA	"我的 全科医生"	NA	"Q16_GP_en"	FALSE	"2"	"中等程度"	"Neutral"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"78"	NA	NA	"我的 全科医生"	NA	"Q16_GP_en"	FALSE	"3"	"完全不信任"	"NotatAll"	FALSE	FALSE	1	NA	NA	NA
+"simplified chinese"	"ch"	131674	"78"	NA	NA	"脑健康专家"	NA	"Q16_BrainHealthSpec_en"	FALSE	"1"	"最高程度"	"GreatExtent"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"78"	NA	NA	"脑健康专家"	NA	"Q16_BrainHealthSpec_en"	FALSE	"2"	"中等程度"	"Neutral"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"78"	NA	NA	"脑健康专家"	NA	"Q16_BrainHealthSpec_en"	FALSE	"3"	"完全不信任"	"NotatAll"	FALSE	FALSE	2	NA	NA	NA
+"simplified chinese"	"ch"	131674	"78"	NA	NA	"在线医学论坛"	NA	"Q16_OnlineForum_en"	FALSE	"1"	"最高程度"	"GreatExtent"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"78"	NA	NA	"在线医学论坛"	NA	"Q16_OnlineForum_en"	FALSE	"2"	"中等程度"	"Neutral"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"78"	NA	NA	"在线医学论坛"	NA	"Q16_OnlineForum_en"	FALSE	"3"	"完全不信任"	"NotatAll"	FALSE	FALSE	3	NA	NA	NA
+"simplified chinese"	"ch"	131674	"78"	NA	NA	"公共卫生当局官方网站"	NA	"Q16_HealthAuthWebsites_en"	FALSE	"1"	"最高程度"	"GreatExtent"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"78"	NA	NA	"公共卫生当局官方网站"	NA	"Q16_HealthAuthWebsites_en"	FALSE	"2"	"中等程度"	"Neutral"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"78"	NA	NA	"公共卫生当局官方网站"	NA	"Q16_HealthAuthWebsites_en"	FALSE	"3"	"完全不信任"	"NotatAll"	FALSE	FALSE	4	NA	NA	NA
+"simplified chinese"	"ch"	131674	"78"	NA	NA	"报纸、杂志"	NA	"Q16_Newspaper_en"	FALSE	"1"	"最高程度"	"GreatExtent"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"78"	NA	NA	"报纸、杂志"	NA	"Q16_Newspaper_en"	FALSE	"2"	"中等程度"	"Neutral"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"78"	NA	NA	"报纸、杂志"	NA	"Q16_Newspaper_en"	FALSE	"3"	"完全不信任"	"NotatAll"	FALSE	FALSE	5	NA	NA	NA
+"simplified chinese"	"ch"	131674	"78"	NA	NA	"社交媒体&#xff08;脸谱、推特、微博、微信、短视频)"	NA	"Q16_SocialMedia_en"	FALSE	"1"	"最高程度"	"GreatExtent"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"78"	NA	NA	"社交媒体&#xff08;脸谱、推特、微博、微信、短视频)"	NA	"Q16_SocialMedia_en"	FALSE	"2"	"中等程度"	"Neutral"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"78"	NA	NA	"社交媒体&#xff08;脸谱、推特、微博、微信、短视频)"	NA	"Q16_SocialMedia_en"	FALSE	"3"	"完全不信任"	"NotatAll"	FALSE	FALSE	6	NA	NA	NA
+"simplified chinese"	"ch"	131674	"78"	NA	NA	"电视/收音机&#xff08;包括播客&#xff09;"	NA	"Q16_TVRadio_en"	FALSE	"1"	"最高程度"	"GreatExtent"	FALSE	FALSE	7	NA	NA	NA
+"simplified chinese"	"ch"	131674	"78"	NA	NA	"电视/收音机&#xff08;包括播客&#xff09;"	NA	"Q16_TVRadio_en"	FALSE	"2"	"中等程度"	"Neutral"	FALSE	FALSE	7	NA	NA	NA
+"simplified chinese"	"ch"	131674	"78"	NA	NA	"电视/收音机&#xff08;包括播客&#xff09;"	NA	"Q16_TVRadio_en"	FALSE	"3"	"完全不信任"	"NotatAll"	FALSE	FALSE	7	NA	NA	NA
+"simplified chinese"	"ch"	131674	"78"	NA	NA	"公共研究人员"	NA	"Q16_PublicResearch_en"	FALSE	"1"	"最高程度"	"GreatExtent"	FALSE	FALSE	8	NA	NA	NA
+"simplified chinese"	"ch"	131674	"78"	NA	NA	"公共研究人员"	NA	"Q16_PublicResearch_en"	FALSE	"2"	"中等程度"	"Neutral"	FALSE	FALSE	8	NA	NA	NA
+"simplified chinese"	"ch"	131674	"78"	NA	NA	"公共研究人员"	NA	"Q16_PublicResearch_en"	FALSE	"3"	"完全不信任"	"NotatAll"	FALSE	FALSE	8	NA	NA	NA
+"simplified chinese"	"ch"	131674	"78"	NA	NA	"科学期刊"	NA	"Q16_ScientificJournals_en"	FALSE	"1"	"最高程度"	"GreatExtent"	FALSE	FALSE	9	NA	NA	NA
+"simplified chinese"	"ch"	131674	"78"	NA	NA	"科学期刊"	NA	"Q16_ScientificJournals_en"	FALSE	"2"	"中等程度"	"Neutral"	FALSE	FALSE	9	NA	NA	NA
+"simplified chinese"	"ch"	131674	"78"	NA	NA	"科学期刊"	NA	"Q16_ScientificJournals_en"	FALSE	"3"	"完全不信任"	"NotatAll"	FALSE	FALSE	9	NA	NA	NA
+"simplified chinese"	"ch"	131674	"81"	NA	NA	"17. 您目前是否正在参与或曾经参与过脑研究&#xff1f;"	NA	"Q17_BrainResearch_Part_en"	TRUE	"1"	"是"	"Yes"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"81"	NA	NA	"17. 您目前是否正在参与或曾经参与过脑研究&#xff1f;"	NA	"Q17_BrainResearch_Part_en"	TRUE	"2"	"否"	"No"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"83"	NA	NA	"18. 您的年龄是多少&#xff1f;"	NA	"Q18_Age_en"	TRUE	"1"	"18-25"	"18-25"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"83"	NA	NA	"18. 您的年龄是多少&#xff1f;"	NA	"Q18_Age_en"	TRUE	"2"	"26-40"	"26-40"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"83"	NA	NA	"18. 您的年龄是多少&#xff1f;"	NA	"Q18_Age_en"	TRUE	"3"	"41-60"	"41-60"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"83"	NA	NA	"18. 您的年龄是多少&#xff1f;"	NA	"Q18_Age_en"	TRUE	"4"	"61-70"	"61-70"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"83"	NA	NA	"18. 您的年龄是多少&#xff1f;"	NA	"Q18_Age_en"	TRUE	"5"	"71-80"	"71-80"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"83"	NA	NA	"18. 您的年龄是多少&#xff1f;"	NA	"Q18_Age_en"	TRUE	"6"	"80 &#43;"	"80plus"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"1"	"中国, 中华"	"China"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"2"	"新加坡"	"Singapore"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"3"	"Afghanistan"	"Afghanistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"4"	"Albania"	"Albania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"5"	"Algeria"	"Algeria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"6"	"Andorra"	"Andorra"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"7"	"Angola"	"Angola"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"8"	"Antigua and Barbuda"	"Antigua"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"9"	"Argentina"	"Argentina"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"10"	"Armenia"	"Armenia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"11"	"Australia"	"Australia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"12"	"Austria"	"Austria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"13"	"Azerbaijan"	"Azerbaijan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"14"	"Bahamas"	"Bahamas"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"15"	"Bahrain"	"Bahrain"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"16"	"Barbados"	"Barbados"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"17"	"Belarus"	"Belarus"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"18"	"Belize"	"Belize"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"19"	"Belgium"	"Belgium"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"20"	"Benin"	"Benin"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"21"	"Bhutan"	"Bhutan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"22"	"Bolivia"	"Bolivia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"23"	"Bosnia and Herzegovina"	"Bosnia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"24"	"Botswana"	"Botswana"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"25"	"Brasil"	"Brasil"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"26"	"Brunei"	"Brunei"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"27"	"Bulgaria"	"Bulgaria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"28"	"Burkina Faso"	"BurkinaFaso"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"29"	"Burundi"	"Burundi"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"30"	"Canada"	"Canada"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"31"	"Cambodia"	"Cambodia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"32"	"Cameroon"	"Cameroon"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"33"	"Cape Verde"	"CapeVerde"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"34"	"Central African Republic"	"CentralAfrica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"35"	"Chad"	"Chad"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"36"	"Chile"	"Chile"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"37"	"Colombia"	"Colombia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"38"	"Comoros"	"Comoros"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"39"	"Congo Democratic Republic"	"Congo"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"40"	"Costa Rica"	"CostaRica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"41"	"Cote d&#96; Ivoire"	"Cotedivoire"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"42"	"Croatia"	"Croatia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"43"	"Cuba"	"Cuba"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"44"	"Cyprus"	"Cyprus"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"45"	"Czech Republic"	"Czech"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"46"	"Denmark"	"Denmark"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"47"	"Djibouti"	"Djibouti"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"48"	"Dominican Republic"	"Dominica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"49"	"East Timor"	"EastTimor"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"50"	"Ecuador"	"Ecuador"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"51"	"Egypt"	"Egypt"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"52"	"El Salvador"	"ElSalvador"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"53"	"Equatorial Guinea"	"EGuinea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"54"	"Eritrea"	"Eritrea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"55"	"Estonia"	"Estonia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"56"	"Ethiopia"	"Ethiopia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"57"	"Fiji"	"Fiji"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"58"	"Finland"	"Finland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"59"	"France"	"France"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"60"	"Gabon"	"Gabon"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"61"	"Gambia"	"Gambia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"62"	"Georgia"	"Georgia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"63"	"Germany"	"Germany"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"64"	"Ghana"	"Ghana"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"65"	"Greece"	"Greece"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"66"	"Grenada"	"Grenada"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"67"	"Guetamala"	"Guetamala"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"68"	"Guinea"	"Guinea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"69"	"Guinea-Bissau"	"GuineaB"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"70"	"Guyana"	"Guyana"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"71"	"Haiti"	"Haiti"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"72"	"Honduras"	"Honduras"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"73"	"Hungary"	"Hungary"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"74"	"Iceland"	"Iceland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"75"	"India"	"India"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"76"	"Indonesia"	"Indonesia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"77"	"Ireland"	"Ireland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"78"	"Israel"	"Israel"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"79"	"Italy"	"Italy"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"80"	"Iran"	"Iran"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"81"	"Iraq"	"Iraq"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"82"	"Jamaica"	"Jamaica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"83"	"Japan"	"Japan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"84"	"Jordan"	"Jordan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"85"	"Kazahstan"	"Kazahstan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"86"	"Kenya"	"Kenya"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"87"	"Kiribati"	"Kiribati"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"88"	"Kosovo"	"Kosovo"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"89"	"Kuwait"	"Kuwait"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"90"	"Kyrgyzstan"	"Kyrgyzstan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"91"	"Laos"	"Laos"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"92"	"Latvia"	"Latvia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"93"	"Lebanon"	"Lebanon"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"94"	"Lesotho"	"Lesotho"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"95"	"Liberia"	"Liberia_en"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"96"	"Libya"	"Libya"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"97"	"Liechtenstein"	"Liechtenstein"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"98"	"Lithuania"	"Lithuania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"99"	"Luxembourg"	"Luxembourg"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"100"	"Macedonia"	"Macedonia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"101"	"Madagascar"	"Madagascar"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"102"	"Malawi"	"Malawi"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"103"	"Malaysia"	"Malaysia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"104"	"Maldives"	"Maldives"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"105"	"Mali"	"Mali"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"106"	"Malta"	"Malta"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"107"	"Marshall Islands"	"MarshallIslands"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"108"	"Mauritania"	"Mauritania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"109"	"Mauritius"	"Mauritius"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"110"	"Mexico"	"Mexico"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"111"	"Micronesia"	"Micronesia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"112"	"Moldova"	"Moldova"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"113"	"Monaco"	"Monaco"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"114"	"Mongolia"	"Mongolia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"115"	"Montenegro"	"Montenegro"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"116"	"Morocco"	"Morocco"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"117"	"Mozambique"	"Mozambique"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"118"	"Myanmar"	"Myanmar"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"119"	"Namibia"	"Namibia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"120"	"Nauru"	"Nauru"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"121"	"Nepal"	"Nepal"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"122"	"Netherlands"	"Netherlands"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"123"	"New Zealand"	"NewZealand"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"124"	"Nigeria"	"Nigeria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"125"	"Nicaragua"	"Nicaragua"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"126"	"Northern Ireland"	"NorthernIreland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"127"	"North-Korea"	"NorthKorea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"128"	"Norway"	"Norway"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"129"	"Oman"	"Oman"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"130"	"Pakistan"	"Pakistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"131"	"Palau"	"Palau"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"132"	"Panama"	"Panama"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"133"	"Papua New Guinea"	"Papua"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"134"	"Paraguay"	"Paraguay"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"135"	"Peru"	"Peru"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"136"	"Philippines"	"Philippines"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"137"	"Poland"	"Poland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"138"	"Portugal"	"Portugal"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"139"	"Qatar"	"Qatar"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"140"	"Republic of South Africa"	"SouthAfrica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"141"	"Romania"	"Romania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"142"	"Russia"	"Russia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"143"	"Rwanda"	"Rwanda"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"144"	"Samoa"	"Samoa"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"145"	"San Marino"	"SanMarino"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"146"	"Sao Tome and Principe"	"SaoTome"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"147"	"Saudi Arabia"	"SaudiArabia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"148"	"Senegal"	"Senegal"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"149"	"Serbia"	"Serbia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"150"	"Seychelles"	"Seychelles"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"151"	"Sierra Leone"	"SierraLeone"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"152"	"Slovakia"	"Slovakia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"153"	"Slovenia"	"Slovenia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"154"	"Solomon Islands"	"SolomonIsland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"155"	"Somalia"	"Somalia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"156"	"South-Korea"	"SouthKorea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"157"	"Spain"	"Spain"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"158"	"Sudan"	"Sudan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"159"	"Suriname"	"Suriname"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"160"	"Sweden"	"Sweden"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"161"	"Switzerland"	"Switzerland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"162"	"Syria"	"Syria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"163"	"Taiwan"	"Taiwan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"164"	"Turkey"	"Turkey"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"165"	"Sri Lanka"	"SriLanka"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"166"	"Tajikistan"	"Tajikistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"167"	"Tanzania"	"Tanzania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"168"	"Thailand"	"Thailand"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"169"	"Togo"	"Togo"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"170"	"Tonga"	"Tonga"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"171"	"Trinidad and Tobago"	"Trinidad"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"172"	"Tunisia"	"Tunisia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"173"	"Turkmenistan"	"Turkmenistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"174"	"Tuvalu"	"Tuvalu"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"175"	"Uganda"	"Uganda"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"176"	"Ukraine"	"Ukraine"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"177"	"United Arab Emirates"	"ArabEmirates"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"178"	"United Kingdom"	"UK"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"179"	"United States"	"USA"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"180"	"Uruguay"	"Uruguay"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"181"	"Uzbekistan"	"Uzbekistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"182"	"Vanuatu"	"Vanuatu"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"183"	"Vatican City"	"Vatican"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"184"	"Venezuela"	"Venezuela"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"185"	"Vietnam"	"Vietnam"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"186"	"Zaire"	"Zaire"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"187"	"Zambia"	"Zambia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"188"	"Zimbabwe"	"Zimbabwe"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"85"	NA	NA	"19. 您的居住国是&#xff1f;"	"&#xff08;向下滚动并选择&#xff09;
+
+
+"	"Q19_Residence_en"	TRUE	"189"	"Yemen"	"Yemen"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"87"	NA	NA	"20. 您的性别&#xff1a;"	NA	"Q20_Sex_en"	TRUE	"1"	"女"	"Female"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"87"	NA	NA	"20. 您的性别&#xff1a;"	NA	"Q20_Sex_en"	TRUE	"2"	"男"	"Male"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"87"	NA	NA	"20. 您的性别&#xff1a;"	NA	"Q20_Sex_en"	TRUE	"3"	"其他"	"Other"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"87"	NA	NA	"20. 您的性别&#xff1a;"	NA	"Q20_Sex_en"	TRUE	"4"	"不愿回答"	"Unknown"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"89"	NA	NA	"21. 您所获得的最高学历是什么&#xff1f;"	NA	"Q21_Education_Coded_en"	TRUE	"1"	"小学"	"PrimarySchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"89"	NA	NA	"21. 您所获得的最高学历是什么&#xff1f;"	NA	"Q21_Education_Coded_en"	TRUE	"2"	"特殊教育"	"SpecialSchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"89"	NA	NA	"21. 您所获得的最高学历是什么&#xff1f;"	NA	"Q21_Education_Coded_en"	TRUE	"3"	"中学"	"HighSchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"89"	NA	NA	"21. 您所获得的最高学历是什么&#xff1f;"	NA	"Q21_Education_Coded_en"	TRUE	"4"	"职业培训"	"VocationSchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"89"	NA	NA	"21. 您所获得的最高学历是什么&#xff1f;"	NA	"Q21_Education_Coded_en"	TRUE	"5"	"大学/大专学位"	"GradSchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"91"	NA	NA	"22. 以下哪一项最能描述您当前的婚姻/感情状况&#xff1a;"	NA	"Q22_Relationship_Status_en"	TRUE	"1"	"单身"	"Single"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"91"	NA	NA	"22. 以下哪一项最能描述您当前的婚姻/感情状况&#xff1a;"	NA	"Q22_Relationship_Status_en"	TRUE	"2"	"感情关系稳定&#xff0c;未结婚"	"Unmarried"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"91"	NA	NA	"22. 以下哪一项最能描述您当前的婚姻/感情状况&#xff1a;"	NA	"Q22_Relationship_Status_en"	TRUE	"3"	"已婚"	"DomesticPartner"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"91"	NA	NA	"22. 以下哪一项最能描述您当前的婚姻/感情状况&#xff1a;"	NA	"Q22_Relationship_Status_en"	TRUE	"4"	"离婚/分居"	"Divorced"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"91"	NA	NA	"22. 以下哪一项最能描述您当前的婚姻/感情状况&#xff1a;"	NA	"Q22_Relationship_Status_en"	TRUE	"5"	"丧偶"	"Widowed"	FALSE	FALSE	1	NA	FALSE	FALSE
+"simplified chinese"	"ch"	131674	"93"	NA	NA	"23. 您的职业状况是...&#xff1f;"	NA	NA	TRUE	"1"	"在职/自由职业"	"Employed"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"93"	NA	NA	"23. 您的职业状况是...&#xff1f;"	NA	NA	TRUE	"2"	"失业"	"Unemployed"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"93"	NA	NA	"23. 您的职业状况是...&#xff1f;"	NA	NA	TRUE	"3"	"家庭主妇"	"Stay-at-home"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"93"	NA	NA	"23. 您的职业状况是...&#xff1f;"	NA	NA	TRUE	"4"	"学生"	"Student"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"93"	NA	NA	"23. 您的职业状况是...&#xff1f;"	NA	NA	TRUE	"5"	"退休"	"Pensioned"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"93"	NA	NA	"23. 您的职业状况是...&#xff1f;"	NA	NA	TRUE	"6"	"无法工作"	"Disabled"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"93"	NA	NA	"23. 您的职业状况是...&#xff1f;"	NA	NA	TRUE	"7"	"从事无报酬或志愿工作"	"Volunteer-work"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"95"	NA	NA	"24. 您在医疗保健方面有教育或工作经验吗&#xff1f;"	NA	"Q24_Exp_HealthCare_en"	TRUE	"1"	"是"	"Yes"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"95"	NA	NA	"24. 您在医疗保健方面有教育或工作经验吗&#xff1f;"	NA	"Q24_Exp_HealthCare_en"	TRUE	"2"	"否"	"No"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"97"	NA	NA	"25. 您如何描述您的思考、记忆和学习能力&#xff1f;"	NA	"Q25_Cognitive_Health_en"	TRUE	"1"	"优秀"	"Excellent"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"97"	NA	NA	"25. 您如何描述您的思考、记忆和学习能力&#xff1f;"	NA	"Q25_Cognitive_Health_en"	TRUE	"2"	"非常好"	"AboveAverage"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"97"	NA	NA	"25. 您如何描述您的思考、记忆和学习能力&#xff1f;"	NA	"Q25_Cognitive_Health_en"	TRUE	"3"	"高于平均水平"	"Average"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"97"	NA	NA	"25. 您如何描述您的思考、记忆和学习能力&#xff1f;"	NA	"Q25_Cognitive_Health_en"	TRUE	"4"	"低于平均水平"	"BelowAverage"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"97"	NA	NA	"25. 您如何描述您的思考、记忆和学习能力&#xff1f;"	NA	"Q25_Cognitive_Health_en"	TRUE	"5"	"非常差"	"Poor"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"99"	NA	NA	"26. 您如何描述您平衡情绪和情感健康的能力&#xff1f;"	NA	"Q26_Emotional_Health_en"	TRUE	"1"	"优秀"	"Excellent"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"99"	NA	NA	"26. 您如何描述您平衡情绪和情感健康的能力&#xff1f;"	NA	"Q26_Emotional_Health_en"	TRUE	"2"	"非常好"	"AboveAverage"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"99"	NA	NA	"26. 您如何描述您平衡情绪和情感健康的能力&#xff1f;"	NA	"Q26_Emotional_Health_en"	TRUE	"3"	"高于平均水平"	"Average"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"99"	NA	NA	"26. 您如何描述您平衡情绪和情感健康的能力&#xff1f;"	NA	"Q26_Emotional_Health_en"	TRUE	"4"	"低于平均水平"	"BelowAverage"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"99"	NA	NA	"26. 您如何描述您平衡情绪和情感健康的能力&#xff1f;"	NA	"Q26_Emotional_Health_en"	TRUE	"5"	"非常差"	"Poor"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"101"	NA	NA	"27. 您是否有长期疾病、残疾或健康问题&#xff1f;"	NA	"Q27_Illness_en"	TRUE	"1"	"是"	"Yes"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"101"	NA	NA	"27. 您是否有长期疾病、残疾或健康问题&#xff1f;"	NA	"Q27_Illness_en"	TRUE	"2"	"否"	"No"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"103"	NA	NA	"28. 您是否有任何照顾脑病家庭成员的经验&#xff1f;"	"
+
+
+
+
+"	"Q28_BrainDisease_Care_en"	TRUE	"1"	"是"	"Yes"	FALSE	FALSE	NA	NA	NA	NA
+"simplified chinese"	"ch"	131674	"103"	NA	NA	"28. 您是否有任何照顾脑病家庭成员的经验&#xff1f;"	"
+
+
+
+
+"	"Q28_BrainDisease_Care_en"	TRUE	"2"	"否"	"No"	FALSE	FALSE	NA	NA	NA	NA

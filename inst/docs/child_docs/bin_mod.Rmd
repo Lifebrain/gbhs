@@ -1,0 +1,58 @@
+---
+output: pdf_document
+---
+
+\newpage
+
+# Question `r gsub("Q", "", q)`
+
+```{r }
+source(here::here('R/utils.R'))
+source(here::here('scripts/model-utils.R'))
+data <- fix_data(data)
+lvls <- unique(data$data$key)
+if(is.factor(data$data$key))
+  lvls <- levels(data$data$key)
+models2run <- models_2_run(lvls, wanted_formula)
+```
+
+```{r}
+data$data |> 
+  select(value, binary) |> 
+  unique() |> 
+  arrange(value) |> 
+  knitr::kable(format = "latex", 
+               booktabs = TRUE,
+               caption = paste("Data mapping of", q)
+  ) |> 
+  kableExtra::kable_styling(
+    latex_options = c("HOLD_position")
+  )
+```
+
+
+```{r}
+data <- c(data, run_models(data, models2run, q, run_ord = FALSE))
+# check_vars(data)
+models <- list(
+  binary = data$models |> 
+    unnest(bin_table) |>
+    select(-formula, -contains("table"), -contains("mod"), -data)
+)
+dr <- here::here("docs/paper1/supplementary")
+if(!dir.exists(dr)) dir.create(dr)
+openxlsx::write.xlsx(models, file = sprintf("%s/%s_mod_tables.xlsx", dr, q))
+```
+
+
+```{r results='asis'}
+invisible(
+  sapply(1:length(lvls), function(x){
+    c(
+      cat(table_title(tolower(lvls[x]))),
+      print(data$tables[[x]]),
+      cat("\\newpage")
+    ) 
+  })
+)
+```

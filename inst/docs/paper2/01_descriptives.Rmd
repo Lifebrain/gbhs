@@ -1,0 +1,442 @@
+---
+params: 
+  country: "all"
+  country_n: 7
+  chr_width: 135
+title: Lifebrain Global Brain Health Survey
+subtitle: "for country: `r params$country`"
+authors:
+  - name: Athanasia M. Mowinckel
+    department: Center for Lifespan Changes in Brain and Cognition, Dept. of Psychology
+    affiliation: University of Oslo
+    location: Oslo, Norway
+    email: a.m.mowinckel@psykologi.uio.no
+output: 
+  pdf_document:
+    toc: true
+    number_sections: true
+graphics: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, 
+                      warning = FALSE,
+                      message = FALSE,
+                      error = FALSE,
+                      fig.retina = 3,
+                      fig.width = 8,
+                      out.width = "100%")
+options(knitr.kable.NA = '-')
+
+library(patchwork)
+library(knitr)
+library(kableExtra)
+library(tidyverse) 
+library(glue)
+
+source(here::here('R/utils.R'))
+source(here::here('scripts/data-utils.R'))
+source(here::here('scripts/ggplot-utils.R'))
+
+min_resp_keep = .3
+chr_width <- 100
+```
+```{r}
+message(params$country)
+```
+
+```{r data, include=FALSE}
+load(here::here("data/cleaned/merged.rda"))
+data <- type_convert(data, col_types = cols())
+
+include_country = TRUE
+if(params$country != "all"){
+  data <- filter(data, Q19_Residence == params$country) %>% 
+    mutate(
+      region = fct_lump(Q19_Residence, params$country_n, 
+                        other_level = "Other", 
+                        ties.method = "min"),
+      region = ifelse(Q19_Residence == params$country, 
+                      params$country, 
+                      as.character(region)),
+      region = fct_infreq(region),
+      region = fct_relevel(region, "Other", after = Inf)
+    )
+  # include_country = FALSE
+}else{
+  data <- data %>% 
+    mutate(
+      region = fct_lump(Q19_Residence, params$country_n, 
+                        other_level = "Other", 
+                        ties.method = "min"),
+      region = fct_infreq(region),
+      region = fct_relevel(region, "Other", after = Inf)
+    )
+  
+  
+  data_sum <- data %>%
+    group_by(region) %>%
+    tally() %>% 
+    ungroup() %>% 
+    rbind(data.frame(region = "Total", n = sum(.$n)))
+}
+
+response_rates <- data %>% 
+  gather(name, value, -submission_id) %>% 
+  group_by(submission_id) %>% 
+  summarise(nas = sum(is.na(value)),
+            n_qs = length(value),
+            pc = nas/n_qs) %>% 
+  arrange(desc(nas))
+
+# Fix demographics categories to factors
+data <- data %>% 
+  mutate(
+    sex = fct_lump(Q20_Sex, 2, 
+                   other_level = "Other / Unknown", 
+                   ties.method = "min"),
+    gender = factor(sex, levels = c("Female", "Male")),
+    education = str_replace_all(Q21_Education_Coded, "School", "\nschool"),
+    education = fct_lump(education, 3, 
+                         other_level = "Primary\nschool"),
+    age = str_replace_all(Q18_Age, "plus", "+"), 
+    age = factor(age, ordered = TRUE)
+  ) 
+
+# data_orig <- data
+
+pc_female <- data %>% 
+  group_by(Q20_Sex) %>% 
+  tally %>% 
+  mutate(pc = percent(pc(n)))
+```
+
+\newpage
+
+# Demographic
+
+```{r}
+data %>% 
+  group_by(Q28_BrainDisease_Care, Q17_BrainResearch_Part) %>% 
+  tally() %>% 
+  mutate(col = ifelse(n<7000, "white", "black")) %>% 
+  ggplot(aes(Q28_BrainDisease_Care, Q17_BrainResearch_Part)) +
+  geom_tile(aes(fill = n)) + 
+  geom_text(aes(label = n, 
+                colour = I(col))
+  ) + 
+  labs(x = "Experience with brain disease care",
+       y = "Brain research participants",
+       title = "Cross-table of participants")
+```
+
+
+```{r q1-data}
+q1 <- data %>% 
+  select(-ends_with("dummy")) %>% 
+  pivot_longer(cols = starts_with("Q01"),
+               names_to = "key") %>% 
+  mutate(
+    key = str_wrap("Frequency of thinking about one's brains' health", 20),
+    binary = ifelse(grepl("Occasionally|Frequently", value), 1, 0),
+    continuous = as.numeric(value)
+  ) %>% 
+  filter(!is.na(value))
+
+save(q1, file = here::here("data/q1_long.rda"))
+q1 <- filter(q1, !is.na(value))
+```
+
+```{r q1-results, results = "asis"}
+child_env <- new.env()
+child_env$params <- params
+child_env$data <- q1
+child_env$q <- 1
+child_env$pattern <- "Never|Rarely"
+child_env$title <- "How often do you think about your brain health?"
+child_env$descr <- "Respondents were asked how often they thought about their brains' health on a 4-point scale."
+
+res <- knit_child(
+  here::here("docs/child_docs/ord_desc.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+```{r q7-data}
+q7 <- data %>% 
+  select(-ends_with("Spec")) %>% 
+  separate_rows(Q07_Test_Criteria, sep=";") %>% 
+  mutate(value = "yes") %>% 
+  pivot_wider(names_from = Q07_Test_Criteria,
+              names_prefix = "Q07_",
+              values_from = value,
+              values_fill = "no") %>% 
+  pivot_longer(starts_with ("Q07"),
+               names_sep = "_",
+               names_to = c(NA, "Q07_Test_Criteria"), 
+               values_to = "value") %>% 
+  filter(Q07_Test_Criteria != "NA") %>% 
+  mutate(
+    value = factor(value, levels = c("no", "yes")),
+    binary = ifelse(value == "yes", 1, 0),
+    Q07_Test_Criteria = case_when(
+      Q07_Test_Criteria == "Cheap" ~ "Affordable",
+      Q07_Test_Criteria == "Quick" ~ "Quick to take",
+      Q07_Test_Criteria == "Accurate" ~ "Accurate",
+      Q07_Test_Criteria == "NoPain" ~ "Painless",
+      Q07_Test_Criteria == "SocialSecurity" ~ str_wrap("Subsidized by social security", 10),
+      Q07_Test_Criteria == "OnlineCriteria" ~ "Offered online",
+      Q07_Test_Criteria == "OtherCriteria" ~ "Other"
+    )
+  )
+
+q7_cats <- group_by(q7, Q07_Test_Criteria, value) %>% 
+  tally() %>% 
+  filter(value == "yes") %>% 
+  arrange(n)
+
+q7 <- q7 %>% 
+  mutate( 
+    key = factor(Q07_Test_Criteria, 
+                 levels = rev(q7_cats$Q07_Test_Criteria)) 
+  )
+
+save(q7, file = here::here("data/q7_long.rda"))
+q7 <- filter(q7, !is.na(value))
+```
+
+```{r q7-results, results = "asis"}
+child_env <- new.env()
+child_env$params <- params
+child_env$data <- q7
+child_env$q <- 7
+child_env$title <- "What should a test for brain health be?"
+child_env$descr <- "Respondents were asked to imagine a test that could expose risks of developing a brain disease, much like other similar tests for heart disease. They were asked to select up to 3 criteria that were important for such a test."
+
+res <- knit_child(
+  here::here("docs/child_docs/bin_desc.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+```{r q8-data}
+q8 <- data %>% 
+  select(-ends_with("dummy")) %>% 
+  pivot_longer(cols = starts_with("Q08"),
+               names_to = "key") %>% 
+  mutate(
+    key = str_wrap("Probability of taking a brain health test", 20),
+    binary = ifelse(grepl("not", value), 0, 1),
+    continuous = as.numeric(value)
+  ) %>% 
+  filter(!is.na(value))
+
+save(q8, file = here::here("data/q8_long.rda"))
+```
+
+```{r q8-results, results = "asis"}
+child_env <- new.env()
+child_env$params <- params
+child_env$data <- q8
+child_env$q <- 8
+child_env$title   <- "Would you take a test to reveal risk of developing a brain disease?"
+child_env$pattern <- "Not"
+child_env$descr <- "Respondents were asked to imagine a test existed that could reveal the risk of developing a brain diease, and rate the probability of them taking such a test."
+
+res <- knit_child(
+  here::here("docs/child_docs/ord_desc.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+
+```{r q9a-data}
+q9a <- data %>% 
+  select(-ends_with("Spec")) %>% 
+  separate_rows(Q09a_Test_Reason, sep=";") %>% 
+  mutate(value = "yes") %>% 
+  pivot_wider(names_from = Q09a_Test_Reason,
+              names_prefix = "Q09a_",
+              values_from = value,
+              values_fill = "no") %>% 
+  pivot_longer(starts_with ("Q09a"),
+               names_sep = "_",
+               names_to = c(NA, "Q09a_Test_Reason"), 
+               values_to = "value") %>% 
+  filter(Q09a_Test_Reason != "NA") %>% 
+  mutate(
+    value = factor(value, levels = c("no", "yes")),
+    binary = ifelse(value == "yes", 1, 0)
+  )
+
+q9a_cats <- group_by(q9a, Q09a_Test_Reason, value) %>% 
+  tally() %>% 
+  filter(value == "yes") %>% 
+  arrange(n)
+
+q9a <- q9a %>% 
+  mutate( 
+    key = factor(Q09a_Test_Reason, 
+                 levels = rev(q9a_cats$Q09a_Test_Reason)) 
+  )
+
+save(q9a, file = here::here("data/q9a_long.rda"))
+q9a <- filter(q9a, !is.na(value))
+```
+
+```{r q9a-results, results = "asis"}
+child_env <- new.env()
+child_env$params <- params
+child_env$data <- q9a
+child_env$q <- "9a"
+child_env$title   <- "Why would you take a brain health test?"
+child_env$pattern <- "yes"
+child_env$descr <- "Respondents were asked select up to the two most important reasons to take a brain health test."
+
+res <- knit_child(
+  here::here("docs/child_docs/bin_desc.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+
+```{r q9b-data}
+q9b <- data %>% 
+  select(-ends_with("dummy")) %>% 
+  pivot_longer(cols = starts_with("Q09b"),
+               names_to = "key") %>% 
+  mutate(
+    key = str_wrap("Probability of taking a brain health test even if no treatment is available", 20),
+    binary = ifelse(grepl("not", value, ignore.case = TRUE), 0, 1),
+    continuous = as.numeric(value)
+  ) %>% 
+  filter(!is.na(value))
+
+save(q9b, file = here::here("data/q9b_long.rda"))
+q9b <- filter(q9b, !is.na(value)) 
+
+```
+
+```{r q9b-results, results = "asis"}
+child_env <- new.env()
+child_env$params <- params
+child_env$data <- q9b
+child_env$q <- "9b"
+child_env$title <- "Would you take a test even if it provides information about a disease that cannot be prevented or treated?"
+child_env$pattern <- "Not"
+child_env$descr <- "Respondents were asked to imagine a test existed that could reveal the risk of developing a brain diease that could not be treated or precented, and indicate whether they would take such a test."
+
+res <- knit_child(
+  here::here("docs/child_docs/ord_desc.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+```{r q9c-data}
+q9c <- data %>% 
+  filter(grepl("not", Q08_Take_Test)) %>% 
+  select(-ends_with("Spec")) %>% 
+  separate_rows(Q09c_No_Test, sep=";") %>% 
+  mutate(value = "yes") %>% 
+  pivot_wider(names_from = Q09c_No_Test,
+              names_prefix = "Q09c_",
+              values_from = value,
+              values_fill = "no") %>% 
+  pivot_longer(starts_with ("Q09c"),
+               names_sep = "_",
+               names_to = c(NA, "Q09c_No_Test"), 
+               values_to = "value") %>% 
+  filter(Q09c_No_Test != "NA") %>% 
+  mutate(
+    value = factor(value, levels = c("no", "yes")),
+    binary = ifelse(value == "yes", 1, 0)
+  )
+
+q9c_cats <- group_by(q9c, Q09c_No_Test, value) %>% 
+  tally() %>% 
+  filter(value == "yes") %>% 
+  arrange(n)
+
+q9c <- q9c %>% 
+  mutate( 
+    key = factor(Q09c_No_Test, 
+                 levels = rev(q9c_cats$Q09c_No_Test)) 
+  )
+
+save(q9c, file = here::here("data/q9c_long.rda"))
+q9c <- filter(q9c, !is.na(value))
+```
+
+```{r q9c-results, results = "asis"}
+child_env <- new.env()
+child_env$params <- params
+child_env$data <- q9c
+child_env$q <- "9c"
+child_env$title   <- "Why would you NOT take a brain health test?"
+child_env$pattern <- "yes"
+child_env$descr <- "Respondents who answered they would not take a test, were asked select up to the two most important reasons to not take a brain health test."
+
+res <- knit_child(
+  here::here("docs/child_docs/bin_desc.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+
+```{r q10-data}
+q10 <- data %>% 
+  select(-ends_with("Spec"), -ends_with("dummy")) %>% 
+  pivot_longer(cols = starts_with("Q10"),
+               names_to = "key") %>% 
+  mutate(
+    key = case_when(
+      key == "Q10_FamilyFriends" ~ "seek advice from family and friends",
+      key == "Q10_Library" ~ "seek information online/at the library",
+      grepl("Lifestyle", key) ~ "change my lifestyle",
+      key == "Q10_Plan" ~ "plan for the future",
+      key == "Q10_ProfessHelp" ~ "seek professional help"
+    ),
+    key = str_wrap(key, 15),
+    binary = ifelse(grepl("Definitely$|Likely$", value), 1, 0),
+    continuous = as.numeric(value)
+  ) %>% 
+  filter(!is.na(value))
+
+save(q10, file = here::here("data/q10_long.rda"))
+q10 <- filter(q10, !is.na(value))
+
+title   <- "How often do you think about your brain health?"
+pattern <- "not$$|^Unlikely"
+descr <- "Respondents were asked to image they would undergo a brain health test, and that it showed a risk for disease. They were asked to indicate what actions they were likely to take."
+```
+
+
+```{r q10-results, results = "asis"}
+child_env <- new.env()
+child_env$params <- params
+child_env$data <- q10
+child_env$q <- "10"
+child_env$title   <- "How often do you think about your brain health?"
+child_env$pattern <- "not$$|^Unlikely"
+child_env$descr <- "Respondents were asked to image they would undergo a brain health test, and that it showed a risk for disease. They were asked to indicate what actions they were likely to take."
+
+res <- knit_child(
+  here::here("docs/child_docs/ord_desc.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
