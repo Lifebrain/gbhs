@@ -7,13 +7,11 @@
 #' @docType data
 #' @name gbhs
 #' @usage data(gbhs)
-#'
+#' @keywords datasets
 #' @references  Budin-Ljøsne I, Friedman BB, Suri S, Solé-Padullés C, Düzel S, Drevon CA, Baaré WFC, Mowinckel AM, Zsoldos E, Madsen KS, Carver RB, Ghisletta P, Arnesen MR, Bartrés Faz D, Brandmaier AM, Fjell AM, Kvalbein A, Henson RN, Kievit RA, Nawijn L, Pochet R, Schnitzler A, Walhovd KB and Zasiekina L (2020) The Global Brain Health Survey: Development of a Multi-Language Survey of Public Views on Brain Health. Front. Public Health 8:387. doi: 10.3389/fpubh.2020.00387
 #' (\href{https://doi.org/10.3389/fpubh.2020.00387}{DOI})
 #'
 #' @return A data.frame with all responses
-#'
 #' @examples
 #' data(gbhs)
-#' gbhs
 "gbhs"
