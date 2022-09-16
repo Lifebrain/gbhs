@@ -10,8 +10,9 @@ banner](./inst/img/lifebrain-banner-1771x417-72px.jpeg)
 
 [![License: CC-BY
 4.0](https://img.shields.io/badge/license-CC--BY%204.0-blue.svg)](https://cran.r-project.org/web/licenses/CC-BY%204.0)
-[![](https://img.shields.io/github/languages/code-size/lifebrain/gbhs.svg)](https://github.com/lifebrain/gbhs)
+[![](https://img.shields.io/github/languages/code-size/lifebrain/gbhs.svg)](https://github.com/Lifebrain/gbhs)
 [![](https://img.shields.io/badge/doi-10.3389/fpubh.2020.00387-green.svg)](https://doi.org/10.3389/fpubh.2020.00387)
+[![R-CMD-check](https://github.com/Lifebrain/gbhs/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Lifebrain/gbhs/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 Between June 2019 and August 2020, Lifebrain conducted the Global Brain
@@ -32,9 +33,9 @@ Lifebrain global health survey paper.
 
 You are free:
 
-*To share:* To copy, distribute and use the database. *To create:* To
-produce works from the database. *To adapt:* To modify, transform and
-build upon the database.
+*To share:* To copy, distribute and use the database.  
+*To create:* To produce works from the database.  
+*To adapt:* To modify, transform and build upon the database.
 
 As long as you:
 

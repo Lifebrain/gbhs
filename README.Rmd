@@ -19,6 +19,7 @@ knitr::opts_chunk$set(
 [![License: CC-BY 4.0](https://img.shields.io/badge/license-CC--BY 4.0-blue.svg)](https://cran.r-project.org/web/licenses/CC-BY 4.0)
 [![](https://img.shields.io/github/languages/code-size/lifebrain/gbhs.svg)](https://github.com/Lifebrain/gbhs)
 [![](https://img.shields.io/badge/doi-10.3389/fpubh.2020.00387-green.svg)](https://doi.org/10.3389/fpubh.2020.00387)
+[![R-CMD-check](https://github.com/Lifebrain/gbhs/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Lifebrain/gbhs/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 Between June 2019 and August 2020, Lifebrain conducted the Global Brain Health Survey to collect data on people’s perceptions of brain health and willingness to take care of their brain by adopting new lifestyles. The survey was conducted online and translated into 14 languages to reach as many people as possible. In total, it collected 27,590 responses from people in 81 countries.
@@ -31,9 +32,9 @@ This repository contains all materials and data for the original Lifebrain globa
 ## Creative Commons license BY (CC-By) Summary
 You are free:
 
-_To share:_ To copy, distribute and use the database.
-_To create:_ To produce works from the database.
-_To adapt:_ To modify, transform and build upon the database.
+_To share:_ To copy, distribute and use the database.  
+_To create:_ To produce works from the database.  
+_To adapt:_ To modify, transform and build upon the database.  
 
 As long as you:
 
