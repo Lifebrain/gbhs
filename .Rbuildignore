@@ -6,3 +6,6 @@ data-raw
 CITATION.cff
 ^LICENSE\.md$
 ^\.github$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$

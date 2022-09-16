@@ -41,6 +41,7 @@ Suggests:
     openxlsx,
     readr
 Config/testthat/edition: 3
-URL: https://github.com/Lifebrain/gbhs
+URL: https://github.com/Lifebrain/gbhs,
+    https://lifebrain.github.io/gbhs/
 BugReports: https://github.com/Lifebrain/gbhs/issues
 VignetteBuilder: knitr
