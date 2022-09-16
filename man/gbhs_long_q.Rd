@@ -34,6 +34,7 @@ increased, and the "submission_id" column denotes
 the individual respondent.
 }
 \examples{
+data(gbhs)
 gbhs_long_q(2, gbhs)
 gbhs_long_q(4, gbhs)
 }

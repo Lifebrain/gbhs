@@ -1,0 +1,56 @@
+---
+title: "Lifebrain Global health survey"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{gbhs}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+Between June 2019 and August 2020, Lifebrain conducted the Global Brain Health Survey to collect data on people’s perceptions of brain health and willingness to take care of their brain by adopting new lifestyles. The survey was conducted online and translated into 14 languages to reach as many people as possible. In total, it collected 27,590 responses from people in 81 countries.
+
+Please read more about the survey, its publications and the collaborators we worked with on [the Lifebrain webpates](https://www.lifebrain.uio.no/global-brain-health-survey/).
+
+This package contains the cleaned data from this survey, along with tools to access the raw data, and scripts used to create reports for publication. 
+
+## Accessing and working with the data
+
+The data can be loaded as most R users would be used to loading built-in package data.
+When the package is installed, you can call the `gbhs` object, and view the data.
+
+```{r setup}
+library(gbhs)
+gbhs
+```
+
+The data has mainly been prepared with the [tidyverse]() collection of packages, and as such, we will continue showcasing a couple of things that you could do with the data.
+
+```{r}
+library(dplyr)
+
+# Have only answers from Norway
+gbhs |> 
+  filter(q19_residence == "Norway")
+
+# Have only answers from Norway
+# And key variables + question 2
+gbhs |> 
+  filter(q19_residence == "Norway") |> 
+  select(1:3, starts_with("q02"))
+```
+
+```{r fig.height=12}
+library(ggplot2)
+gbhs |> 
+  ggplot(aes(y = q19_residence, group = q18_age, fill = q18_age)) +
+  geom_bar() +
+  theme_minimal()
+```
+

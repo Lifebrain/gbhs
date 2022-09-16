@@ -3,7 +3,6 @@
 #' Between June 2019 and August 2020, Lifebrain conducted the Global Brain Health Survey to collect data on people’s perceptions of brain health and willingness to take care of their brain by adopting new lifestyles. 
 #' The survey was conducted online and translated into 14 languages to reach as many people as possible. 
 #' In total, it collected 27,590 responses from people in 81 countries.
-#' For a complete list of meta-data, please chec
 #'
 #' @docType data
 #' @name gbhs
@@ -16,4 +15,5 @@
 #'
 #' @examples
 #' data(gbhs)
+#' gbhs
 "gbhs"

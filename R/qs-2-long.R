@@ -25,6 +25,7 @@
 #' @export
 #'
 #' @examples
+#' data(gbhs)
 #' gbhs_long_q(2, gbhs)
 #' gbhs_long_q(4, gbhs)
 gbhs_long_q <- function(question, data = gbhs){
