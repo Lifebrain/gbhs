@@ -1,0 +1,107 @@
+---
+title: "Lifebrain Global Brain Health Survey\nSupplementary material 3"
+subtitle: "Odds ratios and 99% confidence intervals across all demographic characteristics"
+output: 
+  pdf_document:
+    toc: true
+    number_sections: true
+    keep_tex: true
+  word_document:
+    toc: true
+graphics: yes
+link-citations: true
+params:
+  comparison: FALSE
+  data: gbhs::gbhs
+always_allow_html: true
+---
+
+```{r setup, include = FALSE}
+library(knitr)
+library(kableExtra)
+library(tidyverse)
+library(gbhs)
+pkgconfig::set_config("tibble::rownames" = NA) 
+
+opts_chunk$set(
+  echo = FALSE, 
+  warning = FALSE,
+  message = FALSE,
+  error = FALSE,
+  fig.retina = 3,
+  fig.width = 8,
+  out.width = "100%"
+)
+options(knitr.kable.NA = '')
+set.seed(4455)
+source(gbhs_path_utilities("data-utils.R"))
+source(gbhs_path_utilities("model-utils.R"))
+source(gbhs_path_utilities("ggplot-utils.R"))
+data <- get_data(params$data)
+
+wanted_formula <- c(wanted_formula, "gender c. age & edu" = ~ 1 + gender + age + education)
+```
+
+
+```{r q2-results, results='asis'}
+child_env <- new.env()
+child_env$data <- data
+child_env$q <- "2"
+child_env$wanted_formula <- wanted_formula
+child_env$table_title <- function(x) sprintf("\n## In your opinion, does _%s_ have an influence on brain health?\n", x)
+
+res <- knit_child(
+  gbhs_path_child("ord_mod.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+
+```{r q3-data, results='asis'}
+child_env <- new.env()
+child_env$data <- data
+child_env$q <- "3"
+child_env$wanted_formula <- wanted_formula
+child_env$table_title <- function(x) sprintf("\n## In your opinion, is it important to look after one’s brain in _%s_?\n", x)
+
+res <- knit_child(
+  gbhs_path_child("ord_mod.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+```{r q4-data, results='asis'}
+child_env <- new.env()
+child_env$data <- data
+child_env$q <- "4"
+child_env$wanted_formula <- wanted_formula
+child_env$table_title <- function(x) sprintf("\n## I associate _%s_ with the brain.\n", x)
+
+res <- knit_child(
+  gbhs_path_child("bin_mod.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+
+```{r, include=!params$comparison}
+models <- list.files("supplementary", pattern = "^Q", full.names = TRUE)
+models_dt <- lapply(models, function(x){
+  sheets <- openxlsx::getSheetNames(x)
+  sh <- lapply(sheets, function(z){
+    openxlsx::read.xlsx(x, z)
+  })
+  names(sh) <- paste(tolower(gsub("_mod_tables\\.xlsx", "", basename(x))), sheets, sep="_")
+  sh
+})
+models_dt <- unlist(models_dt, recursive = FALSE)
+openxlsx::write.xlsx(models_dt, file = "si_all_models.xlsx")
+```
+
+

@@ -1,0 +1,167 @@
+---
+title: Lifebrain Global Brain Health Survey
+authors:
+  - name: Athanasia M. Mowinckel
+    department: Center for Lifespan Changes in Brain and Cognition, Dept. of Psychology
+    affiliation: University of Oslo
+    location: Oslo, Norway
+    email: a.m.mowinckel@psykologi.uio.no
+output: 
+  pdf_document:
+    toc: true
+    number_sections: true
+graphics: yes
+bibliography: references.bib
+link-citations: true
+params:
+  comparison: FALSE
+  data: gbhs::gbhs
+always_allow_html: true
+---
+
+```{r setup, include = FALSE}
+library(knitr)
+library(kableExtra)
+library(tidyverse)
+library(gbhs)
+pkgconfig::set_config("tibble::rownames" = NA) 
+
+opts_chunk$set(
+  echo = FALSE, 
+  warning = FALSE,
+  message = FALSE,
+  error = FALSE,
+  fig.retina = 3,
+  fig.width = 8,
+  out.width = "100%"
+)
+options(knitr.kable.NA = '')
+set.seed(4455)
+source(gbhs_path_utilities("data-utils.R"))
+source(gbhs_path_utilities("model-utils.R"))
+source(gbhs_path_utilities("ggplot-utils.R"))
+data <- get_data(params$data)
+```
+
+
+```{r q1-results, results='asis'}
+child_env <- new.env()
+child_env$data <- data
+child_env$q <- "1"
+child_env$wanted_formula <- wanted_formula
+child_env$table_title <- function(x) "\n## How often do you think about your brain's health?\n"
+
+res <- knit_child(
+  gbhs_path_child("ord_mod.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+```{r q7-results, results='asis'}
+child_env <- new.env()
+child_env$data <- data
+child_env$q <- "7"
+child_env$wanted_formula <- wanted_formula
+child_env$table_title <- function(x) sprintf("\n## A brain health test should be _%s_\n", x)
+
+res <- knit_child(
+  gbhs_path_child("bin_mod.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+```{r q8-results, results='asis'}
+child_env <- new.env()
+child_env$data <- data
+child_env$q <- "8"
+child_env$wanted_formula <- wanted_formula
+child_env$table_title <- function(x) "\n## Probability of taking a brain health test\n"
+
+res <- knit_child(
+  gbhs_path_child("ord_mod.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+
+```{r q9a-results, results='asis'}
+child_env <- new.env()
+child_env$data <- data
+child_env$q <- "9a"
+child_env$wanted_formula <- wanted_formula
+child_env$table_title <- function(x) sprintf("\n## I would take a brain health test to _%s_\n", x)
+
+res <- knit_child(
+  gbhs_path_child("bin_mod.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+
+```{r q9b-results, results='asis'}
+child_env <- new.env()
+child_env$data <- data
+child_env$q <- "9b"
+child_env$wanted_formula <- wanted_formula
+child_env$table_title <- function(x) sprintf("\n## Would you take a brain health test even if it provides information about a disease that cannot be prevented or treated?\n")
+
+res <- knit_child(
+  gbhs_path_child("ord_mod.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+```{r q9c-results, results='asis'}
+child_env <- new.env()
+child_env$data <- data
+child_env$q <- "9c"
+child_env$wanted_formula <- wanted_formula
+child_env$table_title <- function(x) sprintf("\n## I would **not** take a test because _%s_\n", x)
+
+res <- knit_child(
+  gbhs_path_child("bin_mod.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+```{r q10-results, results='asis'}
+child_env <- new.env()
+child_env$data <- data
+child_env$q <- "10"
+child_env$wanted_formula <- wanted_formula
+child_env$table_title <- function(x) sprintf("\n## If I were at risk, I would _%s_\n", gsub("\\n", " ", x))
+
+res <- knit_child(
+  gbhs_path_child("ord_mod.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+```{r, include=!params$comparison}
+models <- list.files("supplementary", pattern = "^Q", full.names = TRUE)
+models_dt <- lapply(models, function(x){
+  sheets <- openxlsx::getSheetNames(x)
+  sh <- lapply(sheets, function(z){
+    openxlsx::read.xlsx(x, z)
+  })
+  names(sh) <- paste(tolower(gsub("_mod_tables\\.xlsx", "", basename(x))), sheets, sep="_")
+  sh
+})
+models_dt <- unlist(models_dt, recursive = FALSE)
+openxlsx::write.xlsx(models_dt, file = "si_all_models.xlsx")
+```
+

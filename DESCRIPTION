@@ -1,0 +1,43 @@
+Package: gbhs
+Title: Lifebrain Global Brain Health Survey Data
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Athanasia Mo", "Mowinckel", 
+            email = "a.m.mowinckel@psykologi.uio.no", 
+            role = c("aut", "cre"),
+            comment = c(ORCID = "0000-0002-5756-0223"))
+            )
+Description: Between June 2019 and August 2020, Lifebrain conducted the 
+    Global Brain Health Survey to collect data on people’s perceptions of 
+    brain health and willingness to take care of their brain by adopting 
+    new lifestyles. The survey was conducted online and translated into 
+    14 languages to reach as many people as possible. In total, it 
+    collected 27,590 responses from people in 81 countries. This package
+    contains code and data from this survey.
+License: CC BY 4.0 + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
+LazyData: true
+LazyDataCompression: xz
+Imports:
+    scales,
+    tibble,
+    stringr,
+    rmarkdown,
+    dplyr (>= 1.0.0),
+    tidyr (>= 1.0.0)
+Depends: 
+    R (>= 3.5.0)
+Suggests: 
+    testthat (>= 3.0.0),
+    broom,
+    ggplot2 (>= 3.3),
+    glue,
+    here,
+    jsonlite,
+    knitr,
+    nettskjemar,
+    openxlsx,
+    readr
+Config/testthat/edition: 3

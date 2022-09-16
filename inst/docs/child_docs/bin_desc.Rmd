@@ -3,6 +3,7 @@ output: pdf_document
 ---
 
 ```{r, include=FALSE}
+data <- gbhs_long_q(q, data)
 l <- length(unique(data$key))
 base_fig_height <- 3
 if(l > base_fig_height)
@@ -61,7 +62,7 @@ ggbar(data, education) +
 
 ## Country
 
-```{r , fig.height=base_fig_height, eval = include_country}
+```{r , fig.height=base_fig_height*1.8, eval = include_country}
 ggbar(data, region) +
   plot_annotation(
     title = title,
@@ -76,7 +77,7 @@ ggbar(data, region) +
 ## Health care experience/education
 
 ```{r , fig.height=base_fig_height+2}
-ggbar(data, Q24_Exp_HealthCare) +
+ggbar(data, q24_exp_health_care) +
   plot_annotation(
     title = title,
     subtitle = "by reported education or work experience in health care”",
@@ -88,7 +89,7 @@ ggbar(data, Q24_Exp_HealthCare) +
 ## Cognitive health
 
 ```{r , fig.height=base_fig_height+2}
-ggbar(data, Q25_Cognitive_Health) +
+ggbar(data, q25_cognitive_health) +
   plot_annotation(
     title = title,
     subtitle = "by self-rated cognitive health",
@@ -101,7 +102,7 @@ ggbar(data, Q25_Cognitive_Health) +
 ## Mental health
 
 ```{r , fig.height=base_fig_height+2}
-ggbar(data, Q26_Emotional_Health) +
+ggbar(data, q26_emotional_health) +
   plot_annotation(
     title = title,
     subtitle = "by self-rated mental health",
@@ -112,7 +113,7 @@ ggbar(data, Q26_Emotional_Health) +
 
 ## Illness
 ```{r , fig.height=base_fig_height+2}
-ggbar(data, Q27_Illness) +
+ggbar(data, q27_illness) +
   plot_annotation(
     title = title,
     subtitle = "by experience of long-standing illness, disability or health problem",
@@ -124,7 +125,7 @@ ggbar(data, Q27_Illness) +
 ## Brain disease care
 
 ```{r , fig.height=base_fig_height+2}
-ggbar(data, Q28_BrainDisease_Care) +
+ggbar(data, q28_brain_disease_care) +
   plot_annotation(
     title = "Ratings of factors influencing brain health",
     subtitle = "by experience of taking care of family member with brain disease",
@@ -136,7 +137,7 @@ ggbar(data, Q28_BrainDisease_Care) +
 ## Research participation
 
 ```{r , fig.height=base_fig_height+2}
-ggbar(data, Q17_BrainResearch_Part) +
+ggbar(data, q17_brain_research_part) +
   plot_annotation(
     title = "Ratings of factors influencing brain health",
     subtitle = "By experience of brain research participation",

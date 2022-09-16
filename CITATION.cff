@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: Please cite the following works when using this software.
+title: 'The Global Brain Health Survey: Development of a Multi-Language Survey of
+  Public Views on Brain Health'
+authors:
+- family-names: Budin-Ljosne
+  given-names: Isabelle
+- family-names: Friedman
+  given-names: Barbara Bodorkos
+- family-names: Suri
+  given-names: Sana
+- family-names: Solé-Padullés
+  given-names: Cristina
+- family-names: Düzel
+  given-names: Sandra
+- family-names: Drevon
+  given-names: Christian A.
+- family-names: Baaré
+  given-names: William F. C.
+- family-names: Mowinckel
+  given-names: Athanasia Monika
+- family-names: Zsoldos
+  given-names: Enikő
+- family-names: Madsen
+  given-names: Kathrine Skak
+- family-names: Carver
+  given-names: Rebecca Bruu
+- family-names: Ghisletta
+  given-names: Paolo
+- family-names: Arnesen
+  given-names: Mari R.
+- family-names: Faz
+  given-names: David Bartrés
+- family-names: Brandmaier
+  given-names: Andreas M.
+- family-names: Fjell
+  given-names: Anders Martin
+- family-names: Kvalbein
+  given-names: Aud
+- family-names: Henson
+  given-names: Richard N.
+- family-names: Kievit
+  given-names: Rogier A.
+- family-names: Nawijn
+  given-names: Laura
+- family-names: Pochet
+  given-names: Roland
+- family-names: Schnitzler
+  given-names: Alfons
+- family-names: Walhovd
+  given-names: Kristine B.
+- family-names: Zasiekina
+  given-names: Larysa
+doi: 10.3389/fpubh.2020.00387
+url: https://doi.org/10.3389/fpubh.2020.00387

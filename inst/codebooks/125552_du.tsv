@@ -1,0 +1,627 @@
+"language"	"suffix"	"form_id"	"element_no"	"img_url"	"img_text"	"question"	"question_descr"	"question_codebook"	"question_mandatory"	"answer_order"	"answer_option"	"answer_codebook"	"answer_preselected"	"answer_correct"	"question_order"	"max_selected"	"question_preselected"	"question_rangemarks"
+"dutch"	"du"	125552	"1"	"https://www.lifebrain.uio.no/26.05.20-lifebrain-banner-1771x417.jpg"	"Lifebrain logo"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"dutch"	"du"	125552	"4"	NA	NA	NA	"Vink het vakje aan.
+"	"Consent_Form_en"	TRUE	"1"	"Ik ben 18 jaar of ouder, en ik geef toestemming voor het gebruik van deze gegevens voor onderzoek"	"Consent_Yes_en"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"9"	NA	NA	NA	"Selecteer één optie.
+"	"Q01_Think_Brain_Frequency_en"	FALSE	"1"	"Vaak"	"Frequently"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"9"	NA	NA	NA	"Selecteer één optie.
+"	"Q01_Think_Brain_Frequency_en"	FALSE	"2"	"Af en toe"	"Occasionally"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"9"	NA	NA	NA	"Selecteer één optie.
+"	"Q01_Think_Brain_Frequency_en"	FALSE	"3"	"Zelden"	"Rarely"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"9"	NA	NA	NA	"Selecteer één optie.
+"	"Q01_Think_Brain_Frequency_en"	FALSE	"4"	"Nooit"	"Never"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Fysieke gezondheid"	NA	"Q02_PhyHealthInfl_en"	FALSE	"1"	"Zeer sterke invloed"	"VeryStrong"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Fysieke gezondheid"	NA	"Q02_PhyHealthInfl_en"	FALSE	"2"	"Sterke invloed"	"Strong"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Fysieke gezondheid"	NA	"Q02_PhyHealthInfl_en"	FALSE	"3"	"Matige invloed"	"Moderate"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Fysieke gezondheid"	NA	"Q02_PhyHealthInfl_en"	FALSE	"4"	"Weinig invloed"	"Weak"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Fysieke gezondheid"	NA	"Q02_PhyHealthInfl_en"	FALSE	"5"	"Geen invloed"	"NoInfluence"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Dieet"	NA	"Q02_DietInfl_en"	FALSE	"1"	"Zeer sterke invloed"	"VeryStrong"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Dieet"	NA	"Q02_DietInfl_en"	FALSE	"2"	"Sterke invloed"	"Strong"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Dieet"	NA	"Q02_DietInfl_en"	FALSE	"3"	"Matige invloed"	"Moderate"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Dieet"	NA	"Q02_DietInfl_en"	FALSE	"4"	"Weinig invloed"	"Weak"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Dieet"	NA	"Q02_DietInfl_en"	FALSE	"5"	"Geen invloed"	"NoInfluence"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Fysieke omgeving (bijvoorbeeld luchtverontreiniging, lawaai)"	NA	"Q02_PhyEnvironmentInfl_en"	FALSE	"1"	"Zeer sterke invloed"	"VeryStrong"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Fysieke omgeving (bijvoorbeeld luchtverontreiniging, lawaai)"	NA	"Q02_PhyEnvironmentInfl_en"	FALSE	"2"	"Sterke invloed"	"Strong"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Fysieke omgeving (bijvoorbeeld luchtverontreiniging, lawaai)"	NA	"Q02_PhyEnvironmentInfl_en"	FALSE	"3"	"Matige invloed"	"Moderate"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Fysieke omgeving (bijvoorbeeld luchtverontreiniging, lawaai)"	NA	"Q02_PhyEnvironmentInfl_en"	FALSE	"4"	"Weinig invloed"	"Weak"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Fysieke omgeving (bijvoorbeeld luchtverontreiniging, lawaai)"	NA	"Q02_PhyEnvironmentInfl_en"	FALSE	"5"	"Geen invloed"	"NoInfluence"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Sociale omgeving (bijvoorbeeld familie, sociaal netwerk)"	NA	"Q02_SocEnvironmentInfl_en"	FALSE	"1"	"Zeer sterke invloed"	"VeryStrong"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Sociale omgeving (bijvoorbeeld familie, sociaal netwerk)"	NA	"Q02_SocEnvironmentInfl_en"	FALSE	"2"	"Sterke invloed"	"Strong"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Sociale omgeving (bijvoorbeeld familie, sociaal netwerk)"	NA	"Q02_SocEnvironmentInfl_en"	FALSE	"3"	"Matige invloed"	"Moderate"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Sociale omgeving (bijvoorbeeld familie, sociaal netwerk)"	NA	"Q02_SocEnvironmentInfl_en"	FALSE	"4"	"Weinig invloed"	"Weak"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Sociale omgeving (bijvoorbeeld familie, sociaal netwerk)"	NA	"Q02_SocEnvironmentInfl_en"	FALSE	"5"	"Geen invloed"	"NoInfluence"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Opleiding"	NA	"Q02_EducationInfl_en"	FALSE	"1"	"Zeer sterke invloed"	"VeryStrong"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Opleiding"	NA	"Q02_EducationInfl_en"	FALSE	"2"	"Sterke invloed"	"Strong"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Opleiding"	NA	"Q02_EducationInfl_en"	FALSE	"3"	"Matige invloed"	"Moderate"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Opleiding"	NA	"Q02_EducationInfl_en"	FALSE	"4"	"Weinig invloed"	"Weak"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Opleiding"	NA	"Q02_EducationInfl_en"	FALSE	"5"	"Geen invloed"	"NoInfluence"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Beroep"	NA	"Q02_ProfessionInfl_en"	FALSE	"1"	"Zeer sterke invloed"	"VeryStrong"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Beroep"	NA	"Q02_ProfessionInfl_en"	FALSE	"2"	"Sterke invloed"	"Strong"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Beroep"	NA	"Q02_ProfessionInfl_en"	FALSE	"3"	"Matige invloed"	"Moderate"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Beroep"	NA	"Q02_ProfessionInfl_en"	FALSE	"4"	"Weinig invloed"	"Weak"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Beroep"	NA	"Q02_ProfessionInfl_en"	FALSE	"5"	"Geen invloed"	"NoInfluence"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Gezinsinkomen"	NA	"Q02_IncomeInfl_en"	FALSE	"1"	"Zeer sterke invloed"	"VeryStrong"	FALSE	FALSE	7	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Gezinsinkomen"	NA	"Q02_IncomeInfl_en"	FALSE	"2"	"Sterke invloed"	"Strong"	FALSE	FALSE	7	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Gezinsinkomen"	NA	"Q02_IncomeInfl_en"	FALSE	"3"	"Matige invloed"	"Moderate"	FALSE	FALSE	7	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Gezinsinkomen"	NA	"Q02_IncomeInfl_en"	FALSE	"4"	"Weinig invloed"	"Weak"	FALSE	FALSE	7	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Gezinsinkomen"	NA	"Q02_IncomeInfl_en"	FALSE	"5"	"Geen invloed"	"NoInfluence"	FALSE	FALSE	7	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Genetica en familiaire medische voorgeschiedenis"	NA	"Q02_GeneticsInfl_en"	FALSE	"1"	"Zeer sterke invloed"	"VeryStrong"	FALSE	FALSE	8	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Genetica en familiaire medische voorgeschiedenis"	NA	"Q02_GeneticsInfl_en"	FALSE	"2"	"Sterke invloed"	"Strong"	FALSE	FALSE	8	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Genetica en familiaire medische voorgeschiedenis"	NA	"Q02_GeneticsInfl_en"	FALSE	"3"	"Matige invloed"	"Moderate"	FALSE	FALSE	8	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Genetica en familiaire medische voorgeschiedenis"	NA	"Q02_GeneticsInfl_en"	FALSE	"4"	"Weinig invloed"	"Weak"	FALSE	FALSE	8	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Genetica en familiaire medische voorgeschiedenis"	NA	"Q02_GeneticsInfl_en"	FALSE	"5"	"Geen invloed"	"NoInfluence"	FALSE	FALSE	8	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Middelengebruik (bijvoorbeeld alcohol, roken, drugs)"	NA	"Q02_SubstanceInfl_en"	FALSE	"1"	"Zeer sterke invloed"	"VeryStrong"	FALSE	FALSE	9	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Middelengebruik (bijvoorbeeld alcohol, roken, drugs)"	NA	"Q02_SubstanceInfl_en"	FALSE	"2"	"Sterke invloed"	"Strong"	FALSE	FALSE	9	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Middelengebruik (bijvoorbeeld alcohol, roken, drugs)"	NA	"Q02_SubstanceInfl_en"	FALSE	"3"	"Matige invloed"	"Moderate"	FALSE	FALSE	9	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Middelengebruik (bijvoorbeeld alcohol, roken, drugs)"	NA	"Q02_SubstanceInfl_en"	FALSE	"4"	"Weinig invloed"	"Weak"	FALSE	FALSE	9	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Middelengebruik (bijvoorbeeld alcohol, roken, drugs)"	NA	"Q02_SubstanceInfl_en"	FALSE	"5"	"Geen invloed"	"NoInfluence"	FALSE	FALSE	9	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Slaapgewoonten"	NA	"Q02_SleepHabitsInfl_en"	FALSE	"1"	"Zeer sterke invloed"	"VeryStrong"	FALSE	FALSE	10	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Slaapgewoonten"	NA	"Q02_SleepHabitsInfl_en"	FALSE	"2"	"Sterke invloed"	"Strong"	FALSE	FALSE	10	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Slaapgewoonten"	NA	"Q02_SleepHabitsInfl_en"	FALSE	"3"	"Matige invloed"	"Moderate"	FALSE	FALSE	10	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Slaapgewoonten"	NA	"Q02_SleepHabitsInfl_en"	FALSE	"4"	"Weinig invloed"	"Weak"	FALSE	FALSE	10	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Slaapgewoonten"	NA	"Q02_SleepHabitsInfl_en"	FALSE	"5"	"Geen invloed"	"NoInfluence"	FALSE	FALSE	10	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Doelen hebben die het leven zinvol maken"	NA	"Q02_LifeGoalsInfl_en"	FALSE	"1"	"Zeer sterke invloed"	"VeryStrong"	FALSE	FALSE	11	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Doelen hebben die het leven zinvol maken"	NA	"Q02_LifeGoalsInfl_en"	FALSE	"2"	"Sterke invloed"	"Strong"	FALSE	FALSE	11	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Doelen hebben die het leven zinvol maken"	NA	"Q02_LifeGoalsInfl_en"	FALSE	"3"	"Matige invloed"	"Moderate"	FALSE	FALSE	11	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Doelen hebben die het leven zinvol maken"	NA	"Q02_LifeGoalsInfl_en"	FALSE	"4"	"Weinig invloed"	"Weak"	FALSE	FALSE	11	NA	NA	NA
+"dutch"	"du"	125552	"12"	NA	NA	"Doelen hebben die het leven zinvol maken"	NA	"Q02_LifeGoalsInfl_en"	FALSE	"5"	"Geen invloed"	"NoInfluence"	FALSE	FALSE	11	NA	NA	NA
+"dutch"	"du"	125552	"15"	NA	NA	"In de baarmoeder (voor de geboorte)"	NA	"Q03_Womb_en"	FALSE	"1"	"Heel belangrijk"	"VeryImportant"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"15"	NA	NA	"In de baarmoeder (voor de geboorte)"	NA	"Q03_Womb_en"	FALSE	"2"	"Belangrijk"	"Important"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"15"	NA	NA	"In de baarmoeder (voor de geboorte)"	NA	"Q03_Womb_en"	FALSE	"3"	"Redelijk belangrijk"	"ModImportant"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"15"	NA	NA	"In de baarmoeder (voor de geboorte)"	NA	"Q03_Womb_en"	FALSE	"4"	"Niet belangrijk"	"NotImportant"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"15"	NA	NA	"Kindertijd (van geboorte tot 12 jaar)"	NA	"Q03_Child_en"	FALSE	"1"	"Heel belangrijk"	"VeryImportant"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"15"	NA	NA	"Kindertijd (van geboorte tot 12 jaar)"	NA	"Q03_Child_en"	FALSE	"2"	"Belangrijk"	"Important"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"15"	NA	NA	"Kindertijd (van geboorte tot 12 jaar)"	NA	"Q03_Child_en"	FALSE	"3"	"Redelijk belangrijk"	"ModImportant"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"15"	NA	NA	"Kindertijd (van geboorte tot 12 jaar)"	NA	"Q03_Child_en"	FALSE	"4"	"Niet belangrijk"	"NotImportant"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"15"	NA	NA	"Adolescentie (13 tot 18 jaar)"	NA	"Q03_Adolescence_en"	FALSE	"1"	"Heel belangrijk"	"VeryImportant"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"15"	NA	NA	"Adolescentie (13 tot 18 jaar)"	NA	"Q03_Adolescence_en"	FALSE	"2"	"Belangrijk"	"Important"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"15"	NA	NA	"Adolescentie (13 tot 18 jaar)"	NA	"Q03_Adolescence_en"	FALSE	"3"	"Redelijk belangrijk"	"ModImportant"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"15"	NA	NA	"Adolescentie (13 tot 18 jaar)"	NA	"Q03_Adolescence_en"	FALSE	"4"	"Niet belangrijk"	"NotImportant"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"15"	NA	NA	"Jongvolwassen leeftijd (19-45 jaar)"	NA	"Q03_YoungAdult_en"	FALSE	"1"	"Heel belangrijk"	"VeryImportant"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"15"	NA	NA	"Jongvolwassen leeftijd (19-45 jaar)"	NA	"Q03_YoungAdult_en"	FALSE	"2"	"Belangrijk"	"Important"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"15"	NA	NA	"Jongvolwassen leeftijd (19-45 jaar)"	NA	"Q03_YoungAdult_en"	FALSE	"3"	"Redelijk belangrijk"	"ModImportant"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"15"	NA	NA	"Jongvolwassen leeftijd (19-45 jaar)"	NA	"Q03_YoungAdult_en"	FALSE	"4"	"Niet belangrijk"	"NotImportant"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"15"	NA	NA	"Middelbare leeftijd (45-65 jaar)"	NA	"Q03_MiddleAge_en"	FALSE	"1"	"Heel belangrijk"	"VeryImportant"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"15"	NA	NA	"Middelbare leeftijd (45-65 jaar)"	NA	"Q03_MiddleAge_en"	FALSE	"2"	"Belangrijk"	"Important"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"15"	NA	NA	"Middelbare leeftijd (45-65 jaar)"	NA	"Q03_MiddleAge_en"	FALSE	"3"	"Redelijk belangrijk"	"ModImportant"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"15"	NA	NA	"Middelbare leeftijd (45-65 jaar)"	NA	"Q03_MiddleAge_en"	FALSE	"4"	"Niet belangrijk"	"NotImportant"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"15"	NA	NA	"Oudere leeftijd (ouder dan 65 jaar)"	NA	"Q03_OlderAge_en"	FALSE	"1"	"Heel belangrijk"	"VeryImportant"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"15"	NA	NA	"Oudere leeftijd (ouder dan 65 jaar)"	NA	"Q03_OlderAge_en"	FALSE	"2"	"Belangrijk"	"Important"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"15"	NA	NA	"Oudere leeftijd (ouder dan 65 jaar)"	NA	"Q03_OlderAge_en"	FALSE	"3"	"Redelijk belangrijk"	"ModImportant"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"15"	NA	NA	"Oudere leeftijd (ouder dan 65 jaar)"	NA	"Q03_OlderAge_en"	FALSE	"4"	"Niet belangrijk"	"NotImportant"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"18"	NA	NA	NA	NA	NA	FALSE	"1"	"Diabetes"	"Diabetes"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"18"	NA	NA	NA	NA	NA	FALSE	"2"	"Alzheimer en andere vormen van dementie"	"Alzheimer"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"18"	NA	NA	NA	NA	NA	FALSE	"3"	"Artritis / reuma"	"Arthritis"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"18"	NA	NA	NA	NA	NA	FALSE	"4"	"Bipolaire stoornis"	"Bipolar"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"18"	NA	NA	NA	NA	NA	FALSE	"5"	"Kanker"	"Cancer"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"18"	NA	NA	NA	NA	NA	FALSE	"6"	"Schizofrenie"	"Schizophrenia"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"18"	NA	NA	NA	NA	NA	FALSE	"7"	"Parkinson"	"Parkinson"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"18"	NA	NA	NA	NA	NA	FALSE	"8"	"Hypertensie (hoge bloeddruk)"	"Hypertension"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"18"	NA	NA	NA	NA	NA	FALSE	"9"	"Verslaving (bijvoorbeeld drugs, alcohol)"	"Addiction"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"18"	NA	NA	NA	NA	NA	FALSE	"10"	"Beroerte"	"Stroke"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"18"	NA	NA	NA	NA	NA	FALSE	"11"	"Depressie"	"Depression"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"18"	NA	NA	NA	NA	NA	FALSE	"12"	"Migraine"	"Migraine"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"18"	NA	NA	NA	NA	NA	FALSE	"13"	"Angst"	"Anxiety"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Gezond eten"	NA	"Q05_HealthyDietGen_en"	FALSE	"1"	"Vaak"	"Frequently"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Gezond eten"	NA	"Q05_HealthyDietGen_en"	FALSE	"2"	"Af en toe"	"Occasionally"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Gezond eten"	NA	"Q05_HealthyDietGen_en"	FALSE	"3"	"Zelden"	"Rarely"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Gezond eten"	NA	"Q05_HealthyDietGen_en"	FALSE	"4"	"Nooit"	"Never"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Bewegen"	NA	"Q05_ExcerciseGen_en"	FALSE	"1"	"Vaak"	"Frequently"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Bewegen"	NA	"Q05_ExcerciseGen_en"	FALSE	"2"	"Af en toe"	"Occasionally"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Bewegen"	NA	"Q05_ExcerciseGen_en"	FALSE	"3"	"Zelden"	"Rarely"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Bewegen"	NA	"Q05_ExcerciseGen_en"	FALSE	"4"	"Nooit"	"Never"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Voldoende slapen"	NA	"Q05_SleepGen_en"	FALSE	"1"	"Vaak"	"Frequently"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Voldoende slapen"	NA	"Q05_SleepGen_en"	FALSE	"2"	"Af en toe"	"Occasionally"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Voldoende slapen"	NA	"Q05_SleepGen_en"	FALSE	"3"	"Zelden"	"Rarely"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Voldoende slapen"	NA	"Q05_SleepGen_en"	FALSE	"4"	"Nooit"	"Never"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Ontspannen"	NA	"Q05_RelaxGen_en"	FALSE	"1"	"Vaak"	"Frequently"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Ontspannen"	NA	"Q05_RelaxGen_en"	FALSE	"2"	"Af en toe"	"Occasionally"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Ontspannen"	NA	"Q05_RelaxGen_en"	FALSE	"3"	"Zelden"	"Rarely"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Ontspannen"	NA	"Q05_RelaxGen_en"	FALSE	"4"	"Nooit"	"Never"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Alcohol drinken"	NA	"Q05_AlcoholGen_en"	FALSE	"1"	"Vaak"	"Frequently"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Alcohol drinken"	NA	"Q05_AlcoholGen_en"	FALSE	"2"	"Af en toe"	"Occasionally"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Alcohol drinken"	NA	"Q05_AlcoholGen_en"	FALSE	"3"	"Zelden"	"Rarely"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Alcohol drinken"	NA	"Q05_AlcoholGen_en"	FALSE	"4"	"Nooit"	"Never"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Roken"	NA	"Q05_SmokeGen_en"	FALSE	"1"	"Vaak"	"Frequently"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Roken"	NA	"Q05_SmokeGen_en"	FALSE	"2"	"Af en toe"	"Occasionally"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Roken"	NA	"Q05_SmokeGen_en"	FALSE	"3"	"Zelden"	"Rarely"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Roken"	NA	"Q05_SmokeGen_en"	FALSE	"4"	"Nooit"	"Never"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Intellectuele stimulatie (bijvoorbeeld kruiswoordpuzzels, nieuwe dingen leren)"	NA	"Q05_IntellectGen_en"	FALSE	"1"	"Vaak"	"Frequently"	FALSE	FALSE	7	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Intellectuele stimulatie (bijvoorbeeld kruiswoordpuzzels, nieuwe dingen leren)"	NA	"Q05_IntellectGen_en"	FALSE	"2"	"Af en toe"	"Occasionally"	FALSE	FALSE	7	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Intellectuele stimulatie (bijvoorbeeld kruiswoordpuzzels, nieuwe dingen leren)"	NA	"Q05_IntellectGen_en"	FALSE	"3"	"Zelden"	"Rarely"	FALSE	FALSE	7	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Intellectuele stimulatie (bijvoorbeeld kruiswoordpuzzels, nieuwe dingen leren)"	NA	"Q05_IntellectGen_en"	FALSE	"4"	"Nooit"	"Never"	FALSE	FALSE	7	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Een goede balans tussen werk en privé"	NA	"Q05_WorkLifeBalanceGen_en"	FALSE	"1"	"Vaak"	"Frequently"	FALSE	FALSE	8	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Een goede balans tussen werk en privé"	NA	"Q05_WorkLifeBalanceGen_en"	FALSE	"2"	"Af en toe"	"Occasionally"	FALSE	FALSE	8	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Een goede balans tussen werk en privé"	NA	"Q05_WorkLifeBalanceGen_en"	FALSE	"3"	"Zelden"	"Rarely"	FALSE	FALSE	8	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Een goede balans tussen werk en privé"	NA	"Q05_WorkLifeBalanceGen_en"	FALSE	"4"	"Nooit"	"Never"	FALSE	FALSE	8	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Een helm dragen tijdens het fietsen, (rol)schaatsen of skiën"	NA	"Q05_ProtectionGen_en"	FALSE	"1"	"Vaak"	"Frequently"	FALSE	FALSE	9	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Een helm dragen tijdens het fietsen, (rol)schaatsen of skiën"	NA	"Q05_ProtectionGen_en"	FALSE	"2"	"Af en toe"	"Occasionally"	FALSE	FALSE	9	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Een helm dragen tijdens het fietsen, (rol)schaatsen of skiën"	NA	"Q05_ProtectionGen_en"	FALSE	"3"	"Zelden"	"Rarely"	FALSE	FALSE	9	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Een helm dragen tijdens het fietsen, (rol)schaatsen of skiën"	NA	"Q05_ProtectionGen_en"	FALSE	"4"	"Nooit"	"Never"	FALSE	FALSE	9	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Voedingssupplementen nemen zoals omega 3/vitamine D"	NA	"Q05_SupplementsGen_en"	FALSE	"1"	"Vaak"	"Frequently"	FALSE	FALSE	10	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Voedingssupplementen nemen zoals omega 3/vitamine D"	NA	"Q05_SupplementsGen_en"	FALSE	"2"	"Af en toe"	"Occasionally"	FALSE	FALSE	10	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Voedingssupplementen nemen zoals omega 3/vitamine D"	NA	"Q05_SupplementsGen_en"	FALSE	"3"	"Zelden"	"Rarely"	FALSE	FALSE	10	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Voedingssupplementen nemen zoals omega 3/vitamine D"	NA	"Q05_SupplementsGen_en"	FALSE	"4"	"Nooit"	"Never"	FALSE	FALSE	10	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Sociale activiteiten (bijvoorbeeld met vrienden)"	NA	"Q05_SocialiseGen_en"	FALSE	"1"	"Vaak"	"Frequently"	FALSE	FALSE	11	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Sociale activiteiten (bijvoorbeeld met vrienden)"	NA	"Q05_SocialiseGen_en"	FALSE	"2"	"Af en toe"	"Occasionally"	FALSE	FALSE	11	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Sociale activiteiten (bijvoorbeeld met vrienden)"	NA	"Q05_SocialiseGen_en"	FALSE	"3"	"Zelden"	"Rarely"	FALSE	FALSE	11	NA	NA	NA
+"dutch"	"du"	125552	"21"	NA	NA	"Sociale activiteiten (bijvoorbeeld met vrienden)"	NA	"Q05_SocialiseGen_en"	FALSE	"4"	"Nooit"	"Never"	FALSE	FALSE	11	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Gezond eten"	NA	"Q06_HealthyDietPurp_en"	FALSE	"1"	"Vaak"	"Frequently"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Gezond eten"	NA	"Q06_HealthyDietPurp_en"	FALSE	"2"	"Af en toe"	"Occasionally"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Gezond eten"	NA	"Q06_HealthyDietPurp_en"	FALSE	"3"	"Zelden"	"Rarely"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Gezond eten"	NA	"Q06_HealthyDietPurp_en"	FALSE	"4"	"Nooit"	"Never"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Bewegen"	NA	"Q06_ExcercisePurp_en"	FALSE	"1"	"Vaak"	"Frequently"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Bewegen"	NA	"Q06_ExcercisePurp_en"	FALSE	"2"	"Af en toe"	"Occasionally"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Bewegen"	NA	"Q06_ExcercisePurp_en"	FALSE	"3"	"Zelden"	"Rarely"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Bewegen"	NA	"Q06_ExcercisePurp_en"	FALSE	"4"	"Nooit"	"Never"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Voldoende slapen"	NA	"Q06_SleepPurp_en"	FALSE	"1"	"Vaak"	"Frequently"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Voldoende slapen"	NA	"Q06_SleepPurp_en"	FALSE	"2"	"Af en toe"	"Occasionally"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Voldoende slapen"	NA	"Q06_SleepPurp_en"	FALSE	"3"	"Zelden"	"Rarely"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Voldoende slapen"	NA	"Q06_SleepPurp_en"	FALSE	"4"	"Nooit"	"Never"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Ontspannen"	NA	"Q06_RelaxPurp_en"	FALSE	"1"	"Vaak"	"Frequently"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Ontspannen"	NA	"Q06_RelaxPurp_en"	FALSE	"2"	"Af en toe"	"Occasionally"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Ontspannen"	NA	"Q06_RelaxPurp_en"	FALSE	"3"	"Zelden"	"Rarely"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Ontspannen"	NA	"Q06_RelaxPurp_en"	FALSE	"4"	"Nooit"	"Never"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Een goede balans tussen werk en privé"	NA	"Q06_WorkLifeBalancePurp_en"	FALSE	"1"	"Vaak"	"Frequently"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Een goede balans tussen werk en privé"	NA	"Q06_WorkLifeBalancePurp_en"	FALSE	"2"	"Af en toe"	"Occasionally"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Een goede balans tussen werk en privé"	NA	"Q06_WorkLifeBalancePurp_en"	FALSE	"3"	"Zelden"	"Rarely"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Een goede balans tussen werk en privé"	NA	"Q06_WorkLifeBalancePurp_en"	FALSE	"4"	"Nooit"	"Never"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Een helm dragen tijdens het fietsen, (rol) schaatsen of skiën"	NA	"Q06_ProtectionPurp_en"	FALSE	"1"	"Vaak"	"Frequently"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Een helm dragen tijdens het fietsen, (rol) schaatsen of skiën"	NA	"Q06_ProtectionPurp_en"	FALSE	"2"	"Af en toe"	"Occasionally"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Een helm dragen tijdens het fietsen, (rol) schaatsen of skiën"	NA	"Q06_ProtectionPurp_en"	FALSE	"3"	"Zelden"	"Rarely"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Een helm dragen tijdens het fietsen, (rol) schaatsen of skiën"	NA	"Q06_ProtectionPurp_en"	FALSE	"4"	"Nooit"	"Never"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Voedingssupplementen nemen zoals omega 3/vitamine D"	NA	"Q06_SupplementsPurp_en"	FALSE	"1"	"Vaak"	"Frequently"	FALSE	FALSE	7	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Voedingssupplementen nemen zoals omega 3/vitamine D"	NA	"Q06_SupplementsPurp_en"	FALSE	"2"	"Af en toe"	"Occasionally"	FALSE	FALSE	7	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Voedingssupplementen nemen zoals omega 3/vitamine D"	NA	"Q06_SupplementsPurp_en"	FALSE	"3"	"Zelden"	"Rarely"	FALSE	FALSE	7	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Voedingssupplementen nemen zoals omega 3/vitamine D"	NA	"Q06_SupplementsPurp_en"	FALSE	"4"	"Nooit"	"Never"	FALSE	FALSE	7	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Sociale activiteiten (bijvoorbeeld met vrienden)"	NA	"Q06_SocialisePurp_en"	FALSE	"1"	"Vaak"	"Frequently"	FALSE	FALSE	8	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Sociale activiteiten (bijvoorbeeld met vrienden)"	NA	"Q06_SocialisePurp_en"	FALSE	"2"	"Af en toe"	"Occasionally"	FALSE	FALSE	8	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Sociale activiteiten (bijvoorbeeld met vrienden)"	NA	"Q06_SocialisePurp_en"	FALSE	"3"	"Zelden"	"Rarely"	FALSE	FALSE	8	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Sociale activiteiten (bijvoorbeeld met vrienden)"	NA	"Q06_SocialisePurp_en"	FALSE	"4"	"Nooit"	"Never"	FALSE	FALSE	8	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Andere (specificeer):"	NA	"Q06_OtherPurp_en"	FALSE	"1"	"Vaak"	"Frequently"	FALSE	FALSE	9	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Andere (specificeer):"	NA	"Q06_OtherPurp_en"	FALSE	"2"	"Af en toe"	"Occasionally"	FALSE	FALSE	9	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Andere (specificeer):"	NA	"Q06_OtherPurp_en"	FALSE	"3"	"Zelden"	"Rarely"	FALSE	FALSE	9	NA	NA	NA
+"dutch"	"du"	125552	"24"	NA	NA	"Andere (specificeer):"	NA	"Q06_OtherPurp_en"	FALSE	"4"	"Nooit"	"Never"	FALSE	FALSE	9	NA	NA	NA
+"dutch"	"du"	125552	"26"	NA	NA	NA	"
+
+
+"	"Q06_BrainHealth_Purpose_Spec_en"	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"dutch"	"du"	125552	"29"	NA	NA	NA	NA	NA	TRUE	"1"	"Betaalbaar"	"Cheap"	FALSE	FALSE	NA	3	NA	NA
+"dutch"	"du"	125552	"29"	NA	NA	NA	NA	NA	TRUE	"2"	"Snel af te nemen"	"Quick"	FALSE	FALSE	NA	3	NA	NA
+"dutch"	"du"	125552	"29"	NA	NA	NA	NA	NA	TRUE	"3"	"Nauwkeurig"	"Accurate"	FALSE	FALSE	NA	3	NA	NA
+"dutch"	"du"	125552	"29"	NA	NA	NA	NA	NA	TRUE	"4"	"Pijnloos"	"NoPain"	FALSE	FALSE	NA	3	NA	NA
+"dutch"	"du"	125552	"29"	NA	NA	NA	NA	NA	TRUE	"5"	"Gesubsidieerd door overheid / zorgverzekering (via de huisarts)"	"SocialSecurity"	FALSE	FALSE	NA	3	NA	NA
+"dutch"	"du"	125552	"29"	NA	NA	NA	NA	NA	TRUE	"6"	"Online aangeboden met directe toegang tot de resultaten"	"OnlineCriteria"	FALSE	FALSE	NA	3	NA	NA
+"dutch"	"du"	125552	"29"	NA	NA	NA	NA	NA	TRUE	"7"	"Anders (specificeer):"	"OtherCriteria"	FALSE	FALSE	NA	3	NA	NA
+"dutch"	"du"	125552	"31"	NA	NA	NA	NA	"Q07_Test_Criteria_Spec_en"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"dutch"	"du"	125552	"34"	NA	NA	NA	"Selecteer één  antwoord.
+"	"Q08_Take_Test_en"	TRUE	"1"	"Ja, zeker wel"	"Definitely"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"34"	NA	NA	NA	"Selecteer één  antwoord.
+"	"Q08_Take_Test_en"	TRUE	"2"	"Ja, waarschijnlijk wel"	"Probably"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"34"	NA	NA	NA	"Selecteer één  antwoord.
+"	"Q08_Take_Test_en"	TRUE	"3"	"Nee, waarschijnlijk niet"	"ProbablyNot"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"34"	NA	NA	NA	"Selecteer één  antwoord.
+"	"Q08_Take_Test_en"	TRUE	"4"	"Nee, zeker niet"	"DefinitelyNot"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"37"	NA	NA	NA	NA	NA	TRUE	"1"	"Om informatie te krijgen over mijn cognitieve en psychische gezondheid"	"Information"	FALSE	FALSE	NA	2	NA	NA
+"dutch"	"du"	125552	"37"	NA	NA	NA	NA	NA	TRUE	"2"	"Om meer te weten te komen over mijn risico op het ontwikkelen van een hersenziekte"	"LearnRisk"	FALSE	FALSE	NA	2	NA	NA
+"dutch"	"du"	125552	"37"	NA	NA	NA	NA	NA	TRUE	"3"	"Om iets te kunnen doen als ik risico loop, bijvoorbeeld mijn levensstijl veranderen, advies in te winnen of behandeling starten"	"Respond"	FALSE	FALSE	NA	2	NA	NA
+"dutch"	"du"	125552	"37"	NA	NA	NA	NA	NA	TRUE	"4"	"Om mezelf voor te bereiden op de toekomst (bijvoorbeeld mijn familie informeren over het risico)"	"Prepare"	FALSE	FALSE	NA	2	NA	NA
+"dutch"	"du"	125552	"37"	NA	NA	NA	NA	NA	TRUE	"5"	"Andere reden (specificeer):"	"OtherMotivation"	FALSE	FALSE	NA	2	NA	NA
+"dutch"	"du"	125552	"39"	NA	NA	NA	NA	"Q09a_Test_Reason_Spec_en"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"dutch"	"du"	125552	"42"	NA	NA	NA	"Selecteer een antwoord.
+
+
+"	"Q09b_Test_Nonpreventable_en"	TRUE	"1"	"Ja, zeker wel"	"DefYes"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"42"	NA	NA	NA	"Selecteer een antwoord.
+
+
+"	"Q09b_Test_Nonpreventable_en"	TRUE	"2"	"Ja, waarschijnlijk wel"	"ProbablyYes"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"42"	NA	NA	NA	"Selecteer een antwoord.
+
+
+"	"Q09b_Test_Nonpreventable_en"	TRUE	"3"	"Nee, waarschijnlijk niet"	"ProbablyNot"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"42"	NA	NA	NA	"Selecteer een antwoord.
+
+
+"	"Q09b_Test_Nonpreventable_en"	TRUE	"4"	"Nee, zeker niet"	"DefNot"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"45"	NA	NA	NA	NA	NA	TRUE	"1"	"Ik wil me geen zorgen maken over iets dat misschien niet gebeurt"	"Worry"	FALSE	FALSE	NA	2	NA	NA
+"dutch"	"du"	125552	"45"	NA	NA	NA	NA	NA	TRUE	"2"	"Ik wil niets weten over een ziekte die niet kan worden voorkómen of behandeld"	"DoNotWantToKnow"	FALSE	FALSE	NA	2	NA	NA
+"dutch"	"du"	125552	"45"	NA	NA	NA	NA	NA	TRUE	"3"	"Ik zou bang zijn voor de uitkomst"	"Frightened"	FALSE	FALSE	NA	2	NA	NA
+"dutch"	"du"	125552	"45"	NA	NA	NA	NA	NA	TRUE	"4"	"Ik kan toch niets doen voor de gezondheid van mijn hersenen"	"Helpless"	FALSE	FALSE	NA	2	NA	NA
+"dutch"	"du"	125552	"45"	NA	NA	NA	NA	NA	TRUE	"5"	"Andere reden (specificeer):"	"OtherReason"	FALSE	FALSE	NA	2	NA	NA
+"dutch"	"du"	125552	"47"	NA	NA	NA	NA	"Q09c_OtherReason_Spec_en"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"dutch"	"du"	125552	"50"	NA	NA	"Ik zou professionele hulp zoeken (bijvoorbeeld mijn arts)"	NA	"Q10_ProfessHelp_en"	FALSE	"1"	"Zeker wel"	"DefYes"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"50"	NA	NA	"Ik zou professionele hulp zoeken (bijvoorbeeld mijn arts)"	NA	"Q10_ProfessHelp_en"	FALSE	"2"	"Waarschijnlijk wel"	"Likely"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"50"	NA	NA	"Ik zou professionele hulp zoeken (bijvoorbeeld mijn arts)"	NA	"Q10_ProfessHelp_en"	FALSE	"3"	"Waarschijnlijk niet"	"Unlikely"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"50"	NA	NA	"Ik zou professionele hulp zoeken (bijvoorbeeld mijn arts)"	NA	"Q10_ProfessHelp_en"	FALSE	"4"	"Zeker niet"	"Defnot"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"50"	NA	NA	"Ik zou advies inwinnen bij familie en vrienden"	NA	"Q10_FamilyFriends_en"	FALSE	"1"	"Zeker wel"	"DefYes"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"50"	NA	NA	"Ik zou advies inwinnen bij familie en vrienden"	NA	"Q10_FamilyFriends_en"	FALSE	"2"	"Waarschijnlijk wel"	"Likely"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"50"	NA	NA	"Ik zou advies inwinnen bij familie en vrienden"	NA	"Q10_FamilyFriends_en"	FALSE	"3"	"Waarschijnlijk niet"	"Unlikely"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"50"	NA	NA	"Ik zou advies inwinnen bij familie en vrienden"	NA	"Q10_FamilyFriends_en"	FALSE	"4"	"Zeker niet"	"Defnot"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"50"	NA	NA	"Ik zou informatie zoeken op internet / in de bibliotheek"	NA	"Q10_Library_en"	FALSE	"1"	"Zeker wel"	"DefYes"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"50"	NA	NA	"Ik zou informatie zoeken op internet / in de bibliotheek"	NA	"Q10_Library_en"	FALSE	"2"	"Waarschijnlijk wel"	"Likely"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"50"	NA	NA	"Ik zou informatie zoeken op internet / in de bibliotheek"	NA	"Q10_Library_en"	FALSE	"3"	"Waarschijnlijk niet"	"Unlikely"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"50"	NA	NA	"Ik zou informatie zoeken op internet / in de bibliotheek"	NA	"Q10_Library_en"	FALSE	"4"	"Zeker niet"	"Defnot"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"50"	NA	NA	"Ik zou mijn levensstijl indien nodig veranderen"	NA	"Q10_LifestyleChange_en"	FALSE	"1"	"Zeker wel"	"DefYes"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"50"	NA	NA	"Ik zou mijn levensstijl indien nodig veranderen"	NA	"Q10_LifestyleChange_en"	FALSE	"2"	"Waarschijnlijk wel"	"Likely"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"50"	NA	NA	"Ik zou mijn levensstijl indien nodig veranderen"	NA	"Q10_LifestyleChange_en"	FALSE	"3"	"Waarschijnlijk niet"	"Unlikely"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"50"	NA	NA	"Ik zou mijn levensstijl indien nodig veranderen"	NA	"Q10_LifestyleChange_en"	FALSE	"4"	"Zeker niet"	"Defnot"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"50"	NA	NA	"Ik zou plannen maken voor de toekomst"	NA	"Q10_Plan_en"	FALSE	"1"	"Zeker wel"	"DefYes"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"50"	NA	NA	"Ik zou plannen maken voor de toekomst"	NA	"Q10_Plan_en"	FALSE	"2"	"Waarschijnlijk wel"	"Likely"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"50"	NA	NA	"Ik zou plannen maken voor de toekomst"	NA	"Q10_Plan_en"	FALSE	"3"	"Waarschijnlijk niet"	"Unlikely"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"50"	NA	NA	"Ik zou plannen maken voor de toekomst"	NA	"Q10_Plan_en"	FALSE	"4"	"Zeker niet"	"Defnot"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"52"	NA	NA	NA	"
+
+
+
+
+"	"Q10_TestReactionSpec_en"	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Gezonder eten"	NA	"Q11_EatHealthy_en"	FALSE	"1"	"Zeer waarschijnlijk"	"VeryLikely"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Gezonder eten"	NA	"Q11_EatHealthy_en"	FALSE	"2"	"Waarschijnlijk"	"Likely"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Gezonder eten"	NA	"Q11_EatHealthy_en"	FALSE	"3"	"Dat doe ik al"	"AlreadyDo"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Gezonder eten"	NA	"Q11_EatHealthy_en"	FALSE	"4"	"Onwaarschijnlijk"	"Unlikely"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Gezonder eten"	NA	"Q11_EatHealthy_en"	FALSE	"5"	"Zeer onwaarschijnlijk"	"NotAtAll"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Meer bewegen"	NA	"Q11_ExcerciseMore_en"	FALSE	"1"	"Zeer waarschijnlijk"	"VeryLikely"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Meer bewegen"	NA	"Q11_ExcerciseMore_en"	FALSE	"2"	"Waarschijnlijk"	"Likely"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Meer bewegen"	NA	"Q11_ExcerciseMore_en"	FALSE	"3"	"Dat doe ik al"	"AlreadyDo"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Meer bewegen"	NA	"Q11_ExcerciseMore_en"	FALSE	"4"	"Onwaarschijnlijk"	"Unlikely"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Meer bewegen"	NA	"Q11_ExcerciseMore_en"	FALSE	"5"	"Zeer onwaarschijnlijk"	"NotAtAll"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Slaapgewoonten verbeteren"	NA	"Q11_ImprSleepingHabits_en"	FALSE	"1"	"Zeer waarschijnlijk"	"VeryLikely"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Slaapgewoonten verbeteren"	NA	"Q11_ImprSleepingHabits_en"	FALSE	"2"	"Waarschijnlijk"	"Likely"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Slaapgewoonten verbeteren"	NA	"Q11_ImprSleepingHabits_en"	FALSE	"3"	"Dat doe ik al"	"AlreadyDo"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Slaapgewoonten verbeteren"	NA	"Q11_ImprSleepingHabits_en"	FALSE	"4"	"Onwaarschijnlijk"	"Unlikely"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Slaapgewoonten verbeteren"	NA	"Q11_ImprSleepingHabits_en"	FALSE	"5"	"Zeer onwaarschijnlijk"	"NotAtAll"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Meer ontspannende activiteiten doen"	NA	"Q11_MoreRelax_en"	FALSE	"1"	"Zeer waarschijnlijk"	"VeryLikely"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Meer ontspannende activiteiten doen"	NA	"Q11_MoreRelax_en"	FALSE	"2"	"Waarschijnlijk"	"Likely"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Meer ontspannende activiteiten doen"	NA	"Q11_MoreRelax_en"	FALSE	"3"	"Dat doe ik al"	"AlreadyDo"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Meer ontspannende activiteiten doen"	NA	"Q11_MoreRelax_en"	FALSE	"4"	"Onwaarschijnlijk"	"Unlikely"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Meer ontspannende activiteiten doen"	NA	"Q11_MoreRelax_en"	FALSE	"5"	"Zeer onwaarschijnlijk"	"NotAtAll"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Mijn hersenen meer stimuleren (bijvoorbeeld een nieuwe taal leren)"	NA	"Q11_BrainStimuli_en"	FALSE	"1"	"Zeer waarschijnlijk"	"VeryLikely"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Mijn hersenen meer stimuleren (bijvoorbeeld een nieuwe taal leren)"	NA	"Q11_BrainStimuli_en"	FALSE	"2"	"Waarschijnlijk"	"Likely"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Mijn hersenen meer stimuleren (bijvoorbeeld een nieuwe taal leren)"	NA	"Q11_BrainStimuli_en"	FALSE	"3"	"Dat doe ik al"	"AlreadyDo"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Mijn hersenen meer stimuleren (bijvoorbeeld een nieuwe taal leren)"	NA	"Q11_BrainStimuli_en"	FALSE	"4"	"Onwaarschijnlijk"	"Unlikely"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Mijn hersenen meer stimuleren (bijvoorbeeld een nieuwe taal leren)"	NA	"Q11_BrainStimuli_en"	FALSE	"5"	"Zeer onwaarschijnlijk"	"NotAtAll"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Alcohol vermijden"	NA	"Q11_NoAlcohol_en"	FALSE	"1"	"Zeer waarschijnlijk"	"VeryLikely"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Alcohol vermijden"	NA	"Q11_NoAlcohol_en"	FALSE	"2"	"Waarschijnlijk"	"Likely"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Alcohol vermijden"	NA	"Q11_NoAlcohol_en"	FALSE	"3"	"Dat doe ik al"	"AlreadyDo"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Alcohol vermijden"	NA	"Q11_NoAlcohol_en"	FALSE	"4"	"Onwaarschijnlijk"	"Unlikely"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Alcohol vermijden"	NA	"Q11_NoAlcohol_en"	FALSE	"5"	"Zeer onwaarschijnlijk"	"NotAtAll"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Roken vermijden"	NA	"Q11_NoSmoking_en"	FALSE	"1"	"Zeer waarschijnlijk"	"VeryLikely"	FALSE	FALSE	7	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Roken vermijden"	NA	"Q11_NoSmoking_en"	FALSE	"2"	"Waarschijnlijk"	"Likely"	FALSE	FALSE	7	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Roken vermijden"	NA	"Q11_NoSmoking_en"	FALSE	"3"	"Dat doe ik al"	"AlreadyDo"	FALSE	FALSE	7	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Roken vermijden"	NA	"Q11_NoSmoking_en"	FALSE	"4"	"Onwaarschijnlijk"	"Unlikely"	FALSE	FALSE	7	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Roken vermijden"	NA	"Q11_NoSmoking_en"	FALSE	"5"	"Zeer onwaarschijnlijk"	"NotAtAll"	FALSE	FALSE	7	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Meer sociale activiteiten doen"	NA	"Q11_MoreSocial_en"	FALSE	"1"	"Zeer waarschijnlijk"	"VeryLikely"	FALSE	FALSE	8	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Meer sociale activiteiten doen"	NA	"Q11_MoreSocial_en"	FALSE	"2"	"Waarschijnlijk"	"Likely"	FALSE	FALSE	8	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Meer sociale activiteiten doen"	NA	"Q11_MoreSocial_en"	FALSE	"3"	"Dat doe ik al"	"AlreadyDo"	FALSE	FALSE	8	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Meer sociale activiteiten doen"	NA	"Q11_MoreSocial_en"	FALSE	"4"	"Onwaarschijnlijk"	"Unlikely"	FALSE	FALSE	8	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Meer sociale activiteiten doen"	NA	"Q11_MoreSocial_en"	FALSE	"5"	"Zeer onwaarschijnlijk"	"NotAtAll"	FALSE	FALSE	8	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Meer culturele activiteiten doen"	NA	"Q11_MoreCulture_en"	FALSE	"1"	"Zeer waarschijnlijk"	"VeryLikely"	FALSE	FALSE	9	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Meer culturele activiteiten doen"	NA	"Q11_MoreCulture_en"	FALSE	"2"	"Waarschijnlijk"	"Likely"	FALSE	FALSE	9	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Meer culturele activiteiten doen"	NA	"Q11_MoreCulture_en"	FALSE	"3"	"Dat doe ik al"	"AlreadyDo"	FALSE	FALSE	9	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Meer culturele activiteiten doen"	NA	"Q11_MoreCulture_en"	FALSE	"4"	"Onwaarschijnlijk"	"Unlikely"	FALSE	FALSE	9	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Meer culturele activiteiten doen"	NA	"Q11_MoreCulture_en"	FALSE	"5"	"Zeer onwaarschijnlijk"	"NotAtAll"	FALSE	FALSE	9	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Anders (specificeer):"	NA	"Q11_OtherChanges_en"	FALSE	"1"	"Zeer waarschijnlijk"	"VeryLikely"	FALSE	FALSE	10	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Anders (specificeer):"	NA	"Q11_OtherChanges_en"	FALSE	"2"	"Waarschijnlijk"	"Likely"	FALSE	FALSE	10	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Anders (specificeer):"	NA	"Q11_OtherChanges_en"	FALSE	"3"	"Dat doe ik al"	"AlreadyDo"	FALSE	FALSE	10	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Anders (specificeer):"	NA	"Q11_OtherChanges_en"	FALSE	"4"	"Onwaarschijnlijk"	"Unlikely"	FALSE	FALSE	10	NA	NA	NA
+"dutch"	"du"	125552	"55"	NA	NA	"Anders (specificeer):"	NA	"Q11_OtherChanges_en"	FALSE	"5"	"Zeer onwaarschijnlijk"	"NotAtAll"	FALSE	FALSE	10	NA	NA	NA
+"dutch"	"du"	125552	"57"	NA	NA	NA	NA	"Q11_OtherChanges_Spec_en"	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"dutch"	"du"	125552	"60"	NA	NA	NA	NA	NA	TRUE	"1"	"Als ik problemen zou merken met de gezondheid van mijn hersenen (mijn geheugen verslechterde bijvoorbeeld)"	"WorseMemory"	FALSE	FALSE	NA	3	NA	NA
+"dutch"	"du"	125552	"60"	NA	NA	NA	NA	NA	TRUE	"2"	"Als ik de diagnose van een hersenaandoening had"	"Diagnose"	FALSE	FALSE	NA	3	NA	NA
+"dutch"	"du"	125552	"60"	NA	NA	NA	NA	NA	TRUE	"3"	"Als de levensstijl veranderingen leuk en plezierig zouden zijn"	"Fun"	FALSE	FALSE	NA	3	NA	NA
+"dutch"	"du"	125552	"60"	NA	NA	NA	NA	NA	TRUE	"4"	"Als de levensstijl veranderingen betaalbaar zouden zijn"	"Affordable"	FALSE	FALSE	NA	3	NA	NA
+"dutch"	"du"	125552	"60"	NA	NA	NA	NA	NA	TRUE	"5"	"Als iemand van mijn familie of vrienden een hersenaandoening zou hebben"	"Family"	FALSE	FALSE	NA	3	NA	NA
+"dutch"	"du"	125552	"60"	NA	NA	NA	NA	NA	TRUE	"6"	"Als ik persoonlijk advies zou ontvangen over wat ik moet doen (bijvoorbeeld van mijn arts)"	"PersonalAdvice"	FALSE	FALSE	NA	3	NA	NA
+"dutch"	"du"	125552	"60"	NA	NA	NA	NA	NA	TRUE	"7"	"Als ik gesteund zou worden door vrienden / familie"	"FamilySupport"	FALSE	FALSE	NA	3	NA	NA
+"dutch"	"du"	125552	"60"	NA	NA	NA	NA	NA	TRUE	"8"	"Als bekend was dat de levensstijl veranderingen een gunstig effect zouden hebben"	"ImpactKnown"	FALSE	FALSE	NA	3	NA	NA
+"dutch"	"du"	125552	"60"	NA	NA	NA	NA	NA	TRUE	"9"	"Niets zou me motiveren"	"NoMotivation"	FALSE	FALSE	NA	3	NA	NA
+"dutch"	"du"	125552	"60"	NA	NA	NA	NA	NA	TRUE	"10"	"Anders (specificeer):"	"OtherMotivationChange"	FALSE	FALSE	NA	3	NA	NA
+"dutch"	"du"	125552	"62"	NA	NA	NA	NA	"Q12_OtherChangeMotivation_Spec_en"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"dutch"	"du"	125552	"65"	NA	NA	NA	NA	NA	TRUE	"1"	"Gebrek aan tijd"	"NoTime"	FALSE	FALSE	NA	3	NA	NA
+"dutch"	"du"	125552	"65"	NA	NA	NA	NA	NA	TRUE	"2"	"Gebrek aan motivatie"	"NoMotivation"	FALSE	FALSE	NA	3	NA	NA
+"dutch"	"du"	125552	"65"	NA	NA	NA	NA	NA	TRUE	"3"	"Gebrek aan informatie over wat te doen"	"NoInfo"	FALSE	FALSE	NA	3	NA	NA
+"dutch"	"du"	125552	"65"	NA	NA	NA	NA	NA	TRUE	"4"	"Als ik zou moeten stoppen met activiteiten die ik leuk vind"	"GiveupHobby"	FALSE	FALSE	NA	3	NA	NA
+"dutch"	"du"	125552	"65"	NA	NA	NA	NA	NA	TRUE	"5"	"Als ik activiteiten zou moeten doen die ik niet leuk vind"	"StartNoFun"	FALSE	FALSE	NA	3	NA	NA
+"dutch"	"du"	125552	"65"	NA	NA	NA	NA	NA	TRUE	"6"	"Als ik zelf / in mijn eentje de veranderingen zou moeten doorvoeren"	"Alone"	FALSE	FALSE	NA	3	NA	NA
+"dutch"	"du"	125552	"65"	NA	NA	NA	NA	NA	TRUE	"7"	"Als de veranderingen duur zouden zijn"	"Expensive"	FALSE	FALSE	NA	3	NA	NA
+"dutch"	"du"	125552	"65"	NA	NA	NA	NA	NA	TRUE	"8"	"Als ik niet zeker weet of de veranderingen helpen"	"NotHelp"	FALSE	FALSE	NA	3	NA	NA
+"dutch"	"du"	125552	"65"	NA	NA	NA	NA	NA	TRUE	"9"	"Ik heb geen behoefte om iets te doen"	"NoNeed"	FALSE	FALSE	NA	3	NA	NA
+"dutch"	"du"	125552	"65"	NA	NA	NA	NA	NA	TRUE	"10"	"Anders (specificeer):"	"OtherMotivationNoChange"	FALSE	FALSE	NA	3	NA	NA
+"dutch"	"du"	125552	"67"	NA	NA	NA	NA	"Q13_SpecifyNoMotivation_Spec_en"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"dutch"	"du"	125552	"70"	NA	NA	NA	NA	NA	FALSE	"1"	"Advies van mijn huisarts of van een expert, b.v. een voedingsdeskundige of een personal trainer"	"GP"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"70"	NA	NA	NA	NA	NA	FALSE	"2"	"Hulp van familieleden en / of vrienden"	"SupportFamily"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"70"	NA	NA	NA	NA	NA	FALSE	"3"	"Groepshulp, b.v. een wandelgroep"	"GroupSupport"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"70"	NA	NA	NA	NA	NA	FALSE	"4"	"Een mobiele app om te helpen met hersen- en lichamelijke training"	"MobileApp"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"70"	NA	NA	NA	NA	NA	FALSE	"5"	"Regelmatige controle om het effect van levensstijl veranderingen bij te houden"	"Checkup"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"70"	NA	NA	NA	NA	NA	FALSE	"6"	"Ander soort hulp (specificeer):"	"OtherAssistance"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"72"	NA	NA	NA	NA	"Q14_OtherAssistance_Spec_en"	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"dutch"	"du"	125552	"75"	NA	NA	"Het brede publiek informeren over hersengezondheid"	NA	"Q15_InformAuth_en"	FALSE	"1"	"Ja"	"Yes"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"75"	NA	NA	"Het brede publiek informeren over hersengezondheid"	NA	"Q15_InformAuth_en"	FALSE	"2"	"Nee"	"No"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"75"	NA	NA	"Het brede publiek informeren over hersengezondheid"	NA	"Q15_InformAuth_en"	FALSE	"3"	"Weet ik niet"	"Unknown"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"75"	NA	NA	"Belasting verhogen op producten die ongezond zijn voor de hersenen"	NA	"Q15_TaxAuth_en"	FALSE	"1"	"Ja"	"Yes"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"75"	NA	NA	"Belasting verhogen op producten die ongezond zijn voor de hersenen"	NA	"Q15_TaxAuth_en"	FALSE	"2"	"Nee"	"No"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"75"	NA	NA	"Belasting verhogen op producten die ongezond zijn voor de hersenen"	NA	"Q15_TaxAuth_en"	FALSE	"3"	"Weet ik niet"	"Unknown"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"75"	NA	NA	"Voeding en activiteiten subsidiëren die gezond zijn voor de hersenen"	NA	"Q15_SubsAuth_en"	FALSE	"1"	"Ja"	"Yes"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"75"	NA	NA	"Voeding en activiteiten subsidiëren die gezond zijn voor de hersenen"	NA	"Q15_SubsAuth_en"	FALSE	"2"	"Nee"	"No"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"75"	NA	NA	"Voeding en activiteiten subsidiëren die gezond zijn voor de hersenen"	NA	"Q15_SubsAuth_en"	FALSE	"3"	"Weet ik niet"	"Unknown"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"75"	NA	NA	"Gratis gezondheidstests aanbieden voor burgers"	NA	"Q15_FreetestAuth_en"	FALSE	"1"	"Ja"	"Yes"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"75"	NA	NA	"Gratis gezondheidstests aanbieden voor burgers"	NA	"Q15_FreetestAuth_en"	FALSE	"2"	"Nee"	"No"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"75"	NA	NA	"Gratis gezondheidstests aanbieden voor burgers"	NA	"Q15_FreetestAuth_en"	FALSE	"3"	"Weet ik niet"	"Unknown"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"75"	NA	NA	"Ontspannings- en sportactiviteiten aanbieden op scholen en op werkplekken"	NA	"Q15_RelaxAuth_en"	FALSE	"1"	"Ja"	"Yes"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"75"	NA	NA	"Ontspannings- en sportactiviteiten aanbieden op scholen en op werkplekken"	NA	"Q15_RelaxAuth_en"	FALSE	"2"	"Nee"	"No"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"75"	NA	NA	"Ontspannings- en sportactiviteiten aanbieden op scholen en op werkplekken"	NA	"Q15_RelaxAuth_en"	FALSE	"3"	"Weet ik niet"	"Unknown"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"75"	NA	NA	"Voorkomen dat verzekeringsmaatschappijen toegang hebben tot de uitkomsten van hersengezondheidstests"	NA	"Q15_InsAuth_en"	FALSE	"1"	"Ja"	"Yes"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"75"	NA	NA	"Voorkomen dat verzekeringsmaatschappijen toegang hebben tot de uitkomsten van hersengezondheidstests"	NA	"Q15_InsAuth_en"	FALSE	"2"	"Nee"	"No"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"75"	NA	NA	"Voorkomen dat verzekeringsmaatschappijen toegang hebben tot de uitkomsten van hersengezondheidstests"	NA	"Q15_InsAuth_en"	FALSE	"3"	"Weet ik niet"	"Unknown"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"78"	NA	NA	"Mijn huisarts"	NA	"Q16_GP_en"	FALSE	"1"	"Helemaal"	"GreatExtent"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"78"	NA	NA	"Mijn huisarts"	NA	"Q16_GP_en"	FALSE	"2"	"Een beetje"	"Neutral"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"78"	NA	NA	"Mijn huisarts"	NA	"Q16_GP_en"	FALSE	"3"	"Helemaal niet"	"NotatAll"	FALSE	FALSE	1	NA	NA	NA
+"dutch"	"du"	125552	"78"	NA	NA	"Een specialist in hersengezondheid"	NA	"Q16_BrainHealthSpec_en"	FALSE	"1"	"Helemaal"	"GreatExtent"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"78"	NA	NA	"Een specialist in hersengezondheid"	NA	"Q16_BrainHealthSpec_en"	FALSE	"2"	"Een beetje"	"Neutral"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"78"	NA	NA	"Een specialist in hersengezondheid"	NA	"Q16_BrainHealthSpec_en"	FALSE	"3"	"Helemaal niet"	"NotatAll"	FALSE	FALSE	2	NA	NA	NA
+"dutch"	"du"	125552	"78"	NA	NA	"Online medische forums"	NA	"Q16_OnlineForum_en"	FALSE	"1"	"Helemaal"	"GreatExtent"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"78"	NA	NA	"Online medische forums"	NA	"Q16_OnlineForum_en"	FALSE	"2"	"Een beetje"	"Neutral"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"78"	NA	NA	"Online medische forums"	NA	"Q16_OnlineForum_en"	FALSE	"3"	"Helemaal niet"	"NotatAll"	FALSE	FALSE	3	NA	NA	NA
+"dutch"	"du"	125552	"78"	NA	NA	"Officiële websites van volksgezondheidsautoriteiten"	NA	"Q16_HealthAuthWebsites_en"	FALSE	"1"	"Helemaal"	"GreatExtent"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"78"	NA	NA	"Officiële websites van volksgezondheidsautoriteiten"	NA	"Q16_HealthAuthWebsites_en"	FALSE	"2"	"Een beetje"	"Neutral"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"78"	NA	NA	"Officiële websites van volksgezondheidsautoriteiten"	NA	"Q16_HealthAuthWebsites_en"	FALSE	"3"	"Helemaal niet"	"NotatAll"	FALSE	FALSE	4	NA	NA	NA
+"dutch"	"du"	125552	"78"	NA	NA	"Kranten, tijdschriften"	NA	"Q16_Newspaper_en"	FALSE	"1"	"Helemaal"	"GreatExtent"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"78"	NA	NA	"Kranten, tijdschriften"	NA	"Q16_Newspaper_en"	FALSE	"2"	"Een beetje"	"Neutral"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"78"	NA	NA	"Kranten, tijdschriften"	NA	"Q16_Newspaper_en"	FALSE	"3"	"Helemaal niet"	"NotatAll"	FALSE	FALSE	5	NA	NA	NA
+"dutch"	"du"	125552	"78"	NA	NA	"Social media (Facebook, Twitter, Instagram)"	NA	"Q16_SocialMedia_en"	FALSE	"1"	"Helemaal"	"GreatExtent"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"78"	NA	NA	"Social media (Facebook, Twitter, Instagram)"	NA	"Q16_SocialMedia_en"	FALSE	"2"	"Een beetje"	"Neutral"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"78"	NA	NA	"Social media (Facebook, Twitter, Instagram)"	NA	"Q16_SocialMedia_en"	FALSE	"3"	"Helemaal niet"	"NotatAll"	FALSE	FALSE	6	NA	NA	NA
+"dutch"	"du"	125552	"78"	NA	NA	"TV / radio (inclusief podcasts)"	NA	"Q16_TVRadio_en"	FALSE	"1"	"Helemaal"	"GreatExtent"	FALSE	FALSE	7	NA	NA	NA
+"dutch"	"du"	125552	"78"	NA	NA	"TV / radio (inclusief podcasts)"	NA	"Q16_TVRadio_en"	FALSE	"2"	"Een beetje"	"Neutral"	FALSE	FALSE	7	NA	NA	NA
+"dutch"	"du"	125552	"78"	NA	NA	"TV / radio (inclusief podcasts)"	NA	"Q16_TVRadio_en"	FALSE	"3"	"Helemaal niet"	"NotatAll"	FALSE	FALSE	7	NA	NA	NA
+"dutch"	"du"	125552	"78"	NA	NA	"Onderzoekers in de publieke sector"	NA	"Q16_PublicResearch_en"	FALSE	"1"	"Helemaal"	"GreatExtent"	FALSE	FALSE	8	NA	NA	NA
+"dutch"	"du"	125552	"78"	NA	NA	"Onderzoekers in de publieke sector"	NA	"Q16_PublicResearch_en"	FALSE	"2"	"Een beetje"	"Neutral"	FALSE	FALSE	8	NA	NA	NA
+"dutch"	"du"	125552	"78"	NA	NA	"Onderzoekers in de publieke sector"	NA	"Q16_PublicResearch_en"	FALSE	"3"	"Helemaal niet"	"NotatAll"	FALSE	FALSE	8	NA	NA	NA
+"dutch"	"du"	125552	"78"	NA	NA	"Wetenschappelijke tijdschriften"	NA	"Q16_ScientificJournals_en"	FALSE	"1"	"Helemaal"	"GreatExtent"	FALSE	FALSE	9	NA	NA	NA
+"dutch"	"du"	125552	"78"	NA	NA	"Wetenschappelijke tijdschriften"	NA	"Q16_ScientificJournals_en"	FALSE	"2"	"Een beetje"	"Neutral"	FALSE	FALSE	9	NA	NA	NA
+"dutch"	"du"	125552	"78"	NA	NA	"Wetenschappelijke tijdschriften"	NA	"Q16_ScientificJournals_en"	FALSE	"3"	"Helemaal niet"	"NotatAll"	FALSE	FALSE	9	NA	NA	NA
+"dutch"	"du"	125552	"81"	NA	NA	"17. Doet u momenteel mee aan of heeft u ooit mee gedaan aan hersenonderzoek?"	NA	"Q17_BrainResearch_Part_en"	TRUE	"1"	"Ja"	"Yes"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"81"	NA	NA	"17. Doet u momenteel mee aan of heeft u ooit mee gedaan aan hersenonderzoek?"	NA	"Q17_BrainResearch_Part_en"	TRUE	"2"	"Nee"	"No"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"83"	NA	NA	"18. Hoe oud bent u?"	NA	"Q18_Age_en"	TRUE	"1"	"18-25"	"18-25"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"83"	NA	NA	"18. Hoe oud bent u?"	NA	"Q18_Age_en"	TRUE	"2"	"26-40"	"26-40"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"83"	NA	NA	"18. Hoe oud bent u?"	NA	"Q18_Age_en"	TRUE	"3"	"41-60"	"41-60"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"83"	NA	NA	"18. Hoe oud bent u?"	NA	"Q18_Age_en"	TRUE	"4"	"61-70"	"61-70"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"83"	NA	NA	"18. Hoe oud bent u?"	NA	"Q18_Age_en"	TRUE	"5"	"71-80"	"71-80"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"83"	NA	NA	"18. Hoe oud bent u?"	NA	"Q18_Age_en"	TRUE	"6"	"Ouder dan 80"	"80plus"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"1"	"Afghanistan"	"Afghanistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"2"	"Albanië"	"Albania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"3"	"Algerije"	"Algeria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"4"	"Andorra"	"Andorra"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"5"	"Angola"	"Angola"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"6"	"Antigua en Barbuda"	"Antigua"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"7"	"Argentinië"	"Argentina"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"8"	"Armenië"	"Armenia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"9"	"Australië"	"Australia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"10"	"Azerbeidzjan"	"Azerbaijan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"11"	"Bahamas"	"Bahamas"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"12"	"Bahrein"	"Bahrain"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"13"	"Barbados"	"Barbados"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"14"	"Belize"	"Belize"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"15"	"België"	"Belgium"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"16"	"Benin"	"Benin"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"17"	"Bhutan"	"Bhutan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"18"	"Bolivia"	"Bolivia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"19"	"Bosnië en Herzegovina"	"Bosnia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"20"	"Botswana"	"Botswana"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"21"	"Brazilië"	"Brasil"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"22"	"Brunei"	"Brunei"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"23"	"Bulgarije"	"Bulgaria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"24"	"Burkina Faso"	"BurkinaFaso"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"25"	"Burundi"	"Burundi"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"26"	"Canada"	"Canada"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"27"	"Cambodja"	"Cambodia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"28"	"Centraal-Afrikaanse Republiek"	"CentralAfrica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"29"	"Chili"	"Chile"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"30"	"China"	"China"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"31"	"Colombia"	"Colombia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"32"	"Comoren"	"Comoros"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"33"	"Costa Rica"	"CostaRica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"34"	"Cuba"	"Cuba"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"35"	"Cyprus"	"Cyprus"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"36"	"Democratische Republiek Congo"	"Congo"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"37"	"Denemarken"	"Denmark"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"38"	"Djibouti"	"Djibouti"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"39"	"Dominicaanse Republiek"	"Dominica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"40"	"Duitsland"	"Germany"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"41"	"Ecuador"	"Ecuador"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"42"	"Egypte"	"Egypt"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"43"	"Fiji"	"Fiji"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"44"	"Finland"	"Finland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"45"	"El Salvador"	"ElSalvador"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"46"	"Equatoriaal-Guinea"	"EGuinea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"47"	"Eritrea"	"Eritrea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"48"	"Estland"	"Estonia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"49"	"Ethiopië"	"Ethiopia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"50"	"Filipijnen"	"Philippines"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"51"	"Frankrijk"	"France"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"52"	"Gabon"	"Gabon"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"53"	"Gambia"	"Gambia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"54"	"Georgië"	"Georgia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"55"	"Ghana"	"Ghana"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"56"	"Griekenland"	"Greece"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"57"	"Grenada"	"Grenada"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"58"	"Guetamala"	"Guetamala"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"59"	"Guinea"	"Guinea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"60"	"Guinea-Bissau"	"GuineaB"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"61"	"Guyana"	"Guyana"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"62"	"Haïti"	"Haiti"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"63"	"Honduras"	"Honduras"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"64"	"Hongarije"	"Hungary"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"65"	"IJsland"	"Iceland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"66"	"Indië"	"India"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"67"	"Indonesië"	"Indonesia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"68"	"Ierland"	"Ireland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"69"	"Israël"	"Israel"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"70"	"Italië"	"Italy"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"71"	"Iran"	"Iran"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"72"	"Irak"	"Iraq"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"73"	"Ivoorkust"	"Cotedivoire"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"74"	"Jamaica"	"Jamaica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"75"	"Japan"	"Japan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"76"	"Jemen"	"Yemen"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"77"	"Jordanië"	"Jordan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"78"	"Kaapverdië"	"CapeVerde"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"79"	"Kameroen"	"Cameroon"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"80"	"Kazachstan"	"Kazahstan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"81"	"Kenia"	"Kenya"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"82"	"Kiribati"	"Kiribati"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"83"	"Kosovo"	"Kosovo"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"84"	"Koeweit"	"Kuwait"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"85"	"Kroatië"	"Croatia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"86"	"Kyrgyzstan"	"Kyrgyzstan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"87"	"Laos"	"Laos"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"88"	"Letland"	"Latvia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"89"	"Libanon"	"Lebanon"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"90"	"Lesotho"	"Lesotho"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"91"	"Liberia"	"Liberia_en"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"92"	"Libië"	"Libya"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"93"	"Liechtenstein"	"Liechtenstein"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"94"	"Litouwen"	"Lithuania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"95"	"Luxemburg"	"Luxembourg"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"96"	"Macedonia"	"Macedonia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"97"	"Madagaskar"	"Madagascar"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"98"	"Malawi"	"Malawi"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"99"	"Maleisië"	"Malaysia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"100"	"Maldiven"	"Maldives"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"101"	"Mali"	"Mali"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"102"	"Malta"	"Malta"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"103"	"Marshalleilanden"	"MarshallIslands"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"104"	"Mauritanië"	"Mauritania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"105"	"Mauritius"	"Mauritius"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"106"	"Mexico"	"Mexico"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"107"	"Micronesië"	"Micronesia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"108"	"Moldavië"	"Moldova"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"109"	"Monaco"	"Monaco"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"110"	"Mongolië"	"Mongolia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"111"	"Montenegro"	"Montenegro"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"112"	"Marokko"	"Morocco"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"113"	"Mozambique"	"Mozambique"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"114"	"Myanmar"	"Myanmar"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"115"	"Namibië"	"Namibia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"116"	"Nauru"	"Nauru"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"117"	"Nepal"	"Nepal"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"118"	"Nederland"	"Netherlands"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"119"	"Nieuw-Zeeland"	"NewZealand"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"120"	"Nigeria"	"Nigeria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"121"	"Nicaragua"	"Nicaragua"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"122"	"Noord-Ierland"	"NorthernIreland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"123"	"Noord-Korea"	"NorthKorea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"124"	"Noorwegen"	"Norway"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"125"	"Oeganda"	"Uganda"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"126"	"Oekraïne"	"Ukraine"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"127"	"Oezbekistan"	"Uzbekistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"128"	"Oman"	"Oman"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"129"	"Oostenrijk"	"Austria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"130"	"Oost-Timor"	"EastTimor"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"131"	"Pakistan"	"Pakistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"132"	"Palau"	"Palau"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"133"	"Panama"	"Panama"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"134"	"Papoea-Nieuw-Guinea"	"Papua"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"135"	"Paraguay"	"Paraguay"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"136"	"Peru"	"Peru"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"137"	"Polen"	"Poland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"138"	"Portugal"	"Portugal"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"139"	"Qatar"	"Qatar"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"140"	"Roemenië"	"Romania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"141"	"Rusland"	"Russia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"142"	"Rwanda"	"Rwanda"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"143"	"Samoa"	"Samoa"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"144"	"San Marino"	"SanMarino"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"145"	"Sao Tomé en Principe"	"SaoTome"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"146"	"Saoedi-Arabië"	"SaudiArabia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"147"	"Senegal"	"Senegal"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"148"	"Servië"	"Serbia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"149"	"Seychellen"	"Seychelles"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"150"	"Sierra Leone"	"SierraLeone"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"151"	"Singapore"	"Singapore"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"152"	"Slowakije"	"Slovakia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"153"	"Slovenië"	"Slovenia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"154"	"Salomonseilanden"	"SolomonIsland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"155"	"Somalië"	"Somalia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"156"	"Spanje"	"Spain"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"157"	"Soedan"	"Sudan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"158"	"Suriname"	"Suriname"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"159"	"Syrië"	"Syria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"160"	"Sri Lanka"	"SriLanka"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"161"	"Taiwan"	"Taiwan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"162"	"Tadzjikistan"	"Tajikistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"163"	"Tanzania"	"Tanzania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"164"	"Thailand"	"Thailand"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"165"	"Togo"	"Togo"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"166"	"Tonga"	"Tonga"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"167"	"Trinidad en Tobago"	"Trinidad"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"168"	"Tunesië"	"Tunisia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"169"	"Tsjaad"	"Chad"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"170"	"Tsjechië"	"Czech"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"171"	"Turkije"	"Turkey"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"172"	"Turkmenistan"	"Turkmenistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"173"	"Tuvalu"	"Tuvalu"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"174"	"Uruguay"	"Uruguay"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"175"	"Verenigde Arabische Emiraten"	"ArabEmirates"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"176"	"Verenigd Koninkrijk"	"UK"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"177"	"Verenigde Staten"	"USA"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"178"	"Vanuatu"	"Vanuatu"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"179"	"Vatican City"	"Vatican"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"180"	"Venezuela"	"Venezuela"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"181"	"Vietnam"	"Vietnam"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"182"	"Wit-Rusland"	"Belarus"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"183"	"Zuid-Afrika"	"SouthAfrica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"184"	"Zuid-Korea"	"SouthKorea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"185"	"Zwitserland"	"Switzerland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"186"	"Zweden"	"Sweden"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"187"	"Zaire"	"Zaire"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"188"	"Zambia"	"Zambia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"85"	NA	NA	"19. In welk land woont u? (scroll naar beneden en selecteer)"	NA	"Q19_Residence_en"	TRUE	"189"	"Zimbabwe"	"Zimbabwe"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"87"	NA	NA	"20. Bent u:"	NA	"Q20_Sex_en"	TRUE	"1"	"Vrouw"	"Female"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"87"	NA	NA	"20. Bent u:"	NA	"Q20_Sex_en"	TRUE	"2"	"Man"	"Male"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"87"	NA	NA	"20. Bent u:"	NA	"Q20_Sex_en"	TRUE	"3"	"Anders"	"Other"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"87"	NA	NA	"20. Bent u:"	NA	"Q20_Sex_en"	TRUE	"4"	"Geef ik liever geen antwoord op"	"Unknown"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"89"	NA	NA	"21. Wat is de hoogste opleiding die u heeft afgerond met een diploma?"	NA	"Q21_Education_Coded_en"	TRUE	"1"	"Lagere school"	"PrimarySchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"89"	NA	NA	"21. Wat is de hoogste opleiding die u heeft afgerond met een diploma?"	NA	"Q21_Education_Coded_en"	TRUE	"2"	"Speciaal onderwijs"	"SpecialSchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"89"	NA	NA	"21. Wat is de hoogste opleiding die u heeft afgerond met een diploma?"	NA	"Q21_Education_Coded_en"	TRUE	"3"	"Middelbare school"	"HighSchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"89"	NA	NA	"21. Wat is de hoogste opleiding die u heeft afgerond met een diploma?"	NA	"Q21_Education_Coded_en"	TRUE	"4"	"Lagere / Middelbare beroepsopleiding"	"VocationSchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"89"	NA	NA	"21. Wat is de hoogste opleiding die u heeft afgerond met een diploma?"	NA	"Q21_Education_Coded_en"	TRUE	"5"	"Hogere beroepsopleiding / Universiteit"	"GradSchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"91"	NA	NA	"22. Welke van de volgende opties past het best bij uw huidige relatiestatus:"	NA	"Q22_Relationship_Status_en"	TRUE	"1"	"Alleenstaand"	"Single"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"91"	NA	NA	"22. Welke van de volgende opties past het best bij uw huidige relatiestatus:"	NA	"Q22_Relationship_Status_en"	TRUE	"2"	"Stabiele relatie, niet getrouwd / geen geregistreerd partnerschap"	"Unmarried"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"91"	NA	NA	"22. Welke van de volgende opties past het best bij uw huidige relatiestatus:"	NA	"Q22_Relationship_Status_en"	TRUE	"3"	"Getrouwd / geregistreerd partnerschap"	"DomesticPartner"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"91"	NA	NA	"22. Welke van de volgende opties past het best bij uw huidige relatiestatus:"	NA	"Q22_Relationship_Status_en"	TRUE	"4"	"Gescheiden / uit elkaar"	"Divorced"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"91"	NA	NA	"22. Welke van de volgende opties past het best bij uw huidige relatiestatus:"	NA	"Q22_Relationship_Status_en"	TRUE	"5"	"Weduwe / weduwnaar"	"Widowed"	FALSE	FALSE	1	NA	FALSE	FALSE
+"dutch"	"du"	125552	"93"	NA	NA	"23. Op dit moment bent u"	NA	NA	TRUE	"1"	"In loondienst / zelfstandig"	"Employed"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"93"	NA	NA	"23. Op dit moment bent u"	NA	NA	TRUE	"2"	"Werkloos"	"Unemployed"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"93"	NA	NA	"23. Op dit moment bent u"	NA	NA	TRUE	"3"	"Huisvrouw/huisman"	"Stay-at-home"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"93"	NA	NA	"23. Op dit moment bent u"	NA	NA	TRUE	"4"	"Student"	"Student"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"93"	NA	NA	"23. Op dit moment bent u"	NA	NA	TRUE	"5"	"Gepensioneerd"	"Pensioned"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"93"	NA	NA	"23. Op dit moment bent u"	NA	NA	TRUE	"6"	"Niet in staat om te werken / arbeidsongeschikt"	"Disabled"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"93"	NA	NA	"23. Op dit moment bent u"	NA	NA	TRUE	"7"	"Onbetaald of vrijwilligerswerk"	"Volunteer-work"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"95"	NA	NA	"24. Heeft u een opleiding of werkervaring in de gezondheidszorg?"	NA	"Q24_Exp_HealthCare_en"	TRUE	"1"	"Ja"	"Yes"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"95"	NA	NA	"24. Heeft u een opleiding of werkervaring in de gezondheidszorg?"	NA	"Q24_Exp_HealthCare_en"	TRUE	"2"	"Nee"	"No"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"97"	NA	NA	"25. Hoe zou u uw vermogen beschrijven om te denken, onthouden en leren?"	NA	"Q25_Cognitive_Health_en"	TRUE	"1"	"Uitstekend"	"Excellent"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"97"	NA	NA	"25. Hoe zou u uw vermogen beschrijven om te denken, onthouden en leren?"	NA	"Q25_Cognitive_Health_en"	TRUE	"2"	"Bovengemiddeld"	"AboveAverage"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"97"	NA	NA	"25. Hoe zou u uw vermogen beschrijven om te denken, onthouden en leren?"	NA	"Q25_Cognitive_Health_en"	TRUE	"3"	"Gemiddeld"	"Average"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"97"	NA	NA	"25. Hoe zou u uw vermogen beschrijven om te denken, onthouden en leren?"	NA	"Q25_Cognitive_Health_en"	TRUE	"4"	"Onder het gemiddelde"	"BelowAverage"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"97"	NA	NA	"25. Hoe zou u uw vermogen beschrijven om te denken, onthouden en leren?"	NA	"Q25_Cognitive_Health_en"	TRUE	"5"	"Zeer slecht"	"Poor"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"99"	NA	NA	"26. Hoe zou u uw vermogen beschrijven om uw stemming en emotioneel welzijn in balans te houden?"	NA	"Q26_Emotional_Health_en"	TRUE	"1"	"Uitstekend"	"Excellent"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"99"	NA	NA	"26. Hoe zou u uw vermogen beschrijven om uw stemming en emotioneel welzijn in balans te houden?"	NA	"Q26_Emotional_Health_en"	TRUE	"2"	"Bovengemiddeld"	"AboveAverage"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"99"	NA	NA	"26. Hoe zou u uw vermogen beschrijven om uw stemming en emotioneel welzijn in balans te houden?"	NA	"Q26_Emotional_Health_en"	TRUE	"3"	"Gemiddeld"	"Average"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"99"	NA	NA	"26. Hoe zou u uw vermogen beschrijven om uw stemming en emotioneel welzijn in balans te houden?"	NA	"Q26_Emotional_Health_en"	TRUE	"4"	"Onder het gemiddelde"	"BelowAverage"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"99"	NA	NA	"26. Hoe zou u uw vermogen beschrijven om uw stemming en emotioneel welzijn in balans te houden?"	NA	"Q26_Emotional_Health_en"	TRUE	"5"	"Zeer slecht"	"Poor"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"101"	NA	NA	"27. Heeft u een langdurige ziekte, handicap of gezondheidsprobleem?"	NA	"Q27_Illness_en"	TRUE	"1"	"Ja"	"Yes"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"101"	NA	NA	"27. Heeft u een langdurige ziekte, handicap of gezondheidsprobleem?"	NA	"Q27_Illness_en"	TRUE	"2"	"Nee"	"No"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"103"	NA	NA	"28. Heeft u ervaring met het zorgen voor een familielid met een hersenaandoening?"	"
+
+
+
+
+"	"Q28_BrainDisease_Care_en"	TRUE	"1"	"Ja"	"Yes"	FALSE	FALSE	NA	NA	NA	NA
+"dutch"	"du"	125552	"103"	NA	NA	"28. Heeft u ervaring met het zorgen voor een familielid met een hersenaandoening?"	"
+
+
+
+
+"	"Q28_BrainDisease_Care_en"	TRUE	"2"	"Nee"	"No"	FALSE	FALSE	NA	NA	NA	NA

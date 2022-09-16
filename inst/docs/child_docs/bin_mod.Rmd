@@ -7,9 +7,9 @@ output: pdf_document
 # Question `r gsub("Q", "", q)`
 
 ```{r }
-source(here::here('R/utils.R'))
-source(here::here('scripts/model-utils.R'))
-data <- fix_data(data)
+source(gbhs::gbhs_path_utilities("model-utils.R"))
+data <- gbhs_long_q(q, data) |> 
+  fix_data()
 lvls <- unique(data$data$key)
 if(is.factor(data$data$key))
   lvls <- levels(data$data$key)
@@ -39,7 +39,7 @@ models <- list(
     unnest(bin_table) |>
     select(-formula, -contains("table"), -contains("mod"), -data)
 )
-dr <- here::here("docs/paper1/supplementary")
+dr <- "supplementary"
 if(!dir.exists(dr)) dir.create(dr)
 openxlsx::write.xlsx(models, file = sprintf("%s/%s_mod_tables.xlsx", dr, q))
 ```

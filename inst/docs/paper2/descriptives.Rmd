@@ -1,0 +1,239 @@
+---
+params: 
+  country: "all"
+  country_n: 7
+  chr_width: 100
+  data: gbhs::gbhs
+title: Lifebrain Global Brain Health Survey
+subtitle: "for country: `r params$country`"
+authors:
+  - name: Athanasia M. Mowinckel
+    department: Center for Lifespan Changes in Brain and Cognition, Dept. of Psychology
+    affiliation: University of Oslo
+    location: Oslo, Norway
+    email: a.m.mowinckel@psykologi.uio.no
+output: 
+  pdf_document:
+    toc: true
+    number_sections: true
+graphics: yes
+always_allow_html: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, 
+                      warning = FALSE,
+                      message = FALSE,
+                      error = FALSE,
+                      fig.retina = 3,
+                      fig.width = 8,
+                      out.width = "100%")
+options(knitr.kable.NA = '-')
+
+library(patchwork)
+library(knitr)
+library(kableExtra)
+library(tidyverse) 
+library(glue)
+library(gbhs)
+
+source(gbhs_path_utilities("data-utils.R"))
+source(gbhs_path_utilities("ggplot-utils.R"))
+
+min_resp_keep = .3
+chr_width <- params$chr_width
+```
+
+
+```{r data, include=FALSE}
+data <- get_data(params$data)
+
+include_country = TRUE
+if(params$country != "all"){
+  data <- data |> 
+    filter(q19_residence == params$country) |> 
+    mutate(
+      region = fct_lump(q19_residence, params$country_n, 
+                        other_level = "Other", 
+                        ties.method = "min"),
+      region = ifelse(q19_residence == params$country, 
+                      params$country, 
+                      as.character(region)),
+      region = fct_infreq(region),
+      region = fct_relevel(region, "Other", after = Inf)
+    )
+  # include_country = FALSE
+}else{
+  data <- data |> 
+    mutate(
+      region = fct_lump(q19_residence, params$country_n, 
+                        other_level = "Other", 
+                        ties.method = "min"),
+      region = fct_infreq(region),
+      region = fct_relevel(region, "Other", after = Inf)
+    )
+  
+  
+  data_sum <- data |>
+    group_by(region) |>
+    tally() |> 
+    ungroup() |> 
+    rbind(data.frame(region = "Total", n = nrow(data)))
+}
+
+response_rates <- data |> 
+  gather(name, value, -submission_id) |> 
+  group_by(submission_id) |> 
+  summarise(nas = sum(is.na(value)),
+            n_qs = length(value),
+            pc = nas/n_qs) |> 
+  arrange(desc(nas))
+
+pc_female <- data |> 
+  group_by(q20_sex) |> 
+  tally() |> 
+  mutate(pc = percent(pc(n)))
+```
+
+\newpage
+
+# Demographic
+
+```{r}
+data |> 
+  group_by(q28_brain_disease_care, q17_brain_research_part) |> 
+  tally() |> 
+  mutate(col = ifelse(n<7000, "white", "black")) |> 
+  ggplot(aes(q28_brain_disease_care, q17_brain_research_part)) +
+  geom_tile(aes(fill = n)) + 
+  geom_text(aes(label = n, 
+                colour = I(col))
+  ) + 
+  labs(x = "Experience with brain disease care",
+       y = "Brain research participants",
+       title = "Cross-table of participants")
+```
+
+
+```{r q1-results, results = "asis"}
+child_env <- new.env()
+child_env$params <- params
+child_env$data <- data
+child_env$q <- 1
+child_env$pattern <- "Never|Rarely"
+child_env$title <- "How often do you think about your brain health?"
+child_env$descr <- "Respondents were asked how often they thought about their brains' health on a 4-point scale."
+
+res <- knit_child(
+  gbhs_path_child("ord_desc.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+```{r q7-results, results = "asis"}
+child_env <- new.env()
+child_env$params <- params
+child_env$data <- data
+child_env$q <- 7
+child_env$title <- "What should a test for brain health be?"
+child_env$descr <- "Respondents were asked to imagine a test that could expose risks of developing a brain disease, much like other similar tests for heart disease. They were asked to select up to 3 criteria that were important for such a test."
+
+res <- knit_child(
+  gbhs_path_child("bin_desc.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+```{r q8-results, results = "asis"}
+child_env <- new.env()
+child_env$params <- params
+child_env$data <- data
+child_env$q <- 8
+child_env$title <- "Would you take a test to reveal risk of developing a brain disease?"
+child_env$pattern <- "Not"
+child_env$descr <- "Respondents were asked to imagine a test existed that could reveal the risk of developing a brain diease, and rate the probability of them taking such a test."
+
+res <- knit_child(
+  gbhs_path_child("ord_desc.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+
+
+```{r q9a-results, results = "asis"}
+child_env <- new.env()
+child_env$params <- params
+child_env$data <- data
+child_env$q <- "9a"
+child_env$title <- "Why would you take a brain health test?"
+child_env$pattern <- "yes"
+child_env$descr <- "Respondents were asked select up to the two most important reasons to take a brain health test."
+
+res <- knit_child(
+  gbhs_path_child("bin_desc.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+
+```{r q9b-results, results = "asis"}
+child_env <- new.env()
+child_env$params <- params
+child_env$data <- data
+child_env$q <- "9b"
+child_env$title <- "Would you take a test even if it provides information about a disease that cannot be prevented or treated?"
+child_env$pattern <- "Not"
+child_env$descr <- "Respondents were asked to imagine a test existed that could reveal the risk of developing a brain diease that could not be treated or precented, and indicate whether they would take such a test."
+
+res <- knit_child(
+  gbhs_path_child("ord_desc.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+```{r q9c-results, results = "asis"}
+child_env <- new.env()
+child_env$params <- params
+child_env$data <- data
+child_env$q <- "9c"
+child_env$title <- "Why would you NOT take a brain health test?"
+child_env$pattern <- "yes"
+child_env$descr <- "Respondents who answered they would not take a test, were asked select up to the two most important reasons to not take a brain health test."
+
+res <- knit_child(
+  gbhs_path_child("bin_desc.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+
+```{r q10-results, results = "asis"}
+child_env <- new.env()
+child_env$params <- params
+child_env$data <- data
+child_env$q <- "10"
+child_env$title <- "How often do you think about your brain health?"
+child_env$pattern <- "not$$|^Unlikely"
+child_env$descr <- "Respondents were asked to image they would undergo a brain health test, and that it showed a risk for disease. They were asked to indicate what actions they were likely to take."
+
+res <- knit_child(
+  gbhs_path_child("ord_desc.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+

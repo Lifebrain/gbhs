@@ -48,14 +48,17 @@ wanted_formula <- c(
     )
 }
 
-compare_effects <- function(data, ...){
-  combs <- t(combn(pull(data, term), 2))
-  
-  .get_or(data, combs = combs)
-}
+
 
 combine_tables <- function(results){
-  comparisons <- compare_effects(results) |> 
+  
+  comp_effects <- function(data, ...){
+    combs <- t(combn(pull(data, term), 2))
+    
+    .get_or(data, combs = combs)
+  }
+  
+  comparisons <- comp_effects(results) |> 
     select(-null, -idx, -starts_with("var")) |> 
     rename_at(all_of(c("upper", "lower")), ~paste0("comp_", .x))
   n <- nrow(results) - nrow(comparisons)
@@ -184,7 +187,7 @@ run_models <- function(data, models2run, set, run_ord = TRUE){
       bin_mod = list(glm(update.formula(formula, binary ~.), 
                          family = binomial(link = "logit"), 
                          data = data)),
-      bin_table = list(tidy(bin_mod) |> 
+      bin_table = list(broom::tidy(bin_mod) |> 
                          mutate(term = gsub(fct, "", term))),
       bin_table2 = list(full_join(rename(counts, fct2 = fct, key2 = key) |>
                                     filter(key2 == key, fct2 == fct), 
@@ -209,11 +212,11 @@ run_models <- function(data, models2run, set, run_ord = TRUE){
         ord_mod  = list(MASS::polr(update.formula(formula, value ~.), 
                                    Hess = TRUE, 
                                    data = data)),
-        ord_table = list(tidy(ord_mod) |>
+        ord_table = list(broom::tidy(ord_mod) |>
                            mutate(term = gsub(fct, "", term))),
         cont_mod = list(lm(update.formula(formula, continuous ~.), 
                            data = data)),
-        cont_table = list(tidy(cont_mod) |> 
+        cont_table = list(broom::tidy(cont_mod) |> 
                             mutate(term = gsub(fct, "", term))),
         cont_table2 = list(filter(cont_table, term != "(Intercept)") |> 
                              rename_with(~paste0("cont_", .x)))

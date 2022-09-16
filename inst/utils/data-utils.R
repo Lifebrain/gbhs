@@ -1,3 +1,10 @@
+get_data <- function(x){
+  if(inherits(x, "character")){
+    return(eval(parse(text=x)))
+  }
+  x
+}
+
 fix_data <- function(data){
   cols_of_interest <- c("age", "gender", "education", "healthcare_experience", 
                         "cognitive_health", "mental_health", "illness_experience", 
@@ -6,13 +13,13 @@ fix_data <- function(data){
   
   data <- mutate(
     data,
-    healthcare_experience = factor(Q24_Exp_HealthCare),
-    cognitive_health = factor(Q25_Cognitive_Health),
-    mental_health = factor(Q26_Emotional_Health),
-    illness_experience = factor(Q27_Illness),
-    brain_disease_caregiver = factor(Q28_BrainDisease_Care),
-    brain_research_participation = factor(Q17_BrainResearch_Part),
-    relationship = factor(Q22_Relationship_Status)
+    healthcare_experience = factor(q24_exp_health_care),
+    cognitive_health = factor(q25_cognitive_health),
+    mental_health = factor(q26_emotional_health),
+    illness_experience = factor(q27_illness),
+    brain_disease_caregiver = factor(q28_brain_disease_care),
+    brain_research_participation = factor(q17_brain_research_part),
+    relationship = factor(q22_relationship)
   )
   
   # set contrasts
@@ -73,11 +80,11 @@ fix_data <- function(data){
 
 make_demo_table <- function(data){
   data |> 
-    select(Q20_Sex, Q18_Age, Q21_Education_Coded, Q22_Relationship_Status, 
+    select(q20_sex, q18_age, q21_education, q22_relationship, 
            Q23_Vocation_categories,
-           Q24_Exp_HealthCare,
-           Q17_BrainResearch_Part, Q25_Cognitive_Health, Q26_Emotional_Health,
-           Q27_Illness, Q28_BrainDisease_Care) |> 
+           q24_exp_health_care,
+           q17_brain_research_part, q25_cognitive_health, q26_emotional_health,
+           q27_illness, q28_brain_disease_care) |> 
     pivot_longer(everything(),
                  names_to = c(NA, "cat", "measure"),
                  names_sep = "_") |> 
@@ -128,13 +135,13 @@ fix_data <- function(data){
   
   data <- mutate(
     data,
-    healthcare_experience = factor(Q24_Exp_HealthCare),
-    cognitive_health = factor(Q25_Cognitive_Health),
-    mental_health = factor(Q26_Emotional_Health),
-    illness_experience = factor(Q27_Illness),
-    brain_disease_caregiver = factor(Q28_BrainDisease_Care),
-    brain_research_participation = factor(Q17_BrainResearch_Part),
-    relationship = factor(Q22_Relationship_Status)
+    healthcare_experience = factor(q24_exp_health_care),
+    cognitive_health = factor(q25_cognitive_health),
+    mental_health = factor(q26_emotional_health),
+    illness_experience = factor(q27_illness),
+    brain_disease_caregiver = factor(q28_brain_disease_care),
+    brain_research_participation = factor(q17_brain_research_part),
+    relationship = factor(q22_relationship)
   )
   
   # set contrasts

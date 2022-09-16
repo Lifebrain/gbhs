@@ -1,0 +1,201 @@
+---
+params: 
+  country: "all"
+  country_n: 7
+  chr_width: 135
+  data: gbhs::gbhs
+title: Lifebrain Global Brain Health Survey
+subtitle: "for country: `r params$country`"
+authors:
+  - name: Athanasia M. Mowinckel
+    department: Center for Lifespan Changes in Brain and Cognition, Dept. of Psychology
+    affiliation: University of Oslo
+    location: Oslo, Norway
+    email: a.m.mowinckel@psykologi.uio.no
+output: 
+  pdf_document:
+    toc: true
+    number_sections: true
+graphics: yes
+always_allow_html: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, 
+                      warning = FALSE,
+                      message = FALSE,
+                      error = FALSE,
+                      fig.retina = 3,
+                      fig.width = 8,
+                      fig.pos = "H",
+                      out.width = "100%")
+options(knitr.kable.NA = '-')
+
+library(patchwork)
+library(knitr)
+library(kableExtra)
+library(tidyverse) 
+library(glue)
+library(gbhs)
+
+source(gbhs_path_utilities("data-utils.R"))
+source(gbhs_path_utilities("ggplot-utils.R"))
+
+min_resp_keep = .3
+```
+
+
+```{r data, include=FALSE}
+data <- get_data(params$data)
+
+include_country = TRUE
+if(params$country != "all"){
+  data <- filter(data, q19_residence == params$country) %>% 
+    mutate(
+      region = fct_lump(q19_residence, params$country_n, 
+                        other_level = "Other", 
+                        ties.method = "min"),
+      region = ifelse(q19_residence == params$country, 
+                      params$country, 
+                      as.character(region)),
+      region = fct_infreq(region),
+      region = fct_relevel(region, "Other", after = Inf)
+    )
+  # include_country = FALSE
+}else{
+  data <- data %>% 
+    mutate(
+      region = fct_lump(q19_residence, params$country_n, 
+                        other_level = "Other", 
+                        ties.method = "min"),
+      region = fct_infreq(region),
+      region = fct_relevel(region, "Other", after = Inf)
+    )
+  
+  
+  data_sum <- data %>%
+    group_by(region) %>%
+    tally() %>% 
+    ungroup() %>% 
+    rbind(data.frame(region = "Total", n = sum(.$n)))
+}
+
+response_rates <- data %>% 
+  gather(name, value, -submission_id) %>% 
+  group_by(submission_id) %>% 
+  summarise(nas = sum(is.na(value)),
+            n_qs = length(value),
+            pc = nas/n_qs) %>% 
+  arrange(desc(nas))
+
+# Fix demographics categories to factors
+data <- data %>% 
+  mutate(
+    sex = fct_lump(q20_sex, 2, 
+                   other_level = "Other / Unknown", 
+                   ties.method = "min"),
+    gender = factor(sex, levels = c("Female", "Male")),
+    education = str_replace_all(q21_education, "School", "\nschool"),
+    education = fct_lump(education, 3, 
+                         other_level = "Primary\nschool"),
+    age = str_replace_all(q18_age, "plus", "+"), 
+    age = factor(age, ordered = TRUE)
+  ) 
+
+# data_orig <- data
+
+pc_female <- data %>% 
+  group_by(q20_sex) %>% 
+  tally %>% 
+  mutate(pc = percent(pc(n)))
+```
+
+\newpage
+
+
+```{r q5-results, results = "asis"}
+child_env <- new.env()
+child_env$params <- params
+child_env$data <- data
+child_env$q <- 5
+child_env$title   <- "How often do you engage in the following activities?"
+child_env$pattern <- "Never|Rarely"
+child_env$descr <- "Respondents were asked how often they engaged in various healthy or unhealthy activities on a 4-point scale."
+
+res <- knit_child(
+  gbhs_path_child("ord_desc.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+
+```
+
+
+```{r q6-results, results = "asis"}
+child_env <- new.env()
+child_env$params <- params
+child_env$data <- data
+child_env$q <- 6
+child_env$title   <- "Which of the following activities do you do purposefully for your brain health?"
+child_env$pattern <- "Never|Rarely"
+child_env$descr <- "Respondents were asked how often they engaged in various healthy activities with the purposeful intent of maintaining or improving their brains' health on a 4-point scale."
+
+res <- knit_child(
+  gbhs_path_child("ord_desc.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+```{r q11-results, results = "asis"}
+child_env <- new.env()
+child_env$params <- params
+child_env$data <- data
+child_env$q <- 11
+child_env$title   <- "How likely are you to do any of the following if you are told you could decrease your risk for developing a brain disease?"
+child_env$pattern <- "Unlikely|NotAtAll"
+child_env$descr <- "Respondents were asked to imagine their doctor told them they could reduce their risk of developing a brain disease by changing their lifestyle. They were asked to respons with how likely they would change their lifestyle in the categries presented above, and to imagine they would realistically change their behaviour."
+
+res <- knit_child(
+  gbhs_path_child("ord_desc.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+
+```{r q12-results, results = "asis"}
+child_env <- new.env()
+child_env$params <- params
+child_env$data <- data
+child_env$q <- 12
+child_env$title   <- "What would motivate you to change lifestyle to improve brain health?"
+child_env$descr <- "Respondents were asked to select up to three alternatives that were the most important in terms of motivating them to change their lifestyle to improve brain health."
+
+res <- knit_child(
+  gbhs_path_child("bin_desc.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```
+
+
+```{r q13-results, results = "asis"}
+child_env <- new.env()
+child_env$params <- params
+child_env$data <- data
+child_env$q <- 13
+child_env$title   <- "What would prevent you from changing your lifestyle to improve brain health?"
+child_env$descr <- "Respondents were asked to select up to three alternatives that were the most important in terms of hindering them to change their lifestyle to improve brain health."
+
+res <- knit_child(
+  gbhs_path_child("bin_desc.Rmd"),
+  envir = child_env,
+  quiet = TRUE
+)
+cat(res, sep = '\n')
+```

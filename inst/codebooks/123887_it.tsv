@@ -1,0 +1,1190 @@
+"language"	"suffix"	"form_id"	"element_no"	"img_url"	"img_text"	"question"	"question_descr"	"question_codebook"	"question_mandatory"	"answer_order"	"answer_option"	"answer_codebook"	"answer_preselected"	"answer_correct"	"question_order"	"max_selected"	"question_preselected"	"question_rangemarks"
+"italian"	"it"	123887	"1"	"https://www.lifebrain.uio.no/26.05.20-lifebrain-banner-1771x417.jpg"	"Lifebrain logo"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"italian"	"it"	123887	"4"	NA	NA	NA	"La preghiamo di spuntare la casella.
+"	"Consent_Form_en"	TRUE	"1"	"Ho almeno 18 anni e consento all’utilizzo di questi dati a scopo di ricerca."	"Consent_Yes_en"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"9"	NA	NA	NA	NA	"Q01_Think_Brain_Frequency_en"	FALSE	"1"	"Spesso"	"Frequently"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"9"	NA	NA	NA	NA	"Q01_Think_Brain_Frequency_en"	FALSE	"2"	"Occasionalmente"	"Occasionally"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"9"	NA	NA	NA	NA	"Q01_Think_Brain_Frequency_en"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"9"	NA	NA	NA	NA	"Q01_Think_Brain_Frequency_en"	FALSE	"4"	"Mai"	"Never"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Salute fisica"	NA	"Q02_PhyHealthInfl_en"	FALSE	"1"	"Influenza molto forte"	"VeryStrong"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Salute fisica"	NA	"Q02_PhyHealthInfl_en"	FALSE	"2"	"Influenza forte"	"Strong"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Salute fisica"	NA	"Q02_PhyHealthInfl_en"	FALSE	"3"	"Influenza moderata"	"Moderate"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Salute fisica"	NA	"Q02_PhyHealthInfl_en"	FALSE	"4"	"Influenza debole"	"Weak"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Salute fisica"	NA	"Q02_PhyHealthInfl_en"	FALSE	"5"	"Nessuna influenza"	"NoInfluence"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Dieta"	NA	"Q02_DietInfl_en"	FALSE	"1"	"Influenza molto forte"	"VeryStrong"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Dieta"	NA	"Q02_DietInfl_en"	FALSE	"2"	"Influenza forte"	"Strong"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Dieta"	NA	"Q02_DietInfl_en"	FALSE	"3"	"Influenza moderata"	"Moderate"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Dieta"	NA	"Q02_DietInfl_en"	FALSE	"4"	"Influenza debole"	"Weak"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Dieta"	NA	"Q02_DietInfl_en"	FALSE	"5"	"Nessuna influenza"	"NoInfluence"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Condizioni ambientali (p. es. inquinamento dell&#39;aria, rumore)"	NA	"Q02_PhyEnvironmentInfl_en"	FALSE	"1"	"Influenza molto forte"	"VeryStrong"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Condizioni ambientali (p. es. inquinamento dell&#39;aria, rumore)"	NA	"Q02_PhyEnvironmentInfl_en"	FALSE	"2"	"Influenza forte"	"Strong"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Condizioni ambientali (p. es. inquinamento dell&#39;aria, rumore)"	NA	"Q02_PhyEnvironmentInfl_en"	FALSE	"3"	"Influenza moderata"	"Moderate"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Condizioni ambientali (p. es. inquinamento dell&#39;aria, rumore)"	NA	"Q02_PhyEnvironmentInfl_en"	FALSE	"4"	"Influenza debole"	"Weak"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Condizioni ambientali (p. es. inquinamento dell&#39;aria, rumore)"	NA	"Q02_PhyEnvironmentInfl_en"	FALSE	"5"	"Nessuna influenza"	"NoInfluence"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Ambiente sociale (p. es. famiglia, relazioni sociali)"	NA	"Q02_SocEnvironmentInfl_en"	FALSE	"1"	"Influenza molto forte"	"VeryStrong"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Ambiente sociale (p. es. famiglia, relazioni sociali)"	NA	"Q02_SocEnvironmentInfl_en"	FALSE	"2"	"Influenza forte"	"Strong"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Ambiente sociale (p. es. famiglia, relazioni sociali)"	NA	"Q02_SocEnvironmentInfl_en"	FALSE	"3"	"Influenza moderata"	"Moderate"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Ambiente sociale (p. es. famiglia, relazioni sociali)"	NA	"Q02_SocEnvironmentInfl_en"	FALSE	"4"	"Influenza debole"	"Weak"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Ambiente sociale (p. es. famiglia, relazioni sociali)"	NA	"Q02_SocEnvironmentInfl_en"	FALSE	"5"	"Nessuna influenza"	"NoInfluence"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Istruzione"	NA	"Q02_EducationInfl_en"	FALSE	"1"	"Influenza molto forte"	"VeryStrong"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Istruzione"	NA	"Q02_EducationInfl_en"	FALSE	"2"	"Influenza forte"	"Strong"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Istruzione"	NA	"Q02_EducationInfl_en"	FALSE	"3"	"Influenza moderata"	"Moderate"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Istruzione"	NA	"Q02_EducationInfl_en"	FALSE	"4"	"Influenza debole"	"Weak"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Istruzione"	NA	"Q02_EducationInfl_en"	FALSE	"5"	"Nessuna influenza"	"NoInfluence"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Professione"	NA	"Q02_ProfessionInfl_en"	FALSE	"1"	"Influenza molto forte"	"VeryStrong"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Professione"	NA	"Q02_ProfessionInfl_en"	FALSE	"2"	"Influenza forte"	"Strong"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Professione"	NA	"Q02_ProfessionInfl_en"	FALSE	"3"	"Influenza moderata"	"Moderate"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Professione"	NA	"Q02_ProfessionInfl_en"	FALSE	"4"	"Influenza debole"	"Weak"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Professione"	NA	"Q02_ProfessionInfl_en"	FALSE	"5"	"Nessuna influenza"	"NoInfluence"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Reddito di famiglia"	NA	"Q02_IncomeInfl_en"	FALSE	"1"	"Influenza molto forte"	"VeryStrong"	FALSE	FALSE	7	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Reddito di famiglia"	NA	"Q02_IncomeInfl_en"	FALSE	"2"	"Influenza forte"	"Strong"	FALSE	FALSE	7	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Reddito di famiglia"	NA	"Q02_IncomeInfl_en"	FALSE	"3"	"Influenza moderata"	"Moderate"	FALSE	FALSE	7	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Reddito di famiglia"	NA	"Q02_IncomeInfl_en"	FALSE	"4"	"Influenza debole"	"Weak"	FALSE	FALSE	7	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Reddito di famiglia"	NA	"Q02_IncomeInfl_en"	FALSE	"5"	"Nessuna influenza"	"NoInfluence"	FALSE	FALSE	7	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Genetica e antecedenti medici familiari"	NA	"Q02_GeneticsInfl_en"	FALSE	"1"	"Influenza molto forte"	"VeryStrong"	FALSE	FALSE	8	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Genetica e antecedenti medici familiari"	NA	"Q02_GeneticsInfl_en"	FALSE	"2"	"Influenza forte"	"Strong"	FALSE	FALSE	8	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Genetica e antecedenti medici familiari"	NA	"Q02_GeneticsInfl_en"	FALSE	"3"	"Influenza moderata"	"Moderate"	FALSE	FALSE	8	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Genetica e antecedenti medici familiari"	NA	"Q02_GeneticsInfl_en"	FALSE	"4"	"Influenza debole"	"Weak"	FALSE	FALSE	8	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Genetica e antecedenti medici familiari"	NA	"Q02_GeneticsInfl_en"	FALSE	"5"	"Nessuna influenza"	"NoInfluence"	FALSE	FALSE	8	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Uso di sostanze (p. es. alcool, fumo, e droghe)"	NA	"Q02_SubstanceInfl_en"	FALSE	"1"	"Influenza molto forte"	"VeryStrong"	FALSE	FALSE	9	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Uso di sostanze (p. es. alcool, fumo, e droghe)"	NA	"Q02_SubstanceInfl_en"	FALSE	"2"	"Influenza forte"	"Strong"	FALSE	FALSE	9	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Uso di sostanze (p. es. alcool, fumo, e droghe)"	NA	"Q02_SubstanceInfl_en"	FALSE	"3"	"Influenza moderata"	"Moderate"	FALSE	FALSE	9	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Uso di sostanze (p. es. alcool, fumo, e droghe)"	NA	"Q02_SubstanceInfl_en"	FALSE	"4"	"Influenza debole"	"Weak"	FALSE	FALSE	9	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Uso di sostanze (p. es. alcool, fumo, e droghe)"	NA	"Q02_SubstanceInfl_en"	FALSE	"5"	"Nessuna influenza"	"NoInfluence"	FALSE	FALSE	9	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Abitudini di sonno"	NA	"Q02_SleepHabitsInfl_en"	FALSE	"1"	"Influenza molto forte"	"VeryStrong"	FALSE	FALSE	10	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Abitudini di sonno"	NA	"Q02_SleepHabitsInfl_en"	FALSE	"2"	"Influenza forte"	"Strong"	FALSE	FALSE	10	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Abitudini di sonno"	NA	"Q02_SleepHabitsInfl_en"	FALSE	"3"	"Influenza moderata"	"Moderate"	FALSE	FALSE	10	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Abitudini di sonno"	NA	"Q02_SleepHabitsInfl_en"	FALSE	"4"	"Influenza debole"	"Weak"	FALSE	FALSE	10	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Abitudini di sonno"	NA	"Q02_SleepHabitsInfl_en"	FALSE	"5"	"Nessuna influenza"	"NoInfluence"	FALSE	FALSE	10	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Avere scopi che rendono la vita piena di significato"	NA	"Q02_LifeGoalsInfl_en"	FALSE	"1"	"Influenza molto forte"	"VeryStrong"	FALSE	FALSE	11	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Avere scopi che rendono la vita piena di significato"	NA	"Q02_LifeGoalsInfl_en"	FALSE	"2"	"Influenza forte"	"Strong"	FALSE	FALSE	11	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Avere scopi che rendono la vita piena di significato"	NA	"Q02_LifeGoalsInfl_en"	FALSE	"3"	"Influenza moderata"	"Moderate"	FALSE	FALSE	11	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Avere scopi che rendono la vita piena di significato"	NA	"Q02_LifeGoalsInfl_en"	FALSE	"4"	"Influenza debole"	"Weak"	FALSE	FALSE	11	NA	NA	NA
+"italian"	"it"	123887	"12"	NA	NA	"Avere scopi che rendono la vita piena di significato"	NA	"Q02_LifeGoalsInfl_en"	FALSE	"5"	"Nessuna influenza"	"NoInfluence"	FALSE	FALSE	11	NA	NA	NA
+"italian"	"it"	123887	"15"	NA	NA	"Nel grembo materno (prima della nascita)"	NA	"Q03_Womb_en"	FALSE	"1"	"Molto importante"	"VeryImportant"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"15"	NA	NA	"Nel grembo materno (prima della nascita)"	NA	"Q03_Womb_en"	FALSE	"2"	"Importante"	"Important"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"15"	NA	NA	"Nel grembo materno (prima della nascita)"	NA	"Q03_Womb_en"	FALSE	"3"	"Moderata-mente importante"	"ModImportant"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"15"	NA	NA	"Nel grembo materno (prima della nascita)"	NA	"Q03_Womb_en"	FALSE	"4"	"Senza importanza"	"NotImportant"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"15"	NA	NA	"Infanzia (dalla nascita ai 12 anni)"	NA	"Q03_Child_en"	FALSE	"1"	"Molto importante"	"VeryImportant"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"15"	NA	NA	"Infanzia (dalla nascita ai 12 anni)"	NA	"Q03_Child_en"	FALSE	"2"	"Importante"	"Important"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"15"	NA	NA	"Infanzia (dalla nascita ai 12 anni)"	NA	"Q03_Child_en"	FALSE	"3"	"Moderata-mente importante"	"ModImportant"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"15"	NA	NA	"Infanzia (dalla nascita ai 12 anni)"	NA	"Q03_Child_en"	FALSE	"4"	"Senza importanza"	"NotImportant"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"15"	NA	NA	"Adolescenza (dai 13 ai 18 anni)"	NA	"Q03_Adolescence_en"	FALSE	"1"	"Molto importante"	"VeryImportant"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"15"	NA	NA	"Adolescenza (dai 13 ai 18 anni)"	NA	"Q03_Adolescence_en"	FALSE	"2"	"Importante"	"Important"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"15"	NA	NA	"Adolescenza (dai 13 ai 18 anni)"	NA	"Q03_Adolescence_en"	FALSE	"3"	"Moderata-mente importante"	"ModImportant"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"15"	NA	NA	"Adolescenza (dai 13 ai 18 anni)"	NA	"Q03_Adolescence_en"	FALSE	"4"	"Senza importanza"	"NotImportant"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"15"	NA	NA	"Età giovane adulta (dai 19 ai 45 anni)"	NA	"Q03_YoungAdult_en"	FALSE	"1"	"Molto importante"	"VeryImportant"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"15"	NA	NA	"Età giovane adulta (dai 19 ai 45 anni)"	NA	"Q03_YoungAdult_en"	FALSE	"2"	"Importante"	"Important"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"15"	NA	NA	"Età giovane adulta (dai 19 ai 45 anni)"	NA	"Q03_YoungAdult_en"	FALSE	"3"	"Moderata-mente importante"	"ModImportant"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"15"	NA	NA	"Età giovane adulta (dai 19 ai 45 anni)"	NA	"Q03_YoungAdult_en"	FALSE	"4"	"Senza importanza"	"NotImportant"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"15"	NA	NA	"Mezza età (dai 45 ai 65 anni)"	NA	"Q03_MiddleAge_en"	FALSE	"1"	"Molto importante"	"VeryImportant"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"15"	NA	NA	"Mezza età (dai 45 ai 65 anni)"	NA	"Q03_MiddleAge_en"	FALSE	"2"	"Importante"	"Important"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"15"	NA	NA	"Mezza età (dai 45 ai 65 anni)"	NA	"Q03_MiddleAge_en"	FALSE	"3"	"Moderata-mente importante"	"ModImportant"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"15"	NA	NA	"Mezza età (dai 45 ai 65 anni)"	NA	"Q03_MiddleAge_en"	FALSE	"4"	"Senza importanza"	"NotImportant"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"15"	NA	NA	"Età anziana (dopo i 65 anni)"	NA	"Q03_OlderAge_en"	FALSE	"1"	"Molto importante"	"VeryImportant"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"15"	NA	NA	"Età anziana (dopo i 65 anni)"	NA	"Q03_OlderAge_en"	FALSE	"2"	"Importante"	"Important"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"15"	NA	NA	"Età anziana (dopo i 65 anni)"	NA	"Q03_OlderAge_en"	FALSE	"3"	"Moderata-mente importante"	"ModImportant"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"15"	NA	NA	"Età anziana (dopo i 65 anni)"	NA	"Q03_OlderAge_en"	FALSE	"4"	"Senza importanza"	"NotImportant"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"18"	NA	NA	NA	NA	NA	FALSE	"1"	"Diabete"	"Diabetes"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"18"	NA	NA	NA	NA	NA	FALSE	"2"	"Malattia di Alzheimer e altre forme di demenza"	"Alzheimer"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"18"	NA	NA	NA	NA	NA	FALSE	"3"	"Artrite"	"Arthritis"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"18"	NA	NA	NA	NA	NA	FALSE	"4"	"Disturbi bipolari"	"Bipolar"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"18"	NA	NA	NA	NA	NA	FALSE	"5"	"Cancro"	"Cancer"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"18"	NA	NA	NA	NA	NA	FALSE	"6"	"Schizofrenia"	"Schizophrenia"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"18"	NA	NA	NA	NA	NA	FALSE	"7"	"Malattia di Parkinson"	"Parkinson"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"18"	NA	NA	NA	NA	NA	FALSE	"8"	"Ipertensione (pressione arteriosa alta)"	"Hypertension"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"18"	NA	NA	NA	NA	NA	FALSE	"9"	"Dipendenza (per es. droga, alcool)"	"Addiction"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"18"	NA	NA	NA	NA	NA	FALSE	"10"	"Ictus"	"Stroke"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"18"	NA	NA	NA	NA	NA	FALSE	"11"	"Depressione"	"Depression"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"18"	NA	NA	NA	NA	NA	FALSE	"12"	"Emicrania"	"Migraine"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"18"	NA	NA	NA	NA	NA	FALSE	"13"	"Ansia"	"Anxiety"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Avere una dieta sana"	NA	"Q05_HealthyDietGen_en"	FALSE	"1"	"Spesso"	"Frequently"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Avere una dieta sana"	NA	"Q05_HealthyDietGen_en"	FALSE	"2"	"Occasional-mente"	"Occasionally"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Avere una dieta sana"	NA	"Q05_HealthyDietGen_en"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Avere una dieta sana"	NA	"Q05_HealthyDietGen_en"	FALSE	"4"	"Mai"	"Never"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Fare esercizio"	NA	"Q05_ExcerciseGen_en"	FALSE	"1"	"Spesso"	"Frequently"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Fare esercizio"	NA	"Q05_ExcerciseGen_en"	FALSE	"2"	"Occasional-mente"	"Occasionally"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Fare esercizio"	NA	"Q05_ExcerciseGen_en"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Fare esercizio"	NA	"Q05_ExcerciseGen_en"	FALSE	"4"	"Mai"	"Never"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Dormire abbastanza"	NA	"Q05_SleepGen_en"	FALSE	"1"	"Spesso"	"Frequently"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Dormire abbastanza"	NA	"Q05_SleepGen_en"	FALSE	"2"	"Occasional-mente"	"Occasionally"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Dormire abbastanza"	NA	"Q05_SleepGen_en"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Dormire abbastanza"	NA	"Q05_SleepGen_en"	FALSE	"4"	"Mai"	"Never"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Praticare attività di rilassamento"	NA	"Q05_RelaxGen_en"	FALSE	"1"	"Spesso"	"Frequently"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Praticare attività di rilassamento"	NA	"Q05_RelaxGen_en"	FALSE	"2"	"Occasional-mente"	"Occasionally"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Praticare attività di rilassamento"	NA	"Q05_RelaxGen_en"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Praticare attività di rilassamento"	NA	"Q05_RelaxGen_en"	FALSE	"4"	"Mai"	"Never"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Bere alcool"	NA	"Q05_AlcoholGen_en"	FALSE	"1"	"Spesso"	"Frequently"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Bere alcool"	NA	"Q05_AlcoholGen_en"	FALSE	"2"	"Occasional-mente"	"Occasionally"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Bere alcool"	NA	"Q05_AlcoholGen_en"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Bere alcool"	NA	"Q05_AlcoholGen_en"	FALSE	"4"	"Mai"	"Never"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Fumare"	NA	"Q05_SmokeGen_en"	FALSE	"1"	"Spesso"	"Frequently"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Fumare"	NA	"Q05_SmokeGen_en"	FALSE	"2"	"Occasional-mente"	"Occasionally"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Fumare"	NA	"Q05_SmokeGen_en"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Fumare"	NA	"Q05_SmokeGen_en"	FALSE	"4"	"Mai"	"Never"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Stimolare il mio intelletto (p. es. cruciverba, imparare cose nuove)"	NA	"Q05_IntellectGen_en"	FALSE	"1"	"Spesso"	"Frequently"	FALSE	FALSE	7	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Stimolare il mio intelletto (p. es. cruciverba, imparare cose nuove)"	NA	"Q05_IntellectGen_en"	FALSE	"2"	"Occasional-mente"	"Occasionally"	FALSE	FALSE	7	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Stimolare il mio intelletto (p. es. cruciverba, imparare cose nuove)"	NA	"Q05_IntellectGen_en"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	7	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Stimolare il mio intelletto (p. es. cruciverba, imparare cose nuove)"	NA	"Q05_IntellectGen_en"	FALSE	"4"	"Mai"	"Never"	FALSE	FALSE	7	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Equilibrare vita professionale e familiare"	NA	"Q05_WorkLifeBalanceGen_en"	FALSE	"1"	"Spesso"	"Frequently"	FALSE	FALSE	8	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Equilibrare vita professionale e familiare"	NA	"Q05_WorkLifeBalanceGen_en"	FALSE	"2"	"Occasional-mente"	"Occasionally"	FALSE	FALSE	8	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Equilibrare vita professionale e familiare"	NA	"Q05_WorkLifeBalanceGen_en"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	8	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Equilibrare vita professionale e familiare"	NA	"Q05_WorkLifeBalanceGen_en"	FALSE	"4"	"Mai"	"Never"	FALSE	FALSE	8	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Mettere un casco per andare in bicicletta, pattinare o sciare"	NA	"Q05_ProtectionGen_en"	FALSE	"1"	"Spesso"	"Frequently"	FALSE	FALSE	9	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Mettere un casco per andare in bicicletta, pattinare o sciare"	NA	"Q05_ProtectionGen_en"	FALSE	"2"	"Occasional-mente"	"Occasionally"	FALSE	FALSE	9	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Mettere un casco per andare in bicicletta, pattinare o sciare"	NA	"Q05_ProtectionGen_en"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	9	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Mettere un casco per andare in bicicletta, pattinare o sciare"	NA	"Q05_ProtectionGen_en"	FALSE	"4"	"Mai"	"Never"	FALSE	FALSE	9	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Assumere integratori alimentari come omega 3/ vitamina D"	NA	"Q05_SupplementsGen_en"	FALSE	"1"	"Spesso"	"Frequently"	FALSE	FALSE	10	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Assumere integratori alimentari come omega 3/ vitamina D"	NA	"Q05_SupplementsGen_en"	FALSE	"2"	"Occasional-mente"	"Occasionally"	FALSE	FALSE	10	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Assumere integratori alimentari come omega 3/ vitamina D"	NA	"Q05_SupplementsGen_en"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	10	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Assumere integratori alimentari come omega 3/ vitamina D"	NA	"Q05_SupplementsGen_en"	FALSE	"4"	"Mai"	"Never"	FALSE	FALSE	10	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Socializzare (p. es. amici)"	NA	"Q05_SocialiseGen_en"	FALSE	"1"	"Spesso"	"Frequently"	FALSE	FALSE	11	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Socializzare (p. es. amici)"	NA	"Q05_SocialiseGen_en"	FALSE	"2"	"Occasional-mente"	"Occasionally"	FALSE	FALSE	11	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Socializzare (p. es. amici)"	NA	"Q05_SocialiseGen_en"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	11	NA	NA	NA
+"italian"	"it"	123887	"21"	NA	NA	"Socializzare (p. es. amici)"	NA	"Q05_SocialiseGen_en"	FALSE	"4"	"Mai"	"Never"	FALSE	FALSE	11	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Avere una dieta sana"	NA	"Q06_HealthyDietPurp_en"	FALSE	"1"	"Spesso"	"Frequently"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Avere una dieta sana"	NA	"Q06_HealthyDietPurp_en"	FALSE	"2"	"Occasional-mente"	"Occasionally"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Avere una dieta sana"	NA	"Q06_HealthyDietPurp_en"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Avere una dieta sana"	NA	"Q06_HealthyDietPurp_en"	FALSE	"4"	"Mai"	"Never"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Fare esercizio"	NA	"Q06_ExcercisePurp_en"	FALSE	"1"	"Spesso"	"Frequently"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Fare esercizio"	NA	"Q06_ExcercisePurp_en"	FALSE	"2"	"Occasional-mente"	"Occasionally"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Fare esercizio"	NA	"Q06_ExcercisePurp_en"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Fare esercizio"	NA	"Q06_ExcercisePurp_en"	FALSE	"4"	"Mai"	"Never"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Dormire abbastanza"	NA	"Q06_SleepPurp_en"	FALSE	"1"	"Spesso"	"Frequently"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Dormire abbastanza"	NA	"Q06_SleepPurp_en"	FALSE	"2"	"Occasional-mente"	"Occasionally"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Dormire abbastanza"	NA	"Q06_SleepPurp_en"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Dormire abbastanza"	NA	"Q06_SleepPurp_en"	FALSE	"4"	"Mai"	"Never"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Praticare attività di rilassamento"	NA	"Q06_RelaxPurp_en"	FALSE	"1"	"Spesso"	"Frequently"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Praticare attività di rilassamento"	NA	"Q06_RelaxPurp_en"	FALSE	"2"	"Occasional-mente"	"Occasionally"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Praticare attività di rilassamento"	NA	"Q06_RelaxPurp_en"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Praticare attività di rilassamento"	NA	"Q06_RelaxPurp_en"	FALSE	"4"	"Mai"	"Never"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Equilibrare vita professionale e familiare"	NA	"Q06_WorkLifeBalancePurp_en"	FALSE	"1"	"Spesso"	"Frequently"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Equilibrare vita professionale e familiare"	NA	"Q06_WorkLifeBalancePurp_en"	FALSE	"2"	"Occasional-mente"	"Occasionally"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Equilibrare vita professionale e familiare"	NA	"Q06_WorkLifeBalancePurp_en"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Equilibrare vita professionale e familiare"	NA	"Q06_WorkLifeBalancePurp_en"	FALSE	"4"	"Mai"	"Never"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Mettere un casco per andare in bicicletta, pattinare o sciare"	NA	"Q06_ProtectionPurp_en"	FALSE	"1"	"Spesso"	"Frequently"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Mettere un casco per andare in bicicletta, pattinare o sciare"	NA	"Q06_ProtectionPurp_en"	FALSE	"2"	"Occasional-mente"	"Occasionally"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Mettere un casco per andare in bicicletta, pattinare o sciare"	NA	"Q06_ProtectionPurp_en"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Mettere un casco per andare in bicicletta, pattinare o sciare"	NA	"Q06_ProtectionPurp_en"	FALSE	"4"	"Mai"	"Never"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Assumere integratori alimentari come omega 3/ vitamina D"	NA	"Q06_SupplementsPurp_en"	FALSE	"1"	"Spesso"	"Frequently"	FALSE	FALSE	7	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Assumere integratori alimentari come omega 3/ vitamina D"	NA	"Q06_SupplementsPurp_en"	FALSE	"2"	"Occasional-mente"	"Occasionally"	FALSE	FALSE	7	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Assumere integratori alimentari come omega 3/ vitamina D"	NA	"Q06_SupplementsPurp_en"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	7	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Assumere integratori alimentari come omega 3/ vitamina D"	NA	"Q06_SupplementsPurp_en"	FALSE	"4"	"Mai"	"Never"	FALSE	FALSE	7	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Socializzare (p.es. amici)"	NA	"Q06_SocialisePurp_en"	FALSE	"1"	"Spesso"	"Frequently"	FALSE	FALSE	8	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Socializzare (p.es. amici)"	NA	"Q06_SocialisePurp_en"	FALSE	"2"	"Occasional-mente"	"Occasionally"	FALSE	FALSE	8	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Socializzare (p.es. amici)"	NA	"Q06_SocialisePurp_en"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	8	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Socializzare (p.es. amici)"	NA	"Q06_SocialisePurp_en"	FALSE	"4"	"Mai"	"Never"	FALSE	FALSE	8	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Altre attività (la preghiamo di precisare)"	NA	"Q06_OtherPurp_en"	FALSE	"1"	"Spesso"	"Frequently"	FALSE	FALSE	9	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Altre attività (la preghiamo di precisare)"	NA	"Q06_OtherPurp_en"	FALSE	"2"	"Occasional-mente"	"Occasionally"	FALSE	FALSE	9	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Altre attività (la preghiamo di precisare)"	NA	"Q06_OtherPurp_en"	FALSE	"3"	"Raramente"	"Rarely"	FALSE	FALSE	9	NA	NA	NA
+"italian"	"it"	123887	"24"	NA	NA	"Altre attività (la preghiamo di precisare)"	NA	"Q06_OtherPurp_en"	FALSE	"4"	"Mai"	"Never"	FALSE	FALSE	9	NA	NA	NA
+"italian"	"it"	123887	"26"	NA	NA	NA	"
+
+
+"	"Q06_BrainHealth_Purpose_Spec_en"	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"italian"	"it"	123887	"29"	NA	NA	NA	NA	NA	TRUE	"1"	"Finanziariamente abbordabile"	"Cheap"	FALSE	FALSE	NA	3	NA	NA
+"italian"	"it"	123887	"29"	NA	NA	NA	NA	NA	TRUE	"2"	"Veloce"	"Quick"	FALSE	FALSE	NA	3	NA	NA
+"italian"	"it"	123887	"29"	NA	NA	NA	NA	NA	TRUE	"3"	"Preciso"	"Accurate"	FALSE	FALSE	NA	3	NA	NA
+"italian"	"it"	123887	"29"	NA	NA	NA	NA	NA	TRUE	"4"	"Indolore"	"NoPain"	FALSE	FALSE	NA	3	NA	NA
+"italian"	"it"	123887	"29"	NA	NA	NA	NA	NA	TRUE	"5"	"Sovvenzionato dalla Previdenza sociale"	"SocialSecurity"	FALSE	FALSE	NA	3	NA	NA
+"italian"	"it"	123887	"29"	NA	NA	NA	NA	NA	TRUE	"6"	"Disponibile online con accesso diretto ai risultati"	"OnlineCriteria"	FALSE	FALSE	NA	3	NA	NA
+"italian"	"it"	123887	"29"	NA	NA	NA	NA	NA	TRUE	"7"	"Altro (la preghiamo di specificare):"	"OtherCriteria"	FALSE	FALSE	NA	3	NA	NA
+"italian"	"it"	123887	"31"	NA	NA	NA	NA	"Q07_Test_Criteria_Spec_en"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"italian"	"it"	123887	"34"	NA	NA	NA	"Si prega di selezionare una risposta.
+"	"Q08_Take_Test_en"	TRUE	"1"	"Certamente sì"	"Definitely"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"34"	NA	NA	NA	"Si prega di selezionare una risposta.
+"	"Q08_Take_Test_en"	TRUE	"2"	"Probabilmente sì"	"Probably"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"34"	NA	NA	NA	"Si prega di selezionare una risposta.
+"	"Q08_Take_Test_en"	TRUE	"3"	"Probabilmente no"	"ProbablyNot"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"34"	NA	NA	NA	"Si prega di selezionare una risposta.
+"	"Q08_Take_Test_en"	TRUE	"4"	"Certamente no"	"DefinitelyNot"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"37"	NA	NA	NA	NA	NA	TRUE	"1"	"Per ottenere informazioni sulla mia salute mentale e quella cognitiva"	"Information"	FALSE	FALSE	NA	2	NA	NA
+"italian"	"it"	123887	"37"	NA	NA	NA	NA	NA	TRUE	"2"	"Per determinare i miei rischi di sviluppare una malattia del cervello"	"LearnRisk"	FALSE	FALSE	NA	2	NA	NA
+"italian"	"it"	123887	"37"	NA	NA	NA	NA	NA	TRUE	"3"	"Per agire in caso di rischio, per esempio modificando il mio stile di vita, facendo counseling, o seguendo un trattamento"	"Respond"	FALSE	FALSE	NA	2	NA	NA
+"italian"	"it"	123887	"37"	NA	NA	NA	NA	NA	TRUE	"4"	"Per prepararmi al mio futuro (p. es. informando la mia famiglia su questo rischio)"	"Prepare"	FALSE	FALSE	NA	2	NA	NA
+"italian"	"it"	123887	"37"	NA	NA	NA	NA	NA	TRUE	"5"	"Altri motivi (la preghiamo di specificare):"	"OtherMotivation"	FALSE	FALSE	NA	2	NA	NA
+"italian"	"it"	123887	"39"	NA	NA	NA	NA	"Q09a_Test_Reason_Spec_en"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"italian"	"it"	123887	"42"	NA	NA	NA	"Si prega di selezionare una risposta
+
+
+"	"Q09b_Test_Nonpreventable_en"	TRUE	"1"	"Certamente sì"	"DefYes"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"42"	NA	NA	NA	"Si prega di selezionare una risposta
+
+
+"	"Q09b_Test_Nonpreventable_en"	TRUE	"2"	"Probabilmente sì"	"ProbablyYes"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"42"	NA	NA	NA	"Si prega di selezionare una risposta
+
+
+"	"Q09b_Test_Nonpreventable_en"	TRUE	"3"	"Probabilmente no"	"ProbablyNot"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"42"	NA	NA	NA	"Si prega di selezionare una risposta
+
+
+"	"Q09b_Test_Nonpreventable_en"	TRUE	"4"	"Certamente no"	"DefNot"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"45"	NA	NA	NA	NA	NA	TRUE	"1"	"Non voglio preoccuparmi di qualcosa che potrebbe non accadere."	"Worry"	FALSE	FALSE	NA	2	NA	NA
+"italian"	"it"	123887	"45"	NA	NA	NA	NA	NA	TRUE	"2"	"Non ne voglio sapere di una malattia che non può essere prevenuta o curata"	"DoNotWantToKnow"	FALSE	FALSE	NA	2	NA	NA
+"italian"	"it"	123887	"45"	NA	NA	NA	NA	NA	TRUE	"3"	"Sarei spaventato dal risultato"	"Frightened"	FALSE	FALSE	NA	2	NA	NA
+"italian"	"it"	123887	"45"	NA	NA	NA	NA	NA	TRUE	"4"	"Comunque non c&#39;è niente che io possa fare per la salute del mio cervello"	"Helpless"	FALSE	FALSE	NA	2	NA	NA
+"italian"	"it"	123887	"45"	NA	NA	NA	NA	NA	TRUE	"5"	"Altri motivi (la preghiamo di specificare):"	"OtherReason"	FALSE	FALSE	NA	2	NA	NA
+"italian"	"it"	123887	"47"	NA	NA	NA	NA	"Q09c_OtherReason_Spec_en"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"italian"	"it"	123887	"50"	NA	NA	"Cercherei un aiuto professionale (p. es. il mio medico)"	NA	"Q10_ProfessHelp_en"	FALSE	"1"	"Certamente sì"	"DefYes"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"50"	NA	NA	"Cercherei un aiuto professionale (p. es. il mio medico)"	NA	"Q10_ProfessHelp_en"	FALSE	"2"	"Abbastanza probabile"	"Likely"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"50"	NA	NA	"Cercherei un aiuto professionale (p. es. il mio medico)"	NA	"Q10_ProfessHelp_en"	FALSE	"3"	"Abbastanza improbabile"	"Unlikely"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"50"	NA	NA	"Cercherei un aiuto professionale (p. es. il mio medico)"	NA	"Q10_ProfessHelp_en"	FALSE	"4"	"Certamente no"	"Defnot"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"50"	NA	NA	"Chiederei consigli ai familiari e agli amici"	NA	"Q10_FamilyFriends_en"	FALSE	"1"	"Certamente sì"	"DefYes"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"50"	NA	NA	"Chiederei consigli ai familiari e agli amici"	NA	"Q10_FamilyFriends_en"	FALSE	"2"	"Abbastanza probabile"	"Likely"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"50"	NA	NA	"Chiederei consigli ai familiari e agli amici"	NA	"Q10_FamilyFriends_en"	FALSE	"3"	"Abbastanza improbabile"	"Unlikely"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"50"	NA	NA	"Chiederei consigli ai familiari e agli amici"	NA	"Q10_FamilyFriends_en"	FALSE	"4"	"Certamente no"	"Defnot"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"50"	NA	NA	"Cercherei informazione online / sui libri"	NA	"Q10_Library_en"	FALSE	"1"	"Certamente sì"	"DefYes"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"50"	NA	NA	"Cercherei informazione online / sui libri"	NA	"Q10_Library_en"	FALSE	"2"	"Abbastanza probabile"	"Likely"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"50"	NA	NA	"Cercherei informazione online / sui libri"	NA	"Q10_Library_en"	FALSE	"3"	"Abbastanza improbabile"	"Unlikely"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"50"	NA	NA	"Cercherei informazione online / sui libri"	NA	"Q10_Library_en"	FALSE	"4"	"Certamente no"	"Defnot"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"50"	NA	NA	"Cambierei il mio stile di vita se necessario"	NA	"Q10_LifestyleChange_en"	FALSE	"1"	"Certamente sì"	"DefYes"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"50"	NA	NA	"Cambierei il mio stile di vita se necessario"	NA	"Q10_LifestyleChange_en"	FALSE	"2"	"Abbastanza probabile"	"Likely"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"50"	NA	NA	"Cambierei il mio stile di vita se necessario"	NA	"Q10_LifestyleChange_en"	FALSE	"3"	"Abbastanza improbabile"	"Unlikely"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"50"	NA	NA	"Cambierei il mio stile di vita se necessario"	NA	"Q10_LifestyleChange_en"	FALSE	"4"	"Certamente no"	"Defnot"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"50"	NA	NA	"Pianificherei per il futuro"	NA	"Q10_Plan_en"	FALSE	"1"	"Certamente sì"	"DefYes"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"50"	NA	NA	"Pianificherei per il futuro"	NA	"Q10_Plan_en"	FALSE	"2"	"Abbastanza probabile"	"Likely"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"50"	NA	NA	"Pianificherei per il futuro"	NA	"Q10_Plan_en"	FALSE	"3"	"Abbastanza improbabile"	"Unlikely"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"50"	NA	NA	"Pianificherei per il futuro"	NA	"Q10_Plan_en"	FALSE	"4"	"Certamente no"	"Defnot"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"52"	NA	NA	NA	"
+
+
+
+
+"	"Q10_TestReactionSpec_en"	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Mangiare più sano"	NA	"Q11_EatHealthy_en"	FALSE	"1"	"Molto probabile"	"VeryLikely"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Mangiare più sano"	NA	"Q11_EatHealthy_en"	FALSE	"2"	"Abbastanza probabile"	"Likely"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Mangiare più sano"	NA	"Q11_EatHealthy_en"	FALSE	"3"	"Lo faccio già"	"AlreadyDo"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Mangiare più sano"	NA	"Q11_EatHealthy_en"	FALSE	"4"	"Abbastanza improbabile"	"Unlikely"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Mangiare più sano"	NA	"Q11_EatHealthy_en"	FALSE	"5"	"Molto improbabile"	"NotAtAll"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Fare più esercizio"	NA	"Q11_ExcerciseMore_en"	FALSE	"1"	"Molto probabile"	"VeryLikely"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Fare più esercizio"	NA	"Q11_ExcerciseMore_en"	FALSE	"2"	"Abbastanza probabile"	"Likely"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Fare più esercizio"	NA	"Q11_ExcerciseMore_en"	FALSE	"3"	"Lo faccio già"	"AlreadyDo"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Fare più esercizio"	NA	"Q11_ExcerciseMore_en"	FALSE	"4"	"Abbastanza improbabile"	"Unlikely"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Fare più esercizio"	NA	"Q11_ExcerciseMore_en"	FALSE	"5"	"Molto improbabile"	"NotAtAll"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Migliorare le abitudini di sonno"	NA	"Q11_ImprSleepingHabits_en"	FALSE	"1"	"Molto probabile"	"VeryLikely"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Migliorare le abitudini di sonno"	NA	"Q11_ImprSleepingHabits_en"	FALSE	"2"	"Abbastanza probabile"	"Likely"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Migliorare le abitudini di sonno"	NA	"Q11_ImprSleepingHabits_en"	FALSE	"3"	"Lo faccio già"	"AlreadyDo"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Migliorare le abitudini di sonno"	NA	"Q11_ImprSleepingHabits_en"	FALSE	"4"	"Abbastanza improbabile"	"Unlikely"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Migliorare le abitudini di sonno"	NA	"Q11_ImprSleepingHabits_en"	FALSE	"5"	"Molto improbabile"	"NotAtAll"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Fare più attività di rilassamento"	NA	"Q11_MoreRelax_en"	FALSE	"1"	"Molto probabile"	"VeryLikely"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Fare più attività di rilassamento"	NA	"Q11_MoreRelax_en"	FALSE	"2"	"Abbastanza probabile"	"Likely"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Fare più attività di rilassamento"	NA	"Q11_MoreRelax_en"	FALSE	"3"	"Lo faccio già"	"AlreadyDo"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Fare più attività di rilassamento"	NA	"Q11_MoreRelax_en"	FALSE	"4"	"Abbastanza improbabile"	"Unlikely"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Fare più attività di rilassamento"	NA	"Q11_MoreRelax_en"	FALSE	"5"	"Molto improbabile"	"NotAtAll"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Stimolare di più il mio cervello (p. es. imparare una nuova lingua)"	NA	"Q11_BrainStimuli_en"	FALSE	"1"	"Molto probabile"	"VeryLikely"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Stimolare di più il mio cervello (p. es. imparare una nuova lingua)"	NA	"Q11_BrainStimuli_en"	FALSE	"2"	"Abbastanza probabile"	"Likely"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Stimolare di più il mio cervello (p. es. imparare una nuova lingua)"	NA	"Q11_BrainStimuli_en"	FALSE	"3"	"Lo faccio già"	"AlreadyDo"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Stimolare di più il mio cervello (p. es. imparare una nuova lingua)"	NA	"Q11_BrainStimuli_en"	FALSE	"4"	"Abbastanza improbabile"	"Unlikely"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Stimolare di più il mio cervello (p. es. imparare una nuova lingua)"	NA	"Q11_BrainStimuli_en"	FALSE	"5"	"Molto improbabile"	"NotAtAll"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Evitare l&#39;alcool"	NA	"Q11_NoAlcohol_en"	FALSE	"1"	"Molto probabile"	"VeryLikely"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Evitare l&#39;alcool"	NA	"Q11_NoAlcohol_en"	FALSE	"2"	"Abbastanza probabile"	"Likely"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Evitare l&#39;alcool"	NA	"Q11_NoAlcohol_en"	FALSE	"3"	"Lo faccio già"	"AlreadyDo"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Evitare l&#39;alcool"	NA	"Q11_NoAlcohol_en"	FALSE	"4"	"Abbastanza improbabile"	"Unlikely"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Evitare l&#39;alcool"	NA	"Q11_NoAlcohol_en"	FALSE	"5"	"Molto improbabile"	"NotAtAll"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Evitare di fumare"	NA	"Q11_NoSmoking_en"	FALSE	"1"	"Molto probabile"	"VeryLikely"	FALSE	FALSE	7	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Evitare di fumare"	NA	"Q11_NoSmoking_en"	FALSE	"2"	"Abbastanza probabile"	"Likely"	FALSE	FALSE	7	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Evitare di fumare"	NA	"Q11_NoSmoking_en"	FALSE	"3"	"Lo faccio già"	"AlreadyDo"	FALSE	FALSE	7	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Evitare di fumare"	NA	"Q11_NoSmoking_en"	FALSE	"4"	"Abbastanza improbabile"	"Unlikely"	FALSE	FALSE	7	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Evitare di fumare"	NA	"Q11_NoSmoking_en"	FALSE	"5"	"Molto improbabile"	"NotAtAll"	FALSE	FALSE	7	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Socializzare di più"	NA	"Q11_MoreSocial_en"	FALSE	"1"	"Molto probabile"	"VeryLikely"	FALSE	FALSE	8	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Socializzare di più"	NA	"Q11_MoreSocial_en"	FALSE	"2"	"Abbastanza probabile"	"Likely"	FALSE	FALSE	8	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Socializzare di più"	NA	"Q11_MoreSocial_en"	FALSE	"3"	"Lo faccio già"	"AlreadyDo"	FALSE	FALSE	8	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Socializzare di più"	NA	"Q11_MoreSocial_en"	FALSE	"4"	"Abbastanza improbabile"	"Unlikely"	FALSE	FALSE	8	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Socializzare di più"	NA	"Q11_MoreSocial_en"	FALSE	"5"	"Molto improbabile"	"NotAtAll"	FALSE	FALSE	8	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Fare più attività culturali"	NA	"Q11_MoreCulture_en"	FALSE	"1"	"Molto probabile"	"VeryLikely"	FALSE	FALSE	9	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Fare più attività culturali"	NA	"Q11_MoreCulture_en"	FALSE	"2"	"Abbastanza probabile"	"Likely"	FALSE	FALSE	9	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Fare più attività culturali"	NA	"Q11_MoreCulture_en"	FALSE	"3"	"Lo faccio già"	"AlreadyDo"	FALSE	FALSE	9	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Fare più attività culturali"	NA	"Q11_MoreCulture_en"	FALSE	"4"	"Abbastanza improbabile"	"Unlikely"	FALSE	FALSE	9	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Fare più attività culturali"	NA	"Q11_MoreCulture_en"	FALSE	"5"	"Molto improbabile"	"NotAtAll"	FALSE	FALSE	9	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Altro (per favore specificare):"	NA	"Q11_OtherChanges_en"	FALSE	"1"	"Molto probabile"	"VeryLikely"	FALSE	FALSE	10	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Altro (per favore specificare):"	NA	"Q11_OtherChanges_en"	FALSE	"2"	"Abbastanza probabile"	"Likely"	FALSE	FALSE	10	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Altro (per favore specificare):"	NA	"Q11_OtherChanges_en"	FALSE	"3"	"Lo faccio già"	"AlreadyDo"	FALSE	FALSE	10	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Altro (per favore specificare):"	NA	"Q11_OtherChanges_en"	FALSE	"4"	"Abbastanza improbabile"	"Unlikely"	FALSE	FALSE	10	NA	NA	NA
+"italian"	"it"	123887	"55"	NA	NA	"Altro (per favore specificare):"	NA	"Q11_OtherChanges_en"	FALSE	"5"	"Molto improbabile"	"NotAtAll"	FALSE	FALSE	10	NA	NA	NA
+"italian"	"it"	123887	"57"	NA	NA	NA	NA	"Q11_OtherChanges_Spec_en"	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"italian"	"it"	123887	"60"	NA	NA	NA	NA	NA	TRUE	"1"	"Se notassi problemi con la salute del mio cervello (per es. peggioramento della mia memoria)"	"WorseMemory"	FALSE	FALSE	NA	3	NA	NA
+"italian"	"it"	123887	"60"	NA	NA	NA	NA	NA	TRUE	"2"	"Se mi venisse diagnosticato un disturbo cerebrale"	"Diagnose"	FALSE	FALSE	NA	3	NA	NA
+"italian"	"it"	123887	"60"	NA	NA	NA	NA	NA	TRUE	"3"	"Se il cambiamento di stile di vita fosse divertente e gradevole"	"Fun"	FALSE	FALSE	NA	3	NA	NA
+"italian"	"it"	123887	"60"	NA	NA	NA	NA	NA	TRUE	"4"	"Se il cambiamento di stile di vita fosse finanziariamente abbordabile"	"Affordable"	FALSE	FALSE	NA	3	NA	NA
+"italian"	"it"	123887	"60"	NA	NA	NA	NA	NA	TRUE	"5"	"Se i miei parenti o amici sviluppassero un disturbo cerebrale"	"Family"	FALSE	FALSE	NA	3	NA	NA
+"italian"	"it"	123887	"60"	NA	NA	NA	NA	NA	TRUE	"6"	"Se ricevessi consigli personalizzati su cosa fare (p.es. dal mio medico)"	"PersonalAdvice"	FALSE	FALSE	NA	3	NA	NA
+"italian"	"it"	123887	"60"	NA	NA	NA	NA	NA	TRUE	"7"	"Se avessi il sopporto di amici / familiari"	"FamilySupport"	FALSE	FALSE	NA	3	NA	NA
+"italian"	"it"	123887	"60"	NA	NA	NA	NA	NA	TRUE	"8"	"Se fosse noto che il cambiamento di stile di vita è benefico"	"ImpactKnown"	FALSE	FALSE	NA	3	NA	NA
+"italian"	"it"	123887	"60"	NA	NA	NA	NA	NA	TRUE	"9"	"Niente mi motiverebbe"	"NoMotivation"	FALSE	FALSE	NA	3	NA	NA
+"italian"	"it"	123887	"60"	NA	NA	NA	NA	NA	TRUE	"10"	"Altro (si prega di specificare):"	"OtherMotivationChange"	FALSE	FALSE	NA	3	NA	NA
+"italian"	"it"	123887	"62"	NA	NA	NA	NA	"Q12_OtherChangeMotivation_Spec_en"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"italian"	"it"	123887	"65"	NA	NA	NA	NA	NA	TRUE	"1"	"Mancanza di tempo"	"NoTime"	FALSE	FALSE	NA	3	NA	NA
+"italian"	"it"	123887	"65"	NA	NA	NA	NA	NA	TRUE	"2"	"Mancanza di motivazione"	"NoMotivation"	FALSE	FALSE	NA	3	NA	NA
+"italian"	"it"	123887	"65"	NA	NA	NA	NA	NA	TRUE	"3"	"Mancanza d’informazione su cosa fare"	"NoInfo"	FALSE	FALSE	NA	3	NA	NA
+"italian"	"it"	123887	"65"	NA	NA	NA	NA	NA	TRUE	"4"	"Se dovessi rinunciare ad attività a cui tengo"	"GiveupHobby"	FALSE	FALSE	NA	3	NA	NA
+"italian"	"it"	123887	"65"	NA	NA	NA	NA	NA	TRUE	"5"	"Se dovessi cominciare attività che non mi piacciono"	"StartNoFun"	FALSE	FALSE	NA	3	NA	NA
+"italian"	"it"	123887	"65"	NA	NA	NA	NA	NA	TRUE	"6"	"Se dovessi fare i cambiamenti da solo"	"Alone"	FALSE	FALSE	NA	3	NA	NA
+"italian"	"it"	123887	"65"	NA	NA	NA	NA	NA	TRUE	"7"	"Se fare i cambiamenti fosse costoso"	"Expensive"	FALSE	FALSE	NA	3	NA	NA
+"italian"	"it"	123887	"65"	NA	NA	NA	NA	NA	TRUE	"8"	"Se non fossi sicuro che i cambiamenti aiutino"	"NotHelp"	FALSE	FALSE	NA	3	NA	NA
+"italian"	"it"	123887	"65"	NA	NA	NA	NA	NA	TRUE	"9"	"Non sento nessuna utilità di fare qualsiasi cosa"	"NoNeed"	FALSE	FALSE	NA	3	NA	NA
+"italian"	"it"	123887	"65"	NA	NA	NA	NA	NA	TRUE	"10"	"Altro (si prega di specificare):"	"OtherMotivationNoChange"	FALSE	FALSE	NA	3	NA	NA
+"italian"	"it"	123887	"67"	NA	NA	NA	NA	"Q13_SpecifyNoMotivation_Spec_en"	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"italian"	"it"	123887	"70"	NA	NA	NA	NA	NA	FALSE	"1"	"Consigli dal mio medico o da uno specialista, p. es. un nutrizionista o un personal trainer"	"GP"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"70"	NA	NA	NA	NA	NA	FALSE	"2"	"Sostegno dai miei familiari e/o amici"	"SupportFamily"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"70"	NA	NA	NA	NA	NA	FALSE	"3"	"Gruppo di sostegno, p. es. un gruppo per andare a camminare"	"GroupSupport"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"70"	NA	NA	NA	NA	NA	FALSE	"4"	"Un app per il cellulare che aiuti l&#39;allenamento fisico e del cervello"	"MobileApp"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"70"	NA	NA	NA	NA	NA	FALSE	"5"	"Monitoraggio regolare per osservare gli effetti di cambiamento di stile di vita"	"Checkup"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"70"	NA	NA	NA	NA	NA	FALSE	"6"	"Qualsiasi altro tipo d’aiuto, si prega di specificare:"	"OtherAssistance"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"72"	NA	NA	NA	NA	"Q14_OtherAssistance_Spec_en"	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"italian"	"it"	123887	"75"	NA	NA	"Informare il pubblico sulla salute del cervello"	NA	"Q15_InformAuth_en"	FALSE	"1"	"Si"	"Yes"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"75"	NA	NA	"Informare il pubblico sulla salute del cervello"	NA	"Q15_InformAuth_en"	FALSE	"2"	"No"	"No"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"75"	NA	NA	"Informare il pubblico sulla salute del cervello"	NA	"Q15_InformAuth_en"	FALSE	"3"	"Non lo so"	"Unknown"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"75"	NA	NA	"Aumentare le tasse dei prodotti nocivi alla salute del cervello"	NA	"Q15_TaxAuth_en"	FALSE	"1"	"Si"	"Yes"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"75"	NA	NA	"Aumentare le tasse dei prodotti nocivi alla salute del cervello"	NA	"Q15_TaxAuth_en"	FALSE	"2"	"No"	"No"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"75"	NA	NA	"Aumentare le tasse dei prodotti nocivi alla salute del cervello"	NA	"Q15_TaxAuth_en"	FALSE	"3"	"Non lo so"	"Unknown"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"75"	NA	NA	"Sovvenzionare cibi e le attività che sono favorevoli al cervello"	NA	"Q15_SubsAuth_en"	FALSE	"1"	"Si"	"Yes"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"75"	NA	NA	"Sovvenzionare cibi e le attività che sono favorevoli al cervello"	NA	"Q15_SubsAuth_en"	FALSE	"2"	"No"	"No"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"75"	NA	NA	"Sovvenzionare cibi e le attività che sono favorevoli al cervello"	NA	"Q15_SubsAuth_en"	FALSE	"3"	"Non lo so"	"Unknown"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"75"	NA	NA	"Offrire ai cittadini test gratuiti per la salute del cervello"	NA	"Q15_FreetestAuth_en"	FALSE	"1"	"Si"	"Yes"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"75"	NA	NA	"Offrire ai cittadini test gratuiti per la salute del cervello"	NA	"Q15_FreetestAuth_en"	FALSE	"2"	"No"	"No"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"75"	NA	NA	"Offrire ai cittadini test gratuiti per la salute del cervello"	NA	"Q15_FreetestAuth_en"	FALSE	"3"	"Non lo so"	"Unknown"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"75"	NA	NA	"Istituire attività e sport di rilassamento nelle scuole e sui posti di lavoro"	NA	"Q15_RelaxAuth_en"	FALSE	"1"	"Si"	"Yes"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"75"	NA	NA	"Istituire attività e sport di rilassamento nelle scuole e sui posti di lavoro"	NA	"Q15_RelaxAuth_en"	FALSE	"2"	"No"	"No"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"75"	NA	NA	"Istituire attività e sport di rilassamento nelle scuole e sui posti di lavoro"	NA	"Q15_RelaxAuth_en"	FALSE	"3"	"Non lo so"	"Unknown"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"75"	NA	NA	"Impedire alle assicurazioni sanitarie di accedere ai risultati dei test sulla salute del cervello"	NA	"Q15_InsAuth_en"	FALSE	"1"	"Si"	"Yes"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"75"	NA	NA	"Impedire alle assicurazioni sanitarie di accedere ai risultati dei test sulla salute del cervello"	NA	"Q15_InsAuth_en"	FALSE	"2"	"No"	"No"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"75"	NA	NA	"Impedire alle assicurazioni sanitarie di accedere ai risultati dei test sulla salute del cervello"	NA	"Q15_InsAuth_en"	FALSE	"3"	"Non lo so"	"Unknown"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"78"	NA	NA	"Il mio medico di famiglia"	NA	"Q16_GP_en"	FALSE	"1"	"In ampia misura"	"GreatExtent"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"78"	NA	NA	"Il mio medico di famiglia"	NA	"Q16_GP_en"	FALSE	"2"	"Moderata-mente"	"Neutral"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"78"	NA	NA	"Il mio medico di famiglia"	NA	"Q16_GP_en"	FALSE	"3"	"Per niente"	"NotatAll"	FALSE	FALSE	1	NA	NA	NA
+"italian"	"it"	123887	"78"	NA	NA	"Uno specialista della salute del cervello"	NA	"Q16_BrainHealthSpec_en"	FALSE	"1"	"In ampia misura"	"GreatExtent"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"78"	NA	NA	"Uno specialista della salute del cervello"	NA	"Q16_BrainHealthSpec_en"	FALSE	"2"	"Moderata-mente"	"Neutral"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"78"	NA	NA	"Uno specialista della salute del cervello"	NA	"Q16_BrainHealthSpec_en"	FALSE	"3"	"Per niente"	"NotatAll"	FALSE	FALSE	2	NA	NA	NA
+"italian"	"it"	123887	"78"	NA	NA	"I forum medicali online"	NA	"Q16_OnlineForum_en"	FALSE	"1"	"In ampia misura"	"GreatExtent"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"78"	NA	NA	"I forum medicali online"	NA	"Q16_OnlineForum_en"	FALSE	"2"	"Moderata-mente"	"Neutral"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"78"	NA	NA	"I forum medicali online"	NA	"Q16_OnlineForum_en"	FALSE	"3"	"Per niente"	"NotatAll"	FALSE	FALSE	3	NA	NA	NA
+"italian"	"it"	123887	"78"	NA	NA	"Siti web ufficiali delle autorità sanitarie"	NA	"Q16_HealthAuthWebsites_en"	FALSE	"1"	"In ampia misura"	"GreatExtent"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"78"	NA	NA	"Siti web ufficiali delle autorità sanitarie"	NA	"Q16_HealthAuthWebsites_en"	FALSE	"2"	"Moderata-mente"	"Neutral"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"78"	NA	NA	"Siti web ufficiali delle autorità sanitarie"	NA	"Q16_HealthAuthWebsites_en"	FALSE	"3"	"Per niente"	"NotatAll"	FALSE	FALSE	4	NA	NA	NA
+"italian"	"it"	123887	"78"	NA	NA	"Giornali, riviste"	NA	"Q16_Newspaper_en"	FALSE	"1"	"In ampia misura"	"GreatExtent"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"78"	NA	NA	"Giornali, riviste"	NA	"Q16_Newspaper_en"	FALSE	"2"	"Moderata-mente"	"Neutral"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"78"	NA	NA	"Giornali, riviste"	NA	"Q16_Newspaper_en"	FALSE	"3"	"Per niente"	"NotatAll"	FALSE	FALSE	5	NA	NA	NA
+"italian"	"it"	123887	"78"	NA	NA	"Social media (Facebook, Twitter, Instagram)"	NA	"Q16_SocialMedia_en"	FALSE	"1"	"In ampia misura"	"GreatExtent"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"78"	NA	NA	"Social media (Facebook, Twitter, Instagram)"	NA	"Q16_SocialMedia_en"	FALSE	"2"	"Moderata-mente"	"Neutral"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"78"	NA	NA	"Social media (Facebook, Twitter, Instagram)"	NA	"Q16_SocialMedia_en"	FALSE	"3"	"Per niente"	"NotatAll"	FALSE	FALSE	6	NA	NA	NA
+"italian"	"it"	123887	"78"	NA	NA	"TV/radio (podcast inclusi)"	NA	"Q16_TVRadio_en"	FALSE	"1"	"In ampia misura"	"GreatExtent"	FALSE	FALSE	7	NA	NA	NA
+"italian"	"it"	123887	"78"	NA	NA	"TV/radio (podcast inclusi)"	NA	"Q16_TVRadio_en"	FALSE	"2"	"Moderata-mente"	"Neutral"	FALSE	FALSE	7	NA	NA	NA
+"italian"	"it"	123887	"78"	NA	NA	"TV/radio (podcast inclusi)"	NA	"Q16_TVRadio_en"	FALSE	"3"	"Per niente"	"NotatAll"	FALSE	FALSE	7	NA	NA	NA
+"italian"	"it"	123887	"78"	NA	NA	"Ricercatori pubblici"	NA	"Q16_PublicResearch_en"	FALSE	"1"	"In ampia misura"	"GreatExtent"	FALSE	FALSE	8	NA	NA	NA
+"italian"	"it"	123887	"78"	NA	NA	"Ricercatori pubblici"	NA	"Q16_PublicResearch_en"	FALSE	"2"	"Moderata-mente"	"Neutral"	FALSE	FALSE	8	NA	NA	NA
+"italian"	"it"	123887	"78"	NA	NA	"Ricercatori pubblici"	NA	"Q16_PublicResearch_en"	FALSE	"3"	"Per niente"	"NotatAll"	FALSE	FALSE	8	NA	NA	NA
+"italian"	"it"	123887	"78"	NA	NA	"Riviste scientifiche"	NA	"Q16_ScientificJournals_en"	FALSE	"1"	"In ampia misura"	"GreatExtent"	FALSE	FALSE	9	NA	NA	NA
+"italian"	"it"	123887	"78"	NA	NA	"Riviste scientifiche"	NA	"Q16_ScientificJournals_en"	FALSE	"2"	"Moderata-mente"	"Neutral"	FALSE	FALSE	9	NA	NA	NA
+"italian"	"it"	123887	"78"	NA	NA	"Riviste scientifiche"	NA	"Q16_ScientificJournals_en"	FALSE	"3"	"Per niente"	"NotatAll"	FALSE	FALSE	9	NA	NA	NA
+"italian"	"it"	123887	"81"	NA	NA	"17. Attualmente partecipa o hai già partecipato a delle ricerche sul cervello?"	NA	"Q17_BrainResearch_Part_en"	TRUE	"1"	"Si"	"Yes"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"81"	NA	NA	"17. Attualmente partecipa o hai già partecipato a delle ricerche sul cervello?"	NA	"Q17_BrainResearch_Part_en"	TRUE	"2"	"No"	"No"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"83"	NA	NA	"18. Quanti anni ha?"	NA	"Q18_Age_en"	TRUE	"1"	"18-25"	"18-25"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"83"	NA	NA	"18. Quanti anni ha?"	NA	"Q18_Age_en"	TRUE	"2"	"26-40"	"26-40"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"83"	NA	NA	"18. Quanti anni ha?"	NA	"Q18_Age_en"	TRUE	"3"	"41-60"	"41-60"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"83"	NA	NA	"18. Quanti anni ha?"	NA	"Q18_Age_en"	TRUE	"4"	"61-70"	"61-70"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"83"	NA	NA	"18. Quanti anni ha?"	NA	"Q18_Age_en"	TRUE	"5"	"71-80"	"71-80"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"83"	NA	NA	"18. Quanti anni ha?"	NA	"Q18_Age_en"	TRUE	"6"	"Oltre 80"	"80plus"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"1"	"Afghanistan"	"Afghanistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"2"	"Albania"	"Albania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"3"	"Algeria"	"Algeria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"4"	"Andorra"	"Andorra"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"5"	"Angola"	"Angola"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"6"	"Antigua e Barbuda"	"Antigua"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"7"	"Argentina"	"Argentina"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"8"	"Arabia Saudita"	"SaudiArabia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"9"	"Armenia"	"Armenia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"10"	"Australia"	"Australia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"11"	"Austria"	"Austria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"12"	"Azerbaijan"	"Azerbaijan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"13"	"Bahamas"	"Bahamas"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"14"	"Bahrein"	"Bahrain"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"15"	"Barbados"	"Barbados"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"16"	"Bielorussia"	"Belarus"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"17"	"Belize"	"Belize"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"18"	"Belgio"	"Belgium"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"19"	"Benin"	"Benin"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"20"	"Bhutan"	"Bhutan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"21"	"Bolivia"	"Bolivia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"22"	"Bosnia ed Herzegovina"	"Bosnia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"23"	"Botswana"	"Botswana"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"24"	"Brasile"	"Brasil"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"25"	"Brunei"	"Brunei"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"26"	"Bulgaria"	"Bulgaria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"27"	"Burkina Faso"	"BurkinaFaso"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"28"	"Burundi"	"Burundi"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"29"	"Canada"	"Canada"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"30"	"Cambogia"	"Cambodia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"31"	"Camerun"	"Cameroon"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"32"	"Capo Verde"	"CapeVerde"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"33"	"Ciad"	"Chad"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"34"	"Cile"	"Chile"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"35"	"Cina"	"China"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"36"	"Colombia"	"Colombia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"37"	"Comore"	"Comoros"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"38"	"Corea del Sud"	"SouthKorea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"39"	"Corea del Nord"	"NorthKorea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"40"	"Costa Rica"	"CostaRica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"41"	"Costa d&#39;Avorio"	"Cotedivoire"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"42"	"Croazia"	"Croatia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"43"	"Cuba"	"Cuba"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"44"	"Cipro"	"Cyprus"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"45"	"Cechia"	"Czech"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"46"	"Danimarca"	"Denmark"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"47"	"Ecuador"	"Ecuador"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"48"	"Egitto"	"Egypt"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"49"	"El Salvador"	"ElSalvador"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"50"	"Emirati Arabi Uniti"	"ArabEmirates"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"51"	"Equatorial Guinea"	"EGuinea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"52"	"Eritrea"	"Eritrea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"53"	"Estonia"	"Estonia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"54"	"Etiopia"	"Ethiopia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"55"	"Fiji"	"Fiji"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"56"	"Filippine"	"Philippines"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"57"	"Finlandia"	"Finland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"58"	"Francia"	"France"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"59"	"Gabon"	"Gabon"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"60"	"Gambia"	"Gambia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"61"	"Georgia"	"Georgia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"62"	"Germania"	"Germany"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"63"	"Ghana"	"Ghana"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"64"	"Giamaica"	"Jamaica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"65"	"Giappone"	"Japan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"66"	"Gibuti"	"Djibouti"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"67"	"Giordania"	"Jordan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"68"	"Grecia"	"Greece"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"69"	"Grenada"	"Grenada"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"70"	"Guetamala"	"Guetamala"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"71"	"Guinea"	"Guinea"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"72"	"Guinea-Bissau"	"GuineaB"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"73"	"Guyana"	"Guyana"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"74"	"Haiti"	"Haiti"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"75"	"Honduras"	"Honduras"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"76"	"Islanda"	"Iceland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"77"	"India"	"India"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"78"	"Indonesia"	"Indonesia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"79"	"Irlanda"	"Ireland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"80"	"Isole Marshall"	"MarshallIslands"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"81"	"Israele"	"Israel"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"82"	"Italia"	"Italy"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"83"	"Iran"	"Iran"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"84"	"Iraq"	"Iraq"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"85"	"Irlanda del Nord"	"NorthernIreland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"86"	"Isole Salomone"	"SolomonIsland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"87"	"Kazahstan"	"Kazahstan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"88"	"Kenya"	"Kenya"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"89"	"Kiribati"	"Kiribati"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"90"	"Kosovo"	"Kosovo"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"91"	"Kuwait"	"Kuwait"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"92"	"Kirghizistan"	"Kyrgyzstan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"93"	"Laos"	"Laos"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"94"	"Lettonia"	"Latvia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"95"	"Libano"	"Lebanon"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"96"	"Lesotho"	"Lesotho"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"97"	"Liberia"	"Liberia_en"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"98"	"Libia"	"Libya"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"99"	"Liechtenstein"	"Liechtenstein"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"100"	"Lituania"	"Lithuania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"101"	"Lussemburgo"	"Luxembourg"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"102"	"Macedonia"	"Macedonia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"103"	"Madagascar"	"Madagascar"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"104"	"Malawi"	"Malawi"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"105"	"Malesia"	"Malaysia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"106"	"Maldive"	"Maldives"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"107"	"Mali"	"Mali"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"108"	"Malta"	"Malta"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"109"	"Mauritania"	"Mauritania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"110"	"Mauritius"	"Mauritius"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"111"	"Messico"	"Mexico"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"112"	"Micronesia (Isole)"	"Micronesia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"113"	"Moldova"	"Moldova"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"114"	"Monaco"	"Monaco"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"115"	"Mongolia"	"Mongolia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"116"	"Montenegro"	"Montenegro"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"117"	"Marocco"	"Morocco"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"118"	"Mozambico"	"Mozambique"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"119"	"Myanmar"	"Myanmar"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"120"	"Namibia"	"Namibia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"121"	"Nauru"	"Nauru"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"122"	"Nepal"	"Nepal"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"123"	"Nuova Zelanda"	"NewZealand"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"124"	"Nigeria"	"Nigeria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"125"	"Nicaragua"	"Nicaragua"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"126"	"Norvegia"	"Norway"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"127"	"Oman"	"Oman"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"128"	"Paesi Bassi"	"Netherlands"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"129"	"Pakistan"	"Pakistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"130"	"Palau"	"Palau"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"131"	"Panama"	"Panama"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"132"	"Papua Nuova Guinea"	"Papua"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"133"	"Paraguay"	"Paraguay"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"134"	"Peru"	"Peru"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"135"	"Polonia"	"Poland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"136"	"Portogallo"	"Portugal"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"137"	"Qatar"	"Qatar"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"138"	"Regno Unito"	"UK"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"139"	"Repubblica Centrafricana"	"CentralAfrica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"140"	"Repubblica Democratica del Congo"	"Congo"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"141"	"Repubblica Dominicana"	"Dominica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"142"	"Romania"	"Romania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"143"	"Russia"	"Russia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"144"	"Ruanda"	"Rwanda"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"145"	"Samoa"	"Samoa"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"146"	"San Marino"	"SanMarino"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"147"	"Sao Tome&#39; e Principe"	"SaoTome"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"148"	"Senegal"	"Senegal"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"149"	"Serbia"	"Serbia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"150"	"Seychelles"	"Seychelles"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"151"	"Sierra Leone"	"SierraLeone"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"152"	"Singapore"	"Singapore"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"153"	"Slovacchia"	"Slovakia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"154"	"Slovenia"	"Slovenia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"155"	"Somalia"	"Somalia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"156"	"Spagna"	"Spain"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"157"	"Stati Uniti d&#39;America"	"USA"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"158"	"Stato della Città del Vaticano"	"Vatican"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"159"	"Sudafrica"	"SouthAfrica"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"160"	"Sudan"	"Sudan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"161"	"Suriname"	"Suriname"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"162"	"Svezia"	"Sweden"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"163"	"Svizzera"	"Switzerland"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"164"	"Siria"	"Syria"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"165"	"Sri Lanka"	"SriLanka"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"166"	"Timor Est"	"EastTimor"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"167"	"Turchia"	"Turkey"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"168"	"Taiwan"	"Taiwan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"169"	"Tagikistan"	"Tajikistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"170"	"Tanzania"	"Tanzania"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"171"	"Thailandia"	"Thailand"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"172"	"Togo"	"Togo"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"173"	"Tonga"	"Tonga"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"174"	"Trinidad e Tobago"	"Trinidad"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"175"	"Tunisia"	"Tunisia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"176"	"Turkmenistan"	"Turkmenistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"177"	"Tuvalu"	"Tuvalu"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"178"	"Uganda"	"Uganda"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"179"	"Ucraina"	"Ukraine"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"180"	"Ungheria"	"Hungary"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"181"	"Uruguay"	"Uruguay"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"182"	"Uzbekistan"	"Uzbekistan"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"183"	"Vanuatu"	"Vanuatu"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"184"	"Venezuela"	"Venezuela"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"185"	"Vietnam"	"Vietnam"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"186"	"Zaire"	"Zaire"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"187"	"Zambia"	"Zambia"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"188"	"Zimbabwe"	"Zimbabwe"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"85"	NA	NA	"19. Qual è il suo paese di residenza?"	"Prego selezionare
+
+
+"	"Q19_Residence_en"	TRUE	"189"	"Yemen"	"Yemen"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"87"	NA	NA	"20. Lei è:"	NA	"Q20_Sex_en"	TRUE	"1"	"Donna"	"Female"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"87"	NA	NA	"20. Lei è:"	NA	"Q20_Sex_en"	TRUE	"2"	"Uomo"	"Male"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"87"	NA	NA	"20. Lei è:"	NA	"Q20_Sex_en"	TRUE	"3"	"Altro"	"Other"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"87"	NA	NA	"20. Lei è:"	NA	"Q20_Sex_en"	TRUE	"4"	"Preferisce non rispondere"	"Unknown"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"89"	NA	NA	"21. Qual è il suo più alto grado d’istruzione?"	NA	"Q21_Education_Coded_en"	TRUE	"1"	"Scuola elementare"	"PrimarySchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"89"	NA	NA	"21. Qual è il suo più alto grado d’istruzione?"	NA	"Q21_Education_Coded_en"	TRUE	"2"	"Scuola di educazione specializzata"	"SpecialSchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"89"	NA	NA	"21. Qual è il suo più alto grado d’istruzione?"	NA	"Q21_Education_Coded_en"	TRUE	"3"	"Scuola media"	"HighSchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"89"	NA	NA	"21. Qual è il suo più alto grado d’istruzione?"	NA	"Q21_Education_Coded_en"	TRUE	"4"	"Formazione professionale"	"VocationSchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"89"	NA	NA	"21. Qual è il suo più alto grado d’istruzione?"	NA	"Q21_Education_Coded_en"	TRUE	"5"	"Laurea università"	"GradSchool"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"91"	NA	NA	"22. Quale descrive meglio la sua situazione coniugale / sentimentale:"	NA	"Q22_Relationship_Status_en"	TRUE	"1"	"Singolo"	"Single"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"91"	NA	NA	"22. Quale descrive meglio la sua situazione coniugale / sentimentale:"	NA	"Q22_Relationship_Status_en"	TRUE	"2"	"Relazione stabile, non sposato"	"Unmarried"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"91"	NA	NA	"22. Quale descrive meglio la sua situazione coniugale / sentimentale:"	NA	"Q22_Relationship_Status_en"	TRUE	"3"	"Sposato"	"DomesticPartner"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"91"	NA	NA	"22. Quale descrive meglio la sua situazione coniugale / sentimentale:"	NA	"Q22_Relationship_Status_en"	TRUE	"4"	"Divorziato"	"Divorced"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"91"	NA	NA	"22. Quale descrive meglio la sua situazione coniugale / sentimentale:"	NA	"Q22_Relationship_Status_en"	TRUE	"5"	"Vedovo"	"Widowed"	FALSE	FALSE	1	NA	FALSE	FALSE
+"italian"	"it"	123887	"93"	NA	NA	"23. Attualmente Lei è"	NA	NA	TRUE	"1"	"Impiegato retribuito/lavoratore autonomo"	"Employed"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"93"	NA	NA	"23. Attualmente Lei è"	NA	NA	TRUE	"2"	"Disoccupato"	"Unemployed"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"93"	NA	NA	"23. Attualmente Lei è"	NA	NA	TRUE	"3"	"Casalingo"	"Stay-at-home"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"93"	NA	NA	"23. Attualmente Lei è"	NA	NA	TRUE	"4"	"Studente"	"Student"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"93"	NA	NA	"23. Attualmente Lei è"	NA	NA	TRUE	"5"	"Pensionato"	"Pensioned"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"93"	NA	NA	"23. Attualmente Lei è"	NA	NA	TRUE	"6"	"In incapacità di lavorare"	"Disabled"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"93"	NA	NA	"23. Attualmente Lei è"	NA	NA	TRUE	"7"	"Impiegato non retribuito o volontario"	"Volunteer-work"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"95"	NA	NA	"24. Ha un’esperienza educativa o lavorativa nel campo della salute?"	NA	"Q24_Exp_HealthCare_en"	TRUE	"1"	"Si"	"Yes"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"95"	NA	NA	"24. Ha un’esperienza educativa o lavorativa nel campo della salute?"	NA	"Q24_Exp_HealthCare_en"	TRUE	"2"	"No"	"No"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"97"	NA	NA	"25. Come descriverebbe le sue capacità a pensare, ricordare e imparare?"	NA	"Q25_Cognitive_Health_en"	TRUE	"1"	"Eccellenti"	"Excellent"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"97"	NA	NA	"25. Come descriverebbe le sue capacità a pensare, ricordare e imparare?"	NA	"Q25_Cognitive_Health_en"	TRUE	"2"	"Superiori alla media"	"AboveAverage"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"97"	NA	NA	"25. Come descriverebbe le sue capacità a pensare, ricordare e imparare?"	NA	"Q25_Cognitive_Health_en"	TRUE	"3"	"Nella media"	"Average"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"97"	NA	NA	"25. Come descriverebbe le sue capacità a pensare, ricordare e imparare?"	NA	"Q25_Cognitive_Health_en"	TRUE	"4"	"Inferiori alla media"	"BelowAverage"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"97"	NA	NA	"25. Come descriverebbe le sue capacità a pensare, ricordare e imparare?"	NA	"Q25_Cognitive_Health_en"	TRUE	"5"	"Povere"	"Poor"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"99"	NA	NA	"26. Come descriverebbe le sue capacità a equilibrare il suo stato d&#39;animo e il suo benessere emotivo?"	NA	"Q26_Emotional_Health_en"	TRUE	"1"	"Eccellenti"	"Excellent"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"99"	NA	NA	"26. Come descriverebbe le sue capacità a equilibrare il suo stato d&#39;animo e il suo benessere emotivo?"	NA	"Q26_Emotional_Health_en"	TRUE	"2"	"Superiori alla media"	"AboveAverage"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"99"	NA	NA	"26. Come descriverebbe le sue capacità a equilibrare il suo stato d&#39;animo e il suo benessere emotivo?"	NA	"Q26_Emotional_Health_en"	TRUE	"3"	"Nella media"	"Average"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"99"	NA	NA	"26. Come descriverebbe le sue capacità a equilibrare il suo stato d&#39;animo e il suo benessere emotivo?"	NA	"Q26_Emotional_Health_en"	TRUE	"4"	"Inferiori alla media"	"BelowAverage"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"99"	NA	NA	"26. Come descriverebbe le sue capacità a equilibrare il suo stato d&#39;animo e il suo benessere emotivo?"	NA	"Q26_Emotional_Health_en"	TRUE	"5"	"Povere"	"Poor"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"101"	NA	NA	"27. Ha qualche malattia di lunga data, disabilità o qualche problema di salute?"	NA	"Q27_Illness_en"	TRUE	"1"	"Si"	"Yes"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"101"	NA	NA	"27. Ha qualche malattia di lunga data, disabilità o qualche problema di salute?"	NA	"Q27_Illness_en"	TRUE	"2"	"No"	"No"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"103"	NA	NA	"28. Ha un’esperienza nel prendere cura di un membro della sua famiglia con un disturbo cerebrale?"	"
+
+
+
+
+"	"Q28_BrainDisease_Care_en"	TRUE	"1"	"Si"	"Yes"	FALSE	FALSE	NA	NA	NA	NA
+"italian"	"it"	123887	"103"	NA	NA	"28. Ha un’esperienza nel prendere cura di un membro della sua famiglia con un disturbo cerebrale?"	"
+
+
+
+
+"	"Q28_BrainDisease_Care_en"	TRUE	"2"	"No"	"No"	FALSE	FALSE	NA	NA	NA	NA

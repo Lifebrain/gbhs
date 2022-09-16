@@ -304,38 +304,3 @@ compare_effects <- function(data, ...){
     select(-data)
 }
 
-.get_or <- function(data, combs){
-  lapply(1:nrow(combs), function(x) .comp_eff(combs[x,], data = data)) |> 
-    bind_rows() |> 
-    mutate(
-      null = sign(lower * upper) == 1,
-      idx = row_number()
-    )
-}
-
-.comp_eff <- function(effects, data){
-  def <- data[data[[1]] %in% effects,]
-  
-  # Odds ratio of success in profession compared to education
-  or <- def$value[1] - def$value[2]
-  
-  # Confidence interval for odds ratio
-  # Note we must take the lower of profession and the upper of education
-  ci <- c(
-    def$lower[1] - def$upper[2],
-    def$upper[1] - def$lower[2]
-  )
-  
-  tibble(
-    var1 = effects[,1],
-    var2 = effects[,2],
-    contrast = paste(effects, collapse = " - "),
-    or = or,
-    lower = ci[1],
-    upper = ci[2]
-  ) |> 
-    mutate(
-      d = effectsize::oddsratio_to_d(or, log = TRUE),
-      size = as.character(effectsize::interpret_d(d)),
-    )
-}

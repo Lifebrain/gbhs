@@ -1,0 +1,10 @@
+# mac hidden files
+**.DS_Store
+
+.Rproj.user
+.Rhistory
+*pdf
+*log
+*tex
+*rda
+*xlsx
