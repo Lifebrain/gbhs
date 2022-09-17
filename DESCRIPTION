@@ -39,6 +39,7 @@ Suggests:
     knitr,
     nettskjemar,
     openxlsx,
+    patchwork,
     readr
 Config/testthat/edition: 3
 URL: https://github.com/Lifebrain/gbhs,
