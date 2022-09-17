@@ -1,0 +1,10 @@
+pandoc: 2.14.2
+pkgdown: 2.0.6
+pkgdown_sha: ~
+articles:
+  gbhs: gbhs.html
+last_built: 2022-09-17T18:36Z
+urls:
+  reference: https://lifebrain.github.io/gbhs/reference
+  article: https://lifebrain.github.io/gbhs/articles
+
