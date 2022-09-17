@@ -3,7 +3,7 @@ pkgdown: 2.0.6
 pkgdown_sha: ~
 articles:
   gbhs: gbhs.html
-last_built: 2022-09-17T19:30Z
+last_built: 2022-09-17T19:50Z
 urls:
   reference: https://lifebrain.github.io/gbhs/reference
   article: https://lifebrain.github.io/gbhs/articles
