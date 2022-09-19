@@ -34,6 +34,7 @@ Suggests:
     broom,
     ggplot2 (>= 3.3),
     glue,
+    gapminder,
     here,
     jsonlite,
     knitr,
