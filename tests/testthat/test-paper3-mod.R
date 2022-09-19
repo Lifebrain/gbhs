@@ -9,7 +9,7 @@ test_that("paper3 mod builds", {
   
   # render to .pdf
   z <- suppressWarnings(
-    gbhs_render_report(type = "desc",
+    gbhs_render_report(type = "mod",
                        paper = 1,
                        output_format = "html_document",
                        output_dir = dr,

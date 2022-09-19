@@ -19,9 +19,9 @@ test_that("paper2 descr builds", {
   
   # check files exist
   expect_equal(z, "descriptives.knit.md", ignore_attr = TRUE)
-  expect_true(file.exists(file.path(dr, "descriptives_files/figure-html/unnamed-chunk-2-1.png")))
+  expect_true(file.exists(file.path(dr, "descriptives_files/figure-html/unnamed-chunk-3-1.png")))
   expect_true(file.exists(file.path(dr, "descriptives_files/figure-html/unnamed-chunk-60-1.png")))
-  expect_true(file.exists(file.path(dr, "descriptives_files/figure-html/unnamed-chunk-86-1.png")))
+  expect_true(file.exists(file.path(dr, "descriptives_files/figure-html/unnamed-chunk-85-1.png")))
   
   # clean up
   unlink(dr, recursive = TRUE)
