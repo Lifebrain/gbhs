@@ -13,6 +13,7 @@ link-citations: true
 params:
   comparison: FALSE
   data: gbhs::gbhs
+always_allow_html: true
 ---
 
 

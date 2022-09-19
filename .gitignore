@@ -7,5 +7,5 @@
 *log
 *tex
 *xlsx
-inst/doc
+inst/docs/*.md
 docs
