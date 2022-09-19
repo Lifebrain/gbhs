@@ -33,7 +33,7 @@ gbhs
 The data has mainly been prepared with the [tidyverse]() collection of packages, and as such, we will continue showcasing a couple of things that you could do with the data.
 
 ```{r}
-library(tidyverse)
+library(dplyr)
 
 # Have only answers from Norway
 gbhs |> 
