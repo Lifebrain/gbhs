@@ -10,8 +10,15 @@ vignette: >
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
-  comment = "#>"
+  comment = "#>",
+  fig.retina = 3,
+  out.width = "100%",
+  fig.width = 8
 )
+ggplot2::theme_set(
+  ggplot2::theme_classic() + 
+    ggplot2::theme(legend.position = "bottom")
+  )
 ```
 
 Between June 2019 and August 2020, Lifebrain conducted the Global Brain Health Survey to collect data on people’s perceptions of brain health and willingness to take care of their brain by adopting new lifestyles. The survey was conducted online and translated into 14 languages to reach as many people as possible. In total, it collected 27,590 responses from people in 81 countries.
@@ -26,6 +33,7 @@ The data can be loaded as most R users would be used to loading built-in package
 When the package is installed, you can call the `gbhs` object, and view the data.
 
 ```{r setup}
+library(tidyverse)
 library(gbhs)
 gbhs
 ```
@@ -46,11 +54,14 @@ gbhs |>
   select(1:3, starts_with("q02"))
 ```
 
+
 ```{r fig.height=12}
 library(ggplot2)
 gbhs |> 
-  ggplot(aes(y = q19_residence, group = q18_age, fill = q18_age)) +
+  gbhs_long_q(2) |> 
+  ggplot(aes(y = value, group = q18_age, fill = q18_age)) +
   geom_bar() +
-  theme_minimal()
+  theme_minimal() +
+  facet_wrap(~key)
 ```
 

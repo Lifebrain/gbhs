@@ -8,7 +8,7 @@ output: pdf_document
 
 ```{r }
 source(gbhs::gbhs_path_utilities("model-utils.R"))
-data <- gbhs_long_q(q, data) |> 
+data <- gbhs_long_q(data, q) |> 
   fix_data()
 lvls <- unique(data$data$key)
 if(is.factor(data$data$key))

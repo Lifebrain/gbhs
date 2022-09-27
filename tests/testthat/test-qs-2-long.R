@@ -1,5 +1,5 @@
 test_that("gbhs_long_q works", {
-  tmp <- gbhs_long_q(1, gbhs)
+  tmp <- gbhs_long_q(gbhs, 1)
   expect_equal(nrow(tmp), 27522)
   expect_equal(ncol(tmp), 110)
   expect_equal("Frequency of\nthinking about one's\nbrains' health",
@@ -12,7 +12,7 @@ test_that("gbhs_long_q works", {
   ),
   unique(tmp$value))
   
-  tmp <- gbhs_long_q(2, gbhs)
+  tmp <- gbhs_long_q(gbhs, 2)
   expect_equal(nrow(tmp), 302037)
   expect_equal(ncol(tmp), 100)
   expect_equal(structure(
@@ -41,7 +41,7 @@ test_that("gbhs_long_q works", {
   ),
   unique(tmp$value))
   
-  tmp <- gbhs_long_q(3, gbhs)
+  tmp <- gbhs_long_q(gbhs, 3)
   expect_equal(nrow(tmp), 164359)
   expect_equal(ncol(tmp), 105)
   expect_equal(structure(
@@ -69,7 +69,7 @@ test_that("gbhs_long_q works", {
   ),
   unique(tmp$value))
   
-  tmp <- gbhs_long_q(4, gbhs)
+  tmp <- gbhs_long_q(gbhs, 4)
   expect_equal(nrow(tmp), 357890)
   expect_equal(ncol(tmp), 111)
   expect_equal(structure(
@@ -100,7 +100,7 @@ test_that("gbhs_long_q works", {
   ),
   unique(tmp$value))
   
-  tmp <- gbhs_long_q(5, gbhs)
+  tmp <- gbhs_long_q(gbhs, 5)
   expect_equal(nrow(tmp), 300138)
   expect_equal(ncol(tmp), 100)
   expect_equal(structure(
@@ -129,7 +129,7 @@ test_that("gbhs_long_q works", {
   ),
   unique(tmp$value))
   
-  tmp <- gbhs_long_q(6, gbhs)
+  tmp <- gbhs_long_q(gbhs, 6)
   expect_equal(nrow(tmp), 231836)
   expect_equal(ncol(tmp), 102)
   expect_equal(structure(
@@ -156,7 +156,7 @@ test_that("gbhs_long_q works", {
   ),
   unique(tmp$value))
   
-  tmp <- gbhs_long_q(7, gbhs)
+  tmp <- gbhs_long_q(gbhs, 7)
   expect_equal(nrow(tmp), 193130)
   expect_equal(ncol(tmp), 101)
   expect_equal(structure(
@@ -176,7 +176,7 @@ test_that("gbhs_long_q works", {
   expect_equal(structure(2:1, levels = c("no", "yes"), class = "factor"),
                unique(tmp$value))
   
-  tmp <- gbhs_long_q(8, gbhs)
+  tmp <- gbhs_long_q(gbhs, 8)
   expect_equal(nrow(tmp), 27590)
   expect_equal(ncol(tmp), 110)
   expect_equal("Probability of\ntaking a brain\nhealth test",
@@ -189,8 +189,7 @@ test_that("gbhs_long_q works", {
   ),
   unique(tmp$value))
   
-  expect_warning(tmp <-
-                   gbhs_long_q("9a", gbhs), "Additional pieces")
+  expect_warning(tmp <- gbhs_long_q(gbhs, "9a"), "Additional pieces")
   expect_equal(nrow(tmp), 138505)
   expect_equal(ncol(tmp), 109)
   expect_equal(structure(
@@ -212,7 +211,7 @@ test_that("gbhs_long_q works", {
   ),
   unique(tmp$value))
   
-  tmp <- gbhs_long_q("9b", gbhs)
+  tmp <- gbhs_long_q(gbhs, "9b")
   expect_equal(nrow(tmp), 25130)
   expect_equal(ncol(tmp), 110)
   expect_equal(
@@ -227,7 +226,7 @@ test_that("gbhs_long_q works", {
   ),
   unique(tmp$value))
   
-  expect_warning(tmp <- gbhs_long_q("9c", gbhs), "Additional")
+  expect_warning(tmp <- gbhs_long_q(gbhs, "9c"), "Additional")
   expect_equal(nrow(tmp), 12607)
   expect_equal(ncol(tmp), 109)
   expect_equal(structure(
@@ -245,7 +244,7 @@ test_that("gbhs_long_q works", {
   expect_equal(structure(c(NA, 2L, 1L), levels = c("no", "yes"), class = "factor"),
   unique(tmp$value))
   
-  tmp <- gbhs_long_q(10, gbhs)
+  tmp <- gbhs_long_q(gbhs, 10)
   expect_equal(nrow(tmp), 133614)
   expect_equal(ncol(tmp), 106)
   expect_equal(
@@ -266,7 +265,7 @@ test_that("gbhs_long_q works", {
   ),
   unique(tmp$value))
   
-  tmp <- gbhs_long_q(11, gbhs)
+  tmp <- gbhs_long_q(gbhs, 11)
   expect_equal(nrow(tmp), 251421)
   expect_equal(ncol(tmp), 101)
   expect_equal(structure(
@@ -294,7 +293,7 @@ test_that("gbhs_long_q works", {
   ),
   unique(tmp$value))
   
-  expect_warning(tmp <- gbhs_long_q(12, gbhs), "Additional")
+  expect_warning(tmp <- gbhs_long_q(gbhs, 12), "Additional")
   expect_equal(nrow(tmp), 276329)
   expect_equal(ncol(tmp), 110)
   expect_equal(structure(
@@ -321,7 +320,7 @@ test_that("gbhs_long_q works", {
   ),
   unique(tmp$value))
   
-  expect_warning(tmp <- gbhs_long_q(13, gbhs), "Additional")
+  expect_warning(tmp <- gbhs_long_q(gbhs, 13), "Additional")
   expect_equal(nrow(tmp), 276794)
   expect_equal(ncol(tmp), 110)
   expect_equal(structure(
@@ -347,6 +346,5 @@ test_that("gbhs_long_q works", {
     class = "factor"
   ),
   unique(tmp$value))
-  
-  
+
 })

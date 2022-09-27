@@ -39,7 +39,7 @@ library(glue)
 library(gbhs)
 
 source(gbhs_path_utilities("data-utils.R"))
-source(gbhs_path_utilities("ggplot-utils.R"))
+theme_set(theme_classic() + theme(legend.position = "bottom"))
 
 min_resp_keep = .3
 ```

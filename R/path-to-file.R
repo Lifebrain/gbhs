@@ -115,7 +115,6 @@ gbhs_path_child <- function(path = NULL, ...) {
 #'
 #' @examples
 #' gbhs_path_utilities()
-#' gbhs_path_utilities("ggplot-utils.R")
 #' gbhs_path_utilities("data-utils.R")
 #' gbhs_path_utilities("model-utils.R")
 #' @source This function is adapted from `readxl::readxl_example()`.

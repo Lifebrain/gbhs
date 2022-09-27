@@ -25,25 +25,26 @@ Imports:
     tibble,
     stringr,
     rmarkdown,
+    patchwork,
+    viridis,
+    rlang,
+    ggplot2 (>= 3.3),
+    glue,
+    broom,
     dplyr (>= 1.0.0),
     tidyr (>= 1.0.0)
 Depends: 
-    R (>= 3.5.0)
+    R (>= 4.1.0)
 Suggests: 
     testthat (>= 3.0.0),
-    broom,
-    ggplot2 (>= 3.3),
-    glue,
     gapminder,
     here,
     jsonlite,
     knitr,
     nettskjemar,
     openxlsx,
-    patchwork,
     kableExtra,
     tidyverse,
-    viridis,
     readr
 Config/testthat/edition: 3
 URL: https://github.com/Lifebrain/gbhs,

@@ -4,15 +4,15 @@
 \alias{gbhs_long_q}
 \title{Make GBHS question into long format data}
 \usage{
-gbhs_long_q(question, data = gbhs)
+gbhs_long_q(data, question)
 }
 \arguments{
+\item{data}{data.frame to work on. Needs to be a
+\code{gbhs} derivative}
+
 \item{question}{integer indicating which question
 to make the data longer from. Values accepted are
 \code{1,2,3,4}}
-
-\item{data}{data.frame to work on. Needs to be a
-\code{gbhs} derivative}
 }
 \value{
 data frame with long data
@@ -35,6 +35,6 @@ the individual respondent.
 }
 \examples{
 data(gbhs)
-gbhs_long_q(2, gbhs)
-gbhs_long_q(4, gbhs)
+gbhs_long_q(gbhs, 2)
+gbhs_long_q(gbhs, 4)
 }

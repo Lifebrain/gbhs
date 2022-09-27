@@ -3,7 +3,7 @@ output: pdf_document
 ---
 
 ```{r, include=FALSE}
-data <- gbhs_long_q(q, data)
+data <- gbhs_long_q(data, q)
 l <- length(unique(data$key))
 base_fig_height <- 3
 if(l > base_fig_height)

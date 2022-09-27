@@ -36,7 +36,7 @@ options(knitr.kable.NA = '')
 set.seed(4455)
 source(gbhs_path_utilities("data-utils.R"))
 source(gbhs_path_utilities("model-utils.R"))
-source(gbhs_path_utilities("ggplot-utils.R"))
+theme_set(theme_classic() + theme(legend.position = "bottom"))
 data <- get_data(params$data)
 
 wanted_formula <- c(wanted_formula, "gender c. age & edu" = ~ 1 + gender + age + education)

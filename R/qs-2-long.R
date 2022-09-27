@@ -26,12 +26,13 @@
 #'
 #' @examples
 #' data(gbhs)
-#' gbhs_long_q(2, gbhs)
-#' gbhs_long_q(4, gbhs)
-gbhs_long_q <- function(question, data = gbhs){
+#' gbhs_long_q(gbhs, 2)
+#' gbhs_long_q(gbhs, 4)
+gbhs_long_q <- function(data, question){
   stopifnot(!missing(question))
-  question <- match.arg(as.character(question), 
-                        c(1:8, "9a", "9b", "9c", 10:13))
+  question <- match.arg(
+    as.character(question), 
+    c(1:8, "9a", "9b", "9c", 10:13))
   eval(parse(text = sprintf("gbhs_long_q%s(data)", question)))
 }
 
@@ -40,7 +41,7 @@ gbhs_long_q <- function(question, data = gbhs){
 #' @importFrom dplyr mutate starts_with
 #' @importFrom stringr str_wrap
 #' @importFrom tidyr pivot_longer
-gbhs_long_q1 <- function(data = gbhs){
+gbhs_long_q1 <- function(data){
   data |> 
     pivot_longer(cols = starts_with("q01"),
                  names_to = "key",
@@ -55,7 +56,7 @@ gbhs_long_q1 <- function(data = gbhs){
 
 #' @importFrom dplyr mutate starts_with case_when arrange filter tally group_by
 #' @importFrom tidyr pivot_longer
-gbhs_long_q2 <- function(data = gbhs){
+gbhs_long_q2 <- function(data){
   tmp <- data |> 
     pivot_longer(cols = starts_with("q02"),
                  names_to = "key", 
@@ -89,7 +90,7 @@ gbhs_long_q2 <- function(data = gbhs){
 
 #' @importFrom dplyr mutate starts_with case_when
 #' @importFrom tidyr pivot_longer
-gbhs_long_q3 <- function(data = gbhs){
+gbhs_long_q3 <- function(data){
   data |>
     pivot_longer(cols = starts_with("q03"),
                  names_to = "key", 
@@ -112,7 +113,7 @@ gbhs_long_q3 <- function(data = gbhs){
 #' @importFrom dplyr mutate filter starts_with arrange tally group_by
 #' @importFrom stringr str_replace
 #' @importFrom tidyr pivot_longer pivot_wider separate_rows
-gbhs_long_q4 <- function(data = gbhs){
+gbhs_long_q4 <- function(data){
   tmp <- data |>
     filter(!is.na(q04_brain_disease)) |> 
     separate_rows(q04_brain_disease, sep=";") |>

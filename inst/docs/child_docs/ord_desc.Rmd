@@ -2,7 +2,7 @@
 output: pdf_document
 ---
 ```{r, include=FALSE}
-data <- gbhs_long_q(q , data)
+data <- gbhs_long_q(data, q)
 l <- length(unique(data$key))
 base_fig_height <- 3
 if(l > base_fig_height)
@@ -24,7 +24,6 @@ data |>
   labs(x="", y="", fill = "Response",
        title = title) +
   theme(legend.position = "right") +
-  scale_fill_discrete() +
   coord_cartesian(xlim = c(0, 1.1), clip = "off") +
   NULL
 ```
@@ -44,7 +43,6 @@ data |>
     col = ifelse(!grepl(pattern, value), "black", "white")
   ) &
   coord_cartesian(clip = "off") &
-  scale_fill_discrete() &
   plot_annotation(
     title = title,
     subtitle = "by gender",
@@ -66,7 +64,6 @@ data |>
     col = ifelse(!grepl(pattern, value), "black", "white")
   ) &
   coord_cartesian(xlim = c(0, 1.4), clip = "off") &
-  scale_fill_discrete() &
   plot_annotation(
     title = title,
     subtitle = "by age groups",
@@ -89,7 +86,6 @@ data |>
   ) &
   coord_cartesian(xlim = c(0, 1.4), clip = "off") &
   theme(axis.text.y = element_text(size=6)) &
-  scale_fill_discrete() &
   plot_annotation(
     title = title,
     subtitle = "by educational level",
@@ -112,7 +108,6 @@ data |>
   ) &
   coord_cartesian(xlim = c(0, 1.4), clip = "off") &
   theme(axis.text.y = element_text(size=7)) &
-  scale_fill_discrete() &
   plot_annotation(
     title = title,
     subtitle = "by country of residence",
@@ -135,7 +130,6 @@ data |>
   ) &
   coord_cartesian(xlim = c(0, 1.4), clip = "off") &
   theme(axis.text.y = element_text(size=7)) &
-  scale_fill_discrete() &
   plot_annotation(
     title = title,
     subtitle = "By reported education or work experience in health care",
@@ -159,7 +153,6 @@ data |>
   ) &
   coord_cartesian(xlim = c(0, 1.4), clip = "off") &
   theme(axis.text.y = element_text(size=7)) &
-  scale_fill_discrete() &
   plot_annotation(
     title = title,
     subtitle = "by self-reported rating of cognitive health",
@@ -183,7 +176,6 @@ data |>
   ) &
   coord_cartesian(xlim = c(0, 1.4), clip = "off") &
   theme(axis.text.y = element_text(size=7)) &
-  scale_fill_discrete() &
   plot_annotation(
     title = title,
     subtitle = "by self-reported rating of mental health",
@@ -207,7 +199,6 @@ data |>
   )  &
   coord_cartesian(xlim = c(0, 1.4), clip = "off") &
   theme(axis.text.y = element_text(size=7)) &
-  scale_fill_discrete() &
   plot_annotation(
     title = title,
     subtitle = "by experience of long-standing illness, disability, or health problem",
@@ -230,7 +221,6 @@ data |>
   ) &
   coord_cartesian(xlim = c(0, 1.4), clip = "off") &
   theme(axis.text.y = element_text(size=7)) &
-  scale_fill_discrete() &
   plot_annotation(
     title = title,
     subtitle = "by experience of taking care of family member with brain disease",
@@ -253,7 +243,6 @@ data |>
   )  &
   coord_cartesian(xlim = c(0, 1.4), clip = "off") &
   theme(axis.text.y = element_text(size=7)) &
-  scale_fill_discrete() &
   plot_annotation(
     title = title,
     subtitle = "By experience of brain research participation",
