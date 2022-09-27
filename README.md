@@ -13,6 +13,8 @@ banner](./inst/img/lifebrain-banner-1771x417-72px.jpeg)
 [![](https://img.shields.io/github/languages/code-size/lifebrain/gbhs.svg)](https://github.com/Lifebrain/gbhs)
 [![](https://img.shields.io/badge/doi-10.3389/fpubh.2020.00387-green.svg)](https://doi.org/10.3389/fpubh.2020.00387)
 [![R-CMD-check](https://github.com/Lifebrain/gbhs/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Lifebrain/gbhs/actions/workflows/R-CMD-check.yaml)
+[![Zenodo
+DOI](https://zenodo.org/badge/535578726.svg)](https://zenodo.org/badge/latestdoi/535578726)
 <!-- badges: end -->
 
 Between June 2019 and August 2020, Lifebrain conducted the Global Brain

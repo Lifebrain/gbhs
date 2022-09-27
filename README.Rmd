@@ -20,6 +20,7 @@ knitr::opts_chunk$set(
 [![](https://img.shields.io/github/languages/code-size/lifebrain/gbhs.svg)](https://github.com/Lifebrain/gbhs)
 [![](https://img.shields.io/badge/doi-10.3389/fpubh.2020.00387-green.svg)](https://doi.org/10.3389/fpubh.2020.00387)
 [![R-CMD-check](https://github.com/Lifebrain/gbhs/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Lifebrain/gbhs/actions/workflows/R-CMD-check.yaml)
+[![Zenodo DOI](https://zenodo.org/badge/535578726.svg)](https://zenodo.org/badge/latestdoi/535578726)
 <!-- badges: end -->
 
 Between June 2019 and August 2020, Lifebrain conducted the Global Brain Health Survey to collect data on people’s perceptions of brain health and willingness to take care of their brain by adopting new lifestyles. The survey was conducted online and translated into 14 languages to reach as many people as possible. In total, it collected 27,590 responses from people in 81 countries.
