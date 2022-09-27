@@ -9,9 +9,9 @@ ggstacked(
   y = key,
   npos = 1.1,
   min_pc = 0.05,
+  pattern = NULL,
   n_breaks = 2,
-  text_size = 3,
-  ...
+  text_size = 3
 )
 }
 \arguments{
@@ -26,8 +26,6 @@ ggstacked(
 \item{n_breaks}{number of break points}
 
 \item{text_size}{text size}
-
-\item{...}{other arguments to mutate}
 }
 \value{
 ggplot object

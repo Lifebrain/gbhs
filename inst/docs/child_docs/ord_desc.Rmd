@@ -17,8 +17,7 @@ if(l > base_fig_height)
 ```{r , fig.height=base_fig_height}
 data |> 
   ggstacked( 
-    lab = ifelse(grepl(pattern, value), pc, NA),
-    col = ifelse(grepl(pattern, value), "black", "white"),
+    pattern = pattern,
     n_breaks = 5,
   ) +
   labs(x="", y="", fill = "Response",
@@ -39,8 +38,7 @@ data |>
     min_pc = .2,
     text_size = 2,
     size = 1.5,
-    lab = ifelse(grepl(pattern, value), pc, NA),
-    col = ifelse(grepl(pattern, value), "black", "white")
+    pattern = pattern
   ) &
   coord_cartesian(clip = "off") &
   plot_annotation(
@@ -60,8 +58,7 @@ data |>
     npos = 1.25, 
     min_pc = .2,
     size = 1.5,
-    lab = ifelse(grepl(pattern, value), pc, NA),
-    col = ifelse(grepl(pattern, value), "black", "white")
+    pattern = pattern
   ) &
   coord_cartesian(xlim = c(0, 1.4), clip = "off") &
   plot_annotation(
@@ -81,8 +78,7 @@ data |>
     npos = 1.3, 
     min_pc = .2,
     size = 1.5,
-    lab = ifelse(grepl(pattern, value), pc, NA),
-    col = ifelse(grepl(pattern, value), "black", "white")
+    pattern = pattern
   ) &
   coord_cartesian(xlim = c(0, 1.4), clip = "off") &
   theme(axis.text.y = element_text(size=6)) &
@@ -103,8 +99,7 @@ data |>
     npos = 1.3, 
     min_pc = .2,
     size = 1.5,
-    lab = ifelse(grepl(pattern, value), pc, NA),
-    col = ifelse(grepl(pattern, value), "black", "white")
+    pattern = pattern
   ) &
   coord_cartesian(xlim = c(0, 1.4), clip = "off") &
   theme(axis.text.y = element_text(size=7)) &
@@ -125,8 +120,7 @@ data |>
     npos = 1.3, 
     min_pc = .2,
     size = 1.5,
-    lab = ifelse(grepl(pattern, value), pc, NA),
-    col = ifelse(grepl(pattern, value), "black", "white")
+    pattern = pattern
   ) &
   coord_cartesian(xlim = c(0, 1.4), clip = "off") &
   theme(axis.text.y = element_text(size=7)) &
@@ -148,8 +142,7 @@ data |>
     npos = 1.3, 
     min_pc = .2,
     size = 1.5,
-    lab = ifelse(grepl(pattern, value), pc, NA),
-    col = ifelse(grepl(pattern, value), "black", "white")
+    pattern = pattern
   ) &
   coord_cartesian(xlim = c(0, 1.4), clip = "off") &
   theme(axis.text.y = element_text(size=7)) &
@@ -171,8 +164,7 @@ data |>
     npos = 1.3, 
     min_pc = .2,
     size = 1.5,
-    lab = ifelse(grepl(pattern, value), pc, NA),
-    col = ifelse(grepl(pattern, value), "black", "white")
+    pattern = pattern
   ) &
   coord_cartesian(xlim = c(0, 1.4), clip = "off") &
   theme(axis.text.y = element_text(size=7)) &
@@ -194,8 +186,7 @@ data |>
     npos = 1.3, 
     min_pc = .2,
     size = 1.5,
-    lab = ifelse(grepl(pattern, value), pc, NA),
-    col = ifelse(grepl(pattern, value), "black", "white")
+    pattern = pattern
   )  &
   coord_cartesian(xlim = c(0, 1.4), clip = "off") &
   theme(axis.text.y = element_text(size=7)) &
@@ -216,8 +207,7 @@ data |>
     npos = 1.3, 
     min_pc = .2,
     size = 1.5,
-    lab = ifelse(grepl(pattern, value), pc, NA),
-    col = ifelse(grepl(pattern, value), "black", "white")
+    pattern = pattern
   ) &
   coord_cartesian(xlim = c(0, 1.4), clip = "off") &
   theme(axis.text.y = element_text(size=7)) &
@@ -238,8 +228,7 @@ data |>
     npos = 1.3, 
     min_pc = .2,
     size = 1.5,
-    lab = ifelse(grepl(pattern, value), pc, NA),
-    col = ifelse(grepl(pattern, value), "black", "white")
+    pattern = pattern
   )  &
   coord_cartesian(xlim = c(0, 1.4), clip = "off") &
   theme(axis.text.y = element_text(size=7)) &

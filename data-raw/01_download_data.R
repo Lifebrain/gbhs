@@ -2,7 +2,7 @@ library(dplyr)
 # pak::pkg_install("lcbc-uio/nettskjemar")
 library(nettskjemar)
 library(gbhs)
-source(system.file("utils", "data-utils.R", path, package = "gbhs", mustWork = TRUE))
+source(system.file("utils", "data-utils.R", package = "gbhs", mustWork = TRUE))
 
 # Only works for Lifebrain members with access
 # to the nettskjema API
@@ -44,10 +44,10 @@ for(i in 1:nrow(codebooks)){
   filenm <- gsub(" ", "-", filenm)
   
   write.table(tmp, file = here::here("inst/codebooks/", paste0(filenm, ".tsv")), sep = "\t", row.names = FALSE)
-  jsonlite::write_json(codebooks_raw$codebooks[[1]], 
+  jsonlite::write_json(codebooks_raw$codebooks[[i]], 
                        path = here::here("inst/codebooks/", paste0(filenm, ".json")),
                        pretty = TRUE)
-  jsonlite::write_json(meta$meta[[1]], 
+  jsonlite::write_json(meta$meta[[i]], 
                        path = here::here("inst/meta-data/", paste0(filenm, ".json")), 
                        pretty = TRUE)
   

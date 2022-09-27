@@ -129,7 +129,6 @@ ggmodel <- function(data, y, d_larger = 1, reverse = FALSE){
 #' @param min_pc minimum percent to display text of
 #' @param n_breaks number of break points
 #' @param text_size text size
-#' @param ... other arguments to mutate
 #'
 #' @return ggplot object
 #' @export
@@ -140,13 +139,13 @@ ggmodel <- function(data, y, d_larger = 1, reverse = FALSE){
 #' @importFrom ggplot2 element_blank
 ggstacked <- function(data, y = key, 
                       npos = 1.1, min_pc = .05, 
+                      pattern = NULL,
                       n_breaks = 2, 
-                      text_size = 3, ...) {
+                      text_size = 3) {
   dt <- group_by(data, {{y}}, value) |> 
     tally() |> 
     mutate(N = sum(n, na.rm = TRUE),
-           pc = n/N,
-           ...) |> 
+           pc = n/N) |> 
     arrange({{y}}, desc(value)) |> 
     mutate(
       N_pos = cumsum(pc),
@@ -156,18 +155,37 @@ ggstacked <- function(data, y = key,
   
   pcs <-  group_by(dt, {{y}}) |> 
     mutate(pc2 = cumsum(pc),
-           pc3 = ifelse(pc > min_pc, paste(round(pc*100, digits = 0), " "), ""),
-           ...
-    ) 
+           pc3 = ifelse(pc > min_pc, 
+                        paste(round(pc*100, digits = 0), " "), 
+                        "")
+    )
+  
   
   p <- ggplot(dt, aes(x = pc, y = {{y}} )) +
     geom_bar(stat = "identity", aes(fill = value), colour = "grey90") +
-    geom_text(data = pcs, hjust = 1, size = text_size, 
-              aes(label = pc3,
-                  colour = I(col),
-                  x = pc2)) +
     scale_x_percent(n_breaks = n_breaks) +
     theme(axis.title = element_blank())
+  
+  if(!is.null(pattern)){
+    pcs <- mutate(pcs,
+                  col = ifelse(grepl(pattern, value), 
+                               "black", "white"))
+    
+    dt <- mutate(dt,
+                 col = ifelse(grepl(pattern, value), 
+                              "black", "white"))
+    
+    p <- p +
+      geom_text(data = pcs, hjust = 1, size = text_size, 
+                aes(label = pc3,
+                    colour = I(col),
+                    x = pc2)) 
+  }else{
+    p <- p +
+      geom_text(data = pcs, hjust = 1, size = text_size, 
+                aes(label = pc3,
+                    x = pc2)) 
+  }
   
   if(npos != FALSE){
     laabs <- dt |> 

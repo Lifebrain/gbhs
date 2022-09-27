@@ -53,7 +53,16 @@ gbhs |>
   filter(q19_residence == "Norway") |> 
   select(1:3, starts_with("q02"))
 ```
-
+## Turning groups of questions to long format
+There are several clusters of questions probing various concepts around brain health. 
+These are linked together through naming of columns.
+For easy of use in plotting and analysis, we created a convenience function that will turn the data longer based on these clusters.
+When turning the data long with `gbhs_long_q()` you need to provide the GBHS data to the function, along with indication on which cluster of questions to take.
+In the example below, we turn the answers to question 2 clusters longer.
+This will add another set of columns to the data:
+- `key` : what was previously column names
+- `value`: what was previously cell values
+- `binary`: binary classification of `value` if value is not already binary.
 
 ```{r fig.height=12}
 library(ggplot2)
@@ -65,3 +74,79 @@ gbhs |>
   facet_wrap(~key)
 ```
 
+
+```{r fig.height=12}
+gbhs |> 
+  gbhs_long_q(11) |> 
+  ggplot(aes(y = value)) +
+  geom_bar() +
+  theme_minimal() +
+  facet_wrap(~key)
+```
+
+
+## Using the custom plotting functions
+
+If you want to reproduce the types of plots we create, we have also provided these in the package.
+
+```{r}
+gbhs |> 
+  gbhs_long_q(11) |> 
+  ggbar(age) +
+  theme(axis.text.x = element_text(angle = 30, hjust = 1))
+```
+
+```{r}
+gbhs |> 
+  gbhs_long_q(2) |> 
+  ggstacked( 
+    pattern = "No|Mod|We",
+    n_breaks = 5,
+  ) +
+  theme(legend.position = "right") +
+  coord_cartesian(xlim = c(0, 1.1), clip = "off") 
+```
+
+```{r, fig.height=12}
+gbhs |> 
+  gbhs_long_q(2) |> 
+  ggstacked_wrap(
+    y = age,
+    pattern = "No|Mod|We",
+    n_breaks = 5,
+  ) +
+  theme(legend.position = "right") +
+  coord_cartesian(xlim = c(0, 1.1), clip = "off") 
+```
+
+
+## Inspecting meta-data
+There are several pieces of meta-data available. 
+The full meta-data provides the entire json that the nettskjema API (which was used to retrieve survey data) can provide. 
+It is a full list of all questions, formulations, order and coding as the nettskjema survey platform used to run the survey.
+The json in its entirety is included in the package files, and its location on your system can be found by
+
+```{r}
+gbhs_path_meta(type = "meta-data")
+gbhs_path_meta("119161_sp.json", type = "meta-data")
+
+gbhs_path_meta("119161_sp.json", type = "meta-data") |> 
+  readLines(n = 15) |> 
+  cat(sep = "\n")
+```
+
+While the codebooks are contained in the meta-data, these can also be retrieved in two ways.
+Either as json, or as a tidied csv.
+
+```{r}
+gbhs_path_meta(type = "codebook")
+gbhs_path_meta("119161_sp.json", type = "codebook")
+
+gbhs_path_meta("119161_sp.json", type = "codebook") |> 
+  readLines(n = 15) |> 
+  cat(sep = "\n")
+
+gbhs_path_meta("119161_sp.tsv", type = "codebook") |> 
+  read.delim() |> 
+  knitr::kable()
+```
