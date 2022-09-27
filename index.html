@@ -94,7 +94,17 @@
 <div class="section level2">
 <h2 id="install-data-package">Install data package<a class="anchor" aria-label="anchor" href="#install-data-package"></a>
 </h2>
+<p>You can install the gbhs package using the Lifebrain R-universe.</p>
 <div class="sourceCode" id="cb1"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="co"># Enable repository from lifebrain</span></span>
+<span><span class="fu"><a href="https://rdrr.io/r/base/options.html" class="external-link">options</a></span><span class="op">(</span>repos <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/c.html" class="external-link">c</a></span><span class="op">(</span></span>
+<span>  lifebrain <span class="op">=</span> <span class="st">'https://lifebrain.r-universe.dev'</span>,</span>
+<span>  CRAN <span class="op">=</span> <span class="st">'https://cloud.r-project.org'</span><span class="op">)</span><span class="op">)</span></span>
+<span>  </span>
+<span><span class="co"># Download and install metagam in R</span></span>
+<span><span class="fu"><a href="https://rdrr.io/r/utils/install.packages.html" class="external-link">install.packages</a></span><span class="op">(</span><span class="st">'gbhs'</span><span class="op">)</span></span></code></pre></div>
+<p>Or install the development version using the {remotes} package.</p>
+<div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="fu"><a href="https://rdrr.io/r/utils/install.packages.html" class="external-link">install.packages</a></span><span class="op">(</span><span class="st">"remotes"</span><span class="op">)</span></span>
 <span><span class="fu">remotes</span><span class="fu">::</span><span class="fu">install_github</span><span class="op">(</span><span class="st">"lifebrain/gbhs"</span><span class="op">)</span></span></code></pre></div>
 <p>The data in the package has all categorical variables coded with correct scales with ordered categorical variables.</p>
@@ -113,7 +123,7 @@
 </h2>
 <p>Upon using this data, site the data repository it self through its DOI (add doi when ready), and the protocol paper describing the survey.</p>
 <blockquote><p>Budin-Ljøsne I, Friedman BB, Suri S, Solé-Padullés C, Düzel S, Drevon CA, Baaré WFC, Mowinckel AM, Zsoldos E, Madsen KS, Carver RB, Ghisletta P, Arnesen MR, Bartrés Faz D, Brandmaier AM, Fjell AM, Kvalbein A, Henson RN, Kievit RA, Nawijn L, Pochet R, Schnitzler A, Walhovd KB and Zasiekina L (2020) The Global Brain Health Survey: Development of a Multi-Language Survey of Public Views on Brain Health. Front. Public Health 8:387. doi: <a href="https://www.frontiersin.org/articles/10.3389/fpubh.2020.00387/full" class="external-link">10.3389/fpubh.2020.00387</a></p></blockquote>
-<div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb3"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="fu"><a href="https://rdrr.io/r/utils/citation.html" class="external-link">citation</a></span><span class="op">(</span><span class="st">"gbhs"</span><span class="op">)</span></span>
 <span><span class="co">#&gt; </span></span>
 <span><span class="co">#&gt; To cite gbhs in publications use:</span></span>
