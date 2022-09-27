@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# Lifebrain Global health survey
+# Lifebrain Global health survey <img src="man/figures/logo.png" align="right" alt="" width="138.5" />
 
 ![Lifebrain Global health survey
 banner](./inst/img/lifebrain-banner-1771x417-72px.jpeg)
