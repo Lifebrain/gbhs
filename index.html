@@ -92,6 +92,15 @@
 <p>Please read more about the survey, its publications and the collaborators we worked with on <a href="https://www.lifebrain.uio.no/global-brain-health-survey/" class="external-link">the Lifebrain webpates</a>.</p>
 <p>This repository contains all materials and data for the original Lifebrain global health survey paper.</p>
 <div class="section level2">
+<h2 id="install-data-package">Install data package<a class="anchor" aria-label="anchor" href="#install-data-package"></a>
+</h2>
+<div class="sourceCode" id="cb1"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="fu"><a href="https://rdrr.io/r/utils/install.packages.html" class="external-link">install.packages</a></span><span class="op">(</span><span class="st">"remotes"</span><span class="op">)</span></span>
+<span><span class="fu">remotes</span><span class="fu">::</span><span class="fu">install_github</span><span class="op">(</span><span class="st">"lifebrain/gbhs"</span><span class="op">)</span></span></code></pre></div>
+<p>The data in the package has all categorical variables coded with correct scales with ordered categorical variables.</p>
+<p>You can also directly look at the <a href="https://raw.githubusercontent.com/Lifebrain/gbhs/main/inst/exdata/gbhs.tsv" class="external-link">cleaned tab-separated file</a></p>
+</div>
+<div class="section level2">
 <h2 id="creative-commons-license-by-cc-by-summary">Creative Commons license BY (CC-By) Summary<a class="anchor" aria-label="anchor" href="#creative-commons-license-by-cc-by-summary"></a>
 </h2>
 <p>You are free:</p>
@@ -104,7 +113,7 @@
 </h2>
 <p>Upon using this data, site the data repository it self through its DOI (add doi when ready), and the protocol paper describing the survey.</p>
 <blockquote><p>Budin-Ljøsne I, Friedman BB, Suri S, Solé-Padullés C, Düzel S, Drevon CA, Baaré WFC, Mowinckel AM, Zsoldos E, Madsen KS, Carver RB, Ghisletta P, Arnesen MR, Bartrés Faz D, Brandmaier AM, Fjell AM, Kvalbein A, Henson RN, Kievit RA, Nawijn L, Pochet R, Schnitzler A, Walhovd KB and Zasiekina L (2020) The Global Brain Health Survey: Development of a Multi-Language Survey of Public Views on Brain Health. Front. Public Health 8:387. doi: <a href="https://www.frontiersin.org/articles/10.3389/fpubh.2020.00387/full" class="external-link">10.3389/fpubh.2020.00387</a></p></blockquote>
-<div class="sourceCode" id="cb1"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="fu"><a href="https://rdrr.io/r/utils/citation.html" class="external-link">citation</a></span><span class="op">(</span><span class="st">"gbhs"</span><span class="op">)</span></span>
 <span><span class="co">#&gt; </span></span>
 <span><span class="co">#&gt; To cite gbhs in publications use:</span></span>
