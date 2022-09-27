@@ -31,6 +31,19 @@ webpates](https://www.lifebrain.uio.no/global-brain-health-survey/).
 This repository contains all materials and data for the original
 Lifebrain global health survey paper.
 
+## Install data package
+
+``` r
+install.packages("remotes")
+remotes::install_github("lifebrain/gbhs")
+```
+
+The data in the package has all categorical variables coded with correct
+scales with ordered categorical variables.
+
+You can also directly look at the [cleaned tab-separated
+file](https://raw.githubusercontent.com/Lifebrain/gbhs/main/inst/exdata/gbhs.tsv)
+
 ## Creative Commons license BY (CC-By) Summary
 
 You are free:
