@@ -1,6 +1,6 @@
 test_that("paper2 mod builds", {
   skip_on_cran()
-  skip_if(!testthat:::on_ci())
+  #skip_if(!testthat:::on_ci())
   
   dr <- test_path("paper2-mod")
   # make sure files don't exist  

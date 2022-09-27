@@ -208,7 +208,7 @@ child_env$params <- params
 child_env$data <- data
 child_env$q <- 4
 child_env$title <- "Diseases/disorders associated with the brain"
-child_env$descr <- glue::glue("Respondents were given the option to tick boxes with the diseases presented above to indicate which ones they associated with the brain. They were allowed to select as many categories as they wished. The question was optional, and as such we present data from the {thousand(length(unique(gbhs_long_q(4, data)$submission_id)))} who responded to the question. We do not know if those who refrained from responding did so because they did not associate any of the diseases with the brain, or if they simply did not wish to respond.")
+child_env$descr <- glue::glue("Respondents were given the option to tick boxes with the diseases presented above to indicate which ones they associated with the brain. They were allowed to select as many categories as they wished. The question was optional, and as such we present data from the {thousand(length(unique(gbhs_long_q(data, 4)$submission_id)))} who responded to the question. We do not know if those who refrained from responding did so because they did not associate any of the diseases with the brain, or if they simply did not wish to respond.")
 
 res <- knit_child(
   gbhs_path_child("bin_desc.Rmd"),

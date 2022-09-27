@@ -79,7 +79,7 @@ modeltable <- function(data, formula) {
 
 # Question 1
 ```{r q2-results, results='asis'}
-q2_data <- gbhs_long_q(2, gbhs) |> 
+q2_data <- gbhs_long_q(gbhs,2 ) |> 
   fix_data()
 mod <- binary ~ 1 + gender + age + education
 q2_data$data |> 
@@ -90,7 +90,7 @@ The general tendencies as before remain.
 # Question 2
 
 ```{r q3-data, results='asis'}
-q3_data <- gbhs_long_q(3, gbhs) |> 
+q3_data <- gbhs_long_q(gbhs,3 ) |> 
   fix_data()
 mod <- binary ~ 1 + gender + age + education
 q3_data$data |> 
@@ -102,7 +102,7 @@ Men still consider middle and old age as less important when controlling for age
 # Question 3
 
 ```{r q4-data, results='asis'}
-q4_data <- gbhs_long_q(4, gbhs) |> 
+q4_data <- gbhs_long_q(gbhs, 4) |> 
   fix_data()
 mod <- binary ~ 1 + relationship + age + education
 q4_data$data |> 
