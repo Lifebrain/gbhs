@@ -1,6 +1,6 @@
 Package: gbhs
 Title: Lifebrain Global Brain Health Survey Data
-Version: 0.0.0.9000
+Version: 0.0.1
 Authors@R: c(
     person("Athanasia Mo", "Mowinckel", 
             email = "a.m.mowinckel@psykologi.uio.no", 
