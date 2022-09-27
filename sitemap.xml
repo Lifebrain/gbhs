@@ -43,6 +43,18 @@
     <loc>https://lifebrain.github.io/gbhs/reference/gbhs_render_report.html</loc>
   </url>
   <url>
+    <loc>https://lifebrain.github.io/gbhs/reference/ggbar.html</loc>
+  </url>
+  <url>
+    <loc>https://lifebrain.github.io/gbhs/reference/ggmodel.html</loc>
+  </url>
+  <url>
+    <loc>https://lifebrain.github.io/gbhs/reference/ggstacked.html</loc>
+  </url>
+  <url>
+    <loc>https://lifebrain.github.io/gbhs/reference/ggstacked_wrap.html</loc>
+  </url>
+  <url>
     <loc>https://lifebrain.github.io/gbhs/reference/index.html</loc>
   </url>
   <url>
@@ -56,6 +68,9 @@
   </url>
   <url>
     <loc>https://lifebrain.github.io/gbhs/reference/percent.html</loc>
+  </url>
+  <url>
+    <loc>https://lifebrain.github.io/gbhs/reference/prep_model_output.html</loc>
   </url>
   <url>
     <loc>https://lifebrain.github.io/gbhs/reference/surveys.html</loc>
