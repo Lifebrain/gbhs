@@ -33,11 +33,9 @@ data |>
 data |> 
   ggstacked_wrap(
     fct_rev(sex),
-    sort_key = FALSE,
     npos = 1.15, 
     min_pc = .2,
     text_size = 2,
-    size = 1.5,
     pattern = pattern
   ) &
   coord_cartesian(clip = "off") &
@@ -54,10 +52,8 @@ data |>
 data |> 
   ggstacked_wrap(
     age,
-    sort_key = FALSE,
     npos = 1.25, 
     min_pc = .2,
-    size = 1.5,
     pattern = pattern
   ) &
   coord_cartesian(xlim = c(0, 1.4), clip = "off") &
@@ -74,10 +70,8 @@ data |>
 data |> 
   ggstacked_wrap(
     fct_rev(education),
-    sort_key = FALSE,
     npos = 1.3, 
     min_pc = .2,
-    size = 1.5,
     pattern = pattern
   ) &
   coord_cartesian(xlim = c(0, 1.4), clip = "off") &
@@ -95,10 +89,8 @@ data |>
 data |> 
   ggstacked_wrap(
     fct_rev(region),
-    sort_key = FALSE,
     npos = 1.3, 
     min_pc = .2,
-    size = 1.5,
     pattern = pattern
   ) &
   coord_cartesian(xlim = c(0, 1.4), clip = "off") &
@@ -116,10 +108,8 @@ data |>
 data |> 
   ggstacked_wrap(
     q24_exp_health_care,
-    sort_key = FALSE,
     npos = 1.3, 
     min_pc = .2,
-    size = 1.5,
     pattern = pattern
   ) &
   coord_cartesian(xlim = c(0, 1.4), clip = "off") &
@@ -138,10 +128,8 @@ data |>
 data |> 
   ggstacked_wrap(
     fct_rev(q25_cognitive_health),
-    sort_key = FALSE,
     npos = 1.3, 
     min_pc = .2,
-    size = 1.5,
     pattern = pattern
   ) &
   coord_cartesian(xlim = c(0, 1.4), clip = "off") &
@@ -160,10 +148,8 @@ data |>
 data |> 
   ggstacked_wrap(
     fct_rev(q26_emotional_health),
-    sort_key = FALSE,
     npos = 1.3, 
     min_pc = .2,
-    size = 1.5,
     pattern = pattern
   ) &
   coord_cartesian(xlim = c(0, 1.4), clip = "off") &
@@ -182,10 +168,8 @@ data |>
 data |> 
   ggstacked_wrap(
     q27_illness,
-    sort_key = FALSE,
     npos = 1.3, 
     min_pc = .2,
-    size = 1.5,
     pattern = pattern
   )  &
   coord_cartesian(xlim = c(0, 1.4), clip = "off") &
@@ -203,10 +187,8 @@ data |>
 data |> 
   ggstacked_wrap(
     q28_brain_disease_care,
-    sort_key = FALSE,
     npos = 1.3, 
     min_pc = .2,
-    size = 1.5,
     pattern = pattern
   ) &
   coord_cartesian(xlim = c(0, 1.4), clip = "off") &
@@ -224,10 +206,8 @@ data |>
 data |> 
   ggstacked_wrap(
     q17_brain_research_part,
-    sort_key = FALSE,
     npos = 1.3, 
     min_pc = .2,
-    size = 1.5,
     pattern = pattern
   )  &
   coord_cartesian(xlim = c(0, 1.4), clip = "off") &

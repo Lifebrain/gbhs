@@ -127,6 +127,7 @@ ggmodel <- function(data, y, d_larger = 1, reverse = FALSE){
 #' @param y value for the y-axis
 #' @param npos position of sidebar text
 #' @param min_pc minimum percent to display text of
+#' @param pattern regex pattern to use with \code{\link{grepl}} for turning text white/black
 #' @param n_breaks number of break points
 #' @param text_size text size
 #'

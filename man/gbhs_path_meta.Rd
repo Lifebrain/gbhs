@@ -12,6 +12,8 @@ gbhs_path_meta(path = NULL, type = "codebook", ...)
 \arguments{
 \item{path}{filename of utility file to get path of. If NULL, lists possibilities}
 
+\item{type}{either "codebook" or "meta-data"}
+
 \item{...}{other arguments to \code{\link[base]{list.files}}}
 }
 \value{
@@ -22,6 +24,7 @@ Get path to meta-data and codebooks
 }
 \examples{
 gbhs_path_meta()
-gbhs_path_meta("data-utils.R")
-gbhs_path_meta("model-utils.R")
+gbhs_path_meta("131674_ch.json")
+gbhs_path_meta(type = "meta-data")
+gbhs_path_meta("131674_ch.json", type = "meta-data")
 }

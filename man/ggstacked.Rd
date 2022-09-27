@@ -23,6 +23,8 @@ ggstacked(
 
 \item{min_pc}{minimum percent to display text of}
 
+\item{pattern}{regex pattern to use with \code{\link{grepl}} for turning text white/black}
+
 \item{n_breaks}{number of break points}
 
 \item{text_size}{text size}

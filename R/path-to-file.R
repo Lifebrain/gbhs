@@ -127,6 +127,7 @@ gbhs_path_utilities <- function(path = NULL, ...) {
 #' Get path to meta-data and codebooks
 #'
 #' @param path filename of utility file to get path of. If NULL, lists possibilities
+#' @param type either "codebook" or "meta-data"
 #' @param ... other arguments to \code{\link[base]{list.files}}
 #'
 #' @return string of file path
@@ -134,8 +135,9 @@ gbhs_path_utilities <- function(path = NULL, ...) {
 #'
 #' @examples
 #' gbhs_path_meta()
-#' gbhs_path_meta("data-utils.R")
-#' gbhs_path_meta("model-utils.R")
+#' gbhs_path_meta("131674_ch.json")
+#' gbhs_path_meta(type = "meta-data")
+#' gbhs_path_meta("131674_ch.json", type = "meta-data")
 #' @source This function is adapted from `readxl::readxl_example()`.
 gbhs_path_meta <- function(path = NULL, type = "codebook", ...) {
   type <- match.arg(type, c("codebook", "meta-data"))

@@ -33,6 +33,20 @@ Lifebrain global health survey paper.
 
 ## Install data package
 
+You can install the gbhs package using the Lifebrain R-universe.
+
+``` r
+# Enable repository from lifebrain
+options(repos = c(
+  lifebrain = 'https://lifebrain.r-universe.dev',
+  CRAN = 'https://cloud.r-project.org'))
+  
+# Download and install metagam in R
+install.packages('gbhs')
+```
+
+Or install the development version using the {remotes} package.
+
 ``` r
 install.packages("remotes")
 remotes::install_github("lifebrain/gbhs")
