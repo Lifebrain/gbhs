@@ -43,12 +43,12 @@ for(i in 1:nrow(codebooks)){
   filenm <- paste(codebooks$form_id[i], codebooks$suffix[i], sep = "_")
   filenm <- gsub(" ", "-", filenm)
   
-  write.table(tmp, file = here::here("inst/codebooks/", paste0(filenm, ".tsv")), sep = "\t", row.names = FALSE)
+  write.table(tmp, file = here::here("inst/codebook", paste0(filenm, ".tsv")), sep = "\t", row.names = FALSE)
   jsonlite::write_json(codebooks_raw$codebooks[[i]], 
-                       path = here::here("inst/codebooks/", paste0(filenm, ".json")),
+                       path = here::here("inst/codebook", paste0(filenm, ".json")),
                        pretty = TRUE)
   jsonlite::write_json(meta$meta[[i]], 
-                       path = here::here("inst/meta-data/", paste0(filenm, ".json")), 
+                       path = here::here("inst/meta-data", paste0(filenm, ".json")), 
                        pretty = TRUE)
   
 }
